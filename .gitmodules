@@ -1,0 +1,3 @@
+[submodule "br_legal_parser"]
+	path = br_legal_parser
+	url = https://github.com/eduseiti/br_legal_parser.git
