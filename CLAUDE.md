@@ -29,7 +29,7 @@ curl -L "https://huggingface.co/datasets/unicamp-dl/BR-TaxQA-R/resolve/main/refe
 python legal_document_processor.py
 
 # Run example usage
-python example_usage.py
+python examples/example_usage.py
 
 # Execute complete document fetching process
 python legal_document_fetcher_main.py
@@ -37,12 +37,23 @@ python legal_document_fetcher_main.py
 
 ### Development and Testing
 ```bash
+# Run comprehensive test suite
+python tests/run_tests.py
+
+# Run specific test files
+python -m pytest tests/test_br_tax_qa_fetcher.py -v
+python -m pytest tests/test_edge_cases.py -v
+
 # Test with limited documents for development
 python -c "
 from legal_document_fetcher_main import BRTaxQADocumentFetcher
 fetcher = BRTaxQADocumentFetcher(max_documents=5)
 results = fetcher.run_complete_process()
 "
+
+# Run example notebooks workflow
+python examples/example_notebook_usage.py
+python examples/notebook_workflow_validation.py
 ```
 
 ## Architecture Overview
@@ -117,17 +128,30 @@ urn:lex:br:federal:lei:YYYY-MM-DD;NUMBER
 - Comprehensive logging and error reporting
 - Resume capability for interrupted processes
 
-## Output Structure
+## Repository Structure
 
 ```
-output_directory/
-├── documents/              # DOCX files from normas.leg.br
-├── logs/                   # Processing and error logs
-└── metadata/               # Reports and statistics
-    ├── fetch_report.json
-    ├── validation_report.json
-    ├── processed_laws.json
-    └── fetch_results.csv
+br-tax-qa/
+├── legal_document_processor.py      # Core document processing
+├── legal_document_fetcher_main.py   # Main orchestrator
+├── validate_setup.py                # Environment validation
+├── requirements.txt                 # Python dependencies
+├── tests/                          # Test files
+│   ├── test_br_tax_qa_fetcher.py   # Core functionality tests
+│   ├── test_edge_cases.py          # Edge cases and error handling
+│   └── run_tests.py                # Test runner
+├── examples/                       # Usage examples
+│   ├── example_usage.py            # Basic usage examples
+│   ├── example_notebook_usage.py   # Jupyter notebook workflows
+│   ├── notebook_workflow_validation.py  # Notebook validation
+│   ├── example_*.json              # Sample data files
+│   ├── example_*.txt               # Sample input files
+│   └── test_recreation.ipynb       # Jupyter notebook
+├── br_legal_parser/                # External dependency (submodule)
+└── output_directory/               # Generated outputs
+    ├── documents/                  # DOCX files from normas.leg.br
+    ├── logs/                       # Processing and error logs
+    └── metadata/                   # Reports and statistics
 ```
 
 ## Dependencies
