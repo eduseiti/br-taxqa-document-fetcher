@@ -92,8 +92,8 @@ class LegalDocumentProcessor:
         Returns:
             Tuple of (law_number, date, year) or None if extraction fails
         """
-        # Pattern 1: Lei n° 10.406, de 10 de janeiro de 2002
-        pattern1 = r'Lei n[°º]\s*([0-9.]+),\s*de\s*(\d{1,2})\s*de\s*(\w+)\s*de\s*(\d{4})'
+        # Pattern 1: Lei n° 10.406, de 10 de janeiro de 2002 (handles ordinal signs like 1º)
+        pattern1 = r'Lei n[°º]\s*([0-9.]+),\s*de\s*(\d{1,2})[ºª°]?\s*de\s*(\w+)\s*de\s*(\d{4})'
         match1 = re.search(pattern1, filename, re.IGNORECASE)
 
         if match1:
@@ -114,8 +114,8 @@ class LegalDocumentProcessor:
         if match2:
             number = match2.group(1).replace('.', '')
 
-            # Try to extract date from content (first 1000 chars)
-            content_date_pattern = r'(\d{1,2})\s*de\s*(\w+)\s*de\s*(\d{4})'
+            # Try to extract date from content (first 1000 chars) - handles ordinal signs like 1º
+            content_date_pattern = r'(\d{1,2})[ºª°]?\s*de\s*(\w+)\s*de\s*(\d{4})'
             content_match = re.search(content_date_pattern, content[:1000], re.IGNORECASE)
 
             if content_match:
