@@ -11,35 +11,35 @@ The system takes the `referred_legal_documents_QA_2024_v1.1.json` file from the 
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                    Input Data                           │
-│  referred_legal_documents_QA_2024_v1.1.json            │
-│  (478 documents from BR-TaxQA-R dataset)               │
-└────────┬──────────────────────────────────────────────────┘
+│  referred_legal_documents_QA_2024_v1.1.json             │
+│  (478 documents from BR-TaxQA-R dataset)                │
+└────────┬────────────────────────────────────────────────┘
          │
          ▼
 ┌─────────────────────────────────────────────────────────┐
 │              LegalDocumentProcessor                     │
-│  • Filter law documents (123 laws identified)          │
-│  • Extract law numbers and dates                       │
-│  • Construct LexML URNs                                │
-│  • Validate URN format                                 │
-└────────┬──────────────────────────────────────────────────┘
+│  • Filter law documents (123 laws identified)           │
+│  • Extract law numbers and dates                        │
+│  • Construct LexML URNs                                 │
+│  • Validate URN format                                  │
+└────────┬────────────────────────────────────────────────┘
          │
          ▼
 ┌─────────────────────────────────────────────────────────┐
 │              BRTaxQADocumentFetcher                     │
-│  • Batch processing with rate limiting                 │
-│  • Integration with br_legal_parser                    │
-│  • Error handling and retry logic                      │
-│  • Progress tracking and reporting                     │
-└────────┬──────────────────────────────────────────────────┘
+│  • Batch processing with rate limiting                  │
+│  • Integration with br_legal_parser                     │
+│  • Error handling and retry logic                       │
+│  • Progress tracking and reporting                      │
+└────────┬────────────────────────────────────────────────┘
          │
          ▼
 ┌─────────────────────────────────────────────────────────┐
 │                br_legal_parser                          │
-│  • Selenium-based web scraping                         │
-│  • Shadow DOM content extraction                       │
-│  • DOCX file generation                                │
-│  • normas.leg.br integration                           │
+│  • Selenium-based web scraping                          │
+│  • Shadow DOM content extraction                        │
+│  • DOCX file generation                                 │
+│  • normas.leg.br integration                            │
 └─────────────────────────────────────────────────────────┘
 ```
 
