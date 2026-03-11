@@ -32,20 +32,32 @@ class BRTaxQADocumentFetcher:
     """Main class that orchestrates the complete document fetching process."""
 
     def __init__(self,
-                 input_file: str = 'referred_legal_documents_QA_2024_v1.1.json',
+                 input_file: Optional[str] = None,
+                 laws: Optional[List[LawDocument]] = None,
+                 processor_instance: Optional[LegalDocumentProcessor] = None,
+                 urls_file: Optional[str] = None,
                  output_dir: str = './fetched_documents',
                  batch_size: int = 10,
                  delay_between_batches: float = 5.0):
         """
-        Initialize the fetcher.
+        Initialize the fetcher with flexible input options.
 
         Args:
-            input_file: Path to the referred legal documents JSON file
+            input_file: Path to the referred legal documents JSON file (for processing from scratch)
+            laws: Pre-processed list of LawDocument objects (from notebook or previous processing)
+            processor_instance: Existing LegalDocumentProcessor instance with processed data
+            urls_file: Path to text file containing URLs (one per line)
             output_dir: Directory to save fetched DOCX files
             batch_size: Number of documents to process before taking a break
             delay_between_batches: Delay in seconds between batches (for rate limiting)
         """
+        # Validate input parameters
+        self._validate_input_parameters(input_file, laws, processor_instance, urls_file)
+
         self.input_file = input_file
+        self.pre_processed_laws = laws
+        self.processor_instance = processor_instance
+        self.urls_file = urls_file
         self.output_dir = Path(output_dir)
         self.batch_size = batch_size
         self.delay_between_batches = delay_between_batches
@@ -53,11 +65,134 @@ class BRTaxQADocumentFetcher:
         # Setup logging
         self.logger = logging.getLogger(__name__)
 
-        # Initialize components
-        self.processor = LegalDocumentProcessor(input_file)
+        # Initialize components based on input mode
+        self.processor = None
+        if input_file:
+            self.processor = LegalDocumentProcessor(input_file)
+        elif processor_instance:
+            self.processor = processor_instance
+
         self.br_legal_fetcher = None
         self.laws: List[LawDocument] = []
         self.fetch_results = []
+
+    def _validate_input_parameters(self,
+                                  input_file: Optional[str],
+                                  laws: Optional[List[LawDocument]],
+                                  processor_instance: Optional[LegalDocumentProcessor],
+                                  urls_file: Optional[str]) -> None:
+        """
+        Validate that exactly one input method is provided.
+
+        Args:
+            input_file: Path to JSON file
+            laws: List of LawDocument objects
+            processor_instance: LegalDocumentProcessor instance
+            urls_file: Path to URLs file
+
+        Raises:
+            ValueError: If invalid combination of parameters is provided
+        """
+        input_methods = [input_file, laws, processor_instance, urls_file]
+        provided_methods = sum(1 for method in input_methods if method is not None)
+
+        if provided_methods == 0:
+            # Default to input_file for backward compatibility
+            return
+        elif provided_methods > 1:
+            raise ValueError(
+                "Please provide exactly one input method: input_file, laws, processor_instance, or urls_file"
+            )
+
+        # Validate specific input types
+        if laws is not None:
+            if not isinstance(laws, list) or not all(isinstance(law, LawDocument) for law in laws):
+                raise ValueError("'laws' parameter must be a list of LawDocument objects")
+
+        if processor_instance is not None:
+            # More flexible type checking to handle mocks and actual instances
+            if not (hasattr(processor_instance, 'process_documents') and
+                    hasattr(processor_instance, 'filter_laws_by_criteria')):
+                raise ValueError("'processor_instance' must be a LegalDocumentProcessor object or compatible")
+
+        if urls_file is not None:
+            if not isinstance(urls_file, str):
+                raise ValueError("'urls_file' must be a string path")
+
+    def _load_from_urls_file(self, urls_file: str) -> List[LawDocument]:
+        """
+        Load law documents from a URLs file by extracting URNs.
+
+        Args:
+            urls_file: Path to file containing URLs (one per line)
+
+        Returns:
+            List of LawDocument objects constructed from URLs
+
+        Raises:
+            FileNotFoundError: If the file doesn't exist
+            ValueError: If URLs cannot be parsed
+        """
+        import re
+
+        self.logger.info(f"Loading laws from URLs file: {urls_file}")
+
+        try:
+            with open(urls_file, 'r', encoding='utf-8') as f:
+                urls = [line.strip() for line in f if line.strip()]
+        except FileNotFoundError:
+            raise FileNotFoundError(f"URLs file not found: {urls_file}")
+
+        laws = []
+        urn_pattern = r'urn:lex:br:federal:lei:([0-9-]+);(\d+)'
+
+        for url in urls:
+            # Extract URN from URL
+            if 'urn=' in url:
+                urn = url.split('urn=')[1]
+                match = re.search(urn_pattern, urn)
+
+                if match:
+                    date = match.group(1)
+                    number = match.group(2)
+                    year = date.split('-')[0] if date != '1900-01-01' else None
+
+                    law = LawDocument(
+                        filename=f"Lei {number} from URL",
+                        number=number,
+                        date=date if date != '1900-01-01' else None,
+                        year=year,
+                        title=f"Lei nº {number}",
+                        urn=urn,
+                        original_content=""
+                    )
+                    laws.append(law)
+                else:
+                    self.logger.warning(f"Could not parse URN from URL: {url}")
+            else:
+                self.logger.warning(f"Invalid URL format (missing urn parameter): {url}")
+
+        self.logger.info(f"Loaded {len(laws)} laws from URLs file")
+        return laws
+
+    def _get_laws_from_processor(self, processor: LegalDocumentProcessor) -> List[LawDocument]:
+        """
+        Get processed laws from a LegalDocumentProcessor instance.
+
+        Args:
+            processor: LegalDocumentProcessor instance
+
+        Returns:
+            List of processed LawDocument objects
+
+        Raises:
+            ValueError: If processor has no processed laws
+        """
+        if not processor.laws:
+            raise ValueError("LegalDocumentProcessor instance has no processed laws. Call process_documents() first.")
+
+        self.logger.info(f"Using {len(processor.laws)} laws from processor instance")
+        return processor.laws
 
     def setup_br_legal_fetcher(self,
                               request_timeout: int = 30,
@@ -98,7 +233,7 @@ class BRTaxQADocumentFetcher:
                                min_year: Optional[int] = None,
                                max_year: Optional[int] = None) -> List[LawDocument]:
         """
-        Process the input JSON and extract law documents.
+        Process legal documents based on the input mode.
 
         Args:
             require_date: Only include laws with valid dates
@@ -108,23 +243,100 @@ class BRTaxQADocumentFetcher:
         Returns:
             List of processed law documents
         """
-        self.logger.info("Processing legal documents from input file...")
+        # Determine input mode and get laws
+        if self.pre_processed_laws is not None:
+            self.logger.info("Using pre-processed laws...")
+            self.laws = self.pre_processed_laws
 
-        # Process all documents
-        self.laws = self.processor.process_documents()
+        elif self.urls_file:
+            self.logger.info("Loading laws from URLs file...")
+            self.laws = self._load_from_urls_file(self.urls_file)
 
-        # Apply filters
-        filtered_laws = self.processor.filter_laws_by_criteria(
-            min_year=min_year,
-            max_year=max_year,
-            require_date=require_date
-        )
+        elif self.processor_instance:
+            self.logger.info("Using laws from processor instance...")
+            self.laws = self._get_laws_from_processor(self.processor_instance)
 
-        # Log statistics
-        stats = self.processor.get_statistics()
-        self.logger.info(f"Processing statistics: {stats}")
+        elif self.input_file and self.processor:
+            self.logger.info("Processing legal documents from input file...")
+            self.laws = self.processor.process_documents()
+
+        else:
+            # Fallback for backward compatibility
+            if not self.processor:
+                raise ValueError("No valid input method provided and no processor available")
+            self.logger.info("Processing legal documents from default input file...")
+            self.laws = self.processor.process_documents()
+
+        # Apply filters to all input modes
+        if self.processor and hasattr(self.processor, 'filter_laws_by_criteria'):
+            # Use processor's filtering if available
+            filtered_laws = self.processor.filter_laws_by_criteria(
+                min_year=min_year,
+                max_year=max_year,
+                require_date=require_date
+            )
+
+            # Log statistics if processor has them
+            if hasattr(self.processor, 'get_statistics'):
+                stats = self.processor.get_statistics()
+                self.logger.info(f"Processing statistics: {stats}")
+        else:
+            # Manual filtering for cases without processor
+            filtered_laws = self._apply_manual_filters(
+                self.laws, require_date, min_year, max_year
+            )
 
         return filtered_laws
+
+    def _apply_manual_filters(self,
+                             laws: List[LawDocument],
+                             require_date: bool = False,
+                             min_year: Optional[int] = None,
+                             max_year: Optional[int] = None) -> List[LawDocument]:
+        """
+        Apply filters manually when processor is not available.
+
+        Args:
+            laws: List of law documents to filter
+            require_date: Only include laws with valid dates
+            min_year: Minimum year filter
+            max_year: Maximum year filter
+
+        Returns:
+            Filtered list of law documents
+        """
+        filtered_laws = laws
+
+        if require_date:
+            filtered_laws = [law for law in filtered_laws if law.date]
+
+        if min_year:
+            filtered_laws = [law for law in filtered_laws
+                           if law.year and self._is_valid_year(law.year) and int(law.year) >= min_year]
+
+        if max_year:
+            filtered_laws = [law for law in filtered_laws
+                           if law.year and self._is_valid_year(law.year) and int(law.year) <= max_year]
+
+        self.logger.info(f"Manual filtering: {len(filtered_laws)} laws from {len(laws)} total")
+        return filtered_laws
+
+    def _is_valid_year(self, year_str: str) -> bool:
+        """
+        Check if a year string can be converted to a valid integer.
+
+        Args:
+            year_str: Year string to validate
+
+        Returns:
+            True if valid year, False otherwise
+        """
+        try:
+            year = int(year_str)
+            # Basic sanity check for reasonable year range
+            return 1800 <= year <= 2100
+        except (ValueError, TypeError):
+            return False
 
     def validate_urns(self, laws: List[LawDocument]) -> Dict:
         """
@@ -207,7 +419,11 @@ class BRTaxQADocumentFetcher:
                            f"({len(batch_laws)} documents)...")
 
             # Convert laws to URLs for br_legal_parser
-            batch_urls = [self.processor.construct_normas_url(law.urn) for law in batch_laws]
+            if self.processor:
+                batch_urls = [self.processor.construct_normas_url(law.urn) for law in batch_laws]
+            else:
+                # Construct URLs directly when no processor is available
+                batch_urls = [f"https://normas.leg.br/?urn={law.urn}" for law in batch_laws]
 
             try:
                 # Process the batch using br_legal_parser
