@@ -341,7 +341,7 @@ class LegalDocumentProcessor:
 
         with open(output_file, 'w', encoding='utf-8') as f:
             for url in urls:
-                f.write(url + '\\n')
+                f.write(url + '\n')
 
         self.logger.info(f"Exported {len(urls)} URLs to {output_file}")
 
