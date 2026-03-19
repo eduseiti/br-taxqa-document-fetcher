@@ -555,7 +555,7 @@ class BRTaxQADocumentFetcher:
         if failed_urls:
             with open(metadata_dir / 'failed_urls.txt', 'w', encoding='utf-8') as f:
                 for url in failed_urls:
-                    f.write(url + '\\n')
+                    f.write(url + '\n')
 
         self.logger.info(f"Reports saved to {metadata_dir}")
 
@@ -667,7 +667,7 @@ def main():
         )
 
         logger.info("Process completed successfully!")
-        print("\\nProcess Results:")
+        print("\nProcess Results:")
         for key, value in results.items():
             print(f"  {key}: {value}")
 

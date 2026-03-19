@@ -391,7 +391,7 @@ def main():
 
     # Get statistics
     stats = processor.get_statistics()
-    print("\\nProcessing Statistics:")
+    print("\nProcessing Statistics:")
     for key, value in stats.items():
         print(f"  {key}: {value}")
 
@@ -399,7 +399,7 @@ def main():
     laws_with_dates = processor.filter_laws_by_criteria(require_date=True)
 
     # Show sample results
-    print(f"\\nFirst 10 laws with dates:")
+    print(f"\nFirst 10 laws with dates:")
     for i, law in enumerate(laws_with_dates[:10]):
         print(f"  {i+1:2}. Lei {law.number.rjust(6)} ({law.date}) - {law.title[:60]}...")
 
@@ -407,7 +407,7 @@ def main():
     processor.export_to_json(laws_with_dates, 'processed_laws_with_dates.json')
     processor.export_urls_list(laws_with_dates, 'law_urls_with_dates.txt')
 
-    print(f"\\nExported {len(laws_with_dates)} laws with dates to files.")
+    print(f"\nExported {len(laws_with_dates)} laws with dates to files.")
 
 
 if __name__ == "__main__":
