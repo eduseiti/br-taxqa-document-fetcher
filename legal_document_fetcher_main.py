@@ -27,6 +27,12 @@ except ImportError:
 
 from legal_document_processor import LegalDocumentProcessor, LawDocument
 
+DOCUMENT_TYPE_CONVERTER={
+    "lei": "Lei",
+    "lei.complementar": "Lei Complementar",
+    "decreto.lei": "Decreto Lei"
+}
+
 
 class BRTaxQADocumentFetcher:
     """Main class that orchestrates the complete document fetching process."""
@@ -144,7 +150,7 @@ class BRTaxQADocumentFetcher:
             raise FileNotFoundError(f"URLs file not found: {urls_file}")
 
         laws = []
-        urn_pattern = r'urn:lex:br:federal:lei:([0-9-]+);(\d+)'
+        urn_pattern = r'urn:lex:br:federal:\b(lei|lei\.complementar|decreto\.lei)\b:([0-9-]+);(\d+)'
 
         for url in urls:
             # Extract URN from URL
@@ -153,19 +159,24 @@ class BRTaxQADocumentFetcher:
                 match = re.search(urn_pattern, urn)
 
                 if match:
-                    date = match.group(1)
-                    number = match.group(2)
+                    date = match.group(2)
+                    number = match.group(3)
                     year = date.split('-')[0] if date != '1900-01-01' else None
+
+                    document_type = DOCUMENT_TYPE_CONVERTER[match.group(1)]
 
                     law = LawDocument(
                         filename=f"Lei {number} from URL",
                         number=number,
                         date=date if date != '1900-01-01' else None,
                         year=year,
-                        title=f"Lei nº {number}",
+                        title=f"{document_type} nº {number}",
                         urn=urn,
                         original_content=""
                     )
+
+                    print(law)
+
                     laws.append(law)
                 else:
                     self.logger.warning(f"Could not parse URN from URL: {url}")
@@ -359,7 +370,8 @@ class BRTaxQADocumentFetcher:
         for law in laws:
             try:
                 # Basic URN format validation
-                if law.urn.startswith('urn:lex:br:federal:lei:'):
+
+                if law.urn.startswith(tuple(['urn:lex:br:federal:lei:', 'urn:lex:br:federal:decreto.lei:', 'urn:lex:br:federal:lei.complementar:'])):
                     validation_results['valid_urns'] += 1
 
                     # Check for placeholder dates
