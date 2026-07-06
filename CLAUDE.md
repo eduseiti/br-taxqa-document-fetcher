@@ -6,6 +6,35 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a Brazilian Legal Document Fetcher that processes the BR-TaxQA-R dataset to identify law documents, construct LexML URNs, and fetch legal documents from normas.leg.br as DOCX files using the br_legal_parser implementation.
 
+## Decreto / Decreto-Lei Fetching (two sources)
+
+Beyond `lei`, the project fetches `decreto` and `decreto_lei` documents, driven off
+the curated `output_canonical/canonical_referred_documents.json` (fields
+`type_slug`, `number`, `date`, `canonical_name`). Two source paths:
+
+- **`decreto_lei` -> normas.leg.br** (Selenium, existing `br_legal_parser`):
+  URN `urn:lex:br:federal:decreto.lei:YYYY-MM-DD;NUMBER`. Same Shadow-DOM SPA
+  path as `lei`; only the docx filename prefix is type-aware
+  (`decreto_lei_{NUMBER}_{YYYYMMDD}.docx`).
+- **`decreto` -> planalto.gov.br** (`planalto_decreto_fetcher.py`, static HTML,
+  ISO-8859-1): URLs are **not** formula-derivable. They are discovered from
+  `_dec_ano.htm` (year index) -> per-year/decade index -> individual decree
+  page, matching by (number, date). Anchor text is the reliable year signal for
+  per-year links; the summary indexes use several date formats. Decrees absent
+  from the indexes are recovered via a bounded direct-URL probe
+  (`../Atos/decretos/YYYY/DNNNNN.html` etc.) and flagged `needs_review`.
+
+Run: `python fetch_decretos_main.py` (both types), `--only decreto|decreto_lei`,
+`--limit N`, `--dry-run`. Outputs go to `output_decretos/{documents,metadata}/`.
+Undated references (e.g. `Decreto nº 50.656`) can't be matched by date and are
+reported in `metadata/needs_review.json` for manual handling.
+
+Key modules: `canonical_loader.py` (loads + de-dups canonical records by
+number+date), `planalto_decreto_fetcher.py` (index discovery + clean static
+extraction, reuses `WordDocumentBuilder`). Shared helpers `parse_pt_date` and
+`construct_urn_helper` live in `legal_document_processor.py`. Offline tests:
+`tests/test_decreto_fetching.py` (fixtures under `tests/fixtures/`).
+
 ## Key Commands
 
 ### Setup and Validation

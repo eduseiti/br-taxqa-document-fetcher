@@ -1,0 +1,124 @@
+# Lei
+
+113 document(s).
+
+- **Lei nº 10.101, de 19 de dezembro de 2000**
+- **Lei nº 10.200, de 14 de fevereiro de 2001**
+- **Lei nº 10.406, de 10 de janeiro de 2002**  _(alias: Código Civil)_
+  - source filename: `Código Civil.txt`
+- **Lei nº 10.406, de 10 de janeiro de 2002**  _(alias: Código Civil)_
+  - source filename: `Lei n° 10.406, de 10 de janeiro de 2002 - Código Civil.txt`
+- **Lei nº 10.406, de 10 de janeiro de 2002**
+- **Lei nº 10.451, de 10 de maio de 2002**
+- **Lei nº 10.522, de 19 de julho de 2002**
+  - source filename: `Lei n° 10.522, de 19 de julho de 2002.txt`
+- **Lei nº 10.522, de 19 de julho de 2002**
+- **Lei nº 10.559, de 13 de novembro de 2002**
+- **Lei nº 10.698, de 2 de julho de 2003**
+- **Lei nº 10.741, de 1º de outubro de 2003**
+- **Lei nº 10.833, de 29 de dezembro de 2003**
+- **Lei nº 10.865, de 30 de abril de 2004**
+- **Lei nº 10.973, de 2 de dezembro de 2004**
+- **Lei nº 11.033, de 21 de dezembro de 2004**
+- **Lei nº 11.051, de 29 de dezembro de 2004**
+- **Lei nº 11.053, de 29 de dezembro de 2004**
+- **Lei nº 11.196, de 21 de novembro de 2005**
+- **Lei nº 11.312, de 27 de junho de 2006**
+- **Lei nº 11.324, de 19 de julho de 2006**
+- **Lei nº 11.437**
+- **Lei nº 11.438, de 29 de dezembro de 2006**
+- **Lei nº 11.472**
+- **Lei nº 11.482, de 31 de maio de 2007**
+- **Lei nº 11.524, de 24 de setembro de 2007**
+- **Lei nº 11.727, de 23 de junho de 2008**
+- **Lei nº 11.773, de 17 de setembro de 2008**
+- **Lei nº 11.795, de 8 de outubro de 2008**
+- **Lei nº 11.941, de 27 de maio de 2009**
+- **Lei nº 11.945, de 4 de junho de 2009**
+- **Lei nº 12.024, de 27 de agosto de 2009**
+- **Lei nº 12.190, de 13 de janeiro de 2010**
+- **Lei nº 12.249, de 11 de junho de 2010**
+- **Lei nº 12.350, de 20 de dezembro de 2010**
+- **Lei nº 12.431, de 24 de junho de 2011**
+- **Lei nº 12.513, de 26 de outubro de 2011**
+- **Lei nº 12.594, de 18 de janeiro de 2012**
+- **Lei nº 12.618, de 30 de abril de 2012**
+- **Lei nº 12.715, de 17 de setembro de 2012**
+- **Lei nº 12.794, de 2 de abril de 2013**
+- **Lei nº 12.832, de 20 de junho de 2013**
+- **Lei nº 12.871, de 22 de outubro de 2013**
+- **Lei nº 12.973, de 13 de maio de 2014**
+- **Lei nº 13.043, de 13 de novembro de 2014**
+- **Lei nº 13.097, de 19 de janeiro de 2015**
+- **Lei nº 13.105, de 16 de março de 2015**
+- **Lei nº 13.149, de 21 de julho de 2015**
+- **Lei nº 13.254, de 13 de janeiro de 2016**
+- **Lei nº 13.259, de 16 de março de 2016**
+- **Lei nº 13.315, de 20 de julho de 2016**
+- **Lei nº 13.428, de 30 de março de 2017**
+- **Lei nº 13.466, de 12 de julho de 2017**
+- **Lei nº 13.800, de 4 de janeiro de 2019**
+- **Lei nº 14.119, de 13 de janeiro de 2021**
+- **Lei nº 14.260, de 8 de dezembro de 2021**
+- **Lei nº 14.286, de 29 de dezembro de 2021**
+- **Lei nº 14.754**
+- **Lei nº 2.579, de 23 de agosto de 1955**
+- **Lei nº 4.242, de 17 de julho de 1963**
+- **Lei nº 4.504, de 30 de novembro de 1964**
+- **Lei nº 4.506, de 30 de novembro de 1964**
+- **Lei nº 4.591, de 16 de dezembro de 1964**
+- **Lei nº 4.862, de 29 de novembro de 1965**
+- **Lei nº 4.886, de 9 de dezembro de 1965**
+- **Lei nº 5.172, de 25 de outubro de 1966**  _(alias: CTN)_
+  - source filename: `Código Tributário Nacional (CTN).txt`
+- **Lei nº 5.172, de 25 de outubro de 1966**
+- **Lei nº 5.809, de 10 de outubro de 1972**
+- **Lei nº 6.015, de 31 de dezembro de 1973**
+- **Lei nº 6.404, de 15 de dezembro de 1976**
+- **Lei nº 6.766, de 19 de dezembro de 1979**
+- **Lei nº 7.070, de 20 de dezembro de 1982**
+- **Lei nº 7.290, de 19 de dezembro de 1984**
+- **Lei nº 7.713, de 22 de dezembro de 1988**
+- **Lei nº 7.739, de 16 de março de 1989**
+- **Lei nº 8.023, de 12 de abril de 1990**
+- **Lei nº 8.036, de 11 de maio de 1990**  _(alias: FGTS)_
+  - source filename: `Legislação do Fundo de Garantia do Tempo de Serviço (FGTS).txt`
+- **Lei nº 8.036, de 11 de maio de 1990**
+- **Lei nº 8.059, de 4 de julho de 1990**
+- **Lei nº 8.069, de 13 de julho de 1990**  _(alias: ECA)_
+  - source filename: `Estatuto da Criança e do Adolescente (ECA).txt`
+- **Lei nº 8.069, de 13 de julho de 1990**
+- **Lei nº 8.112, de 11 de dezembro de 1990**
+- **Lei nº 8.134, de 27 de dezembro de 1990**
+- **Lei nº 8.242, de 12 de outubro de 1991**
+- **Lei nº 8.313, de 23 de dezembro de 1991**
+- **Lei nº 8.383, de 30 de dezembro de 1991**
+- **Lei nº 8.541, de 23 de dezembro de 1992**
+- **Lei nº 8.668, de 25 de junho de 1993**
+- **Lei nº 8.685, de 20 de julho de 1993**
+- **Lei nº 8.794, de 21 de dezembro de 1993**
+- **Lei nº 8.852, de 4 de fevereiro de 1994**
+- **Lei nº 8.929, de 22 de agosto de 1994**
+- **Lei nº 8.971, de 29 de dezembro de 1994**
+- **Lei nº 8.981, de 20 de janeiro de 1995**
+  - source filename: `Lei nº 8.891.txt`
+- **Lei nº 8.981, de 20 de janeiro de 1995**
+- **Lei nº 9.003, de 16 de março de 1995**
+- **Lei nº 9.096, de 19 de setembro de 1995**
+- **Lei nº 9.140, de 4 de dezembro de 1995**
+- **Lei nº 9.249, de 26 de dezembro de 1995**
+- **Lei nº 9.250, de 26 de dezembro de 1995**
+- **Lei nº 9.278, de 10 de maio de 1996**
+- **Lei nº 9.307, de 23 de setembro de 1996**
+- **Lei nº 9.393, de 19 de dezembro de 1996**
+- **Lei nº 9.394, de 20 de dezembro de 1996**
+- **Lei nº 9.430, de 27 de dezembro de 1996**
+- **Lei nº 9.468, de 10 de julho de 1997**
+- **Lei nº 9.481, de 13 de agosto de 1997**
+- **Lei nº 9.504, de 30 de setembro de 1997**
+- **Lei nº 9.532, de 10 de dezembro de 1997**
+- **Lei nº 9.615, de 24 de março de 1998**
+- **Lei nº 9.718, de 27 de novembro de 1998**
+- **Lei nº 9.779, de 19 de janeiro de 1999**
+- **Lei nº 9.784, de 29 de janeiro de 1999**
+- **Lei nº 9.959, de 27 de janeiro de 2000**

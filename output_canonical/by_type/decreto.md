@@ -1,0 +1,48 @@
+# Decreto
+
+38 document(s).
+
+- **Decreto nº 21.177, de 27 de maio de 1946**
+- **Decreto nº 27.784, de 16 de fevereiro de 1950**
+- **Decreto nº 3.000, de 26 de março de 1999**
+- **Decreto nº 361, de 10 de dezembro de 1991**
+- **Decreto nº 4.897, de 25 de novembro de 2003**
+- **Decreto nº 5.128, de 6 de julho de 2004**
+- **Decreto nº 50.656**
+- **Decreto nº 52.288, de 24 de julho de 1963**
+  - source filename: `Convenção sobre Privilégios e Imunidades das Agências Especializadas.txt`
+- **Decreto nº 52.288, de 24 de julho de 1963**
+  - source filename: `Convenção sobre Privilégios e Imunidades das Nações Unidas.txt`
+- **Decreto nº 52.288, de 24 de julho de 1963**
+- **Decreto nº 56.435, de 8 de junho de 1965**
+  - source filename: `Convenção de Viena, Decreto nº 56.435, de 8 de junho de 1965.txt`
+- **Decreto nº 56.435, de 8 de junho de 1965**
+- **Decreto nº 57.784, de 11 de fevereiro de 1966**
+- **Decreto nº 57.942, de 10 de março de 1966**
+- **Decreto nº 59.308, de 23 de setembro de 1966**
+- **Decreto nº 59.309, de 23 de setembro de 1966**
+- **Decreto nº 59.566, de 14 de novembro de 1966**
+- **Decreto nº 61.078, de 26 de julho de 1967**
+- **Decreto nº 62.125, de 16 de janeiro de 1968**
+- **Decreto nº 63.151, de 22 de agosto de 1968**
+- **Decreto nº 67.542, de 12 de novembro de 1970**
+- **Decreto nº 7.030, de 14 de dezembro de 2009**
+  - source filename: `Convenção de Viena sobre o Direito dos Tratados.txt`
+- **Decreto nº 70.951, de 9 de agosto de 1972**
+- **Decreto nº 71.733, de 18 de janeiro de 1973**
+- **Decreto nº 75.102, de 20 de dezembro de 1974**
+- **Decreto nº 8.289, de 25 de julho de 2014**
+- **Decreto nº 8.624, de 29 de dezembro de 2015**
+- **Decreto nº 85.306, de 30 de outubro de 1980**
+- **Decreto nº 85.801, de 10 de março de 1981**
+  - source filename: `Convênio de Criação de um Conselho de Cooperação Aduaneira.txt`
+- **Decreto nº 85.801, de 10 de março de 1981**
+- **Decreto nº 86.006, de 14 de maio de 1981**
+- **Decreto nº 86.084, de 8 de junho de 1981**
+- **Decreto nº 86.365, de 15 de setembro de 1981**
+- **Decreto nº 87.563, de 13 de setembro de 1982**
+- **Decreto nº 9.358, de 30 de abril de 2018**
+  - source filename: `Convenção Postal Universal.txt`
+- **Decreto nº 9.580, de 22 de novembro de 2018**
+- **Decreto nº 93.153, de 22 de agosto de 1986**
+- **Decreto nº 95.711, de 10 de fevereiro de 1988**

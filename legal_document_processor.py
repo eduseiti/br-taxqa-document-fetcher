@@ -24,6 +24,57 @@ class LawDocument:
     title: str
     urn: str
     original_content: str
+    doc_type: str = "lei"  # lei | lei.complementar | decreto.lei | decreto
+
+
+# Portuguese month name -> two-digit number. Module-level so both the
+# processor and the canonical loader share a single mapping.
+PT_MONTHS = {
+    'janeiro': '01', 'fevereiro': '02', 'março': '03', 'marco': '03',
+    'abril': '04', 'maio': '05', 'junho': '06', 'julho': '07',
+    'agosto': '08', 'setembro': '09', 'outubro': '10',
+    'novembro': '11', 'dezembro': '12'
+}
+
+
+def parse_pt_date(text: str) -> Optional[str]:
+    """Parse a Portuguese long-form date into YYYY-MM-DD.
+
+    Handles ordinal day markers (e.g. "1º de maio de 1943") and either
+    accented or unaccented month names. Returns None if no date is found.
+
+    Args:
+        text: Text containing a "<day> de <month> de <year>" phrase.
+
+    Returns:
+        Date string in YYYY-MM-DD format, or None.
+    """
+    if not text:
+        return None
+    match = re.search(r'(\d{1,2})[ºª°o]?\s*de\s*(\w+)\s*de\s*(\d{4})', text, re.IGNORECASE)
+    if not match:
+        return None
+    day = match.group(1).zfill(2)
+    month = PT_MONTHS.get(match.group(2).lower())
+    if not month:
+        return None
+    year = match.group(3)
+    return f'{year}-{month}-{day}'
+
+
+def construct_urn_helper(number: str, date: Optional[str], urn_type: str = "lei") -> str:
+    """Module-level LexML URN builder shared by the processor and loaders.
+
+    Args:
+        number: Document number, digits only.
+        date: Date in YYYY-MM-DD, or None (placeholder 1900-01-01 is used).
+        urn_type: LexML type token (e.g. "lei", "decreto.lei", "decreto").
+
+    Returns:
+        Complete URN string.
+    """
+    effective_date = date if date else "1900-01-01"
+    return f"urn:lex:br:federal:{urn_type}:{effective_date};{number}"
 
 
 class LegalDocumentProcessor:
@@ -40,12 +91,8 @@ class LegalDocumentProcessor:
         self.logger = logging.getLogger(__name__)
         self.laws: List[LawDocument] = []
 
-        # Portuguese month name mapping
-        self.months = {
-            'janeiro': '01', 'fevereiro': '02', 'março': '03', 'abril': '04',
-            'maio': '05', 'junho': '06', 'julho': '07', 'agosto': '08',
-            'setembro': '09', 'outubro': '10', 'novembro': '11', 'dezembro': '12'
-        }
+        # Portuguese month name mapping (shared module-level table)
+        self.months = PT_MONTHS
 
     def load_documents(self) -> List[Dict]:
         """Load documents from the JSON file."""
@@ -133,27 +180,22 @@ class LegalDocumentProcessor:
 
         return None
 
-    def construct_urn(self, number: str, date: Optional[str]) -> str:
+    def construct_urn(self, number: str, date: Optional[str], urn_type: str = "lei") -> str:
         """
-        Construct a LexML URN for the law.
+        Construct a LexML URN for the document.
 
         Args:
-            number: Law number (without dots)
-            date: Law date in YYYY-MM-DD format (optional)
+            number: Document number (without dots)
+            date: Document date in YYYY-MM-DD format (optional)
+            urn_type: LexML type token (e.g. "lei", "lei.complementar",
+                "decreto.lei", "decreto")
 
         Returns:
             Complete URN string for normas.leg.br
         """
-        if date:
-            # Standard format: urn:lex:br:federal:lei:YYYY-MM-DD;NUMBER
-            urn = f"urn:lex:br:federal:lei:{date};{number}"
-        else:
-            # Fallback: try with a generic date (laws without clear dates)
-            # We'll use 1900-01-01 as a placeholder for manual review
-            urn = f"urn:lex:br:federal:lei:1900-01-01;{number}"
-            self.logger.warning(f"No date found for Lei {number}, using placeholder date")
-
-        return urn
+        if not date:
+            self.logger.warning(f"No date found for {urn_type} {number}, using placeholder date")
+        return construct_urn_helper(number, date, urn_type)
 
     def construct_normas_url(self, urn: str) -> str:
         """

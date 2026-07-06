@@ -1,0 +1,107 @@
+[
+  {
+    "type": "decreto",
+    "number": "21177",
+    "date": "1946-05-27",
+    "urn": "urn:lex:br:federal:decreto:1946-05-27;21177",
+    "url": "https://www.planalto.gov.br/ccivil_03/atos/decretos/1946/d21177.html",
+    "success": true,
+    "filename": "decreto_21177_19460527.docx",
+    "error": null,
+    "needs_review": true,
+    "source_filenames": [
+      "Decreto nº 21.177.txt"
+    ],
+    "canonical_name": "Decreto nº 21.177, de 27 de maio de 1946"
+  },
+  {
+    "type": "decreto",
+    "number": "50656",
+    "date": null,
+    "urn": "urn:lex:br:federal:decreto:1900-01-01;50656",
+    "url": null,
+    "success": false,
+    "filename": "",
+    "error": "Decree URL not found in index",
+    "needs_review": true,
+    "source_filenames": [
+      "Decreto nº 50.656.txt"
+    ],
+    "canonical_name": "Decreto nº 50.656"
+  },
+  {
+    "type": "decreto",
+    "number": "57784",
+    "date": "1966-02-11",
+    "urn": "urn:lex:br:federal:decreto:1966-02-11;57784",
+    "url": "https://www.planalto.gov.br/ccivil_03/atos/decretos/1966/d57784.html",
+    "success": true,
+    "filename": "decreto_57784_19660211.docx",
+    "error": null,
+    "needs_review": true,
+    "source_filenames": [
+      "Decreto nº 57.784.txt"
+    ],
+    "canonical_name": "Decreto nº 57.784, de 11 de fevereiro de 1966"
+  },
+  {
+    "type": "decreto",
+    "number": "57942",
+    "date": "1966-03-10",
+    "urn": "urn:lex:br:federal:decreto:1966-03-10;57942",
+    "url": "https://www.planalto.gov.br/ccivil_03/atos/decretos/1966/d57942.html",
+    "success": true,
+    "filename": "decreto_57942_19660310.docx",
+    "error": null,
+    "needs_review": true,
+    "source_filenames": [
+      "Decreto nº 57.942.txt"
+    ],
+    "canonical_name": "Decreto nº 57.942, de 10 de março de 1966"
+  },
+  {
+    "type": "decreto",
+    "number": "59309",
+    "date": "1966-09-23",
+    "urn": "urn:lex:br:federal:decreto:1966-09-23;59309",
+    "url": "https://www.planalto.gov.br/ccivil_03/atos/decretos/1966/d59309.html",
+    "success": true,
+    "filename": "decreto_59309_19660923.docx",
+    "error": null,
+    "needs_review": true,
+    "source_filenames": [
+      "Decreto nº 59.309.txt"
+    ],
+    "canonical_name": "Decreto nº 59.309, de 23 de setembro de 1966"
+  },
+  {
+    "type": "decreto",
+    "number": "67542",
+    "date": "1970-11-12",
+    "urn": "urn:lex:br:federal:decreto:1970-11-12;67542",
+    "url": "https://www.planalto.gov.br/ccivil_03/atos/decretos/1970/d67542.html",
+    "success": true,
+    "filename": "decreto_67542_19701112.docx",
+    "error": null,
+    "needs_review": true,
+    "source_filenames": [
+      "Decreto nº 67.542.txt"
+    ],
+    "canonical_name": "Decreto nº 67.542, de 12 de novembro de 1970"
+  },
+  {
+    "type": "decreto",
+    "number": "75102",
+    "date": "1974-12-20",
+    "urn": "urn:lex:br:federal:decreto:1974-12-20;75102",
+    "url": "https://www.planalto.gov.br/ccivil_03/atos/decretos/1974/d75102.html",
+    "success": true,
+    "filename": "decreto_75102_19741220.docx",
+    "error": null,
+    "needs_review": true,
+    "source_filenames": [
+      "Decreto nº 75.102.txt"
+    ],
+    "canonical_name": "Decreto nº 75.102, de 20 de dezembro de 1974"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "type": "decreto",
+    "number": "50656",
+    "date": null,
+    "urn": "urn:lex:br:federal:decreto:1900-01-01;50656",
+    "url": null,
+    "success": false,
+    "filename": "",
+    "error": "Decree URL not found in index",
+    "needs_review": true,
+    "source_filenames": [
+      "Decreto nº 50.656.txt"
+    ],
+    "canonical_name": "Decreto nº 50.656"
+  }
+]
