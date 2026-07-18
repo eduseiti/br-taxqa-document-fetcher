@@ -35,6 +35,39 @@ extraction, reuses `WordDocumentBuilder`). Shared helpers `parse_pt_date` and
 `construct_urn_helper` live in `legal_document_processor.py`. Offline tests:
 `tests/test_decreto_fetching.py` (fixtures under `tests/fixtures/`).
 
+## Instrução Normativa (Receita Federal) Fetching (third source)
+
+`instrucao_normativa_srf` (and, parameterized, `instrucao_normativa_rfb`) come
+from the Receita Federal norms portal (`sijut2consulta`) — **plain `requests`,
+no Selenium**. Two stages:
+
+- **Search** -> `GET normas.receita.fazenda.gov.br/sijut2consulta/consulta.action`
+  with the *full* form field set (empty body otherwise), `tiposAtosSelecionados=42`
+  (Instrução Normativa), `numero_ato`, `ano_ato`, `tipoData` (1=act date, 2=
+  publicação) -> server-rendered HTML -> scrape `link.action?idAto=NNNN`.
+- **Content** -> `GET normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/{idAto}/visao/{slug}`
+  (needs a same-site `Referer`/`Origin` or the WAF returns 403). JSON carries the
+  épigrafe (type/number/date/órgão), ementa, and body segments (`outrosSegmentos`).
+  View chain `original -> vigente -> multivigente` (406 = view unavailable).
+
+Every `idAto` is **verified** against the canonical `(siglaTipoAto=IN, number,
+órgão sigla=SRF, dataAto)` before saving — the same number recurs across years
+and órgãos (SRF renamed RFB in 2007; genuine collisions like nº 84 in 1979 vs
+2001). **Republications:** an act is often published in the DOU several times
+(original + retificações), yielding multiple verified `idAto`s with identical
+number/date/órgão; only the **earliest-published** one carries the full text
+(later ones are correction excerpts), so it is chosen and the others recorded as
+`alternate_id_atos`. Acts absent from the portal (e.g. IN SRF nº 23/1983,
+nº 84/1979 predate its coverage) go to `needs_review.json`.
+
+Run: `python fetch_instrucoes_normativas_main.py` (`--only`, `--limit N`,
+`--dry-run`, `--no-docx`). Outputs to `output_instrucoes_normativas/{documents,
+metadata}/`: per act a lossless `.json`, reconstructed `.txt`, and `.docx`
+(parity). Key modules: `receita_norma_fetcher.py` (`ActType` registry makes the
+`(tipo_code, orgao_sigla)` pair the only act-specific bits, reusable for other
+RFB act types), `fetch_instrucoes_normativas_main.py` (orchestrator). Offline
+tests: `tests/test_instrucao_normativa_fetching.py`.
+
 ## Key Commands
 
 ### Setup and Validation

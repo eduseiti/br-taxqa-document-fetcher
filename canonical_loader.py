@@ -30,6 +30,12 @@ TYPE_SLUG_TO_URN_TYPE = {
     "lei_complementar": "lei.complementar",
     "decreto_lei": "decreto.lei",
     "decreto": "decreto",
+    # Receita Federal acts fetched from sijut2consulta (not LexML/normas.leg.br).
+    # The URN token is informational only here — these are matched and fetched by
+    # (tipo_code, orgao_sigla, number, date) against the Receita REST API, not by
+    # URN — but a consistent token keeps CanonicalDoc.urn populated for reports.
+    "instrucao_normativa_srf": "instrucao.normativa",
+    "instrucao_normativa_rfb": "instrucao.normativa",
 }
 
 

@@ -1,0 +1,413 @@
+Instrução Normativa SRF nº 84, de 11 de outubro de 2001
+
+Dispõe sobre a apuração e tributação de ganhos de capital nas alienações de bens e direitos por pessoas físicas.
+
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF No 259, de 24 de agosto de 2001, e tendo em vista o disposto nas Leis No 7.713, de 22 de dezembro de 1988, No 8.134, de 27 de dezembro de 1990, No 8.218, de 29 de agosto de 1991, No 8.383, de 30 de dezembro de 1991, No 8.849, de 28 de janeiro de 1994, No 8.981, de 20 de janeiro de 1995, No 9.249 e No 9.250, de 26 de dezembro de 1995, No 9.393, de 19 de dezembro de 1996, e No 9.532, de 10 de dezembro de 1997, e nas Medidas Provisórias No 2.159-70, de 24 de agosto de 2001, e No 2.189-49, de 23 de agosto de 2001, resolve:
+
+Disposições Gerais
+
+Art. 1o Os ganhos de capital percebidos por pessoas físicas são apurados e tributados pelo imposto de renda na forma desta Instrução Normativa, exceto quando decorrentes de operações realizadas:
+
+I - em bolsas de valores, de mercadorias, de futuros e assemelhadas;
+
+II - com ouro, ativo financeiro;
+
+III - em mercados de liquidação futura fora de bolsa. Ganho de Capital
+
+Art. 2o Considera-se ganho de capital a diferença positiva entre o valor de alienação de bens ou direitos e o respectivo custo de aquisição.
+
+Ganho de Capital
+
+Parágrafo único. O prejuízo apurado em uma alienação não pode ser compensado com ganhos obtidos em outra, ainda que no mesmo mês.
+
+Art. 3o Estão sujeitas à apuração de ganho de capital as operações que importem:
+
+I - alienação, a qualquer título, de bens ou direitos ou cessão ou promessa de cessão de direitos à sua aquisição, tais como as realizadas por compra e venda, permuta, adjudicação, desapropriação, dação em pagamento, procuração em causa própria, promessa de compra e venda, cessão de direitos ou promessa de cessão de direitos e contratos afins;
+
+II - transferência a herdeiros e legatários na sucessão causa mortis, a donatários na doação, inclusive em adiantamento da legítima, ou atribuição a ex-cônjuge ou ex-convivente, na dissolução da sociedade conjugal ou união estável, de direito de propriedade de bens e direitos adquiridos por valor superior àquele pelo qual constavam na Declaração de Ajuste Anual do de cujus, do doador, do ex-cônjuge ou ex-convivente que os tenha transferido.
+
+Contribuintes
+
+Art. 4o São contribuintes do imposto de que trata esta Instrução Normativa as pessoas físicas, residentes:
+
+I - no Brasil, que aufiram ganho de capital na alienação, a qualquer título, de bens ou direitos, localizados no País ou no exterior, quando adquiridos em reais;
+
+II - no exterior, que aufiram ganho de capital na alienação, a qualquer título, de bens ou direitos localizados no Brasil, observados os acordos ou tratados celebrados com o país de residência do contribuinte.
+
+Parágrafo único. No caso do inciso II do art. 3o, contribuinte do imposto é o espólio, o doador, ou o ex-cônjuge ou ex-convivente a quem for atribuído o bem ou direito objeto da tributação.
+
+Custo de Aquisição
+
+Definição
+
+Art. 5o Considera-se custo dos bens ou direitos o valor de aquisição expresso em reais.
+
+Art. 6o O custo de aquisição dos bens e direitos adquiridos ou as parcelas pagas até 31 de dezembro de 1991, avaliados pelo valor de mercado para essa data e informados na Declaração de Ajuste Anual do exercício de 1992, ano-calendário de 1991, de acordo com o art. 96 da Lei No 8.383, de 1991, é esse valor, atualizado até 1o de janeiro de 1996.
+
+Parágrafo único. Aplica-se o disposto no caput na hipótese de contribuinte desobrigado de apresentar a declaração do exercício de 1992, ano-calendário de 1991, e seguintes.
+
+Art. 7o No caso de bens ou direitos adquiridos ou de parcelas pagas até 31 de dezembro de 1991, não avaliados a valor de mercado, e dos bens e direitos adquiridos ou das parcelas pagas entre 1o de janeiro de 1992 e 31 de dezembro de 1995, o custo corresponde ao valor de aquisição ou das parcelas pagas até 31 de dezembro de 1995, atualizado mediante a utilização da Tabela de Atualização do Custo de Bens e Direitos, constante no Anexo Único.
+
+Art. 8o O custo dos bens e direitos adquiridos ou das parcelas pagas a partir de 1o de janeiro de 1996 não está sujeito a atualização.
+
+Imóvel rural
+
+Art. 9o Na apuração do ganho de capital de imóvel rural é considerado custo de aquisição o valor relativo à terra nua.
+
+§ 1o Considera-se valor da terra nua (VTN) o valor do imóvel rural, nele incluído o da respectiva mata nativa, não computados os custos das benfeitorias (construções, instalações e melhoramentos), das culturas permanentes e temporárias, das árvores e florestas plantadas e das pastagens cultivadas ou melhoradas.
+
+§ 2o Os custos a que se refere o § 1o, quando não tiverem sido deduzidos como despesa de custeio, na apuração do resultado da atividade rural, podem ser computados para efeito de apuração de ganho de capital.
+
+Art. 10. Tratando-se de imóvel rural adquirido a partir de 1997, considera-se custo de aquisição o valor da terra nua declarado pelo alienante, no Documento de Informação e Apuração do Imposto sobre a Propriedade Territorial Rural (Diat) do ano da aquisição, observado o disposto nos arts. 8o e 14 da Lei No 9.393, de 1996.
+
+§ 1o No caso de o contribuinte adquirir:
+
+I - e vender o imóvel rural antes da entrega do Diat, o ganho de capital é igual à diferença entre o valor de alienação e o custo de aquisição;
+
+II - o imóvel rural antes da entrega do Diat e aliená-lo, no mesmo ano, após sua entrega, não ocorre ganho de capital, por se tratar de VTN de aquisição e de alienação de mesmo valor.
+
+§ 2o Caso não tenha sido apresentado o Diat relativamente ao ano de aquisição ou de alienação, ou a ambos, considera-se como custo e como valor de alienação o valor constante nos respectivos documentos de aquisição e de alienação.
+
+§ 3o O disposto no § 2o aplica-se também no caso de contribuinte sujeito à apresentação apenas do Documento de Informação e Atualização Cadastral (Diac).
+
+Desmembramento
+
+Art. 11. Quando o imóvel for desmembrado do todo, o custo de aquisição deve ser apurado na proporção que a área alienada representar em relação à área total do imóvel.
+
+Imóvel adquirido em permuta
+
+Art. 12. Considera-se custo de aquisição de imóvel adquirido por permuta com outro imóvel, o valor do imóvel dado em permuta:
+
+I - acrescido da torna paga, se for o caso;
+
+II - diminuído do valor correspondente à diferença entre a torna recebida e o ganho de capital relativo a essa torna, apurado na forma do art. 23.
+
+Bens ou direitos adquiridos em partes
+
+Art. 13. Considera-se custo de aquisição, no caso de bens ou direitos adquiridos em partes, a soma dos valores correspondentes a cada parte adquirida.
+
+Bens adquiridos por meio de concursos ou sorteios
+
+Art. 14. No caso de bens recebidos por meio de concursos ou sorteios de qualquer espécie, constitui custo de aquisição o valor de mercado do prêmio, utilizado como base de cálculo do imposto de renda incidente na fonte, acrescido do valor do imposto de renda.
+
+Parágrafo único. Para os bens e direitos recebidos até 31 de dezembro de 1994, o custo de aquisição é igual a zero.
+
+Bens adquiridos por arrendamento mercantil
+
+Art. 15. No caso de bens adquiridos por meio de arrendamento mercantil, considera-se custo de aquisição a soma dos valores pagos a título de arrendamento, acrescida do valor residual do bem.
+
+Participações societárias
+
+Art. 16. Na hipótese de integralização de capital mediante a entrega de bens ou direitos, considera-se custo de aquisição da participação adquirida o valor dos bens ou direitos transferidos, constante na Declaração de Ajuste Anual ou o seu valor de mercado.
+
+§ 1o Se a transferência não se fizer pelo valor constante na Declaração de Ajuste Anual, a diferença a maior é tributável como ganho de capital.
+
+§ 2o No caso de ações ou quotas recebidas em bonificação, em virtude de incorporação de lucros ou reservas ao capital social da pessoa jurídica, considera-se custo de aquisição da participação o valor do lucro ou reserva capitalizado que corresponder ao acionista ou sócio, independentemente da forma de tributação adotada pela empresa.
+
+§ 3o Para efeito de apuração de ganho de capital na alienação de participações societárias, o custo de aquisição das ações ou quotas é apurado pela média ponderada dos custos unitários, por espécie, desses títulos.
+
+§ 4o O custo médio ponderado de cada ação ou quota:
+
+I - é igual ao resultado da divisão do valor total de aquisição das ações ou quotas em estoque pela quantidade total de ações ou quotas em estoque, inclusive bonificadas;
+
+II - multiplicado pela quantidade de ações ou quotas alienadas, constitui o custo de aquisição para efeito da apuração do ganho de capital;
+
+III - multiplicado pelo número de ações ou quotas remanescente, constitui o valor do estoque desses títulos.
+
+§ 5o A cada aquisição ou baixa devem ser ajustadas as quantidades em estoque e os custos total e médio ponderado, por espécie, das ações ou quotas.
+
+Valores computáveis como custo
+
+Art. 17. Podem integrar o custo de aquisição, quando comprovados com documentação hábil e idônea e discriminados na Declaração de Ajuste Anual, no caso de:
+
+I - bens imóveis:
+
+a) os dispêndios com a construção, ampliação e reforma, desde que os projetos tenham sido aprovados pelos órgãos municipais competentes, e com pequenas obras, tais como pintura, reparos em azulejos, encanamentos, pisos, paredes;
+
+b) os dispêndios com a demolição de prédio construído no terreno, desde que seja condição para se efetivar a alienação;
+
+c) as despesas de corretagem referentes à aquisição do imóvel vendido, desde que tenha suportado o ônus;
+
+d) os dispêndios pagos pelo proprietário do imóvel com a realização de obras públicas, tais como colocação de meio-fio, sarjetas, pavimentação de vias, instalação de redes de esgoto e de eletricidade que tenham beneficiado o imóvel;
+
+e) o valor do imposto de transmissão pago pelo alienante na aquisição do imóvel;
+
+f) o valor da contribuição de melhoria;
+
+g) os juros e demais acréscimos pagos para a aquisição do imóvel;
+
+h) o valor do laudêmio pago, etc.;
+
+II - outros bens ou direitos: os dispêndios realizados com a conservação e reparos, a comissão ou a corretagem quando não transferido o ônus ao adquirente, os juros e demais acréscimos pagos, etc.
+
+Custo na ausência do valor pago
+
+Art. 18. Na ausência do valor pago, o custo de aquisição é:
+
+I - o valor que tenha servido de base para o cálculo do imposto de importação, acrescido do valor dos tributos e das despesas de desembaraço aduaneiro;
+
+II - o valor de transmissão utilizado, na aquisição, para cálculo do ganho de capital do alienante anterior;
+
+III - o valor corrente na data da aquisição;
+
+IV - igual a zero, quando não possa ser determinado nos termos dos incisos I, II e III.
+
+Valor de Alienação
+
+Art. 19. Considera-se valor de alienação:
+
+I - o preço efetivo da operação de venda ou de cessão de direitos;
+
+II - o valor de mercado, nas operações não expressas em dinheiro;
+
+III - no caso de bens ou direitos vinculados a qualquer espécie de financiamento ou a consórcios, em que o saldo devedor é transferido para o adquirente, o valor efetivamente recebido, desprezado o valor da dívida transferida;
+
+IV - no caso de bens em condomínio, a parcela do preço que couber a cada condômino ou co-proprietário;
+
+V - no caso de permuta com recebimento de torna, o valor da torna;
+
+VI - no caso de imóvel rural com benfeitorias, o valor correspondente:
+
+a) exclusivamente à terra nua, quando o valor das benfeitorias houver sido deduzido como custo ou despesa da atividade rural;
+
+b) a todo o imóvel alienado, quando as benfeitorias não houverem sido deduzidas como custo ou despesa da atividade rural.
+
+§ 1o Tratando-se de imóvel rural adquirido a partir de 1997, considera-se valor de alienação da terra nua:
+
+I - o valor declarado no Diat do ano da alienação, quando houverem sido entregues os Diat relativos aos anos de aquisição e alienação;
+
+II - o valor efetivamente recebido, nos demais casos.
+
+§ 2o Na alienação dos imóveis rurais, a parcela do preço correspondente às benfeitorias é computada:
+
+I - como receita da atividade rural, quando o seu valor de aquisição houver sido deduzido como custo ou despesa da atividade rural;
+
+II - como valor da alienação, nos demais casos.
+
+§ 3o Os valores recebidos a título de reajuste, no caso de pagamento parcelado, qualquer que seja sua designação, a exemplo de juros e reajuste de parcelas, não compõem o valor de alienação, devendo ser tributados à medida de seu recebimento, na fonte ou mediante o recolhimento mensal obrigatório (Carnê-Leão), quando a alienação for para pessoa jurídica ou para pessoa física, respectivamente, e na Declaração de Ajuste Anual.
+
+§ 4o O valor da corretagem, quando suportado pelo alienante, é deduzido do valor da alienação e, quando se tratar de venda a prazo, com diferimento da tributação, a dedução far-se-á sobre o valor da parcela do preço recebida no mês do pagamento da referida corretagem.
+
+Casos Especiais de Apuração de Ganho de Capital
+
+Sucessão, doação e dissolução da sociedade conjugal ou união estável
+
+Art. 20. Na transferência de propriedade de bens e direitos, por sucessão causa mortis, a herdeiros e legatários; por doação, inclusive em adiantamento da legítima, ao donatário; bem assim na atribuição de bens e direitos a cada ex-cônjuge ou ex-convivente, na hipótese de dissolução da sociedade conjugal ou união estável, os bens e direitos são avaliados a valor de mercado ou considerados pelo valor constante na Declaração de Ajuste Anual do de cujus, doador, ex-cônjuge ou ex-convivente declarante, antes da dissolução da sociedade conjugal ou união estável.
+
+§ 1o Nos casos em que o de cujus, doador, ex-cônjuge ou ex-convivente não houver apresentado Declaração de Ajuste Anual, por não se enquadrar nas condições de obrigatoriedade estabelecidas pela legislação tributária, a avaliação deve ser realizada em função do custo de aquisição conforme o disposto nos arts. 5o a 8o.
+
+§ 2o O valor relativo à opção por qualquer dos critérios de avaliação a que se refere este artigo, que independe da avaliação adotada para efeito da partilha ou do pagamento do imposto de transmissão, deve ser informado na declaração:
+
+I - final de espólio e na declaração do herdeiro ou legatário, correspondente ao ano-calendário da transmissão;
+
+II - do doador e donatário, correspondente ao ano-calendário do recebimento da doação;
+
+III - do ex-cônjuge ou ex-convivente a quem foi atribuído o bem, correspondente ao ano-calendário da dissolução da sociedade conjugal ou união estável.
+
+§ 3o Se a transferência for efetuada por valor superior ao constante na Declaração de Ajuste Anual referida no caput, ou do custo de aquisição referido no § 1o, a diferença a maior constitui ganho de capital tributável.
+
+§ 4o Na hipótese do § 3o, o inventariante, no caso de espólio, o doador ou o ex-cônjuge ou ex-convivente a quem for atribuído o bem ou direito deve preencher o Demonstrativo de Apuração do Ganho de Capital e anexá-lo à Declaração Final de Espólio ou à Declaração de Ajuste Anual do ano-calendário da doação ou da dissolução da sociedade conjugal ou união estável, conforme o caso.
+
+§ 5o Na apuração de ganho de capital em virtude de posterior alienação dos bens e direitos de que trata este artigo, é considerado como custo de aquisição o valor a que se refere o § 2o.
+
+§ 6o Para efeito do disposto no § 5o, a comprovação do custo, constante na Declaração de Ajuste Anual, é efetuada por meio de:
+
+I - Declaração Final de Espólio, no caso de transmissão causa mortis;
+
+II - Declaração de Ajuste Anual do doador, na doação, ou do ex-cônjuge ou ex-convivente declarante, na dissolução da sociedade conjugal ou da união estável, ou do documento comprobatório da aquisição, se o doador, ex-cônjuge ou ex-convivente estiver desobrigado da apresentação da declaração;
+
+III - Documento de Arrecadação de Receitas Federais (Darf) relativo ao pagamento do imposto de que trata o § 3o, quando a avaliação houver sido efetuada por valor superior ao constante na última Declaração de Ajuste Anual do de cujus, do doador ou ex-cônjuge declarante, ou do § 1o, conforme o caso.
+
+§ 7o Na cessão de direitos hereditários, cabe ao cedente apurar, em seu nome, o ganho de capital, considerando como custo de aquisição da parte cedida o valor que, proporcionalmente, lhe couber na partilha, constante na última Declaração de Ajuste Anual do de cujus.
+
+Art. 21. Considera-se data de aquisição:
+
+I - a da abertura da sucessão, na transferência causa mortis, inclusive na hipótese de cessão de direitos hereditários;
+
+II - a data da transferência do bem, na doação;
+
+III - na meação por morte, na dissolução da sociedade conjugal ou união estável:
+
+a) a do instrumento original, se se tratar de bens ou direitos preexistentes à sociedade conjugal ou união estável, se pertencentes ao alienante;
+
+b) a do casamento, se pertencentes ao outro cônjuge e o regime for de comunhão de bens;
+
+c) a da aquisição, se adquiridos na constância da sociedade conjugal ou união estável;
+
+IV - a da sentença, na partilha ou sobrepartilha decorrente da dissolução da sociedade conjugal ou união estável, para os bens e direitos havidos fora da meação ou da divisão do condomínio.
+
+Bens comuns
+
+Art. 22. Nas alienações de bens comuns, decorrentes do regime de casamento, o ganho de capital é apurado em relação ao bem como um todo.
+
+Permuta
+
+Art. 23. No caso de permuta com recebimento de torna em dinheiro, o ganho de capital é obtido da seguinte forma:
+
+I - o valor da torna é adicionado ao custo do imóvel dado em permuta;
+
+II - é efetuada a divisão do valor da torna pelo valor apurado na forma do inciso I, e o resultado obtido é multiplicado por cem;
+
+III - o ganho de capital é obtido aplicando-se o percentual encontrado, conforme inciso II, sobre o valor da torna.
+
+Desapropriação
+
+Art. 24. No caso de desapropriação, considera-se realizada a alienação na data em que se completar o pagamento integral da indenização, fixada em acordo ou sentença judicial.
+
+Parágrafo único. O adiantamento da indenização integra o valor de alienação.
+
+Usufruto
+
+Art. 25. Na alienação onerosa do usufruto pelo usufrutuário ao nu-proprietário, é apurado o ganho de capital considerando-se custo de aquisição o valor pelo qual o usufruto foi instituído, e valor de alienação o valor constante no instrumento de alienação.
+
+Redução do Ganho de Capital
+
+Art. 26. Na alienação de imóvel adquirido até 31 de dezembro de 1988, pode ser aplicado um percentual fixo de redução sobre o ganho de capital, determinado em função do ano de aquisição ou incorporação do imóvel, de acordo com a seguinte tabela:
+
+ANO DE % DE ANO DE % DE AQUISIÇÃO REDUÇÃO AQUISIÇÃO REDUÇÃO Até 1969 100% 1974 75% 1970 95% 1975 70% 1971 90% 1976 65% 1972 85% 1977 60% 1973 80% 1978 55% ANO DE % DE ANO DE % DE AQUISIÇÃO REDUÇÃO AQUISIÇÃO REDUÇÃO 1979 50% 1984 25% 1980 45% 1985 20% 1981 40% 1986 15% 1982 35% 1987 10% 1983 30% 1988 5%
+
+§ 1o Na alienação de imóvel constituído por terreno adquirido até 31 de dezembro de 1988 e de edificação, ampliação ou reforma iniciada até essa data, ainda que concluída em ano posterior, informada na Declaração de Ajuste Anual, o percentual de redução é determinado em função do ano de aquisição do terreno e aplicado sobre todo o ganho de capital.
+
+§ 2o Na alienação em conjunto, de imóvel constituído de partes adquiridas em datas diferentes, a redução aplica-se à parcela do ganho de capital que corresponder a cada parte adquirida até 31 de dezembro de 1988.
+
+§ 3o Na alienação de imóvel adquirido até 31 de dezembro de 1988, contendo construção, ampliação ou reforma iniciada após essa data, o percentual de redução aplica-se à parcela do ganho de capital que corresponder ao terreno e às edificações existentes em 31 de dezembro de 1988.
+
+§ 4o Para efeito do disposto nos §§ 2o e 3o:
+
+I - o percentual de redução correspondente a cada parte é determinado em função do ano de sua aquisição e aplicado sobre a parcela do ganho de capital a ela correspondente;
+
+II - a parcela do ganho de capital correspondente a cada parte é determinada aplicando-se sobre todo o ganho de capital o percentual resultante da relação entre o custo da parte objeto da redução e o custo total do imóvel, ou entre a área da parte objeto da redução e a área total do imóvel.
+
+§ 5o No caso de bens imóveis havidos por herança ou legado, cuja abertura da sucessão (falecimento) tenha ocorrido até 31 de dezembro de 1988, o percentual de redução é determinado tomando-se por base o ano da abertura da sucessão, mesmo que a partilha tenha ocorrido em ano posterior.
+
+§ 6o O saldo do ganho de capital sujeito à tributação é igual à diferença entre o ganho total e a soma das parcelas a deduzir, resultantes da aplicação do respectivo percentual de redução.
+
+Da Tributação do Ganho de Capital
+
+Incidência
+
+Art. 27. O ganho de capital sujeita-se à incidência do imposto de renda, sob a forma de tributação definitiva, à alíquota de quinze por cento.
+
+§ 1o O cálculo e o pagamento do imposto devido sobre o ganho de capital na alienação de bens e direitos devem ser efetuados em separado dos demais rendimentos tributáveis recebidos no mês, quaisquer que sejam.
+
+§ 2o O imposto incidente sobre ganhos de capital não é compensável na Declaração de Ajuste Anual.
+
+Não-incidência
+
+Art. 28. Não incide o imposto sobre o ganho de capital decorrente de:
+
+I - indenização do valor do imóvel rural na desapropriação para fins de reforma agrária;
+
+II - indenização por liquidação de sinistro, furto ou roubo, relativo ao objeto segurado.
+
+Parágrafo único. Na hipótese do inciso I, a parcela da indenização, correspondente às benfeitorias, é computada como receita da atividade rural quando estas tiverem sido deduzidas como custo ou despesa.
+
+Exclusão
+
+Art. 29. Na determinação do ganho de capital sujeito à incidência do imposto são excluídos os ganhos de capital decorrentes de:
+
+I - alienação, por valor igual ou inferior a R$ 440.000,00 (quatrocentos e quarenta mil reais), do único imóvel que o titular possua, individualmente, em condomínio ou em comunhão, desde que, nos últimos cinco anos, não tenha efetuado alienação de imóvel, a qualquer título, tributada ou não;
+
+II - alienação de bens ou direitos por valor igual ou inferior a R$ 20.000,00 (vinte mil reais);
+
+III - restituição de participação no capital social mediante a entrega à pessoa física, pela pessoa jurídica, de bens e direitos de seu ativo, avaliados pelo valor contábil ou de mercado;
+
+IV - permuta, sem torna, de unidades imobiliárias;
+
+V - permuta, caracterizada com a entrega, pelo licitante vencedor, de títulos da dívida pública federal, estadual, do Distrito Federal e municipal, ou de outros créditos contra a União, como contrapartida à aquisição das ações ou quotas leiloadas no âmbito dos respectivos programas de desestatização.
+
+§ 1o Na hipótese do inciso I do caput:
+
+I - a exclusão aplica-se ao ganho de capital decorrente da alienação de qualquer bem imóvel, independentemente de se tratar de terreno, terra nua, casa ou apartamento, ser residencial, comercial ou de lazer, e estar localizado em zona urbana ou rural;
+
+II - o limite de R$ 440.000,00 (quatrocentos e quarenta mil reais) é considerado em relação:
+
+a) à parte de cada condômino ou co-proprietário, no caso de bens ou direitos possuídos em condomínio;
+
+b) ao imóvel possuído em comunhão, no caso de sociedade conjugal.
+
+§ 2o O limite a que se refere o inciso II do caput é considerado em relação:
+
+I - ao bem ou direito ou ao valor do conjunto dos bens ou direitos da mesma natureza, alienados em um mesmo mês;
+
+II - à parte de cada condômino ou co-proprietário, no caso de bens possuídos em condomínio;
+
+III - a cada um dos bens ou direitos possuídos em comunhão e ao valor do conjunto dos bens ou direitos da mesma natureza, alienados em um mesmo mês, no caso de sociedade conjugal.
+
+§ 3o Para efeito do disposto nos incisos I e III do § 2o, consideram-se bens ou direitos da mesma natureza aqueles que guardam as mesmas características entre si, tais como automóveis e motocicletas; imóvel urbano e terra nua; quadros e esculturas; ações e quotas.
+
+§ 4o Na hipótese do inciso IV do caput, a exclusão aplica-se:
+
+I - exclusivamente, às permutas de unidade imobiliária por unidade imobiliária;
+
+II - às operações de permuta realizadas por contrato particular, desde que a escritura pública correspondente, quando lavrada, seja de permuta.
+
+§ 5o Na permuta de unidades imobiliárias com torna, o ganho de capital é apurado exclusivamente em relação a esta, observado o disposto no art. 23.
+
+Pagamento do Imposto
+
+Regra geral
+
+Art. 30. O imposto devido sobre os ganhos de capital de que trata esta Instrução Normativa deve ser pago pelo:
+
+I - alienante, se residente no País;
+
+II - procurador do alienante, em nome deste, se este for não-residente no País;
+
+III - inventariante, em nome do espólio, nos casos de transferências causa mortis;
+
+IV - doador, no caso de doação, inclusive em adiantamento da legítima;
+
+V - ex-cônjuge ou ex-convivente a quem, na dissolução da sociedade conjugal ou da união estável, for atribuído o bem ou direito objeto da tributação;
+
+VI - cedente, na cessão de direitos hereditários.
+
+§ 1o Na hipótese do inciso II do caput, quando o alienante não for inscrito no Cadastro das Pessoas Físicas (CPF), no Darf é indicado o número de inscrição do procurador.
+
+§ 2o Na hipótese do art. 22, o imposto é recolhido em nome de cada cônjuge, na proporção de cinqüenta por cento para cada um, ou em nome de um deles, pela totalidade.
+
+§ 3o O pagamento do imposto é efetuado:
+
+I - até o último dia útil do mês subseqüente àquele em que o ganho houver sido percebido, na hipótese do inciso I do caput;
+
+II - na data da alienação, na hipótese do inciso II do caput;
+
+III - até a data prevista para a entrega da Declaração Final de Espólio, na hipótese do inciso III do caput;
+
+IV - até o último dia útil do mês subseqüente ao da doação, na hipótese do inciso IV do caput;
+
+V - até o último dia útil do mês subseqüente ao do trânsito em julgado da decisão judicial da partilha ou sobrepartilha decorrente da dissolução da sociedade conjugal ou união estável, na hipótese do inciso V do caput;
+
+VI - nas datas dos incisos I e II, na hipótese do inciso VI do caput, conforme o caso.
+
+Alienação a prazo
+
+Art. 31. Nas alienações a prazo, o ganho de capital é apurado como se a venda fosse efetuada à vista e o imposto é pago periodicamente, na proporção da parcela do preço recebida, até o último dia útil do mês subseqüente ao do recebimento.
+
+Parágrafo único. O imposto devido, relativo a cada parcela recebida, é apurado aplicando-se:
+
+I - o percentual resultante da relação entre o ganho de capital total e valor total da alienação sobre o valor da parcela recebida;
+
+II - a alíquota de quinze por cento sobre o valor apurado na forma do inciso I.
+
+Acréscimos legais
+
+Art. 32. O imposto pago após o vencimento é acrescido de:
+
+I - juros, equivalentes à taxa referencial do Sistema Especial de Liquidação e Custódia (Selic), para títulos federais, acumulada mensalmente, calculados a partir do primeiro dia do mês subseqüente ao do vencimento até o último dia do mês anterior ao do pagamento e de 1% (um por cento) no mês do pagamento;
+
+II - multa de mora, calculada à taxa de 0,33% (trinta e três centésimos por cento), por dia de atraso, a partir do primeiro dia após o vencimento do débito, limitada a vinte por cento.
+
+Art. 33. O imposto de renda pago em país com o qual o Brasil tenha firmado acordos, tratados ou convenções internacionais prevendo a compensação, ou naquele em que haja reciprocidade de tratamento, pode ser considerado como redução do imposto devido no País, até o limite do imposto devido no Brasil, desde que não seja compensado ou restituído no exterior.
+
+Disposições Finais
+
+Art. 34. Esta Instrução Normativa entra em vigor na data de sua publicação.
+
+Art. 35. Ficam formalmente revogadas, sem interrupção de sua força normativa, as Instruções Normativas SRF No 39/93, de 30 de março de 1993, No 48/98, de 26 de maio de 1998, No 51/98, de 3 de junho de 1998, e No 158/99, de 23 de dezembro de 1999.
+
+EVERARDO MACIEL
+
+ANEXO ÚNICO Tabela de Atualização do Custo de Bens e Direitos
+
+Tabela de Atualização do Custo de Bens e Direitos Índices para valores expressos em Reais 1995 1994 JAN 0,8166 - FEV 0,8166 - MAR 0,8166 - ABR 0,8521 - MAI 0,8521 - JUN 0,8521 - JUL 0,9128 0,6779 AGO 0,9128 0,7133 SET 0,9128 0,7490 OUT 0,9596 0,7612 NOV 0,9596 0,7757 DEZ 0,9596 0,7986 Índices para valores expressos em Cruzeiros Reais 1994 1993 JAN 226,5838 - FEV 315,3373 - MAR 440,5213 - ABR 632,7260 - MAI 893,7251 - JUN 1288,8379 - JUL - - AGO - 51,6351 SET - 68,1549 OUT - 91,5892 NOV - 123,7963 DEZ - 165,7657 Índices para valores expressos em Cruzeiros 1993 1992 1991 1990 JAN 8944,793 720,4779 151,5152 - FEV 11580,825 904,9234 182,1368 - MAR 14675,226 1141,1126 203,6121 33,2962 ABR 18484,916 1392,4943 213,8125 48,2139 MAI 23538,699 1668,6256 228,0957 52,0084 JUN 30320,200 2059,9131 252,7992 56,9759 JUL 39519,343 2539,2543 283,4891 64,3374 AGO - 3072,7525 327,7542 72,0781 SET - 3783,7818 378,9461 81,2750 OUT - 4666,5380 458,8306 92,8152 NOV - 5855,5690 580,3260 107,2754 DEZ - 7243,3329 720,4779 126,9078 Índices para valores expressos em Cruzados Novos 1990 1989 JAN 10,4555 0,5515 FEV 18,0650 0,7235 MAR 33,2962 0,9447 ABR - 1,0319 MAI - 1,1073 JUN - 1,2175 JUL - 1,5198 AGO - 1,9569 SET - 2,5313 OUT - 3,4411 NOV - 4,7359 DEZ - 6,6974 Índices para valores expressos em Cruzados 1989 1988 1987 1986 JAN 551,4563 53,3508 11,6159 - FEV - 62,1608 13,5700 - MAR - 73,3269 16,2312 9,5095 ABR - 85,0644 18,5873 9,4946 MAI - 101,4610 22,4835 9,5735 JUN - 119,5108 27,7523 9,7067 JUL - 142,8467 32,7552 9,8306 AGO - 177,1870 33,7538 9,9471 SET - 213,7898 35,9000 10,1142 OUT - 265,1106 37,9401 10,2889 NOV - 337,3606 41,4237 10,4843 DEZ - 428,1914 46,7426 10,8289 Índices para valores expressos em Cruzeiros 1986 1985 1984 1983 1982 JAN 7154,2187 2183,6293 674,4178 260,1557 129,9540 FEV 8315,5785 2458,7760 740,5248 275,7534 136,4509 MAR - 2709,5023 831,6084 294,2330 143,2689 ABR - 3053,5621 914,7541 320,7264 150,4332 MAI - 3414,8122 996,2060 349,5961 158,7074 JUN - 3756,5968 1084,8627 377,5557 167,4391 JUL - 4102,4262 1184,6931 407,0068 176,6409 AGO - 4414,8861 1306,7699 443,6374 187,2433 SET - 4775,8834 1445,1775 481,3550 200,3535 OUT - 5210,4453 1596,9328 527,0864 214,3738 NOV - 5679,6407 1798,1611 578,2024 229,3774 DEZ - 6311,1332 1976,1064 626,7905 244,2900 1981 1980 JAN 66,0034 43,6003 FEV 69,3049 45,4306 MAR 73,8098 47,1142 ABR 78,4588 48,8560 MAI 83,1659 50,6635 JUN 88,1562 52,3851 JUL 93,4447 54,0611 AGO 99,0493 55,7928 SET 104,7954 57,5801 OUT 110,7690 59,3067 NOV 117,0890 61,2027 DEZ 123,5304 63,1619 Índices para valores expressos em Cruzeiros 1979 1978 1977 1976 1975 JAN 29,2084 21,3001 16,4143 11,9172 9,5414 FEV 29,8682 21,7498 16,6979 12,1465 9,6870 MAR 30,5634 22,2542 17,0275 12,4178 9,8475 ABR 31,3269 22,8280 17,4136 12,7125 10,0326 MAI 32,4999 23,4947 17,9159 13,0338 10,2326 JUN 33,7411 24,2103 18,4925 13,4216 10,4684 JUL 34,8635 24,9399 19,1083 13,8178 10,6598 AGO 35,8141 25,7021 19,6192 14,1709 10,8421 SET 36,8430 26,4150 20,0212 14,5653 11,0112 OUT 38,3244 27,1051 20,3021 15,0451 11,2347 NOV 40,0813 27,7498 20,5837 15,5871 11,4786 DEZ 41,8914 28,4601 20,8908 16,0593 11,7210 1974 1973 JAN 7,2055 6,3339 FEV 7,2814 6,3966 MAR 7,3903 6,4636 ABR 7,4834 6,5414 MAI 7,6057 6,6165 JUN 7,7675 6,7004 JUL 8,0259 6,7748 AGO 8,3790 6,8354 SET 8,7785 6,8926 OUT 9,1073 6,9596 NOV 9,3040 7,0071 DEZ 9,4213 7,0670 Índices para valores expressos em Cruzeiros 1972 1971 1970 JAN 5,4984 4,5142 - FEV 5,5644 4,5974 - MAR 5,6387 4,6581 - ABR 5,7032 4,7046 - MAI 5,7790 4,7592 4,0291 JUN 5,8763 4,8272 4,0665 JUL 5,9817 4,9228 4,1292 AGO 6,0677 5,0211 4,1656 SET 6,1185 5,1265 4,2051 OUT 6,1625 5,2383 4,2551 NOV 6,2214 5,3437 4,3345 DEZ 6,2626 5,4314 4,4275 Índices para valores expressos em Cruzeiros Novos 1970 1969 1968 1967 JAN 3,7849 3,1835 2,5454 - FEV 3,8699 3,2416 2,5899 2,1254 MAR 3,9477 3,2988 2,6276 2,1700 ABR 3,9922 3,3453 2,6660 2,2021 MAI 4,0291 3,3971 2,7161 2,2353 JUN - 3,4391 2,7884 2,2754 JUL - 3,4856 2,8680 2,3397 AGO - 3,5096 2,9322 2,3988 SET - 3,5357 2,9858 2,4355 OUT - 3,5678 3,0280 2,4471 NOV - 3,6259 3,0735 2,4640 DEZ - 3,7017 3,1236 2,4989 Índices para valores expressos em Cruzeiros 1967 1966 1965 1964 1963 JAN 2076,2149 1483,6788 1009,9330 558,5094 256,9452 FEV 2125,4097 1523,8739 1009,9330 594,2552 279,4696 MAR - 1546,2213 1009,9330 633,6666 301,2861 ABR - 1572,9675 1197,6364 662,4604 307,2775 MAI - 1633,8163 1197,6364 686,7544 325,9594 JUN - 1706,2180 1197,6364 724,3962 352,1241 JUL - 1775,9147 1358,4926 775,6892 366,1544 AGO - 1825,9437 1358,4926 806,2526 387,7940 SET - 1877,7928 1403,1875 847,1808 417,4727 OUT - 1931,4115 1421,0351 893,7465 449,3759 NOV - 1982,4011 1434,4588 893,7465 473,0632 DEZ - 2027,9303 1456,8062 893,7465 514,5476 1962 1961 JAN 155,9645 111,5376 FEV 159,1750 110,2887 MAR 161,2328 111,8940 ABR 163,2881 117,0789 MAI 170,3513 117,8019 JUN 176,2466 119,4906 JUL 184,7356 119,6701 AGO 190,7269 125,5780 SET 196,8042 130,8438 OUT 202,9725 143,5394 NOV 220,7569 148,6308 DEZ 233,4550 151,0425 Índices para valores expressos em Cruzeiros 1960 1959 1958 1957 1956 1955 1954 JAN 84,6372 62,4743 51,6570 48,8888 39,3255 35,2149 26,9914 FEV 87,9463 66,7643 51,3916 49,1568 39,8614 34,8560 27,4186 MAR 89,1067 67,1207 51,3916 49,0658 40,4858 35,1239 27,7953 ABR 90,0016 68,8195 51,9275 48,4414 41,2012 35,9278 28,5107 MAI 90,0016 69,9799 52,6404 48,5299 42,0961 35,5714 29,0466 JUN 90,3580 70,8748 52,6404 48,4414 43,2565 35,9278 30,0300 JUL 92,0568 71,5902 52,9109 49,0658 43,8834 36,5548 30,9224 AGO 96,2609 75,0763 54,2507 49,9607 44,7758 37,3587 31,3699 SET 99,8279 77,2201 55,5906 49,8722 45,5797 38,2536 32,0853 OUT 104,6538 78,9189 57,8253 49,7812 46,5631 38,6985 32,4417 NOV 107,2476 81,5101 60,6870 50,4966 46,7426 39,0575 33,3366 DEZ 109,2194 82,8524 60,4165 51,3006 46,6541 39,5024 34,2315 Índices para valores expressos em Cruzeiros 1953 1952 1951 1950 1949 1948 1947 JAN 23,5060 22,3444 18,1431 15,3730 14,6573 13,7644 12,7813 FEV 23,6845 21,8975 18,4116 15,1042 14,7475 14,3006 12,8703 MAR 23,6845 21,7190 18,7693 14,8368 14,7475 14,2104 12,9595 ABR 23,3276 22,1649 19,3055 14,6573 14,8368 14,0319 12,8703 MAI 23,2383 21,9867 19,6625 14,7475 14,5681 13,9429 12,9595 JUN 23,5953 21,9867 19,5732 14,9260 14,5681 14,1211 12,9595 JUL 26,0080 22,5229 19,3055 15,4622 14,7475 14,0319 12,8703 AGO 25,8285 22,7011 19,6625 15,9984 14,9260 14,3006 12,7813 SET 25,9170 22,3444 19,8417 16,2669 15,1935 14,3006 12,8703 OUT 26,0965 22,7011 20,5564 16,9815 15,2837 14,3006 13,0487 NOV 26,7234 23,3276 20,9143 17,3392 15,5515 14,3006 13,4064 DEZ 26,9914 23,3276 21,3613 17,6962 15,5515 14,2104 13,4957 Índices para valores expressos em Cruzeiros 1946 1945 1944 1943 1942 JAN 11,1717 9,7424 8,4013 7,0607 - FEV 11,1717 9,9209 8,4013 7,1499 - MAR 11,3509 9,9209 8,4013 7,2394 - ABR 11,5294 9,9209 8,6695 7,3289 - MAI 11,6187 10,1886 8,6695 7,4181 - JUN 11,9764 10,3678 8,7587 7,5076 - JUL 12,1548 10,7255 8,9375 7,5969 - AGO 12,3341 10,5463 9,1162 7,6864 - SET 12,3341 10,6355 9,2952 7,7756 - OUT 12,5126 10,8148 9,2952 7,8651 - NOV 12,4233 10,8148 9,2952 7,9543 6,7925 DEZ 12,5126 10,9040 9,2952 8,1333 7,0607 Índices para valores expressos em Mil-Réis 1942 1941 1940 1939 1938 JAN 5,7201 5,1836 4,9157 4,6475 4,6475 FEV 5,8093 5,1836 4,9157 4,6475 4,6475 MAR 5,8988 5,2731 4,9157 4,6475 4,6475 ABR 5,9881 5,2731 4,9157 4,6475 4,6475 MAI 6,0775 5,3624 5,0049 4,7370 4,6475 JUN 6,2563 5,3624 5,0049 4,7370 4,6475 JUL 6,3455 5,4519 5,0049 4,7370 4,6475 AGO 6,4350 5,4519 5,0944 4,7370 4,6475 SET 6,5245 5,5414 5,0944 4,8262 4,6475 OUT 6,7032 5,5414 5,0944 4,8262 4,6475 NOV - 5,6306 5,0944 4,8262 4,6475 DEZ - 5,7201 5,1836 4,9157 4,6475 (*) Divida o valor original pelo índice correspondente ao mês/ano da aquisição ou pagamento para encontrar o valor atualizado até 31 de dezembro de 1995.
