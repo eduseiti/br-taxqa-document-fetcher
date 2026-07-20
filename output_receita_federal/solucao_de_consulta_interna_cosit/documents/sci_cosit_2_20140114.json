@@ -1,0 +1,170 @@
+{
+  "idAto": 50798,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 75,
+      "siglaTipoAto": "SCI",
+      "nomeTipoAto": "Solução de Consulta Interna",
+      "prioridadeTipoAto": 30,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "2",
+    "dataAto": "2014-01-14",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "14 de janeiro de 2014"
+  },
+  "epigrafeCompleta": "Solução de Consulta Interna Cosit nº 2, de 14 de janeiro de 2014",
+  "epigrafeSimplificada": "Solução de Consulta Interna Cosit nº 2, de 14/01/2014",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SCI Cosit nº 2/2014",
+  "dadosPublicacao": "Publicado no sitio da RFB em 21/01/2014",
+  "dataPublicacao": "2014-01-21",
+  "dataVigenciaInicio": "2014-01-21",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 50798,
+      "idSegmento": 1395329,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA - IRPF ALIENAÇÃO DE BEM IMÓVEL ADQUIRIDO POR FINANCIAMENTO BANCÁRIO. GANHO DE CAPITAL. CUSTO E DATA DE AQUISIÇÃO. Para fins de apuração do ganho de capital no âmbito da legislação do Imposto sobre a Renda da Pessoa Física, diante da ocorrência de alienação (contrato de compra e venda) de bem imóvel que fora adquirido por intermédio de financiamento em instituição financeira (financiamento bancário), considera-se: a)custo de aquisição aquele que corresponda ao total dos valores pagos, incluindo sinal (ou valor correspondente), os decorrentes das prestações efetuadas a cada ano-calendário, à medida que tenham sido pagas, os juros e demais acréscimos pagos no respectivo financiamento, bem como as despesas permitidas pela legislação do imposto como integrantes daquele custo (tais como: construção, ampliação, reforma etc), até o momento da respectiva alienação. b)data de aquisição: b.1)quando a aquisição (à época) feita pelo alienante não ficou condicionada à aprovação de financiamento/bancário pela instituição financeira/bancária, aquela que corresponda à concretização da transmissão dos direitos sobre o imóvel, decorrente do contrato de compra e venda; b.2) quando a aquisição (à época) feita pelo alienante ficou condicionada à aprovação de financiamento/bancário pela instituição financeira/bancária, constando tal fato expressamente do contrato, aquela que corresponda à concretização da transmissão dos direitos sobre o imóvel, decorrente da aprovação do financiamento e da celebração do contrato definitivo de compra e venda; Dispositivos Legais: Instruções Normativas SRF nºs 84, de 11 de outubro de 2001 e 599, de 28 de dezembro de 2005.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 50798,
+      "idSegmento": 1395330,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 29814,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SCI Cosit nº 02-2014.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/50798/visao/original"
+}

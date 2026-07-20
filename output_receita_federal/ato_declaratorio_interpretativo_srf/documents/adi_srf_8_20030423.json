@@ -1,0 +1,380 @@
+{
+  "idAto": 5614,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 10,
+      "siglaTipoAto": "ADI",
+      "nomeTipoAto": "Ato Declaratório Interpretativo",
+      "prioridadeTipoAto": 19,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "8",
+    "dataAto": "2003-04-23",
+    "orgaos": [
+      {
+        "idOrgao": 274,
+        "exibirOrgao": 1,
+        "siglaOrgao": "SRF",
+        "nomeOrgao": "Secretaria da Receita Federal",
+        "prioridadeOrgao": 62,
+        "emDestaque": true,
+        "posicaoPesquisa": 2,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "23 de abril de 2003"
+  },
+  "epigrafeCompleta": "Ato Declaratório Interpretativo SRF nº 8, de 23 de abril de 2003",
+  "epigrafeSimplificada": "Ato Declaratório Interpretativo SRF nº 8, de 23/04/2003",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "ADI SRF nº 8/2003",
+  "dadosPublicacao": "Publicado(a) no DOU de 25/04/2003, página 29",
+  "dataPublicacao": "2003-04-25",
+  "dataVigenciaInicio": "2003-04-25",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 5614,
+      "idSegmento": 27481,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Dispõe sobre o tratamento tributário das aplicações financeiras realizadas em moeda estrangeira nas hipóteses que especifica.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 5614,
+      "idSegmento": 27482,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 2,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 24 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, e no Processo nº 10168.001178/2003-70, declara:",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5614,
+      "idSegmento": 27483,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 1º O crédito de rendimentos relativos a aplicação financeira, inclusive depósito remunerado, realizada em moeda estrangeira por pessoa física residente no Brasil, implica a apuração de ganho de capital tributável, desde que o valor creditado seja passível de saque pelo beneficiário.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5614,
+      "idSegmento": 27484,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 4,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 2º São isentos os ganhos de capital relativos às aplicações financeiras realizadas em moeda estrangeira pela pessoa física na condição de não-residente no Brasil:",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5614,
+      "idSegmento": 316506,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 15,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 5,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "I - correspondentes ao primeiro crédito de rendimentos ocorrido a partir da data da caracterização da condição de residente no Brasil, na hipótese de aplicação financeira realizada por tempo indeterminado, inclusive depósito remunerado;",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5614,
+      "idSegmento": 316507,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 15,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 6,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "II - apurados na liquidação ou resgate, a partir da data da caracterização da condição de residente no Brasil, de aplicação financeira realizada por tempo determinado.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5614,
+      "idSegmento": 27485,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 7,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 3º Implica a apuração de ganho de capital tributável a liquidação ou resgate de aplicações financeiras:",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5614,
+      "idSegmento": 316508,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 15,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 8,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "I - mantidas pela pessoa física após o primeiro crédito de rendimentos ocorrido a partir da data da caracterização da condição de residente no Brasil, na hipótese do inciso I do art. 2º;",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5614,
+      "idSegmento": 316509,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 15,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 9,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "II - correspondentes à reaplicação total ou parcial dos valores liquidados ou resgatados, na hipótese do inciso II do art. 2º.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5614,
+      "idSegmento": 27486,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1000,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 10,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "JORGE ANTONIO DEHER RACHID",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 2,
+      "siglaTipoSegmento": "autor",
+      "nomeTipoSegmento": "Autor",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 2,
+        "atributos": [
+          {
+            "idEstiloSegmento": 2,
+            "idAtributoEstiloSegmento": 3,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 3,
+      "siglaTipoSegmento": "artigo",
+      "nomeTipoSegmento": "Artigo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 3,
+        "atributos": [
+          {
+            "idEstiloSegmento": 3,
+            "idAtributoEstiloSegmento": 100,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": 6,
+      "apareceEmSumario": true,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 15,
+      "siglaTipoSegmento": "inciso",
+      "nomeTipoSegmento": "Inciso",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 15,
+        "atributos": [
+          {
+            "idEstiloSegmento": 15,
+            "idAtributoEstiloSegmento": 22,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1000,
+      "siglaTipoSegmento": "assinatura",
+      "nomeTipoSegmento": "Assinatura",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 20,
+        "atributos": [
+          {
+            "idEstiloSegmento": 20,
+            "idAtributoEstiloSegmento": 26,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5614/visao/original"
+}

@@ -1,0 +1,252 @@
+{
+  "idAto": 90785,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 7,
+      "siglaTipoAto": "AD",
+      "nomeTipoAto": "Ato Declaratório",
+      "prioridadeTipoAto": 33,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "1",
+    "dataAto": "2018-03-12",
+    "orgaos": [
+      {
+        "idOrgao": 222,
+        "exibirOrgao": 1,
+        "siglaOrgao": "PGFN",
+        "nomeOrgao": "Procuradoria-Geral da Fazenda Nacional",
+        "prioridadeOrgao": 12,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "12 de março de 2018"
+  },
+  "epigrafeCompleta": "Ato Declaratório PGFN nº 1, de 12 de março de 2018",
+  "epigrafeSimplificada": "Ato Declaratório PGFN nº 1, de 12/03/2018",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "AD PGFN nº 1/2018",
+  "dadosPublicacao": "Publicado(a) no DOU de 15/03/2018, seção 1, página 46",
+  "dataPublicacao": "2018-03-15",
+  "dataVigenciaInicio": "2018-03-15",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 90785,
+      "idSegmento": 1873585,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "\"Autoriza a dispensa de apresentação de contestação, de interposição de recursos e a desistência dos já interpostos, desde que inexista outro fundamento relevante, nas ações judiciais que menciona.\"",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 90785,
+      "idSegmento": 1873293,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "O PROCURADOR-GERAL DA FAZENDA NACIONAL, no uso da competência legal que lhe foi conferida nos termos do inciso II do art. 19 da Lei nº 10.522, de 19 de julho de 2002, e do art. 5º do Decreto nº 2.346, de 10 de outubro de 1997, tendo em vista a aprovação do Parecer PGFN/CRJ/Nº 21/2018 desta Procuradoria-Geral da Fazenda Nacional, pelo Senhor Ministro de Estado da Fazenda, conforme despacho publicado no DOU de 8 de março de 2018, DECLARA que fica autorizada a dispensa de apresentação de contestação, de interposição de recursos e a desistência dos já interpostos, desde que inexista outro fundamento relevante:",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 90785,
+      "idSegmento": 1873294,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "“nas ações judiciais fundadas no entendimento de que a isenção do Imposto de Renda prevista no art. 6º, inciso XIV, da Lei nº 7.713, de 1988, abrange os proventos percebidos por militar na reserva remunerada”",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 90785,
+      "idSegmento": 1873295,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 4,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "JURISPRUDÊNCIA: REsp 981.593/PR, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe 05/08/2009; REsp 1125064/DF, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 14/04/2010; AgRg no AREsp 436.073/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe 06/02/2014; EDcl no REsp nº 1.674.593-RJ, Min. Mauro Campbell Marques, DJe 17/11/2017; REsp nº 1.638.976 - SC, Min. Francisco Falcão, DJe 09/03/2017; REsp nº 1.601.644-RJ, Min. Herman Benjamin, DJe 06/09/2016; AREsp nº 546.818 - RS, Min. Assusete Magalhães, DJe 12/06/2015; REsp nº 1.217.685-PR, Min. Napoleão Nunes Maia Filho, DJe 18/02/2014; REsp nº 1.597.227-RS, Min. Humberto Martins, DJe 24/05/2016.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 90785,
+      "idSegmento": 1873296,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 5,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "FABRÍCIO DA SOLLER",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 4,
+      "siglaTipoSegmento": "fecho",
+      "nomeTipoSegmento": "Fecho",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 4,
+        "atributos": [
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 89,
+            "atributo": "text-align",
+            "valor": "center"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 90,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 91,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": true
+    },
+    {
+      "idTipoSegmento": 999,
+      "siglaTipoSegmento": "nao identificad",
+      "nomeTipoSegmento": "Não Identificado",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 18,
+        "atributos": [
+          {
+            "idEstiloSegmento": 18,
+            "idAtributoEstiloSegmento": 25,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/90785/visao/original"
+}

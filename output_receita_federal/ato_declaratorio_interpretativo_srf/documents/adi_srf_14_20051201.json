@@ -1,0 +1,260 @@
+{
+  "idAto": 5655,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 10,
+      "siglaTipoAto": "ADI",
+      "nomeTipoAto": "Ato Declaratório Interpretativo",
+      "prioridadeTipoAto": 19,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "14",
+    "dataAto": "2005-12-01",
+    "orgaos": [
+      {
+        "idOrgao": 274,
+        "exibirOrgao": 1,
+        "siglaOrgao": "SRF",
+        "nomeOrgao": "Secretaria da Receita Federal",
+        "prioridadeOrgao": 62,
+        "emDestaque": true,
+        "posicaoPesquisa": 2,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "1º de dezembro de 2005"
+  },
+  "epigrafeCompleta": "Ato Declaratório Interpretativo SRF nº 14, de 1º de dezembro de 2005",
+  "epigrafeSimplificada": "Ato Declaratório Interpretativo SRF nº 14, de 01/12/2005",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "ADI SRF nº 14/2005",
+  "dadosPublicacao": "Publicado(a) no DOU de 02/12/2005, página 36",
+  "dataPublicacao": "2005-12-02",
+  "dataVigenciaInicio": "2005-12-02",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 5655,
+      "idSegmento": 27665,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Dispõe sobre as hipóteses em que se aplica o Ato Declaratório Interpretativo SRF nº 5, de 27 de abril de 2005, no caso de revisão de crédito tributário relativo ao Imposto sobre a Renda incidente sobre os valores pagos (em pecúnia) a título de férias integrais e de licença-prêmio não gozadas por necessidade do serviço, a trabalhadores em geral ou a servidores públicos.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 5655,
+      "idSegmento": 27666,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 2,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, tendo em vista o disposto nos §§ 4º e 5º do art. 19 da Lei nº 10.522, de 19 de julho de 2002, e o que consta no processo nº 10168.004133/2005-19, declara:",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5655,
+      "idSegmento": 27667,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 1º O Ato Declaratório Interpretativo SRF nº 5, de 27 de abril de 2005, editado em decorrência do Parecer PGFN/CRJ/Nº 1905/2004, de 29 de novembro de 2004, tratou da não incidência do imposto de renda somente nas hipóteses de pagamento de valores a título de férias integrais e de licença-prêmio não gozadas por necessidade do serviço quando da aposentadoria, rescisão de contrato de trabalho ou exoneração, previstas nas Súmulas nos 125 e 136 do Superior Tribunal de Justiça (STJ), a trabalhadores em geral ou a servidores públicos.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5655,
+      "idSegmento": 27668,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 4,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 2º Sofrem a incidência do imposto de renda, prevista no art. 3º, §§ 1º e 4º, da Lei nº 7.713, de 1988, e no art. 43, inciso III, do Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto de Renda (RIR/1999), as demais formas de pagamento em pecúnia a título de férias e de licença-prêmio não gozadas.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5655,
+      "idSegmento": 27669,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1000,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 5,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "JORGE ANTONIO DEHER RACHID",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 2,
+      "siglaTipoSegmento": "autor",
+      "nomeTipoSegmento": "Autor",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 2,
+        "atributos": [
+          {
+            "idEstiloSegmento": 2,
+            "idAtributoEstiloSegmento": 3,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 3,
+      "siglaTipoSegmento": "artigo",
+      "nomeTipoSegmento": "Artigo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 3,
+        "atributos": [
+          {
+            "idEstiloSegmento": 3,
+            "idAtributoEstiloSegmento": 100,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": 6,
+      "apareceEmSumario": true,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1000,
+      "siglaTipoSegmento": "assinatura",
+      "nomeTipoSegmento": "Assinatura",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 20,
+        "atributos": [
+          {
+            "idEstiloSegmento": 20,
+            "idAtributoEstiloSegmento": 26,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5655/visao/original"
+}

@@ -1,0 +1,170 @@
+{
+  "idAto": 99742,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "116",
+    "dataAto": "2019-03-26",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "26 de março de 2019"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 116, de 26 de março de 2019",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 116, de 26/03/2019",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 116/2019",
+  "dadosPublicacao": "Publicado(a) no DOU de 01/04/2019, seção 1, página 77",
+  "dataPublicacao": "2019-04-01",
+  "dataVigenciaInicio": "2019-04-01",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 99742,
+      "idSegmento": 1976078,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Assunto: Imposto sobre a Renda de Pessoa Física - IRPF \n<br>\n RENDIMENTOS DE ALUGUEIS. EXCLUSÕES DA BASE DE CÁLCULO MENSAL. DEDUÇÃO NA DECLARAÇÃO DE AJUSTE ANUAL (DAA). CARNÊ-LEÃO. \n<br>\n O excedente das despesas arcadas pelo locador e enquadradas como passíveis de dedução da base de cálculo do Imposto sobre a Renda de apuração mensal (carnê-leão) podem ser abatidos nos meses subsequentes desde que dentro do mesmo ano-calendário em que as receitas de aluguel do mesmo imóvel tenham sido auferidas. \n<br>\n Não há previsão legal para dedução das despesas com \"taxa de manutenção da Associação de Proprietários\" da base de cálculo do Imposto sobre a Renda de apuração mensal (carnê-leão). \n<br>\n Dispositivos Legais: Lei nº 7.739, de 16 de março de 1989, art. 14; Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, art. 30 e 31. \n<br>\n Assunto: Normas Gerais de Direito Tributário \n<br>\n PROCESSO DE CONSULTA. INEFICÁCIA PARCIAL. \n<br>\n É ineficaz a consulta formulada na parte relativa a questionamentos sobre o preenchimento da Declaração de Ajuste Anual (DAA). \n<br>\n Dispositivos Legais: Decreto nº 70.235, de 6 de março de 1972, art. 52, inciso I, c/c art. 46; Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013, art. 18, incisos I e II.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 99742,
+      "idSegmento": 1976079,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": ".",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 51833,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 116-2019.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/99742/visao/original"
+}

@@ -35,38 +35,55 @@ extraction, reuses `WordDocumentBuilder`). Shared helpers `parse_pt_date` and
 `construct_urn_helper` live in `legal_document_processor.py`. Offline tests:
 `tests/test_decreto_fetching.py` (fixtures under `tests/fixtures/`).
 
-## Instrução Normativa (Receita Federal) Fetching (third source)
+## Receita Federal Norms Fetching (third source — all act types)
 
-`instrucao_normativa_srf` (and, parameterized, `instrucao_normativa_rfb`) come
-from the Receita Federal norms portal (`sijut2consulta`) — **plain `requests`,
-no Selenium**. Two stages:
+All Receita-Federal-portal acts referenced in the canonical file come from the
+Receita norms portal (`sijut2consulta`) — **plain `requests`, no Selenium**. This
+started as Instrução Normativa SRF and is now generalized to **every act type in
+the `ACT_TYPES` registry**: IN (SRF/RFB), Solução de Consulta / Interna /
+Divergência (Cosit), Ato Declaratório "Comum"/Executivo/Interpretativo/Normativo
+(SRF/RFB/Cosit/Cosar/Codac/PGFN), Parecer Normativo (CST/Cosit), Portaria MF,
+Resolução CGSN, Despacho, etc. Two stages:
 
 - **Search** -> `GET normas.receita.fazenda.gov.br/sijut2consulta/consulta.action`
-  with the *full* form field set (empty body otherwise), `tiposAtosSelecionados=42`
-  (Instrução Normativa), `numero_ato`, `ano_ato`, `tipoData` (1=act date, 2=
-  publicação) -> server-rendered HTML -> scrape `link.action?idAto=NNNN`.
+  with the *full* form field set (empty body otherwise): `tiposAtosSelecionados`
+  = the "Tipo do ato" code (IN=42, SC=72, SCI=75, SD=73, AD=7, ADE=9, ADI=10,
+  ADN=11, Parec. Norm.=59, Parec.=61, Nota=77, Port.=57, Resol.=67, Desp.=35),
+  **`orgaosSelecionados` = the órgão facet value** (e.g. `SRF`, `RFB`, `Cosit`,
+  `CST`, `PGFN`, `Codac`, `MF`, `CGSN` — the value **is** the sigla; the portal
+  filters by órgão server-side, which resolves same-number/same-year collisions
+  across órgãos), `numero_ato`, `ano_ato`, `tipoData` (1=act date, 2=publicação)
+  -> server-rendered HTML -> scrape `link.action?idAto=NNNN`.
 - **Content** -> `GET normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/{idAto}/visao/{slug}`
   (needs a same-site `Referer`/`Origin` or the WAF returns 403). JSON carries the
   épigrafe (type/number/date/órgão), ementa, and body segments (`outrosSegmentos`).
   View chain `original -> vigente -> multivigente` (406 = view unavailable).
 
-Every `idAto` is **verified** against the canonical `(siglaTipoAto=IN, number,
-órgão sigla=SRF, dataAto)` before saving — the same number recurs across years
-and órgãos (SRF renamed RFB in 2007; genuine collisions like nº 84 in 1979 vs
-2001). **Republications:** an act is often published in the DOU several times
-(original + retificações), yielding multiple verified `idAto`s with identical
-number/date/órgão; only the **earliest-published** one carries the full text
-(later ones are correction excerpts), so it is chosen and the others recorded as
-`alternate_id_atos`. Acts absent from the portal (e.g. IN SRF nº 23/1983,
-nº 84/1979 predate its coverage) go to `needs_review.json`.
+Every `idAto` is **verified** against the canonical act before saving:
+`epigrafe.tipoAto.idTipoAto == tipo_code` (numeric — robust to punctuated siglas
+like `Parec. Norm.`), `numeroAto == number`, `orgaos[].siglaOrgao == orgao`
+(**case-insensitive**; portal mixes `SRF`/`RFB`/`CST` with `Cosit`/`Codac`), and
+`dataAto`. The same number recurs across years/órgãos (SRF renamed RFB in 2007;
+`AD nº 22/1997` exists for SRF, Cosar **and** Cosit with three different dates).
+Act types whose issuing unit is ambiguous/regional (a generic `Parecer`, or
+`Disit/SRRF` Soluções de Consulta) use `orgao=None` → match on tipo+number+date
+only. **Republications:** an act published in the DOU several times (original +
+retificações) yields multiple verified `idAto`s with identical number/date/órgão;
+only the **earliest-published** one carries the full text, so it is chosen and the
+others recorded as `alternate_id_atos`. Acts absent from the portal (e.g. IN SRF
+nº 23/1983, Parecer SEI, Parecer PGFNCAT) go to `needs_review.json`.
 
-Run: `python fetch_instrucoes_normativas_main.py` (`--only`, `--limit N`,
-`--dry-run`, `--no-docx`). Outputs to `output_instrucoes_normativas/{documents,
-metadata}/`: per act a lossless `.json`, reconstructed `.txt`, and `.docx`
-(parity). Key modules: `receita_norma_fetcher.py` (`ActType` registry makes the
-`(tipo_code, orgao_sigla)` pair the only act-specific bits, reusable for other
-RFB act types), `fetch_instrucoes_normativas_main.py` (orchestrator). Offline
-tests: `tests/test_instrucao_normativa_fetching.py`.
+Run: `python fetch_receita_normas_main.py` (default: whole registry;
+`--only <slug>`, `--types a,b,c`, `--exclude`, `--limit N`, `--dry-run`,
+`--no-docx`, `--list`). **Output — one folder per document kind:**
+`output_receita_federal/<type_slug>/{documents,metadata}/` (per act a lossless
+`.json`, reconstructed `.txt`, and `.docx`), plus
+`output_receita_federal/metadata/aggregate_report.json` (roll-up across kinds).
+Key modules: `receita_norma_fetcher.py` (`ActType` + `_REGISTRY_TABLE` make the
+`(tipo_code, orgao)` pair the only act-specific bits), `fetch_receita_normas_main.py`
+(orchestrator). The old `fetch_instrucoes_normativas_main.py` is a deprecated shim
+that defaults to IN SRF + `output_instrucoes_normativas/`. Offline tests:
+`tests/test_instrucao_normativa_fetching.py`.
 
 ## Key Commands
 

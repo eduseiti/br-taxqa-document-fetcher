@@ -1,0 +1,170 @@
+{
+  "idAto": 89092,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "600",
+    "dataAto": "2017-12-21",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "21 de dezembro de 2017"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 600, de 21 de dezembro de 2017",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 600, de 21/12/2017",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 600/2017",
+  "dadosPublicacao": "Publicado(a) no DOU de 02/01/2018, seção 1, página 40",
+  "dataPublicacao": "2018-01-02",
+  "dataVigenciaInicio": "2018-01-02",
+  "exibirVisoes": "1110",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 89092,
+      "idSegmento": 1842615,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA - IRPF \n<br>\n EMENTA: Ganho de Capital.Valor a ser tributado. Data de aquisição. Usucapião. \n<br>\n Para efeito de redução na apuração do valor a ser tributado como ganho de capital sobre imóvel adquirido por Usucapião Extraordinário, considera-se como data de aquisição, aquela em que se concluiu o período aquisitivo da propriedade em função da posse e demais requisitos inerentes ao usucapião extraordinário. \n<br>\n DISPOSITIVOS LEGAIS: Lei nº 10.406, de 10 de janeiro de 2002, art. 1.238; Lei nº 7.713, de 22 de dezembro de 1988, art. 18; Instrução Normativa SRF nº 84, de 11 de outubro de 2001, art. 21, inciso I.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 89092,
+      "idSegmento": 1842826,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Novo segmento",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 46824,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 600-2017.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/89092/visao/original"
+}

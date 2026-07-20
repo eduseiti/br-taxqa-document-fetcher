@@ -1,0 +1,222 @@
+{
+  "idAto": 135076,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "98",
+    "dataAto": "2023-05-10",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "10 de maio de 2023"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 98, de 10 de maio de 2023",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 98, de 10/05/2023",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 98/2023",
+  "dadosPublicacao": "Publicado(a) no DOU de 01/12/2023, seção 1, página 106",
+  "dataPublicacao": "2023-12-01",
+  "dataVigenciaInicio": "2023-12-01",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 135076,
+      "idSegmento": 2483643,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Assunto: Imposto sobre a Renda de Pessoa Física - IRPF \n<br>\n Os rendimentos percebidos por residente no Brasil, decorrentes da prestação de serviços de consultoria técnica para o Instituto Interamericano de Cooperação para a Agricultura (IICA), organismo especializado da Organização dos Estados Americanos (OEA), sujeitam-se ao recolhimento mensal obrigatório, e devem integrar a base de cálculo do imposto na Declaração de Ajuste Anual (DAA). \n<br>\n Dispositivos Legais: Carta da OEA, promulgada pelo Decreto nº 30.544, de 1952, art. 135; Acordo de Privilégios e Imunidades da Organização dos Estados Americanos, promulgado pelo Decreto nº 57.942, de 1966, art. 1º, caput; Convenção sobre o Instituto Interamericano de Cooperação para a Agricultura, promulgada pelo Decreto nº 86.365, de 1981, art. 28; Acordo Básico entre o Governo da República Federativa do Brasil e o Instituto Interamericano de Cooperação para Agricultura sobre Privilégios e Imunidades e Relações Institucionais, promulgado pelo Decreto nº 361, de 1991, art. 13; Regulamento do Imposto sobre a Renda e Proventos de Qualquer Natureza, aprovado pelo Decreto nº 9.580, de 2018 (RIR/2018), arts. 20, 47, 118, inciso III e 120; Instrução Normativa SRF nº 208, de 2002, arts. 1º e 21.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 135076,
+      "idSegmento": 2483644,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "SC Cosit nº 98-2023",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 72084,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 98-2023.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 135076,
+      "idSegmento": 2483645,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "DANIEL TEXEIRA PRATES \n<br>\n Coordenador-Geral Substituto",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 4,
+      "siglaTipoSegmento": "fecho",
+      "nomeTipoSegmento": "Fecho",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 4,
+        "atributos": [
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 89,
+            "atributo": "text-align",
+            "valor": "center"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 90,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 91,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": true
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/135076/visao/original"
+}

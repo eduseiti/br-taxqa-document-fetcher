@@ -1,0 +1,232 @@
+{
+  "idAto": 113613,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 35,
+      "siglaTipoAto": "Desp.",
+      "nomeTipoAto": "Despacho",
+      "prioridadeTipoAto": 40,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "348",
+    "dataAto": "2020-11-05",
+    "orgaos": [
+      {
+        "idOrgao": 222,
+        "exibirOrgao": 1,
+        "siglaOrgao": "PGFN",
+        "nomeOrgao": "Procuradoria-Geral da Fazenda Nacional",
+        "prioridadeOrgao": 12,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "5 de novembro de 2020"
+  },
+  "epigrafeCompleta": "Despacho PGFN nº 348, de 5 de novembro de 2020",
+  "epigrafeSimplificada": "Despacho PGFN nº 348, de 05/11/2020",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "Desp. PGFN nº 348/2020",
+  "dadosPublicacao": "Publicado(a) no DOU de 10/11/2020, seção 1, página 14",
+  "dataPublicacao": "2020-11-10",
+  "dataVigenciaInicio": "2020-11-10",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 113613,
+      "idSegmento": 2203089,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "\"Aprova, para os fins do art. 19-A, caput e inciso III, da Lei nº 10.522, de 19 de julho de 2002, o PARECER SEI Nº 110/2018/CRJ/PGACET/PGFN-MF.\"",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 113613,
+      "idSegmento": 2203090,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Aprovo, para os fins do art. 19-A, caput e inciso III, da Lei nº 10.522, de 19 de julho de 2002, o PARECER SEI Nº 110/2018/CRJ/PGACET/PGFN-MF, que recomenda a não apresentação de contestação, a não interposição de recursos e a desistência dos já interpostos, desde que inexista outro fundamento relevante, nas ações judiciais baseadas no entendimento de que \"por força do art. 6º, XIV, da Lei nº 7.713, de 1988, do art. 39, §6º, do Decreto nº 3.000, de 1999, e do art. 6º, §4º, III, da IN RFB nº 1.500, de 2014, a isenção de imposto de renda instituída em benefício do portador de moléstia grave especificada na lei estende-se ao resgate das contribuições vertidas a plano de previdência complementar.\" Encaminhe-se à Secretaria Especial da Receita Federal do Brasil, consoante sugerido. Brasília, 26 de agosto de 2020.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 113613,
+      "idSegmento": 2203091,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "RICARDO SORIANO DE ALENCAR \n<br>\n Procurador-Geral",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 113613,
+      "idSegmento": 2203092,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 4,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Nota Normas: Este ato foi originalmente publicado sem a ementa",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 4,
+      "siglaTipoSegmento": "fecho",
+      "nomeTipoSegmento": "Fecho",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 4,
+        "atributos": [
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 89,
+            "atributo": "text-align",
+            "valor": "center"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 90,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 91,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": true
+    },
+    {
+      "idTipoSegmento": 999,
+      "siglaTipoSegmento": "nao identificad",
+      "nomeTipoSegmento": "Não Identificado",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 18,
+        "atributos": [
+          {
+            "idEstiloSegmento": 18,
+            "idAtributoEstiloSegmento": 25,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/113613/visao/original"
+}

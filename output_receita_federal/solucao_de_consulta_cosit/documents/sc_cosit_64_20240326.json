@@ -1,0 +1,222 @@
+{
+  "idAto": 136938,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "64",
+    "dataAto": "2024-03-26",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "26 de março de 2024"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 64, de 26 de março de 2024",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 64, de 26/03/2024",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 64/2024",
+  "dadosPublicacao": "Publicado(a) no DOU de 28/03/2024, seção 1, página 63",
+  "dataPublicacao": "2024-03-28",
+  "dataVigenciaInicio": "2024-03-28",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 136938,
+      "idSegmento": 2508910,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Assunto: Imposto sobre a Renda de Pessoa Física - IRPF \n<br>\n IMPOSTO SOBRE A RENDA. HIPÓTESE DE INCIDÊNCIA. INTERVALO ENTRE JORNADAS DE TRABALHO INDENIZADO. BASE DE CÁLCULO. \n<br>\n O tratamento tributário do pagamento a título de intervalo interjornada não foi modificado com a entrada em vigor da Lei nº 13.467, de 13 de julho de 2017. O valor pago pela supressão total ou parcial do horário de intervalo do empregado, seja intervalo interjornada ou intrajornada, integra a base de cálculo do imposto sobre a renda retido na fonte a título de antecipação do devido na Declaração de Ajuste Anual. \n<br>\n PAGAMENTO DE PARTICIPAÇÃO NOS LUCROS E RESULTADO A DIRETOR ESTATUTÁRIO NÃO EMPREGADO. \n<br>\n A participação nos lucros e resultados paga a diretor estatutário não empregado não está abrigada nos termos da Lei nº 10.101, de 19 de dezembro de 2000, devendo ser considerada como rendimento tributável da espécie, sujeito à retenção na fonte, calculado com base na tabela progressiva mensal. \n<br>\n Dispositivos legais: Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), arts. 43, 111, 113 e 114; Lei nº 10.101, de 19 de dezembro de 2000, arts. 1º e 2º; Regulamento do Imposto sobre a Renda e Proventos de Qualquer Natureza (RIR/2018), aprovado pelo Decreto nº 9.580, de 22 de novembro de 2018, art. 36, inciso XIII, alínea \"b\". \n<br>\n Assunto: Contribuições Sociais Previdenciárias \n<br>\n CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS. HIPÓTESE DE INCIDÊNCIA. INTERVALO INTERJORNADA INDENIZADO. BASE DE CÁLCULO. \n<br>\n Após a vigência da Lei nº 13.467, de 2017, a verba paga em razão da supressão parcial ou total do intervalo interjornada ou intrajornada integra a base de cálculo das contribuições sociais previdenciárias sobre a folha de salários e salário-de-contribuição. \n<br>\n SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 108, DE 7 DE JUNHO DE 2023. \n<br>\n PAGAMENTO DE PARTICIPAÇÃO NOS LUCROS E RESULTADOS A DIRETOR ESTATUTÁRIO NÃO EMPREGADO. CONTRIBUINTE INDIVIDUAL. \n<br>\n O diretor estatutário, que participe ou não do risco econômico do empreendimento, eleito por assembleia geral de acionistas para o cargo de direção de sociedade anônima, que não mantenha as características inerentes à relação de emprego, é segurado obrigatório da previdência social na categoria contribuinte individual, e a sua participação nos lucros e resultados da empresa de que trata a Lei nº 10.101, de 2000, integra o salário-de-contribuição, para fins de recolhimento das contribuições previdenciárias. \n<br>\n SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 368, DE 18 DE DEZEMBRO DE 2014. \n<br>\n Dispositivos legais: Lei nº 8.212, de 24 de julho de 1991, art. 12, incisos I, alínea \"a\", e V, alínea \"f\", art. 22, caput, incisos I e III, e § 2º, e art. 28, caput, incisos I e III, e § 9º, alínea \"f\"; Lei nº 10.101, de 2000, arts. 1º a 3º; Decreto nº 3.048, de 6 de maio de 1999, art. 9º, incisos I, alínea \"a\", e V, alínea \"f\", e §§ 2º e 3º. \n<br>\n Assunto: Normas de Administração Tributária \n<br>\n TRIBUTO NÃO ADMINISTRADO PELA RFB. INEFICÁCIA. \n<br>\n É ineficaz a consulta na parte que versar sobre tributo não administrado pela Secretaria Especial da Receita Federal do Brasil (RFB). \n<br>\n Dispositivos legais: Instrução Normativa RFB nº 2.058, de 9 de dezembro de 2021, art. 1º.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 136938,
+      "idSegmento": 2509003,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "SC Cosit nº 64-2024",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 73232,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 64-2024.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 136938,
+      "idSegmento": 2508912,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "RODRIGO AUGUSTO VERLY DE OLIVEIRA \n<br>\n Coordenador-Geral",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 4,
+      "siglaTipoSegmento": "fecho",
+      "nomeTipoSegmento": "Fecho",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 4,
+        "atributos": [
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 89,
+            "atributo": "text-align",
+            "valor": "center"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 90,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 91,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": true
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/136938/visao/original"
+}

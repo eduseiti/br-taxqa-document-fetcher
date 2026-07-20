@@ -1,0 +1,260 @@
+{
+  "idAto": 30969,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 59,
+      "siglaTipoAto": "Parec. Norm.",
+      "nomeTipoAto": "Parecer Normativo",
+      "prioridadeTipoAto": 16,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "179",
+    "dataAto": "1970-07-27",
+    "orgaos": [
+      {
+        "idOrgao": 122,
+        "exibirOrgao": 1,
+        "siglaOrgao": "CST",
+        "nomeOrgao": "Coordenação do Sistema de Tributação",
+        "prioridadeOrgao": 123,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "27 de julho de 1970"
+  },
+  "epigrafeCompleta": "Parecer Normativo CST nº 179, de 27 de julho de 1970",
+  "epigrafeSimplificada": "Parecer Normativo CST nº 179, de 27/07/1970",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "Parec. Norm. CST nº 179/1970",
+  "dadosPublicacao": "Publicado(a) no DOU de 22/09/1970, seção 1, página 0",
+  "dataPublicacao": "1970-09-22",
+  "dataVigenciaInicio": "1970-09-22",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 30969,
+      "idSegmento": 274011,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "A indenização e o aviso prévio pagos em dinheiro por despedida ou rescisão de contrato de trabalho, não excedentes aos limites garantidos por lei, e bem assim as indenizações decorrentes da rescisão de contratos nos termos do art. 35 e seus parágrafos do Decreto nº 59.820, de 20 de dezembro de 1966 (Regulamento do Fundo de Garantia do Tempo de Serviço), obedecidos também os citados limites, estão isentos do imposto de renda.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 30969,
+      "idSegmento": 274012,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 6,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "As indenizações trabalhistas previstas na Consolidação das Leis do Trabalho e as importâncias pagas a esse título nos termos do art. 35 e seus parágrafos do Decreto nº 59.820, de 20 de dezembro de 1966, em virtude de rescisão de contrato de trabalho por livre acordo entre as partes, não são alcançadas pelo imposto de renda de pessoa jurídica, pessoa física ou fonte, desde que obedecidas fielmente, as normas e os limites financeiros a que se refere a legislação pertinente.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 30969,
+      "idSegmento": 274013,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Revisão COSIT em 02/03/2007",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 30969,
+      "idSegmento": 1174353,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 4,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "1. Teor do PN Superado.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 30969,
+      "idSegmento": 1174354,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 5,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "2. O Decreto nº 59.820, de 20 de dezembro de 1966, foi revogado pelo Decreto nº 99.864, de 08/11/1990.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 30969,
+      "idSegmento": 1174355,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 6,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "3. A tributação dos rendimentos provenientes de rescisão de contrato de trabalho encontra-se disciplinada no art. 6º, inciso V, da Lei nº 7.713, de 22 de dezembro de 1988, e do art. 28 da Lei nº 8.036, de 1990.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 6,
+      "siglaTipoSegmento": "item",
+      "nomeTipoSegmento": "Item",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 6,
+        "atributos": [
+          {
+            "idEstiloSegmento": 6,
+            "idAtributoEstiloSegmento": 7,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 999,
+      "siglaTipoSegmento": "nao identificad",
+      "nomeTipoSegmento": "Não Identificado",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 18,
+        "atributos": [
+          {
+            "idEstiloSegmento": 18,
+            "idAtributoEstiloSegmento": 25,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/30969/visao/original"
+}

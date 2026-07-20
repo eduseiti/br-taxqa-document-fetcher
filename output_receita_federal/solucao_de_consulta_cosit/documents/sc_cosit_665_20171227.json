@@ -1,0 +1,170 @@
+{
+  "idAto": 89166,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "665",
+    "dataAto": "2017-12-27",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "27 de dezembro de 2017"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 665, de 27 de dezembro de 2017",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 665, de 27/12/2017",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 665/2017",
+  "dadosPublicacao": "Publicado(a) no DOU de 03/01/2018, seção 1, página 147",
+  "dataPublicacao": "2018-01-03",
+  "dataVigenciaInicio": "2018-01-03",
+  "exibirVisoes": "1110",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 89166,
+      "idSegmento": 1843090,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA - IRPF EMENTA: DECLARAÇÃO DE AJUSTE ANUAL. DEDUÇÃO. PENSÃO ALIMENTÍCIA. SENTENÇA ESTRANGEIRA DE DIVÓRCIO CONSENSUAL. HOMOLOGAÇÃO PRÉVIA PELO STJ. As importâncias pagas a título de pensão alimentícia, quando em cumprimento de sentença de divórcio consensual proferida no exterior, poderão ser deduzidas da base de cálculo do Imposto sobre a Renda da Pessoa Física (IRPF) mensalmente e na Declaração de Ajuste Anual (DAA), desde que tal sentença seja previamente homologada pelo Superior Tribunal de Justiça. DISPOSITIVOS LEGAIS: Lei nº 9.250, de 26 de dezembro de 1995, Arts. 4º e 8º, com a redação dada pela Lei nº 11.727, de 23 de junho de 2008; Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda (RIR/1999), Arts. 78, 83 e 643; Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, Arts. 101 a 103; Constituição Federal de 1988, Art. 105, inciso I, alínea “i”; Lei nº 13.105, de 16 de março de 2015 – Código de Processo Civil (CPC), Art. 961, § 5º; e Provimento nº 53, de 16 de maio de 2016 da Corregedoria Nacional de Justiça do Conselho Nacional de Justiça (CNJ), Art. 1º § 3º.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 89166,
+      "idSegmento": 1843091,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 46878,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 665-2017.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/89166/visao/original"
+}

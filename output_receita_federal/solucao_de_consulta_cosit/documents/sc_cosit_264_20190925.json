@@ -1,0 +1,170 @@
+{
+  "idAto": 103811,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "264",
+    "dataAto": "2019-09-25",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "25 de setembro de 2019"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 264, de 25 de setembro de 2019",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 264, de 25/09/2019",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 264/2019",
+  "dadosPublicacao": "Publicado(a) no DOU de 27/09/2019, seção 1, página 143",
+  "dataPublicacao": "2019-09-27",
+  "dataVigenciaInicio": "2019-09-27",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 103811,
+      "idSegmento": 2019195,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Assunto: Imposto sobre a Renda de Pessoa Física - IRPF \n<br>\n GANHO DE CAPITAL - ALIENAÇÃO DE COTAS DE ETF E REIT - ISENÇÃO - OPERAÇÕES DE PEQUENO VALOR \n<br>\n O ganho de capital apurado na alienação de bens ou direitos e na liquidação ou resgate de aplicações financeiras, adquiridos, a qualquer título, em moeda estrangeira, é tributado pelo imposto sobre a renda da pessoa física em conformidade com o disposto no art. 24 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001. \n<br>\n É isento do imposto sobre a renda o ganho de capital auferido na alienação realizada em bolsa de valores no exterior de ETFs (Exchange Traded Funds) e REITs (Real Estate Investment Trust) cujo valor total das alienações, no mês em que as operações se realizarem, seja igual ou inferior a R$ 35.000,00 (trinta e cinco mil reais). \n<br>\n O limite de R$ 35.000,00 (trinta e cinco mil reais) deve ser considerado em relação à soma dos valores de alienação dos ETFs e dos REITs, realizadas no exterior no mês. \n<br>\n Dispositivos Legais: Lei nº 9.250, de 26 de dezembro de 1995, art. 22; Medida Provisória nº 2.158, de 24 de agosto de 2001, art. 25; Regulamento do Imposto sobre a Renda (RIR/2018), art. 133, aprovado pelo Decreto nº 9.580, de 22 de novembro de 2018; Instrução Normativa SRF nº 118, de 28 de dezembro de 2000, arts. 17 e 18; Instrução Normativa SRF nº 599, de 28 de dezembro de 2005, art. 1º; e Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, art. 10.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 103811,
+      "idSegmento": 2019196,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": ".",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 53863,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 264-2019.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/103811/visao/original"
+}

@@ -1,0 +1,222 @@
+{
+  "idAto": 114755,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "138",
+    "dataAto": "2020-12-08",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "8 de dezembro de 2020"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 138, de 8 de dezembro de 2020",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 138, de 08/12/2020",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 138/2020",
+  "dadosPublicacao": "Publicado(a) no DOU de 05/01/2021, seção 1, página 7",
+  "dataPublicacao": "2021-01-05",
+  "dataVigenciaInicio": "2021-01-05",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 114755,
+      "idSegmento": 2221154,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Assunto: Imposto sobre a Renda de Pessoa Física - IRPF \n<br>\n PREVIDÊNCIA PRIVADA - PGBL. PORTADOR DE NEOPLASIA MALIGNA. BENEFÍCIO. ISENÇÃO. RESGATE. \n<br>\n Em razão do disposto nos arts. 19, inciso V, e 19-A, inciso III, da Lei nº 10.522, de 2002, e no Parecer SEI nº 110/2018/CRJ/PGACET/PGFN-MF, aprovado pelo Despacho nº 348/2020/PGFN-ME, a isenção do imposto sobre a renda, prevista no art. 6º, inciso XIV, da Lei nº 7.713, de 1988, e no art. 35, § 4º, inciso III, do Regulamento do Imposto sobre a Renda de 2018, instituída em benefício do portador de moléstia grave estende-se ao resgate das contribuições vertidas a plano de previdência complementar. \n<br>\n Dispositivos Legais: Lei nº 7.713, de 1988, art. 6º, inciso XIV; Lei nº 10.522, de 2002, arts. 19, inciso V, e 19-A, inciso III; Regulamento do Imposto sobre a Renda (RIR/2018), aprovado pelo Decreto nº 9.580, de 2018, art. 35, § 4º, inciso III. \n<br>\n Assunto: Processo Administrativo Fiscal \n<br>\n CONSULTA SOBRE A INTERPRETAÇÃO DA LEGISLAÇÃO TRIBUTÁRIA. \n<br>\n Não produz efeitos a consulta quando o fato estiver definido ou declarado em disposição literal de lei. \n<br>\n Dispositivos Legais: Decreto nº 70.235, de 1972, art. 52, inciso VI; Instrução Normativa RFB nº 1.396, de 2013, art. 18, inciso IX.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 114755,
+      "idSegmento": 2221155,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "FERNANDO MOMBELLI \n<br>\n Coordenador-Geral",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 114755,
+      "idSegmento": 2221156,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "SC Cosit nº 138-2020",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 59372,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 138-2020.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 4,
+      "siglaTipoSegmento": "fecho",
+      "nomeTipoSegmento": "Fecho",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 4,
+        "atributos": [
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 89,
+            "atributo": "text-align",
+            "valor": "center"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 90,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 91,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": true
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/114755/visao/original"
+}

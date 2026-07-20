@@ -1,0 +1,288 @@
+{
+  "idAto": 295,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 7,
+      "siglaTipoAto": "AD",
+      "nomeTipoAto": "Ato Declaratório",
+      "prioridadeTipoAto": 33,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "1",
+    "dataAto": "2009-03-27",
+    "orgaos": [
+      {
+        "idOrgao": 222,
+        "exibirOrgao": 1,
+        "siglaOrgao": "PGFN",
+        "nomeOrgao": "Procuradoria-Geral da Fazenda Nacional",
+        "prioridadeOrgao": 12,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "27 de março de 2009"
+  },
+  "epigrafeCompleta": "Ato Declaratório PGFN nº 1, de 27 de março de 2009",
+  "epigrafeSimplificada": "Ato Declaratório PGFN nº 1, de 27/03/2009",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "AD PGFN nº 1/2009",
+  "dadosPublicacao": "Publicado(a) no DOU de 14/05/2009, página 15",
+  "dataPublicacao": "2009-05-14",
+  "dataVigenciaInicio": "2009-05-14",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": false,
+  "vigente": false,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 295,
+      "idSegmento": 1512,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "\"Autoriza a dispensa de interposição de recursos e a desistência dos já interpostos, desde que inexista outro fundamento relevante, nas ações que especifica.\"",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 295,
+      "idSegmento": 1513,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 2,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "O PROCURADOR-GERAL DA FAZENDA NACIONAL, no uso da competência legal que lhe foi conferida, nos termos do inciso II do art. 19, da Lei nº 10.522, de 19 de julho de 2002, e do art. 5º do Decreto nº 2.346, de 10 de outubro de 1997, tendo em vista a aprovação do Parecer PGFN/CRJ/Nº 287/2009, desta Procuradoria-Geral da Fazenda Nacional, pelo Senhor Ministro de Estado da Fazenda, conforme despacho publicado no DOU de 13/05/2009, DECLARA que fica autorizada a dispensa de interposição de recursos e a desistência dos já interpostos, desde que inexista outro fundamento relevante:",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 295,
+      "idSegmento": 924551,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "\"nas ações judiciais que visem obter a declaração de que, no cálculo do imposto renda incidente sobre rendimentos pagos acumuladamente, devem ser levadas em consideração as tabelas e alíquotas das épocas próprias a que se referem tais rendimentos, devendo o cálculo ser mensal e não global.\".",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 295,
+      "idSegmento": 924552,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 4,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "JURISPRUDÊNCIA: Resp 424225/SC (DJ 19/12/2003); Resp 505081/RS (DJ 31/05/2004); Resp 1075700/RS (DJ 17/12/2008); AgRg no REsp 641.531/SC (DJ 21/11/2008); Resp 901.945/PR (DJ 16/08/2007).",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 295,
+      "idSegmento": 1514,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 5,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "LUÍS INÁCIO LUCENA ADAMS",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [
+    {
+      "idAto": 72722,
+      "idSegmento": 1614384,
+      "idAnotacao": 225969,
+      "href": "72722",
+      "texto": "[Revogado(a) pelo(a) Ato Declaratório PGFN nº 2, de 10 de março de 2016]",
+      "dataInicioVigencia": null,
+      "dataRepublicacao": null,
+      "permiteExcluir": true,
+      "permiteAlterarData": true,
+      "ehAgendamento": false,
+      "textoAgendamento": null,
+      "exibirDataInicioVigencia": false,
+      "permiteAgendamento": true
+    }
+  ],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 2,
+      "siglaTipoSegmento": "autor",
+      "nomeTipoSegmento": "Autor",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 2,
+        "atributos": [
+          {
+            "idEstiloSegmento": 2,
+            "idAtributoEstiloSegmento": 3,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 4,
+      "siglaTipoSegmento": "fecho",
+      "nomeTipoSegmento": "Fecho",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 4,
+        "atributos": [
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 89,
+            "atributo": "text-align",
+            "valor": "center"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 90,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 91,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": true
+    },
+    {
+      "idTipoSegmento": 999,
+      "siglaTipoSegmento": "nao identificad",
+      "nomeTipoSegmento": "Não Identificado",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 18,
+        "atributos": [
+          {
+            "idEstiloSegmento": 18,
+            "idAtributoEstiloSegmento": 25,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/295/visao/original"
+}

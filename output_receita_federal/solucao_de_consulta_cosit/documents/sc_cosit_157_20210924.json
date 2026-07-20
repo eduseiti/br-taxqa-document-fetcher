@@ -1,0 +1,222 @@
+{
+  "idAto": 120714,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "157",
+    "dataAto": "2021-09-24",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "24 de setembro de 2021"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 157, de 24 de setembro de 2021",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 157, de 24/09/2021",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 157/2021",
+  "dadosPublicacao": "Publicado(a) no DOU de 28/09/2021, seção 1, página 46",
+  "dataPublicacao": "2021-09-28",
+  "dataVigenciaInicio": "2021-09-28",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 120714,
+      "idSegmento": 2294158,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Assunto: Imposto sobre a Renda Retido na Fonte – IRRF \n<br>\n RENDIMENTOS DO TRABALHO. AUXÍLIO PARA CUSTEIO DE DESPESAS NECESSÁRIAS PARA O EXERCÍCIO DE CARGO, FUNÇÃO OU EMPREGO. \n<br>\n As importâncias pagas pela pessoa jurídica a membros de seu Conselho Deliberativo com a finalidade de ressarcir despesas de deslocamento necessárias para o exercício da atividade, constituídas de quantias fixas mensais, sem exigência de prestação de contas, sujeitam-se à incidência do imposto sobre a renda na fonte, mediante a aplicação da tabela progressiva mensal, e na Declaração de Ajuste Anual. \n<br>\n Dispositivos Legais: Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), arts. 43, 113, § 1º, e 114; Lei nº 7.713, de 22 de dezembro de 1988, arts. 2º, 3º, § 1º, e 7º; Lei nº 9.250, de 26 de dezembro de 1995, arts. 7º, caput, e 8º, inciso I; Lei nº 11.482, de 31 de maio de 2007, art. 1º; Regulamento do Imposto sobre a Renda (RIR/2018), aprovado pelo Decreto nº 9.580, de 22 de novembro de 2018, arts. 33, 34, 35, 677, 681 e 685 e 775. \n<br>\n Assunto: Processo Administrativo Fiscal \n<br>\n CONSULTA SOBRE INTERPRETAÇÃO DA LEGISLAÇÃO TRIBUTÁRIA \n<br>\n Não produz efeitos a consulta quando versar sobre fato definido ou declarado em disposição literal de lei e disciplinado em ato normativo, publicado antes de sua apresentação. \n<br>\n Dispositivos Legais: Decreto nº 70.235, de 6 de março de 1972, art. 52, incisos V e VI; Decreto nº 7.574, de 29 de setembro de 2011, art. 94, incisos V e VI; Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013, art. 18, incisos VII e IX.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 120714,
+      "idSegmento": 2294159,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "SC Cosit nº 157-2021",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 62767,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 157-2021.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 120714,
+      "idSegmento": 2294160,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "FERNANDO MOMBELLI \n<br>\n Coordenador-Geral",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 4,
+      "siglaTipoSegmento": "fecho",
+      "nomeTipoSegmento": "Fecho",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 4,
+        "atributos": [
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 89,
+            "atributo": "text-align",
+            "valor": "center"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 90,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 91,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": true
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/120714/visao/original"
+}

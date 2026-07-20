@@ -1,0 +1,170 @@
+{
+  "idAto": 99845,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "6007",
+    "dataAto": "2019-03-25",
+    "orgaos": [
+      {
+        "idOrgao": 400,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Disit/SRRF06",
+        "nomeOrgao": "Divisão de Tributação da 6ª Região Fiscal",
+        "prioridadeOrgao": 269,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "25 de março de 2019"
+  },
+  "epigrafeCompleta": "Solução de Consulta Disit/SRRF06 nº 6007, de 25 de março de 2019",
+  "epigrafeSimplificada": "Solução de Consulta Disit/SRRF06 nº 6007, de 25/03/2019",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Disit/SRRF06 nº 6007/2019",
+  "dadosPublicacao": "Publicado(a) no DOU de 03/04/2019, seção 1, página 18",
+  "dataPublicacao": "2019-04-03",
+  "dataVigenciaInicio": "2019-04-03",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 99845,
+      "idSegmento": 1977044,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Assunto: Imposto sobre a Renda Retido na Fonte - IRRF \n<br>\n PRECATÓRIO. CESSÃO DE CRÉDITO. NATUREZA JURÍDICA. \n<br>\n O crédito líquido e certo, decorrente de ação judicial e materializado por meio de precatório, mantém a natureza jurídica do fato que lhe deu origem, mesmo quando transferido a outrem com base em cessão do direito de crédito. \n<br>\n PRECATÓRIO. CESSÃO DE CRÉDITO. TRIBUTAÇÃO NA FONTE. \n<br>\n O acordo de cessão de direitos não afasta a tributação na fonte dos rendimentos tributáveis relativos ao precatório, no momento em for quitado pela Fazenda Pública, devendo tais rendimentos ser tributados em sua totalidade (como se não houvesse cessão). \n<br>\n FONTE PAGADORA. DIRF. BENEFICIÁRIO. \n<br>\n A fonte pagadora deve informar na Declaração do Imposto sobre a Renda Retido na Fonte (DIRF) como beneficiário o cedente, assim considerado o titular original do crédito judicial. RRA. FONTE PAGADORA. RETENÇÃO. \n<br>\n Tratando-se de rendimentos recebidos acumuladamente (RRA), a retenção na fonte deve se dar na forma do que dispõem os arts. 12-A ou 12-B da Lei nº 7.713, de 1988, quando forem correspondentes a anos-calendário anteriores ao do recebimento ou ao ano-calendário em curso, respectivamente. \n<br>\n RRA. ANOS-CALENDÁRIO ANTERIORES. FONTE PAGADORA. RETENÇÃO. TABELA PROGRESSIVA. NÚMERO DE MESES. \n<br>\n No caso de RRA correspondentes a anos-calendário anteriores ao do recebimento (art. 12-A da Lei nº 7.713, de 1988), a fonte pagadora deve efetuar a retenção e o recolhimento do IRRF com base na tabela progressiva resultante da multiplicação da quantidade total de meses a que se referem os rendimentos pelos valores constantes da tabela progressiva mensal correspondente ao mês do recebimento ou crédito. \n<br>\n SOLUÇÃO DE CONSULTA VINCULADA ÀS SOLUÇÕES DE CONSULTA COSIT Nº 208, DE 24/4/2017, E Nº 674, DE 27/12/2017. \n<br>\n Dispositivos Legais: Lei nº 7.713/1988, arts. 12-A e 12-B; Lei nº 9.779/1999, art. 16; Lei nº 11.798/2008, arts. 1º, 3º e 5º; Decreto nº 9.003/2017, arts. 1º, 2º e 25; Decreto nº 9.580/2018, Regulamento do Imposto de Renda - RIR/2018, art. 890; Portaria MF nº 430/2017, art. 1º; IN RFB nº 1.396/2013, arts. 9º e 22; IN RFB nº 1.500/2014, arts. 36 e 37; Parecer SRF/Cosit nº 26/2000. \n<br>\n Assunto: Processo Administrativo Fiscal \n<br>\n CONSULTA. INEFICÁCIA PARCIAL. \n<br>\n É ineficaz a consulta na parte que não atende aos requisitos legais exigidos, tratando-se de questionamentos genéricos, que não envolvem interpretação da legislação tributária; em que não se descreve, completa e exatamente, as hipóteses a que se refere; ou se tem por objetivo a prestação de assessoria jurídica ou contábil-fiscal. \n<br>\n Dispositivos Legais: IN RFB nº 1.396/2013, arts. 1º, 3º, § 2º, incisos III e IV, e 18, incisos I, II, XI e XIV; PN CST nº 342/1970.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 99845,
+      "idSegmento": 1979752,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 52033,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC SRRF06-Disit nº 6007-2019.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/99845/visao/original"
+}

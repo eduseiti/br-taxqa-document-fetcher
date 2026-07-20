@@ -1,0 +1,170 @@
+{
+  "idAto": 84694,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "354",
+    "dataAto": "2017-07-06",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "6 de julho de 2017"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 354, de 6 de julho de 2017",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 354, de 06/07/2017",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 354/2017",
+  "dadosPublicacao": "Publicado(a) no DOU de 25/07/2017, seção 1, página 76",
+  "dataPublicacao": "2017-07-25",
+  "dataVigenciaInicio": "2017-07-25",
+  "exibirVisoes": "1110",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 84694,
+      "idSegmento": 1746927,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA - IRPF EMENTA: CONTRIBUIÇÃO EXTRAORDINÁRIA A PLANO FECHADO DE PREVIDÊNCIA COMPLEMENTAR. INDEDUTIBILIDADE. As contribuições extraordinárias, ou seja, aquelas que se destinam ao.Custeio de déficit, serviço passado e outras finalidades não incluídas na.Contribuição normal, às entidades fechadas de previdência complementar, não são dedutíveis da base de cálculo do imposto sobre a renda de pessoa física. DISPOSITIVOS LEGAIS: Constituição Federal (com a redação dada pela Emenda Constitucional nº 3, de 17 de março de 1993), art. 150, § 6º; Lei Complementar nº 108, de 29 de maio de 2001, art. 6º; Lei Complementar nº 109, de 29 de maio de 2001, arts. 18 a 21, 68 e 69; Lei nº 9.250, de 26 de dezembro de 1995, arts. 4º, inciso V, e, 8º, incisos I e II, alínea e; Lei nº 9.532, de 10 de dezembro de 1997, art. 11; Instrução Normativa SRF nº 588, de 21 de dezembro de 2005, art. 6º. ASSUNTO: PROCESSO ADMINISTRATIVO FISCAL EMENTA: CONSULTA. INEFICÁCIA PARCIAL. É ineficaz a consulta quando, na hipótese de versar sobre situação determinada ainda não ocorrida, não fique demonstrada a efetiva possibilidade de sua ocorrência e, quando não indique os dispositivos da legislação tributária sobre cuja aplicação haja dúvida. DISPOSITIVOS LEGAIS: Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013, arts. 1º, 3º, § 2º, inciso IV, e § 8º, e 18, incisos I e II.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 84694,
+      "idSegmento": 2021292,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Novo segmento",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 53963,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 354-2017.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/84694/visao/original"
+}

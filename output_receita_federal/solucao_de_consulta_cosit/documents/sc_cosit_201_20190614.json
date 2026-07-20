@@ -1,0 +1,170 @@
+{
+  "idAto": 101697,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "201",
+    "dataAto": "2019-06-14",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "14 de junho de 2019"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 201, de 14 de junho de 2019",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 201, de 14/06/2019",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 201/2019",
+  "dadosPublicacao": "Publicado(a) no DOU de 19/06/2019, seção 1, página 36",
+  "dataPublicacao": "2019-06-19",
+  "dataVigenciaInicio": "2019-06-19",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 101697,
+      "idSegmento": 1996784,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Assunto: Imposto sobre a Renda Retido na Fonte – IRRF \n<br>\n RENDIMENTOS RECEBIDOS ACUMULADAMENTE (RRA) RELATIVOS A ANOS-CALENDÁRIO ANTERIORES AO DO RECEBIMENTO. PREVIDÊNCIA COMPLEMENTAR PRIVADA. TRIBUTAÇÃO. \n<br>\n Acerca do imposto sobre a renda, os rendimentos acumulados relativos a anos-calendário anteriores pagos por entidades fechadas de previdência complementar a) até 10 de março de 2015, devem ser consideradas as tabelas e alíquotas das épocas próprias a que se referem os rendimentos, devendo o cálculo ser mensal e, b) a partir de 11 de março de 2015, os rendimentos recebidos acumuladamente e submetidos à incidência do imposto sobre a renda com base na tabela progressiva passaram a ser tributados exclusivamente na fonte, no mês do recebimento ou crédito, em separado dos demais rendimentos recebidos no mês. \n<br>\n Dispositivos Legais: Lei nº 7.713, de 22 de dezembro de 1998, arts. 12 e 12-A; Instrução Normativa RFB nº 1127, de 7 de fevereiro de 2011, arts. 2º e 8º; Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, art. 36, caput e § 3º. \n<br>\n SOLUÇÃO DE CONSULTA QUE REVOGA A SOLUÇÃO DE CONSULTA COSIT Nº 135, DE 19 DE SETEMBRO DE 2018.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 101697,
+      "idSegmento": 1996785,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": ".",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 52834,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 201-2019.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/101697/visao/original"
+}

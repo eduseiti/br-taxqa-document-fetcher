@@ -1,0 +1,170 @@
+{
+  "idAto": 89170,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "674",
+    "dataAto": "2017-12-27",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "27 de dezembro de 2017"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 674, de 27 de dezembro de 2017",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 674, de 27/12/2017",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 674/2017",
+  "dadosPublicacao": "Publicado(a) no DOU de 03/01/2018, seção 1, página 147",
+  "dataPublicacao": "2018-01-03",
+  "dataVigenciaInicio": "2018-01-03",
+  "exibirVisoes": "1110",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 89170,
+      "idSegmento": 1843098,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA - IRPF EMENTA: GANHO DE CAPITAL. RRA. CESSÃO DE CRÉDITO. PRECATÓRIO. Havendo cessão do direito de crédito, relativo a rendimentos recebidos acumuladamente (RRA), a que se refere o art. 12-A da Lei nº 7.713, de 22 de dezembro de 1988, decorrente de ação judicial e materializado por meio de precatório, tanto o cedente quanto o cessionário deverão apurar o ganho de capital, sobre o qual incide imposto sobre a renda à alíquota de 15% (quinze por cento). O ganho de capital é tributado separadamente, não integra a base de cálculo do imposto na declaração de rendimentos, e o valor do imposto pago não poderá ser deduzido do devido no ajuste anual. CEDENTE. CUSTO DE AQUISIÇÃO. VALOR DE ALIENAÇÃO. Na cessão original, ou seja, naquela em que ocorre a primeira cessão de direitos, a pessoa física cedente deve apurar o ganho de capital considerando o custo de aquisição igual a zero, porquanto não existe valor pago pelo direito ao crédito; nas cessões subsequentes, o custo de aquisição será o valor pago pelo direito. O valor de alienação será o montante que o cedente receber do cessionário pela cessão de direitos do crédito. CESSIONÁRIO. CUSTO DE AQUISIÇÃO. VALOR DE ALIENAÇÃO. A pessoa física cessionária deve apurar o ganho de capital considerando como custo de aquisição o valor pago ao cedente, quando da aquisição da cessão de direitos do crédito. O valor de alienação será a importância líquida recebida, descontado o imposto sobre a renda retido na fonte, por ocasião do recebimento do precatório, e excluídas eventuais deduções legais. DISPOSITIVOS LEGAIS: Lei nº 7.713, de 22 de dezembro de 1988, arts. 1º, 3º, 12-A e 16; Lei nº 8.981, de 20 de janeiro de 1995, art. 21; Lei nº 12.350, de 20 de dezembro de 2010; Lei nº 13.149, de 21 de julho de 2015; Medida Provisória nº 497, de 27 de julho de 2010; Medida Provisória nº 670, de 10 de março de 2015. ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF EMENTA: RRA. CESSÃO DE CRÉDITO. NATUREZA JURÍDICA. FONTE PAGADORA. FAZENDA PÚBLICA. INSTITUIÇÃO FINANCEIRA. TABELA PROGRESSIVA. NÚMERO DE MESES. O crédito a que se refere o art. 12-A da Lei nº 7.713, de 22 de dezembro de 1988, decorrente de ação judicial e materializado por meio de precatório, mantém a natureza jurídica do fato que lhe deu origem, mesmo quando transferido a outrem com base em cessão do direito de crédito. Independentemente da apuração do ganho de capital a que se submetem o cedente e o cessionário, deverá a Fazenda Pública ou a Instituição Financeira, por ocasião do pagamento ou crédito do valor do precatório ao cessionário, efetuar a retenção e o recolhimento do imposto sobre a renda na fonte, com base na tabela progressiva resultante da multiplicação da quantidade de meses a que se referem os rendimentos pelos valores constantes da tabela progressiva mensal correspondente ao mês do recebimento ou crédito. Referido imposto não poderá ser deduzido nas declarações de ajuste anual do cedente e do cessionário. DISPOSITIVOS LEGAIS: Lei nº 7.713, de 22 de dezembro de 1988, art. 12-A; Lei nº 12.350, de 20 de dezembro de 2010; Lei nº 13.149, de 21 de julho de 2015; Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, arts. 36 e 37; Instrução Normativa RFB nº 1.558, de 31 de março de 2015; Medida Provisória nº 497, de 27 de julho de 2010; Medida Provisória nº 670, de 10 de março de 2015.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 89170,
+      "idSegmento": 1843099,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 46882,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 674-2017.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/89170/visao/original"
+}

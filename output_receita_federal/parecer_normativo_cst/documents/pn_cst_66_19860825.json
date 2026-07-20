@@ -1,0 +1,412 @@
+{
+  "idAto": 30948,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 59,
+      "siglaTipoAto": "Parec. Norm.",
+      "nomeTipoAto": "Parecer Normativo",
+      "prioridadeTipoAto": 16,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "66",
+    "dataAto": "1986-08-25",
+    "orgaos": [
+      {
+        "idOrgao": 122,
+        "exibirOrgao": 1,
+        "siglaOrgao": "CST",
+        "nomeOrgao": "Coordenação do Sistema de Tributação",
+        "prioridadeOrgao": 123,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "25 de agosto de 1986"
+  },
+  "epigrafeCompleta": "Parecer Normativo CST nº 66, de 25 de agosto de 1986",
+  "epigrafeSimplificada": "Parecer Normativo CST nº 66, de 25/08/1986",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "Parec. Norm. CST nº 66/1986",
+  "dadosPublicacao": "Publicado(a) no DOU de 05/09/1986, seção 1, página 0",
+  "dataPublicacao": "1986-09-05",
+  "dataVigenciaInicio": "1986-09-05",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 30948,
+      "idSegmento": 273947,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "As receitas operacionais de empresas excepcionalmente associadas a cooperativas de venda em comum devem ser apropriadas em função do faturamento das vendas a terceiros. Complementa o Parecer Normativo CST nº 77/76.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 30948,
+      "idSegmento": 273948,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 6,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "O Parecer Normativo CST nº 77/76, publicado no D.0. de 09. 11.76. ao pronunciar-se sobre o momento da apropriação da receita operacional no caso de faturamento por ato cooperativo, expendeu o entendimento de que \"a computação como receita operacional, para efeito de imposto de renda, deve basear-se na emissão da \"nota fiscal\" de saída do produto da cooperativa\". Não obstante os termos dessa orientação administrativa, há sociedades que, excepcionalmente compondo o quadro associativo de cooperativas de venda em comum, sob alegação de inexistência de disciplinamento específico, registram as receitas das vendas de seus produtos no exercício em que sua produção é entregue às cooperativas, mesmo nos casos em que a efetiva comercialização ocorra no exercício subseqüente.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 30948,
+      "idSegmento": 1167863,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "2. A legislação do imposto sobre a renda adota, em regra, o regime econômico ou de competência na apuração de resultados das pessoas jurídicas, como o determina o art. 67, XI, do Decreto-lei nº 1.598, de 26 de dezembro de 1977 (art. 172 e par. único do Regulamento aprovado pelo Decreto nº 85.450/80 - RIR/80), em combinação com o art. 18 da Lei nº 7.450, de 23 de dezembro de 1985, e o art. 177 da Lei nº 6.404, de 15 de dezembro de 1976.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 30948,
+      "idSegmento": 1167864,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 4,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "3. Conforme esclarece o citado Parecer Normativo CST nº 77/76, a entrega da produção do associado à sua cooperativa nada mais significa que a outorga de poderes. Em conformidade com o parágrafo único do art. 79 da Lei nº 5.764, de 16 de dezembro de 1971, que define a política nacional de cooperativismo e institui o regime jurídico das sociedades cooperativas, aquele ato cooperativo não implica operação de mercado, nem contrato de compra e venda de produto ou mercadoria, sendo, pois, a venda no mercado o ato de que deriva a respectiva receita.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 30948,
+      "idSegmento": 1167865,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 5,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "4. O desatendimento ao regime de competência, como analisado pelo Parecer Normativo CST nº 57/79 (D.O. de 18.10.79), configura inexatidão contábil capaz de caracterizar infração fiscal.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 30948,
+      "idSegmento": 1167866,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 6,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "5. Por conseguinte, deve-se esclarecer, em complemento ao Parecer Normativo CST nº 77/76, que as empresas excepcionalmente associadas a cooperativas (art. 6º, I, da Lei nº 5.764/71) devem apropriar as receitas por ocasião do faturamento das vendas no mercado pela cooperativa singular ou central encarregadas da venda em comum, segundo o regime jurídico dessas sociedades.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 30948,
+      "idSegmento": 1167867,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 7,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "À consideração superior.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 30948,
+      "idSegmento": 273949,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 8,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "CST, 25 de agosto de 1986.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 30948,
+      "idSegmento": 1429738,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 9,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "CARLOS E. GULYAS AFTN",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 30948,
+      "idSegmento": 1167870,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 10,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Aprovo.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 30948,
+      "idSegmento": 1167871,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 11,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Publique-se e, a seguir, encaminhem-se cópias às Superintendências Regionais da Receita Federal para conhecimento e ciência dos demais órgãos subordinados.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 30948,
+      "idSegmento": 1167872,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 12,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "EIVANY ANTONIO DA SILVA Coordenador do Sistema de Tributação",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 4,
+      "siglaTipoSegmento": "fecho",
+      "nomeTipoSegmento": "Fecho",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 4,
+        "atributos": [
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 89,
+            "atributo": "text-align",
+            "valor": "center"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 90,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 91,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": true
+    },
+    {
+      "idTipoSegmento": 6,
+      "siglaTipoSegmento": "item",
+      "nomeTipoSegmento": "Item",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 6,
+        "atributos": [
+          {
+            "idEstiloSegmento": 6,
+            "idAtributoEstiloSegmento": 7,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 999,
+      "siglaTipoSegmento": "nao identificad",
+      "nomeTipoSegmento": "Não Identificado",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 18,
+        "atributos": [
+          {
+            "idEstiloSegmento": 18,
+            "idAtributoEstiloSegmento": 25,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/30948/visao/original"
+}

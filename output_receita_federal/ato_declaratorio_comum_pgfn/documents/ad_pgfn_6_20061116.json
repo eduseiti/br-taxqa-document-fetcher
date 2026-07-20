@@ -1,0 +1,328 @@
+{
+  "idAto": 608,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 7,
+      "siglaTipoAto": "AD",
+      "nomeTipoAto": "Ato Declaratório",
+      "prioridadeTipoAto": 33,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "6",
+    "dataAto": "2006-11-16",
+    "orgaos": [
+      {
+        "idOrgao": 222,
+        "exibirOrgao": 1,
+        "siglaOrgao": "PGFN",
+        "nomeOrgao": "Procuradoria-Geral da Fazenda Nacional",
+        "prioridadeOrgao": 12,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "16 de novembro de 2006"
+  },
+  "epigrafeCompleta": "Ato Declaratório PGFN nº 6, de 16 de novembro de 2006",
+  "epigrafeSimplificada": "Ato Declaratório PGFN nº 6, de 16/11/2006",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "AD PGFN nº 6/2006",
+  "dadosPublicacao": "Publicado(a) no DOU de 17/11/2006, página 18",
+  "dataPublicacao": "2006-11-17",
+  "dataVigenciaInicio": "2006-11-17",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": false,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 608,
+      "idSegmento": 2794,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "\"Dispensa a apresentação de contestação e a interposição de recursos e autoriza a desistência dos já interpostos nas ações judiciais que especifica.\"",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 608,
+      "idSegmento": 2795,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 2,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "O PROCURADOR-GERAL DA FAZENDA NACIONAL, no uso da competência legal que lhe foi conferida, nos termos do inciso II do art. 19, da Lei nº 10.522, de 19 de julho de 2002, e do art. 5º do Decreto nº 2.346, de 10 de outubro de 1997, tendo em vista a aprovação do Parecer PGFN/CRJ/Nº 2140/2006, desta Procuradoria-Geral da Fazenda Nacional, pelo Senhor Ministro de Estado da Fazenda, conforme despacho publicado no DOU de 16 de novembro de 2006, DECLARA que ficam dispensadas a apresentação de contestação, a interposição de recursos e fica autorizada a desistência dos já interpostos, desde que inexista outro fundamento relevante:",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 608,
+      "idSegmento": 2796,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 6,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "\"nas ações judiciais que visem obter a declaração de que não incide imposto de renda sobre o abono pecuniário de férias de que trata o art. 143 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943\" .",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 608,
+      "idSegmento": 933778,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 4,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "JURISPRUDÊNCIA: REsp nº 785474/SC, (DJ de 03.04.2006), Resp nº 815172/CE, (DJ de 23.03.2006), REsp nº 797392/PR (DJ de 03.04.2006), REsp nº 261989/AL (DJ de 13.11.2000).",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 608,
+      "idSegmento": 2797,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 5,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "LUÍS INÁCIO LUCENA ADAMS",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 608,
+      "idSegmento": 933779,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 6,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Nota SIJUT: Este ato teve sua data retificada no DOU de 20/11/2006, pág.12.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [
+        {
+          "idAto": 607,
+          "idSegmento": 2793,
+          "idAnotacao": 219273,
+          "href": "607",
+          "texto": "[Vide o(a) Ato Declaratório PGFN nº 6, de 7 de novembro de 2006]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": false,
+          "permiteAgendamento": false
+        }
+      ],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 2,
+      "siglaTipoSegmento": "autor",
+      "nomeTipoSegmento": "Autor",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 2,
+        "atributos": [
+          {
+            "idEstiloSegmento": 2,
+            "idAtributoEstiloSegmento": 3,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 4,
+      "siglaTipoSegmento": "fecho",
+      "nomeTipoSegmento": "Fecho",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 4,
+        "atributos": [
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 89,
+            "atributo": "text-align",
+            "valor": "center"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 90,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 91,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": true
+    },
+    {
+      "idTipoSegmento": 6,
+      "siglaTipoSegmento": "item",
+      "nomeTipoSegmento": "Item",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 6,
+        "atributos": [
+          {
+            "idEstiloSegmento": 6,
+            "idAtributoEstiloSegmento": 7,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 999,
+      "siglaTipoSegmento": "nao identificad",
+      "nomeTipoSegmento": "Não Identificado",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 18,
+        "atributos": [
+          {
+            "idEstiloSegmento": 18,
+            "idAtributoEstiloSegmento": 25,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/608/visao/original"
+}

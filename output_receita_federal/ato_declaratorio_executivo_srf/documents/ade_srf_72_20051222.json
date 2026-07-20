@@ -1,0 +1,272 @@
+{
+  "idAto": 5216,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 9,
+      "siglaTipoAto": "ADE",
+      "nomeTipoAto": "Ato Declaratório Executivo",
+      "prioridadeTipoAto": 35,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "72",
+    "dataAto": "2005-12-22",
+    "orgaos": [
+      {
+        "idOrgao": 274,
+        "exibirOrgao": 1,
+        "siglaOrgao": "SRF",
+        "nomeOrgao": "Secretaria da Receita Federal",
+        "prioridadeOrgao": 62,
+        "emDestaque": true,
+        "posicaoPesquisa": 2,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "22 de dezembro de 2005"
+  },
+  "epigrafeCompleta": "Ato Declaratório Executivo SRF nº 72, de 22 de dezembro de 2005",
+  "epigrafeSimplificada": "Ato Declaratório Executivo SRF nº 72, de 22/12/2005",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "ADE SRF nº 72/2005",
+  "dadosPublicacao": "Publicado(a) no DOU de 26/12/2005, página 32",
+  "dataPublicacao": "2005-12-26",
+  "dataVigenciaInicio": "2005-12-26",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 5216,
+      "idSegmento": 25246,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Dispõe sobre a data do término de vigência do Acordo para Evitar a Dupla Tributação em Matéria de Impostos sobre a Renda e o Capital firmado entre o Brasil e Alemanha.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 5216,
+      "idSegmento": 25247,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 2,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 1º do Regimento Interno aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, combinado com o art. 8º da Portaria MF nº 275, de 15 de agosto de 2005, e tendo em vista a denúncia, em 7 de abril de 2005, pela República Federal da Alemanha, do Acordo para Evitar a Dupla Tributação em Matéria de Impostos sobre a Renda e o Capital celebrado com a República Federativa do Brasil em 27 de junho de 1975, aprovado pelo Decreto Legislativo nº 92, de 5 de novembro de 1975, e promulgado pelo Decreto nº 76.988, de 6 de janeiro de 1976, declara:",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5216,
+      "idSegmento": 25248,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 1º O Acordo para Evitar a Dupla Tributação em Matéria de Impostos sobre a Renda e o Capital, celebrado entre a República Federal Alemã e a República Federativa do Brasil, cessará de ter vigência, em virtude de sua denúncia, em 1º de janeiro de 2006.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5216,
+      "idSegmento": 25249,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 4,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 2º O tratamento tributário previsto no Acordo de que trata este Ato deixará de aplicar-se aos rendimentos auferidos ou pagos, creditados ou remetidos a partir da data mencionada no art. 1º.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5216,
+      "idSegmento": 25250,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 5,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "JORGE ANTONIO DEHER RACHID",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 2,
+      "siglaTipoSegmento": "autor",
+      "nomeTipoSegmento": "Autor",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 2,
+        "atributos": [
+          {
+            "idEstiloSegmento": 2,
+            "idAtributoEstiloSegmento": 3,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 3,
+      "siglaTipoSegmento": "artigo",
+      "nomeTipoSegmento": "Artigo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 3,
+        "atributos": [
+          {
+            "idEstiloSegmento": 3,
+            "idAtributoEstiloSegmento": 100,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": 6,
+      "apareceEmSumario": true,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 4,
+      "siglaTipoSegmento": "fecho",
+      "nomeTipoSegmento": "Fecho",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 4,
+        "atributos": [
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 89,
+            "atributo": "text-align",
+            "valor": "center"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 90,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 91,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": true
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5216/visao/original"
+}

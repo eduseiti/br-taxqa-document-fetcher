@@ -1,0 +1,432 @@
+{
+  "idAto": 15014,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 42,
+      "siglaTipoAto": "IN",
+      "nomeTipoAto": "Instrução Normativa",
+      "prioridadeTipoAto": 13,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "165",
+    "dataAto": "1998-12-31",
+    "orgaos": [
+      {
+        "idOrgao": 274,
+        "exibirOrgao": 1,
+        "siglaOrgao": "SRF",
+        "nomeOrgao": "Secretaria da Receita Federal",
+        "prioridadeOrgao": 62,
+        "emDestaque": true,
+        "posicaoPesquisa": 2,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "31 de dezembro de 1998"
+  },
+  "epigrafeCompleta": "Instrução Normativa SRF nº 165, de 31 de dezembro de 1998",
+  "epigrafeSimplificada": "Instrução Normativa SRF nº 165, de 31/12/1998",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "IN SRF nº 165/1998",
+  "dadosPublicacao": "Publicado(a) no DOU de 06/01/1999, página 8",
+  "dataPublicacao": "1999-01-06",
+  "dataVigenciaInicio": "1999-01-06",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 15014,
+      "idSegmento": 115129,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Determina a dispensa da constituição de créditos tributários da Fazenda Nacional e o cancelamento do lançamento no caso que especifica.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 15014,
+      "idSegmento": 2202324,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "O SECRETÁRIO DA RECEITA FEDERAL, no uso das suas atribuições e tendo em vista que, em decorrência de decisões definitivas das egrégias Primeira e Segunda Turmas do Superior Tribunal de Justiça, o Procurador-Geral da Fazenda Nacional, por meio do despacho de 17 de setembro de 1998, publicado no Diário Oficial da União de 22 de setembro de 1998, baseado no Parecer PGFN/CRJ/nº 1278/98, devidamente aprovado pelo Ministro de Estado da Fazenda, dispensou \"a interposição de recursos e a desistência dos já interpostos nas ações que cuidam, no mérito, exclusivamente, da não incidência do Imposto de Renda na fonte sobre verbas indenizatórias referentes\" a programas de demissão voluntária, resolve:",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 15014,
+      "idSegmento": 115131,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 1º Fica dispensada a constituição de créditos da Fazenda Nacional relativamente à incidência do Imposto de Renda na fonte sobre as verbas indenizatórias pagas em decorrência de incentivo à demissão voluntária.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 15014,
+      "idSegmento": 115132,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 4,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 2º Ficam os Delegados e Inspetores da Receita Federal autorizados a rever de ofício os lançamentos referentes à matéria de que trata o artigo anterior, para fins de alterar total ou parcialmente os respectivos créditos da Fazenda Nacional.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 15014,
+      "idSegmento": 476476,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 5,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 5,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "§ 1º Na hipótese de créditos constituídos, pendentes de julgamento, os Delegados de Julgamento da Receita Federal subtrairão a matéria de que trata o artigo anterior.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 15014,
+      "idSegmento": 476477,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 5,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 6,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "§ 2º As autoridades referidas no caput deste artigo deverão encaminhar para a Coordenação-Geral do Sistema de Arrecadação - COSAR, por intermédio das Superintendências Regionais da Receita Federal de sua jurisdição, no prazo de 60 dias, contado da publicação desta Instrução Normativa, relação pormenorizada dos lançamentos revistos, contendo as seguintes informações:",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 15014,
+      "idSegmento": 476478,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 15,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 7,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "I - nome do contribuinte e respectivo número de inscrição no Cadastro Nacional das Pessoas Jurídicas - CNPJ ou Cadastro da Pessoa Física - CPF, conforme o caso;",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 15014,
+      "idSegmento": 476479,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 15,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 8,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "II - valor atualizado do crédito revisto e data do lançamento;",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 15014,
+      "idSegmento": 476480,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 15,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 9,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "III - fundamento da revisão mediante referência à norma contida no artigo anterior.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 15014,
+      "idSegmento": 115133,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 10,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 3o Esta Instrução Normativa entra em vigor na data de sua publicação.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 15014,
+      "idSegmento": 115134,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 11,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "EVERARDO MACIEL",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 3,
+      "siglaTipoSegmento": "artigo",
+      "nomeTipoSegmento": "Artigo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 3,
+        "atributos": [
+          {
+            "idEstiloSegmento": 3,
+            "idAtributoEstiloSegmento": 100,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": 6,
+      "apareceEmSumario": true,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 4,
+      "siglaTipoSegmento": "fecho",
+      "nomeTipoSegmento": "Fecho",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 4,
+        "atributos": [
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 89,
+            "atributo": "text-align",
+            "valor": "center"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 90,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 91,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": true
+    },
+    {
+      "idTipoSegmento": 5,
+      "siglaTipoSegmento": "paragrafo",
+      "nomeTipoSegmento": "Parágrafo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 5,
+        "atributos": [
+          {
+            "idEstiloSegmento": 5,
+            "idAtributoEstiloSegmento": 6,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 15,
+      "siglaTipoSegmento": "inciso",
+      "nomeTipoSegmento": "Inciso",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 15,
+        "atributos": [
+          {
+            "idEstiloSegmento": 15,
+            "idAtributoEstiloSegmento": 22,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 999,
+      "siglaTipoSegmento": "nao identificad",
+      "nomeTipoSegmento": "Não Identificado",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 18,
+        "atributos": [
+          {
+            "idEstiloSegmento": 18,
+            "idAtributoEstiloSegmento": 25,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/15014/visao/original"
+}

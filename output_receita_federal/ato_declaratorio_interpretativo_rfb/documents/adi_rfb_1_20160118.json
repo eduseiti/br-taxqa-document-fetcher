@@ -1,0 +1,372 @@
+{
+  "idAto": 71017,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 10,
+      "siglaTipoAto": "ADI",
+      "nomeTipoAto": "Ato Declaratório Interpretativo",
+      "prioridadeTipoAto": 19,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "1",
+    "dataAto": "2016-01-18",
+    "orgaos": [
+      {
+        "idOrgao": 227,
+        "exibirOrgao": 1,
+        "siglaOrgao": "RFB",
+        "nomeOrgao": "Secretaria da Receita Federal do Brasil",
+        "prioridadeOrgao": 61,
+        "emDestaque": true,
+        "posicaoPesquisa": 1,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "18 de janeiro de 2016"
+  },
+  "epigrafeCompleta": "Ato Declaratório Interpretativo RFB nº 1, de 18 de janeiro de 2016",
+  "epigrafeSimplificada": "Ato Declaratório Interpretativo RFB nº 1, de 18/01/2016",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "ADI RFB nº 1/2016",
+  "dadosPublicacao": "Publicado(a) no DOU de 20/01/2016, seção 1, página 11",
+  "dataPublicacao": "2016-01-20",
+  "dataVigenciaInicio": "2016-01-20",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 71017,
+      "idSegmento": 1597302,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Dispõe sobre a incidência do imposto sobre a renda nas aplicações financeiras de titularidade de pessoa física que adquire a condição de não residente.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 71017,
+      "idSegmento": 1597303,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 1º, 3º, 6º, 9º e 11-A da Instrução Normativa SRF nº 208, de 27 de setembro de 2002, declara:",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 71017,
+      "idSegmento": 1597304,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 1º No caso de pessoa física residente no País que adquire a condição de não residente, para fins de aplicação do regime especial de tributação aplicável ao investidor estrangeiro não residente em país com tributação favorecida nos termos do art. 24 da Lei nº 9.430, de 27 de dezembro de 1996, deverá o responsável tributário:",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 71017,
+      "idSegmento": 1597305,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 15,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 4,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "I - exigir da pessoa física residente no País que adquire a condição de não residente a comprovação de que apresentou a Comunicação de Saída Definitiva do País à Secretaria da Receita Federal do Brasil; e",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 71017,
+      "idSegmento": 1597306,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 15,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 5,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "II - reter e recolher o imposto sobre a renda incidente sobre os rendimentos auferidos até o dia anterior ao da aquisição da condição de não residente.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 71017,
+      "idSegmento": 1597307,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 6,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 2º No caso de aplicações financeiras não sujeitas à retenção do imposto sobre a renda nos termos do inciso II do caput do art. 1º, deverá o contribuinte ou seu representante legal apurar e recolher o imposto na forma prevista na legislação vigente.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 71017,
+      "idSegmento": 1597308,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 7,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 3º A pessoa física que adquire a condição de residente no Brasil deve comunicá-la à fonte pagadora.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 71017,
+      "idSegmento": 1597309,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 8,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 4º Ficam modificadas as conclusões em contrário constantes em Soluções de Consulta ou em Soluções de Divergência emitidas antes da publicação deste ato, independentemente de comunicação aos consulentes.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 71017,
+      "idSegmento": 1597310,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 9,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "JORGE ANTONIO DEHER RACHID",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 3,
+      "siglaTipoSegmento": "artigo",
+      "nomeTipoSegmento": "Artigo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 3,
+        "atributos": [
+          {
+            "idEstiloSegmento": 3,
+            "idAtributoEstiloSegmento": 100,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": 6,
+      "apareceEmSumario": true,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 4,
+      "siglaTipoSegmento": "fecho",
+      "nomeTipoSegmento": "Fecho",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 4,
+        "atributos": [
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 89,
+            "atributo": "text-align",
+            "valor": "center"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 90,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 91,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": true
+    },
+    {
+      "idTipoSegmento": 15,
+      "siglaTipoSegmento": "inciso",
+      "nomeTipoSegmento": "Inciso",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 15,
+        "atributos": [
+          {
+            "idEstiloSegmento": 15,
+            "idAtributoEstiloSegmento": 22,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 999,
+      "siglaTipoSegmento": "nao identificad",
+      "nomeTipoSegmento": "Não Identificado",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 18,
+        "atributos": [
+          {
+            "idEstiloSegmento": 18,
+            "idAtributoEstiloSegmento": 25,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/71017/visao/original"
+}

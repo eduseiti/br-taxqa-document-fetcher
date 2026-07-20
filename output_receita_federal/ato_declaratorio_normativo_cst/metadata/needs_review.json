@@ -1,0 +1,42 @@
+[
+  {
+    "type": "ato_declaratorio_normativo_cst",
+    "number": "11",
+    "date": null,
+    "canonical_name": "Ato Declaratório Normativo CST nº 11",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "3 distinct acts verified: ['5859', '5858', '5857']",
+    "needs_review": true,
+    "review_reason": "ambiguous",
+    "source_filenames": [
+      "Ato Declaratório Normativo CST nº 11, de 1978.txt"
+    ]
+  },
+  {
+    "type": "ato_declaratorio_normativo_cst",
+    "number": "16",
+    "date": "1979-07-27",
+    "canonical_name": "Ato Declaratório Normativo CST nº 16, de 27 de julho de 1979",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "2 candidate(s) found, none matched órgão=CST/number=16/date=1979-07-27",
+    "needs_review": true,
+    "review_reason": "date_mismatch",
+    "source_filenames": [
+      "Ato Declaratório Normativo CST nº 16, de 27 de julho de 1979.txt"
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "type": "parecer_sei",
+    "number": "110",
+    "date": "2020-08-26",
+    "canonical_name": "Parecer SEI nº 110, de 26 de agosto de 2020",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "No idAto returned by search",
+    "needs_review": true,
+    "review_reason": "not_found",
+    "source_filenames": [
+      "Parecer SEI Nº 110 2018 CRJPGACETPGFN-MF, aprovado pelo Despacho nº 3482020PGFN-ME, de 26 de agosto de 2020.txt"
+    ]
+  },
+  {
+    "type": "parecer_sei",
+    "number": "10167",
+    "date": null,
+    "canonical_name": "Parecer SEI nº 10.167",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "No idAto returned by search",
+    "needs_review": true,
+    "review_reason": "not_found",
+    "source_filenames": [
+      "Parecer SEI nº 10167 2021 ME.txt"
+    ]
+  },
+  {
+    "type": "parecer_sei",
+    "number": "110",
+    "date": null,
+    "canonical_name": "Parecer SEI nº 110",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "No idAto returned by search",
+    "needs_review": true,
+    "review_reason": "not_found",
+    "source_filenames": [
+      "Parecer SEI nº 110 2018 CRJPGACETPGFN-MF.txt"
+    ]
+  },
+  {
+    "type": "parecer_sei",
+    "number": "15069",
+    "date": null,
+    "canonical_name": "Parecer SEI nº 15.069",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "No idAto returned by search",
+    "needs_review": true,
+    "review_reason": "not_found",
+    "source_filenames": [
+      "Parecer SEI nº 15069 2022 ME.txt"
+    ]
+  }
+]

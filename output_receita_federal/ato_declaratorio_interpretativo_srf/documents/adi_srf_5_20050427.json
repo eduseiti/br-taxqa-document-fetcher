@@ -1,0 +1,360 @@
+{
+  "idAto": 5593,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 10,
+      "siglaTipoAto": "ADI",
+      "nomeTipoAto": "Ato Declaratório Interpretativo",
+      "prioridadeTipoAto": 19,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "5",
+    "dataAto": "2005-04-27",
+    "orgaos": [
+      {
+        "idOrgao": 274,
+        "exibirOrgao": 1,
+        "siglaOrgao": "SRF",
+        "nomeOrgao": "Secretaria da Receita Federal",
+        "prioridadeOrgao": 62,
+        "emDestaque": true,
+        "posicaoPesquisa": 2,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "27 de abril de 2005"
+  },
+  "epigrafeCompleta": "Ato Declaratório Interpretativo SRF nº 5, de 27 de abril de 2005",
+  "epigrafeSimplificada": "Ato Declaratório Interpretativo SRF nº 5, de 27/04/2005",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "ADI SRF nº 5/2005",
+  "dadosPublicacao": "Publicado(a) no DOU de 28/04/2005, página 25",
+  "dataPublicacao": "2005-04-28",
+  "dataVigenciaInicio": "2005-04-28",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 5593,
+      "idSegmento": 27380,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Dispõe sobre a revisão de crédito tributário relativo ao Imposto sobre a Renda incidente sobre os valores pagos (em pecúnia) a título de licença-prêmio e férias não gozadas por necessidade do serviço, a trabalhadores em geral ou a servidores públicos e determina o cancelamento de lançamento no caso em que especifica.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 5593,
+      "idSegmento": 27381,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 2,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e tendo em vista o disposto nos §§ 4º e 5º do art. 19 da Lei nº 10.522, de 19 de julho de 2002, e o que consta no processo nº 10168.001185/2005-33, e considerando que a Procuradoria-Geral da Fazenda Nacional, com base no art. 19, II, da Lei nº 10.522, de 19 de julho de 2002, c/c o art. 5º do Decreto nº 2.346, de 10 de outubro de 1997, autorizou a dispensa de interposição de recursos e a desistência dos já interpostos, desde que inexista outro fundamento relevante com relação às decisões que afastaram a incidência do imposto de renda das pessoas físicas sobre as verbas recebidas em face da conversão em pecúnia de licença-prêmio e férias não gozadas por necessidade do serviço, por trabalhadores em geral ou por servidores públicos, por meio dos seguintes pareceres e atos declaratórios:",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5593,
+      "idSegmento": 762471,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 15,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "I - Parecer PGFN/CRJ/Nº 921/99, aprovado por despacho do Ministro da Fazenda, publicado no Diário Oficial da União (DOU) de 6 de agosto de 1999, e do Ato Declaratório PGFN nº 4, de 12 de agosto de 2002, publicado no DOU de 15 de agosto de 2002;",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5593,
+      "idSegmento": 762472,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 15,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 4,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "II - Parecer PGFN/CRJ/Nº 1458/99, aprovado por despacho do Ministro da Fazenda, publicado no DOU de 31 de março de 2000, e do Ato Declaratório PGFN nº 8, de 12 de agosto de 2002, publicado no DOU de 15 de agosto de 2002; e",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5593,
+      "idSegmento": 762473,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 15,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 5,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "III - Parecer PGFN/CRJ/Nº 1905/2004, aprovado por despacho do Ministro da Fazenda, publicado no DOU de 18 de fevereiro de 2005, e do Ato Declaratório PGFN nº 1, de 18 de fevereiro de 2005, publicado no DOU de 22 de fevereiro de 2005, declara:",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5593,
+      "idSegmento": 27382,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 6,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 1º Os Delegados e Inspetores da Receita Federal deverão rever de ofício os lançamentos referentes ao Imposto sobre a Renda incidente sobre os valores pagos (em pecúnia) a título de licença-prêmio e férias não gozadas, por necessidade do serviço, a trabalhadores em geral ou a servidor público, desde que inexista qualquer outro fundamento relevante, para fins de alterar, total ou parcialmente, o respectivo crédito tributário.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5593,
+      "idSegmento": 27383,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 7,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 2º A autoridade julgadora, nas Delegacias da Receita Federal de Julgamento, subtrairá a matéria de que trata o art. 1º na hipótese de crédito tributário já constituído cujo processo esteja pendente de julgamento.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5593,
+      "idSegmento": 27384,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 3,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 8,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Art. 3º Fica formalmente revogado, sem a interrupção de sua força normativa, o Ato Declaratório Interpretativo SRF nº 23, de 25 de agosto de 2004.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5593,
+      "idSegmento": 27385,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1000,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 9,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "JORGE ANTONIO DEHER RACHID",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 2,
+      "siglaTipoSegmento": "autor",
+      "nomeTipoSegmento": "Autor",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 2,
+        "atributos": [
+          {
+            "idEstiloSegmento": 2,
+            "idAtributoEstiloSegmento": 3,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 3,
+      "siglaTipoSegmento": "artigo",
+      "nomeTipoSegmento": "Artigo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 3,
+        "atributos": [
+          {
+            "idEstiloSegmento": 3,
+            "idAtributoEstiloSegmento": 100,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": 6,
+      "apareceEmSumario": true,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 15,
+      "siglaTipoSegmento": "inciso",
+      "nomeTipoSegmento": "Inciso",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 15,
+        "atributos": [
+          {
+            "idEstiloSegmento": 15,
+            "idAtributoEstiloSegmento": 22,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1000,
+      "siglaTipoSegmento": "assinatura",
+      "nomeTipoSegmento": "Assinatura",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 20,
+        "atributos": [
+          {
+            "idEstiloSegmento": 20,
+            "idAtributoEstiloSegmento": 26,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5593/visao/original"
+}

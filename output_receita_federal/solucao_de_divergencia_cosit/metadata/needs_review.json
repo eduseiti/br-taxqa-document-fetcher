@@ -1,0 +1,22 @@
+[
+  {
+    "type": "solucao_de_divergencia_cosit",
+    "number": "16",
+    "date": "2012-09-27",
+    "canonical_name": "Solução de Divergência Cosit nº 16, de 27 de setembro de 2012",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "3 candidate(s) found, none matched órgão=Cosit/number=16/date=2012-09-27",
+    "needs_review": true,
+    "review_reason": "date_mismatch",
+    "source_filenames": [
+      "Solução de Divergência Cosit nº 16, de 27 de setembro de 2012.txt"
+    ]
+  }
+]

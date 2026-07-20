@@ -1,0 +1,170 @@
+{
+  "idAto": 64476,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 75,
+      "siglaTipoAto": "SCI",
+      "nomeTipoAto": "Solução de Consulta Interna",
+      "prioridadeTipoAto": 30,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "6",
+    "dataAto": "2015-05-18",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "18 de maio de 2015"
+  },
+  "epigrafeCompleta": "Solução de Consulta Interna Cosit nº 6, de 18 de maio de 2015",
+  "epigrafeSimplificada": "Solução de Consulta Interna Cosit nº 6, de 18/05/2015",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SCI Cosit nº 6/2015",
+  "dadosPublicacao": "Publicada no sítio da RFB em  25/05/2015",
+  "dataPublicacao": "2015-05-25",
+  "dataVigenciaInicio": "2015-05-25",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 64476,
+      "idSegmento": 1533625,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA - IRPF RENDIMENTO DO TRABALHO NÃO ASSALARIADO. TITULARES DE SERVIÇOS NOTARIAIS E DE REGISTRO. LIVRO CAIXA. DESPESAS DEDUTÍVEIS. DISPÊNDIOS COM EMPREGADOS. O contribuinte que perceber rendimentos do trabalho não assalariado, inclusive os titulares dos serviços notariais e de registro, a que se refere o art. 236 da Constituição, e os leiloeiros, poderão deduzir da receita decorrente do exercício da respectiva atividade, as importâncias pagas devidas aos empregados em decorrência das relações de trabalho, ainda que não integrem a remuneração do empregado, caso configurem despesas necessárias à percepção da receita e à manutenção da fonte produtora. As despesas deverão ser comprovadas mediante documentação idônea e escrituradas em livro Caixa. Na hipótese de convenções e acordos coletivos de trabalho, todas as prestações neles previstas e devidas ao empregado constituem obrigações do empregador e, portanto, despesas necessárias à percepção da receita e à manutenção da fonte produtora, dedutíveis para fins de tributação dos rendimentos do trabalho não assalariado. As despesas com vale-refeição, vale-alimentação e planos de saúde destinados indistintamente a todos os empregados, comprovadas mediante documentação idônea e escrituradas em livro Caixa, podem ser deduzidas dos rendimentos percebidos pelos titulares dos serviços notariais e de registro para efeito de apuração do imposto sobre a renda mensal e na Declaração de Ajuste Anual. Dispositivos Legais: Lei nº 8.134, de 1990, art. 6º; Lei nº 9.250, de 1995, arts. 4º, inciso I, e 8º, inciso II, alínea “g”; Decreto nº 3.000, de 1999 (Regulamento do Imposto sobre a Renda - RIR/1999), arts. 75 e 76",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 64476,
+      "idSegmento": 1533626,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 36156,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SCI Cosit nº 006-2015.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/64476/visao/original"
+}

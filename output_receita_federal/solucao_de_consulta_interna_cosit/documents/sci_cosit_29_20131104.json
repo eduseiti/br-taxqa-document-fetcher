@@ -1,0 +1,170 @@
+{
+  "idAto": 50759,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 75,
+      "siglaTipoAto": "SCI",
+      "nomeTipoAto": "Solução de Consulta Interna",
+      "prioridadeTipoAto": 30,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "29",
+    "dataAto": "2013-11-04",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "4 de novembro de 2013"
+  },
+  "epigrafeCompleta": "Solução de Consulta Interna Cosit nº 29, de 4 de novembro de 2013",
+  "epigrafeSimplificada": "Solução de Consulta Interna Cosit nº 29, de 04/11/2013",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SCI Cosit nº 29/2013",
+  "dadosPublicacao": "Publicado no sitio da RFB em 13/11/2013",
+  "dataPublicacao": "2013-11-13",
+  "dataVigenciaInicio": "2013-11-13",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 50759,
+      "idSegmento": 1395265,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA - IRPF O desconto simplificado substitui todas as deduções previstas na legislação tributária às quais o contribuinte faria jus caso optasse pela declaração com base nas deduções legais.Dispositivos Legais: O desconto simplificado, entretanto, não substitui as deduções relacionadas a pessoas que, embora possam ser consideradas dependentes perante a legislação tributária, não constam da declaração. A apresentação de declaração com opção pelo desconto simplificado por um dos cônjuges, em que não há a inclusão de dependente comum, não impede que o outro cônjuge apresente declaração com a utilização das deduções legais, incluindo o dependente comum na declaração e utilizando as deduções a ele relacionadas e vice-versa. Dispositivos Legais: Lei nº 9.250, de 26 de dezembro de 1995, arts. 8º e 10, Decreto no 3.000, de 26 de março de 1999 (RIR/1999), e Instrução Normativa SRF nº 15, de 6 de fevereiro de 2001, art. 29.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 50759,
+      "idSegmento": 1395266,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 29788,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SCI Cosit nº 29-2013.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/50759/visao/original"
+}

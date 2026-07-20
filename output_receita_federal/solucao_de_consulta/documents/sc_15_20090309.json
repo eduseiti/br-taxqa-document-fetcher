@@ -1,0 +1,210 @@
+{
+  "idAto": 87793,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "15",
+    "dataAto": "2009-03-09",
+    "orgaos": [
+      {
+        "idOrgao": 424,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Disit/SRRF03",
+        "nomeOrgao": "Divisão de Tributação da 3ª Região Fiscal",
+        "prioridadeOrgao": 206,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "9 de março de 2009"
+  },
+  "epigrafeCompleta": "Solução de Consulta Disit/SRRF03 nº 15, de 9 de março de 2009",
+  "epigrafeSimplificada": "Solução de Consulta Disit/SRRF03 nº 15, de 09/03/2009",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Disit/SRRF03 nº 15/2009",
+  "dadosPublicacao": "Publicado(a) no DOU de 25/03/2009, seção 1, página 16",
+  "dataPublicacao": "2009-03-25",
+  "dataVigenciaInicio": "2009-03-25",
+  "exibirVisoes": "1000",
+  "visao": "exclusiva",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": true,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 87793,
+      "idSegmento": 1827626,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: Imposto sobre a Renda de Pessoa Física - IRPF \n<br>\n EMENTA: IRPF. DESPESAS DE CUSTEIO. DEDUÇÕES. São deduzidas da receita decorrente do exercício da respectiva atividade as despesas de custeio pagas, necessárias à percepção da receita e à manutenção da fonte produtora, a exemplo do aluguel, água, luz, telefone, material de expediente ou de consumo. IRPF. DESPESAS COM ALIMENTAÇÃO EM REUNIÕES. INDEDUTIBILIDADE. As despesas com alimentação fornecida em reuniões não se caracterizam como despesa de custeio, uma vez que não têm o caráter de imprescindibilidade, normalidade, usualidade e pertinência relativamente à percepção da receita e à manutenção da fonte produtora. IRPF. DESPESAS COM VIAGENS E HOSPEDAGENS. INDEDUTIBILIDADE. Desde que não sejam reembolsadas ou ressarcidas, bem como necessárias à percepção da receita, as despesas de viagens e hospedagens somente são dedutíveis quando se tratar de representante comercial autônomo. IRPF. DESPESAS DE PROPAGANDA. DEDUÇÕES. São dedutíveis, observadas as normas e as limitações percentuais em lei, as despesas de propaganda feitas pelo contribuinte pessoa física profissional liberal, visando aumentar seus rendimentos ou a manutenção da fonte produtora das mesmas, desde que comprovadas e compatíveis com a profissão. \n<br>\n DISPOSITIVOS LEGAIS: Lei n.º 8.134, de1990 (na redação dada pela Lei n.º 9.250, de 1995), art. 6º, inciso III, parágrafos 1º, alínea \"b\", e 2º; RIR aprovado pelo Decreto n.º 3.000, de 1999, arts. 75, inciso III e parágrafo 1º, inciso II, e 76, parágrafo 2º; Parecer Normativo CST n.º 358, de 1970; e IN SRF n.º 15, de 2001, art. 51, inciso III, parágrafos 1º, alínea \"b\", e 2º.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 87793,
+      "idSegmento": 1827627,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Novo segmento",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 46110,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC SRRF03-Disit nº 15-2009.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 87793,
+      "idSegmento": 1827628,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Nota Normas: Este documento foi tornado público em cumprimento à Lei de Acesso à Informação. Registre-se que ele pode conter conclusões não mais válidas por estarem em desacordo com ato normativo ou interpretativo editado em data posterior.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 999,
+      "siglaTipoSegmento": "nao identificad",
+      "nomeTipoSegmento": "Não Identificado",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 18,
+        "atributos": [
+          {
+            "idEstiloSegmento": 18,
+            "idAtributoEstiloSegmento": 25,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/87793/visao/original"
+}

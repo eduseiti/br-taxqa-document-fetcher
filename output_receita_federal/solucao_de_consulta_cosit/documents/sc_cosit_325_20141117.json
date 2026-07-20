@@ -1,0 +1,170 @@
+{
+  "idAto": 58814,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "325",
+    "dataAto": "2014-11-17",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "17 de novembro de 2014"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 325, de 17 de novembro de 2014",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 325, de 17/11/2014",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 325/2014",
+  "dadosPublicacao": "Publicado(a) no DOU de 02/12/2014, seção 1, página 11",
+  "dataPublicacao": "2014-12-02",
+  "dataVigenciaInicio": "2014-12-02",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 58814,
+      "idSegmento": 1471607,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA – IRPF EMENTA: PESSOA FÍSICA EQUIPARADA A PESSOA JURÍDICA. INCORPORAÇÃO DE PRÉDIOS. FALECIMENTO. TRANSMISSÃO DOS IMÓVEIS OBJETO DO EMPREENDIMENTO IMOBILIÁRIO. TRIBUTAÇÃO DO RESULTADO. Ocorrendo o falecimento de pessoa física equiparada a pessoa jurídica por promoção de incorporação predial, persiste a equiparação na figura do espólio, até que cessem todos os seus efeitos tributários. Dessa maneira, a tributação, no espólio, dos resultados do empreendimento imobiliário que deu causa à equiparação se dá na forma própria das pessoas jurídicas. A partilha dos imóveis objeto da incorporação imobiliária entre os sucessores implica sua transferência, do ativo da empresa individual imobiliária para o patrimônio das pessoas físicas sucessoras, aplicando-se as disposições acerca do encerramento da empresa individual imobiliária do art. 166, § 2º, do Regulamento do Imposto de Renda (RIR/1999). Deve, assim, o resultado dessa transferência ser reconhecido na empresa individual como se os imóveis “fossem alienados, com pagamento à vista, a preço de mercado”, sendo nela tributado segundo o regime das pessoas jurídicas. O mesmo preço de mercado deve ser considerado na determinação do custo de aquisição dos imóveis, ou parcelas, a constar na declaração de bens e direitos de cada sucessor. DISPOSITIVOS LEGAIS: Lei nº 5.172, de 25 de outubro de 1966 (CTN), arts. 129 e 131, II e III; Decreto-Lei nº 1.381, de 1974, art. 10; Decreto nº 3.000, de 1999 (RIR/1999), arts. 150, § 1º, III, e 166; IN SRF nº 81, de 2001, art. 2º.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 58814,
+      "idSegmento": 1471608,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 33524,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 325-2014.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/58814/visao/original"
+}

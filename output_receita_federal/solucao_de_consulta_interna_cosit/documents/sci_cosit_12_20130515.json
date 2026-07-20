@@ -1,0 +1,170 @@
+{
+  "idAto": 50784,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 75,
+      "siglaTipoAto": "SCI",
+      "nomeTipoAto": "Solução de Consulta Interna",
+      "prioridadeTipoAto": 30,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "12",
+    "dataAto": "2013-05-15",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "15 de maio de 2013"
+  },
+  "epigrafeCompleta": "Solução de Consulta Interna Cosit nº 12, de 15 de maio de 2013",
+  "epigrafeSimplificada": "Solução de Consulta Interna Cosit nº 12, de 15/05/2013",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SCI Cosit nº 12/2013",
+  "dadosPublicacao": "Publicada no sítio da RFB em 15/07/2013",
+  "dataPublicacao": "2013-07-15",
+  "dataVigenciaInicio": "2013-07-15",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 50784,
+      "idSegmento": 1395306,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA - IRPF SÓCIO DE SERVIÇO. INCIDÊNCIA DO IMPOSTO SOBRE A RENDA, NA DECLARAÇÃO E NA FONTE, NO RENDIMENTO DE PRÓ-LABORE. NÃO INCIDÊNCIA DO IMPOSTO SOBRE A RENDA QUANDO DA DISTRIBUIÇÃO DOS LUCROS. Incide imposto sobre a renda, na fonte e na Declaração de Ajuste Anual, sobre os valores pagos ao sócio de serviço, a título de pró-labore (rendimentos de trabalho). No entanto, não incide imposto sobre a renda sobre os valores pagos a título de distribuição de lucros pelas pessoas jurídicas. Dispositivos Legais: arts. 4º e 111 da Lei nº 5.172, de 25 de outubro de 1966; art. 7º da Lei nº 7.713, de 22 de dezembro de 1988; art. 10 da Lei nº 9.249, de 26 de dezembro de 1995; arts. 981, 997, 1.006, 1.007 e 1.008 da Lei nº 10.406, de 10 de janeiro de 2002; art. 14 da Lei Complementar nº 123, de 14 de dezembro de 2006; e art. 43, 620 e 624 do Decreto nº 3.000, de 26 de março de 1999. ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS SÓCIO DE SERVIÇO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. 1. O sócio de sociedade simples cuja contribuição para a sociedade consista em serviços é segurado obrigatório do Regime Geral de Previdência Social (RGPS), enquadrado genericamente na categoria de sócio que presta serviço à sociedade, e, portanto, como segurado contribuinte individual, conforme alínea “f”, inciso V, art. 12 da Lei nº 8.212, de 24 de julho de 1991. 2. Incide a contribuição previdenciária prevista no art. 21 e no inciso III do art. 22, na forma do §4º do art. 30, todos da Lei nº 8.212, de 1991, e art. 4º da Lei nº 10.666, de 8 de maio de 2003, sobre os rendimentos do trabalho prestado pelo sócio de sociedade simples cuja contribuição consista em serviços. 3.Pelo menos parte dos valores pagos pela sociedade, ao sócio de serviço, terá necessariamente natureza jurídica de retribuição pelo trabalho, sujeita à incidência de contribuição previdenciária. 4. Não incide contribuição previdenciária sobre valores pagos a título de lucro, desde que este seja distribuído na exata proporção do contrato social, ou, no seu silêncio, na proporção estabelecida pela lei. 5. Os valores pagos pela sociedade, excedentes do montante previsto no contrato social ou na lei, como devidos ao sócio de serviço, a título de lucro, devem ser considerados retribuição pelo trabalho, sujeitos à incidência de contribuição previdenciária. Dispositivos Legais: Alínea “f”, inciso V, art.12; art. 21; inciso III do art. 22; §4º do art. 30; todos da Lei nº 8.212, de 1991, e art. 4º da Lei nº 10.666, de 2003.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 50784,
+      "idSegmento": 1404049,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 30261,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SCI Cosit nº 12-2013.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/50784/visao/original"
+}

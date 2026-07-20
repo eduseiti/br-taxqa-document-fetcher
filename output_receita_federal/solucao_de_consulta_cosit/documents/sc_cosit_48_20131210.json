@@ -1,0 +1,170 @@
+{
+  "idAto": 48626,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "48",
+    "dataAto": "2013-12-10",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "10 de dezembro de 2013"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 48, de 10 de dezembro de 2013",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 48, de 10/12/2013",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 48/2013",
+  "dadosPublicacao": "Publicado(a) no DOU de 17/12/2013, seção 1, página 42",
+  "dataPublicacao": "2013-12-17",
+  "dataVigenciaInicio": "2013-12-17",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 48626,
+      "idSegmento": 1374362,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: Imposto sobre a Renda de Pessoa Física – IRPF EMENTA: Consulta parcialmente conhecida. Isenção subjetiva. Interpretação literal. Caráter personalíssimo e intransferível. Óbito do beneficiário. Impossibilidade de extensão da isenção, concedida ao instituidor da pensão, também à beneficiária da pensão por morte que não é portadora de doença grave. São isentos do IRPF: 1. Os proventos de aposentadoria ou reforma motivadas por acidente em serviço e os percebidos pelos portadores de moléstia profissional e demais doenças arroladas no inciso XIV do art. 6º da Lei nº 7.713, de 1988, isenção essa concedida, portanto, em razão do preenchimento de condições legais peculiares à pessoa beneficiária daqueles proventos, cessando-se com o óbito desta; 2. Os valores recebidos a título de pensão, quando a própria pessoa física beneficiária desse rendimento (pensionista) for portadora das doenças relacionadas no inciso XIV do art. 6º da Lei nº 7.713, de 1988, exceto as decorrentes de moléstia profissional. DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966 (Código Tributário Nacional - CTN), arts. 111, II, e 176; Decreto nº 3.000, de 1999 (Regulamento do Imposto sobre a Renda - RIR/1999), art. 39, XXXI e XXXIII; Ato Declaratório Interpretativo (ADI) SRF nº 26, de 2003.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 48626,
+      "idSegmento": 1374363,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 32819,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit 48-2013.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/48626/visao/original"
+}

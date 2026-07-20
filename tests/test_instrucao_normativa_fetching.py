@@ -123,8 +123,9 @@ def test_verify_rejects_wrong_orgao(tmp_path):
 
 def test_verify_rejects_wrong_type(tmp_path):
     data = _load_json("receita_ato_14681_original.json")
-    # Mutate the type sigla to simulate a non-IN act.
-    data["epigrafe"]["tipoAto"]["siglaTipoAto"] = "PT"
+    # Verification keys on the numeric idTipoAto (== the form tipo code), which is
+    # robust to the punctuated siglas; mutate it to simulate a non-IN act.
+    data["epigrafe"]["tipoAto"]["idTipoAto"] = 57  # Portaria
     f = _fetcher(tmp_path)
     assert f.verify(data, "107", "1988-07-14") is False
 
@@ -166,6 +167,94 @@ def test_reconstruct_text_strips_segment_markup(tmp_path):
     assert text.index("Art. 1º") < text.index("Seção I")
     assert "OMITIDO" not in text
     assert "<b>" not in text and "<br>" not in text
+
+
+# --------------------------------------------------------------------------- #
+# Generalized registry: all Receita-portal act types, one folder per kind
+# --------------------------------------------------------------------------- #
+def _epi(id_tipo, numero, data_ato, orgaos):
+    """Minimal épigrafe JSON for verify() tests."""
+    return {"epigrafe": {
+        "tipoAto": {"idTipoAto": id_tipo},
+        "numeroAto": numero,
+        "dataAto": data_ato,
+        "orgaos": [{"siglaOrgao": o} for o in orgaos],
+    }}
+
+
+def test_registry_covers_expected_types():
+    # A spread across tipo codes and órgãos must be registered.
+    for slug, code, orgao in [
+        ("instrucao_normativa_srf", "42", "SRF"),
+        ("instrucao_normativa_rfb", "42", "RFB"),
+        ("solucao_de_consulta_cosit", "72", "Cosit"),
+        ("parecer_normativo_cst", "59", "CST"),
+        ("ato_declaratorio_comum_pgfn", "7", "PGFN"),
+        ("ato_declaratorio_interpretativo_srf", "10", "SRF"),
+        ("ato_declaratorio_executivo_codac", "9", "Codac"),
+        ("portaria_mf", "57", "MF"),
+        ("resolucao_cgsn", "67", "CGSN"),
+    ]:
+        act = ACT_TYPES[slug]
+        assert act.tipo_code == code
+        assert act.orgao == orgao
+    # Edge types match on tipo+number+date only (no fixed órgão).
+    assert ACT_TYPES["solucao_de_consulta"].orgao is None
+    assert ACT_TYPES["parecer_normativo"].orgao is None
+
+
+def test_search_params_include_orgao_filter():
+    # Fixed-órgão type submits the órgão facet value; edge type leaves it empty.
+    p = build_search_params(ACT_TYPES["ato_declaratorio_comum_srf"], "22", 1997)
+    assert p["orgaosSelecionados"] == "SRF"
+    assert p["tiposAtosSelecionados"] == "7"
+    p_edge = build_search_params(ACT_TYPES["solucao_de_consulta"], "15", 2009)
+    assert p_edge["orgaosSelecionados"] == ""
+
+
+def test_verify_by_id_tipo_ato_for_non_in_type(tmp_path):
+    # Ato Declaratório (code 7), sigla "AD" — verified by idTipoAto, not sigla.
+    f = ReceitaNormaFetcher(ACT_TYPES["ato_declaratorio_comum_srf"],
+                            output_dir=str(tmp_path), save_docx=False)
+    assert f.verify(_epi(7, "22", "1997-04-30", ["SRF"]), "22", "1997-04-30") is True
+    # Wrong tipo code (executivo=9) rejected even with matching number/date/órgão.
+    assert f.verify(_epi(9, "22", "1997-04-30", ["SRF"]), "22", "1997-04-30") is False
+
+
+def test_verify_orgao_case_insensitive(tmp_path):
+    # Portal mixes casing (Cosit vs COSIT); verification must be case-insensitive.
+    f = ReceitaNormaFetcher(ACT_TYPES["solucao_de_consulta_cosit"],
+                            output_dir=str(tmp_path), save_docx=False)
+    assert f.verify(_epi(72, "100", "2020-09-28", ["COSIT"]), "100", "2020-09-28") is True
+    assert f.verify(_epi(72, "100", "2020-09-28", ["SRF"]), "100", "2020-09-28") is False
+
+
+def test_verify_skips_orgao_when_none(tmp_path):
+    # orgao=None: any órgão accepted, still keyed on tipo+number+date.
+    f = ReceitaNormaFetcher(ACT_TYPES["solucao_de_consulta"],
+                            output_dir=str(tmp_path), save_docx=False)
+    assert f.verify(_epi(72, "15", "2009-03-09", ["SRRF03"]), "15", "2009-03-09") is True
+    assert f.verify(_epi(73, "15", "2009-03-09", ["SRRF03"]), "15", "2009-03-09") is False
+
+
+def test_ad_collision_resolved_by_orgao_and_date(tmp_path):
+    # AD nº 22/1997 exists for SRF, Cosar and Cosit with 3 different dates.
+    # The SRF fetcher accepts only the SRF/date-matching one.
+    f = ReceitaNormaFetcher(ACT_TYPES["ato_declaratorio_comum_srf"],
+                            output_dir=str(tmp_path), save_docx=False)
+    srf = _epi(7, "22", "1997-04-30", ["SRF"])
+    cosar = _epi(7, "22", "1997-06-02", ["Cosar"])
+    cosit = _epi(7, "22", "1997-07-17", ["Cosit"])
+    assert f.verify(srf, "22", "1997-04-30") is True
+    assert f.verify(cosar, "22", "1997-04-30") is False   # wrong órgão + date
+    assert f.verify(cosit, "22", "1997-04-30") is False
+
+
+def test_persist_writes_under_type_documents_dir(tmp_path):
+    f = ReceitaNormaFetcher(ACT_TYPES["solucao_de_consulta_cosit"],
+                            output_dir=str(tmp_path), save_docx=False)
+    assert f.documents_dir == tmp_path / "documents"
+    assert f._stem("100", "2020-09-28") == "sc_cosit_100_20200928"
 
 
 # --------------------------------------------------------------------------- #

@@ -1,0 +1,170 @@
+{
+  "idAto": 82439,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "208",
+    "dataAto": "2017-04-24",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "24 de abril de 2017"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 208, de 24 de abril de 2017",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 208, de 24/04/2017",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 208/2017",
+  "dadosPublicacao": "Publicado(a) no DOU de 02/05/2017, seção 1, página 36",
+  "dataPublicacao": "2017-05-02",
+  "dataVigenciaInicio": "2017-05-02",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 82439,
+      "idSegmento": 1719595,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE – IRRF \n<br>\n EMENTA: PRECATÓRIO. CESSÃO DE DIREITOS. IMPOSTO SOBRE A RENDA. INCIDÊNCIA. \n<br>\n O acordo de cessão de direitos não pode afastar a tributação na fonte dos rendimentos tributáveis relativos ao precatório no momento em que for quitado pela União, pelos estados, pelo Distrito Federal ou pelos municípios, sendo o cedente o beneficiário de tais rendimentos, devendo assim ser informado na Declaração do Imposto sobre a Renda Retido na Fonte (Dirf) da fonte pagadora, o seu nome e não o do cessionário. \n<br>\n Em função da natureza jurídica do crédito cedido, ocorrerá a incidência de imposto sobre a renda retido na fonte, quando cabível, no momento do pagamento do precatório, considerando-se como tal, quando ocorrer a homologação da compensação do precatório com débitos de natureza tributária do cessionário para com a União, os estados, o Distrito Federal ou os municípios. \n<br>\n SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 19, DE 25 DE FEVEREIRO DE 2015. \n<br>\n DISPOSITIVOS LEGAIS: Lei nº 8.981, de 20 de janeiro de 1995, arts. 32 e 37, §§ 1º e 3º, alínea “c”; Lei nº 9.430, de 27 de dezembro de 1996, art. 2º; Lei nº 7.450, de 23 de dezembro de 1985, art. 55; Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda (RIR/1999), art. 943, § 2º; Instrução Normativa RFB nº 1.300, de 20 de novembro de 2012, art. 11; Parecer Cosit nº 26, de 29 de junho de 2000; Perguntas e Respostas IRPF 2014, Pergunta nº 551.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 82439,
+      "idSegmento": 1719596,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 43693,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 208-2017.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/82439/visao/original"
+}

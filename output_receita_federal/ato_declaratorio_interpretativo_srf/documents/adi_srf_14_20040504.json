@@ -1,0 +1,360 @@
+{
+  "idAto": 5654,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 10,
+      "siglaTipoAto": "ADI",
+      "nomeTipoAto": "Ato Declaratório Interpretativo",
+      "prioridadeTipoAto": 19,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "14",
+    "dataAto": "2004-05-04",
+    "orgaos": [
+      {
+        "idOrgao": 274,
+        "exibirOrgao": 1,
+        "siglaOrgao": "SRF",
+        "nomeOrgao": "Secretaria da Receita Federal",
+        "prioridadeOrgao": 62,
+        "emDestaque": true,
+        "posicaoPesquisa": 2,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "4 de maio de 2004"
+  },
+  "epigrafeCompleta": "Ato Declaratório Interpretativo SRF nº 14, de 4 de maio de 2004",
+  "epigrafeSimplificada": "Ato Declaratório Interpretativo SRF nº 14, de 04/05/2004",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "ADI SRF nº 14/2004",
+  "dadosPublicacao": "Publicado(a) no DOU de 05/05/2004, página 7",
+  "dataPublicacao": "2004-05-05",
+  "dataVigenciaInicio": "2004-05-05",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 5654,
+      "idSegmento": 27661,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Dispõe sobre a tributação das atividades do sistema de locação conjunta de unidades imobiliárias denominado de pool hoteleiro.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 5654,
+      "idSegmento": 27662,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 2,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, tendo em vista o disposto nos arts. 148, 149, 254, 654, 662 e 666, do Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto de Renda (RIR, de 1999), o disposto no caput do art. 57 da Lei nº 8.981, de 20 de janeiro de 1995, com a redação dada pelo art. 1º da Lei nº 9.065, de 20 de junho de 1995, o disposto nos arts. 2º e 3º da Lei nº 9.718, de 27 de novembro de 1998, com as alterações do art. 2º da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, no art. 1º da Lei nº 10.637, de 30 de dezembro de 2002, com as alterações do art. 25 da Lei nº 10.684, de 30 de maio de 2003, e no art. 1º da Lei nº 10.833, de 29 de dezembro de 2003, e o que consta do processo nº 19615.000103/2003-21, declara:",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5654,
+      "idSegmento": 27663,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 6,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Artigo único. No sistema de locação conjunta de unidades imobiliárias denominado de pool hoteleiro, constitui-se, independente de qualquer formalidade, Sociedade em Conta de Participação (SCP) com o objetivo de lucro comum, onde a administradora (empresa hoteleira) é a sócia ostensiva e os proprietários das unidades imobiliárias integrantes do pool são os sócios ocultos.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5654,
+      "idSegmento": 762789,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 5,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 4,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "§ 1º As SCP são equiparadas às pessoas jurídicas pela legislação do Imposto de Renda, e, como tais, são contribuintes do Imposto de Renda das Pessoas Jurídicas (IRPJ), da Contribuição Social sobre o Lucro Líquido (CSLL), da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social (Cofins).",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5654,
+      "idSegmento": 762790,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 5,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 5,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "§ 2º Na apuração das bases de cálculo do imposto e das contribuições referidas no § 1º, devidas pela aludida sociedade, bem como na distribuição dos lucros, serão observadas as normas aplicáveis às pessoas jurídicas em geral.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5654,
+      "idSegmento": 762791,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 5,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 6,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "§ 3º São receitas ou resultados próprios da SCP, exemplificativamente, sujeitando-se às normas de tributação específicas do IRPJ, da CSLL, da Contribuição para o PIS/Pasep e da Cofins: as diárias, semanadas ou aluguéis, relativos às unidades integrantes do pool hoteleiro, inclusive de áreas de restaurantes, salão de convenções, lojas, etc., também integrantes do sistema de locação conjunta; os preços dos serviços prestados, os impostos e taxas incidentes sobre os imóveis, e os demais encargos locatícios, se cobrados, pela administradora, destacadamente das diárias, semanadas ou aluguéis; as indenizações recebidas por extravios e danos causados às unidades; as multas e juros de mora; o resultado das aplicações dos saldos financeiros da sociedade.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5654,
+      "idSegmento": 762792,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 5,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 7,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "§ 4º É a administradora (empresa hoteleira), na qualidade de sócia ostensiva, a responsável pelo recolhimento do imposto e das contribuições devidas pela SCP, sem prejuízo do recolhimento do imposto e das contribuições incidentes sobre suas próprias receitas ou resultados.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5654,
+      "idSegmento": 762793,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 5,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 8,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "§ 5º Deverão ser observadas as demais normas específicas da legislação do imposto de renda e das cont ribuições sociais, aplicáveis às SCP.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 5654,
+      "idSegmento": 27664,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1000,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 9,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "JORGE ANTONIO DEHER RACHID",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 2,
+      "siglaTipoSegmento": "autor",
+      "nomeTipoSegmento": "Autor",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 2,
+        "atributos": [
+          {
+            "idEstiloSegmento": 2,
+            "idAtributoEstiloSegmento": 3,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 5,
+      "siglaTipoSegmento": "paragrafo",
+      "nomeTipoSegmento": "Parágrafo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 5,
+        "atributos": [
+          {
+            "idEstiloSegmento": 5,
+            "idAtributoEstiloSegmento": 6,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 6,
+      "siglaTipoSegmento": "item",
+      "nomeTipoSegmento": "Item",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 6,
+        "atributos": [
+          {
+            "idEstiloSegmento": 6,
+            "idAtributoEstiloSegmento": 7,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1000,
+      "siglaTipoSegmento": "assinatura",
+      "nomeTipoSegmento": "Assinatura",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 20,
+        "atributos": [
+          {
+            "idEstiloSegmento": 20,
+            "idAtributoEstiloSegmento": 26,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5654/visao/original"
+}

@@ -1,0 +1,300 @@
+{
+  "idAto": 51185,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 77,
+      "siglaTipoAto": "Nota",
+      "nomeTipoAto": "Nota",
+      "prioridadeTipoAto": 80,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "1549",
+    "dataAto": "2012-09-30",
+    "orgaos": [
+      {
+        "idOrgao": 222,
+        "exibirOrgao": 1,
+        "siglaOrgao": "PGFN",
+        "nomeOrgao": "Procuradoria-Geral da Fazenda Nacional",
+        "prioridadeOrgao": 12,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "30 de setembro de 2012"
+  },
+  "epigrafeCompleta": "Nota PGFN nº 1549, de 30 de setembro de 2012",
+  "epigrafeSimplificada": "Nota PGFN nº 1549, de 30/09/2012",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "Nota PGFN nº 1549/2012",
+  "dadosPublicacao": " 30/09/2012",
+  "dataPublicacao": "2012-09-30",
+  "dataVigenciaInicio": "2012-09-30",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 51185,
+      "idSegmento": 1398218,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Complementação da Nota PGFN/CRJ nº 1114/2012. Portaria PGFN Nº 294/2010. Parecer PGFN/CDA Nº 2025/2011. Acréscimo de item na lista de julgados submetidos à sistemática dos artigos 543-B e 543-C do CPC contrários à Fazenda Nacional. Delimitação da matéria decidida.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 51185,
+      "idSegmento": 1398219,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Em complementação à Nota PGFN/CRJ nº 1114/2012, que delimitou a matéria decidida nos julgamentos submetidos à sistemática dos artigos 543-B e 543-C, do Código de Processo Civil, com a finalidade de subsidiar a aplicação, por parte da Secretaria da Receita Federal do Brasil (RFB), do Parecer PGFN CDA nº 2025/2011, encaminha-se a presente nota, correspondente ao Recurso Especial nº 1.306.393/DF.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 51185,
+      "idSegmento": 1398220,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "2. Em razão de o referido julgado ter repercussão na esfera administrativa e requerer atuação efetiva da RFB, e em observância do que foi definido na Nota PGFN/CRJ nº 1114/2012, que cumpre o disposto no Parecer PGFN/CDA nº 2025/2011, procede-se à delimitação do tema decidido no Recurso Especial acima mencionado.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 51185,
+      "idSegmento": 1398221,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 4,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "3. Estabeleceu o Superior Tribunal de Justiça que estão isentos do imposto de renda os rendimentos recebidos por técnicos a serviço da Organização das Nações Unidas contratados no Brasil para atuarem no Programa Nacional das Nações Unidas para o Desenvolvimento (PNUD). Estão abarcados por esta isenção tanto os funcionários do PNUD quanto os que a ela prestam serviço na condição de peritos de assistência técnica, categorias equiparadas em razão da aprovação, via decreto legislativo, do Acordo Básico de Assistência Técnica firmado entre o Brasil, a ONU e suas agências. Por fim, a condição de perito, segundo se extrai da decisão no referido recurso especial, deriva de um contrato temporário com período pré-fixado ou por meio de empreitada a ser realizada (apresentação ou execução de projeto e/ou consultoria).",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 51185,
+      "idSegmento": 1398222,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 5,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "4. Concomitantemente, sugiro a inclusão do tema na lista do art. 1º, V da Portaria PGFN nº. 294/2010.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 51185,
+      "idSegmento": 1398223,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 6,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "São as considerações que, por ora, submetemos à apreciação superior.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 51185,
+      "idSegmento": 1398224,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 7,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "PROCURADORIA-GERAL DA FAZENDA NACIONAL, em 30 de novembro de 2012.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 51185,
+      "idSegmento": 1398225,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1000,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 8,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "MARCUS VINÍCIUS ALVES PORTO Procurador da Fazenda Nacional De acordo. À consideração superior. PROCURADORIA-GERAL DA FAZENDA NACIONAL, em 30 de novembro de 2012. ALEXANDRA MARIA CARVALHO CARNEIRO Coordenadora da Representação Judicial no STJ De acordo. Inclua-se na lista do art. 1º, V da Portaria PGFN nº. 294/2010. À consideração superior. PROCURADORIA-GERAL DA FAZENDA NACIONAL, em 30 de novembro de 2012. CLAUDIO XAVIER SEEFELDER FILHO Coordenador-Geral da Representação Judicial da Fazenda Nacional Aprovo. Encaminhe-se a presente nota-explicativa à Secretaria da Receita Federal do Brasil. PROCURADORIA-GERAL DA FAZENDA NACIONAL, em 3 de dezembro de 2012. FABRÍCIO DA SOLLER Procurador-Geral Adjunto de Consultoria e Contencioso Tributário",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 999,
+      "siglaTipoSegmento": "nao identificad",
+      "nomeTipoSegmento": "Não Identificado",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 18,
+        "atributos": [
+          {
+            "idEstiloSegmento": 18,
+            "idAtributoEstiloSegmento": 25,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1000,
+      "siglaTipoSegmento": "assinatura",
+      "nomeTipoSegmento": "Assinatura",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 20,
+        "atributos": [
+          {
+            "idEstiloSegmento": 20,
+            "idAtributoEstiloSegmento": 26,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/51185/visao/original"
+}

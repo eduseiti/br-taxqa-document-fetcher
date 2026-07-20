@@ -1,0 +1,22 @@
+[
+  {
+    "type": "ato_declaratorio_comum_pgfn",
+    "number": "1",
+    "date": "2014-01-02",
+    "canonical_name": "Ato Declaratório PGFN nº 1, de 2 de janeiro de 2014",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "7 candidate(s) found, none matched órgão=PGFN/number=1/date=2014-01-02",
+    "needs_review": true,
+    "review_reason": "date_mismatch",
+    "source_filenames": [
+      "Ato Declaratório PGFN Nº 1, de 2 de janeiro de 2014.txt"
+    ]
+  }
+]

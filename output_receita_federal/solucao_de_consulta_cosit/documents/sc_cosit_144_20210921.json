@@ -1,0 +1,222 @@
+{
+  "idAto": 120711,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "144",
+    "dataAto": "2021-09-21",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "21 de setembro de 2021"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 144, de 21 de setembro de 2021",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 144, de 21/09/2021",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 144/2021",
+  "dadosPublicacao": "Publicado(a) no DOU de 28/09/2021, seção 1, página 45",
+  "dataPublicacao": "2021-09-28",
+  "dataVigenciaInicio": "2021-09-28",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 120711,
+      "idSegmento": 2294149,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Assunto: Imposto sobre a Renda Retido na Fonte – IRRF \n<br>\n HIPÓTESE DE INCIDÊNCIA. DIRETOR ESTATUTÁRIO. RESCISÃO DE CONTRATO. FÉRIAS. FÉRIAS NÃO GOZADAS. SALDO DE SALÁRIO. INDENIZAÇÕES. \n<br>\n Não incide o Imposto sobre a Renda na fonte e na Declaração de Ajuste Anual em relação aos pagamentos efetuados sob as rubricas de férias não gozadas - integrais, proporcionais ou em dobro - convertidas em pecúnia, por ocasião da rescisão do contrato de trabalho. Porém, o valor pago a título de férias, acrescido do adicional previsto no inciso XVII do art. 7º da Constituição Federal (terço constitucional), deve ser tributado no mês de seu pagamento e em separado de qualquer outro rendimento pago no mês. \n<br>\n Incide o Imposto sobre a Renda Retido na Fonte (IRRF) com base na tabela progressiva sobre o pagamento, na rescisão contratual, dos dias trabalhados, por se tratar de acréscimo patrimonial (remuneração). \n<br>\n Verba paga a diretor estatutário nomeado por ato da Assembléia-Geral, em rescisão de contrato não regido pela Consolidação das Leis do Trabalho (CLT), mesmo que denominada pela empresa de \"aviso prévio\", constitui acréscimo patrimonial fundamentado na compensação de ganho que deixou de ser auferido pelo diretor, caracteriza lucro cessante, razão pela qual incide o IRRF, calculado de acordo com a tabela progressiva mensal, a título de antecipação do devido na Declaração de Ajuste Anual. \n<br>\n Em relação ao contrato de trabalho entre empresa e diretor estatutário nomeado por ato de Assembléia-Geral, não regido pela CLT, o pagamento de indenização voltada para a cobertura de possível aumento patrimonial que teria havido se evento danoso (a rescisão antecipada do contrato) não tivesse ocorrido, gera acréscimo patrimonial e, por isso, é considerada lucro cessante. Tal montante sofre a incidência do IRRF, calculado de acordo com a tabela progressiva mensal a título de antecipação do devido na Declaração de Ajuste Anual. \n<br>\n SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA Nº 282 - COSIT, DE 14 DE OUTUBRO DE 2014. \n<br>\n Dispositivos Legais: Constituição da República Federativa do Brasil de 1988 (CF), art. 7º, inciso XVII; Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), art. 43; Lei nº 9.430, de 27 de dezembro de 1996, art. 70; Lei nº 10.522, de 19 de julho de 2002, art. 19; Regulamento do Imposto sobre a Renda e Proventos de Qualquer Natureza (RIR) aprovado pelo Decreto nº 9.580, de 22 de novembro de 2018, arts. 35, inciso III, alínea \"c\", 36, incisos II e XIII, alínea \"b\", e 47, incisos VI e IX; Instrução Normativa (IN) RFB nº 1.500, de 29 de outubo de 2014, art. 22-A; Solução de Consula nº 282 - Cosit, de 14 de outubro de 2014.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 120711,
+      "idSegmento": 2294150,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "SC Cosit nº 144-2021",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 62764,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 144-2021.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 120711,
+      "idSegmento": 2294151,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "FERNANDO MOMBELLI \n<br>\n Coordenador-Geral",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 4,
+      "siglaTipoSegmento": "fecho",
+      "nomeTipoSegmento": "Fecho",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 4,
+        "atributos": [
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 89,
+            "atributo": "text-align",
+            "valor": "center"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 90,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 91,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": true
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/120711/visao/original"
+}

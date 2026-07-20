@@ -32,11 +32,27 @@ TYPE_SLUG_TO_URN_TYPE = {
     "decreto": "decreto",
     # Receita Federal acts fetched from sijut2consulta (not LexML/normas.leg.br).
     # The URN token is informational only here — these are matched and fetched by
-    # (tipo_code, orgao_sigla, number, date) against the Receita REST API, not by
-    # URN — but a consistent token keeps CanonicalDoc.urn populated for reports.
+    # (tipo_code, orgao, number, date) against the Receita REST API, not by URN —
+    # but a consistent token keeps CanonicalDoc.urn populated for reports. Any
+    # Receita type_slug not listed falls back to a token derived from the slug
+    # (see _urn_type_for), so the whole ACT_TYPES registry works without a parallel
+    # list here.
     "instrucao_normativa_srf": "instrucao.normativa",
     "instrucao_normativa_rfb": "instrucao.normativa",
 }
+
+
+def _urn_type_for(type_slug: str) -> str:
+    """URN type token for a canonical type_slug.
+
+    Explicit map wins; otherwise derive an informational token by stripping the
+    trailing órgão segment heuristically and dotting the rest (e.g.
+    "ato_declaratorio_comum_pgfn" -> "ato.declaratorio.comum"). Used only to
+    populate CanonicalDoc.urn for reports; Receita acts are not fetched by URN.
+    """
+    if type_slug in TYPE_SLUG_TO_URN_TYPE:
+        return TYPE_SLUG_TO_URN_TYPE[type_slug]
+    return type_slug.replace("_", ".")
 
 
 @dataclass
@@ -89,11 +105,7 @@ def load_canonical_docs(
         List of ``CanonicalDoc`` de-duplicated by (number, date), preserving
         first-seen order. Source filenames of merged duplicates are aggregated.
     """
-    urn_type = TYPE_SLUG_TO_URN_TYPE.get(type_slug)
-    if urn_type is None:
-        raise ValueError(
-            f"Unknown type_slug {type_slug!r}; known: {sorted(TYPE_SLUG_TO_URN_TYPE)}"
-        )
+    urn_type = _urn_type_for(type_slug)
 
     with open(json_path, "r", encoding="utf-8") as f:
         records = json.load(f)

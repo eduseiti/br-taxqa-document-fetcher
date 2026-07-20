@@ -1,0 +1,222 @@
+{
+  "idAto": 115875,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "7",
+    "dataAto": "2021-03-04",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "4 de março de 2021"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 7, de 4 de março de 2021",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 7, de 04/03/2021",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 7/2021",
+  "dadosPublicacao": "Publicado(a) no DOU de 11/03/2021, seção 1, página 54",
+  "dataPublicacao": "2021-03-11",
+  "dataVigenciaInicio": "2021-03-11",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 115875,
+      "idSegmento": 2236193,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ \n<br>\n LUCRO PRESUMIDO. ATIVIDADE IMOBILIÁRIA. VENDA DE IMÓVEIS. IMOBILIZADO. INVESTIMENTO. RECEITA BRUTA. GANHO DE CAPITAL. \n<br>\n Para fins de determinação da base de cálculo do IRPJ, a receita bruta auferida por meio da exploração de atividade imobiliária relativa à compra e venda de imóveis próprios submete-se ao percentual de presunção de 8% (oito por cento). \n<br>\n Essa forma de tributação subsiste ainda que os imóveis vendidos tenham sido utilizados anteriormente para locação a terceiros, se essa atividade constituir objeto da pessoa jurídica, hipótese em que as receitas dela decorrente compõem o resultado operacional e a receita bruta da pessoa jurídica. \n<br>\n A receita decorrente da alienação de bens do ativo não circulante, ainda que reclassificados para o ativo circulante com a intenção de venda, deve ser objeto de apuração de ganho de capital que, por sua vez, deve ser acrescido à base de cálculo do IRPJ na hipótese em que essa atividade não constitui objeto pessoa jurídica, não compõe o resultado operacional da empresa nem a sua receita bruta. \n<br>\n Dispositivos Legais: Lei nº 6.404, de 1976, art. 179, IV; Decreto-Lei nº 1.598, de 1977, arts. 11 e 12; Lei nº 9.430, de 1996, art. 25; Instrução Normativa RFB nº 1.700, de 2017, arts. 26, 33, § 1º, II, 'c', e IV, 'c', e 215, caput e § 14. \n<br>\n Assunto: Contribuição Social sobre o Lucro Líquido - CSLL \n<br>\n RESULTADO PRESUMIDO. ATIVIDADE IMOBILIÁRIA. VENDA DE IMÓVEIS. IMOBILIZADO. INVESTIMENTO. RECEITA BRUTA. GANHO DE CAPITAL. \n<br>\n Para fins de determinação da base de cálculo da CSLL, a receita bruta auferida por meio da exploração de atividade imobiliária relativa à compra e venda de imóveis próprios submete-se ao percentual de presunção de 12% (doze por cento). \n<br>\n Essa forma de tributação subsiste ainda que os imóveis vendidos tenham sido utilizados anteriormente para locação a terceiros se essa atividade constituir objeto da pessoa jurídica, hipótese em que as receitas dela decorrente compõem o resultado operacional e a receita bruta da pessoa jurídica. \n<br>\n A receita decorrente da alienação de bens do ativo não circulante, ainda que reclassificados para o ativo circulante com a intenção de venda, deve ser objeto de apuração de ganho de capital que, por sua vez, deve ser acrescido à base de cálculo da CSLL na hipótese em que essa atividade não constitui objeto pessoa jurídica, não compõe o resultado operacional da empresa nem a sua receita bruta. \n<br>\n Dispositivos Legais: Lei nº 6.404, de 1976, art. 179, IV; Decreto-Lei nº 1.598, de 1977, arts. 11 e 12; Lei nº 9.430, de 1996, art. 29; Instrução Normativa RFB nº 1.700, de 2017, arts. 26, 34, caput e § 1º, III, e 215, §§ 1º e 14. \n<br>\n Assunto: Contribuição para o PIS/Pasep \n<br>\n REGIME CUMULATIVO. ATIVIDADE IMOBILIÁRIA. VENDA DE IMÓVEIS. RECEITA BRUTA. INCIDÊNCIA. \n<br>\n A pessoa jurídica que tem como objeto a exploração da atividade imobiliária relativa à compra e venda de imóveis está sujeita à incidência cumulativa da Contribuição para o PIS/PASEP, mediante a aplicação das alíquotas de 0,65% (sessenta e cinco centésimos por cento), em relação à receita bruta auferida com a venda de imóveis próprios, mesmo na hipótese de os imóveis vendidos já terem sido utilizados para locação a terceiros em período anterior à venda e, consequentemente, terem sido classificados no ativo imobilizado naquele período. \n<br>\n Dispositivos Legais: Lei nº 9.718, de 1996, arts. 2º e 3º, caput e § 2º, IV; Decreto-Lei nº 1.598, de 1977, art. 12. \n<br>\n Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins \n<br>\n REGIME CUMULATIVO. ATIVIDADE IMOBILIÁRIA. VENDA DE IMÓVEIS. RECEITA BRUTA. INCIDÊNCIA. \n<br>\n A pessoa jurídica que tem como objeto a exploração da atividade imobiliária relativa à compra e venda de imóveis está sujeita à incidência cumulativa da Cofins, mediante a aplicação das alíquotas de 3% (três por cento), em relação à receita bruta auferida com a venda de imóveis próprios, mesmo na hipótese de os imóveis vendidos já terem sido utilizados para locação a terceiros em período anterior à venda e, consequentemente, terem sido classificados no ativo imobilizado naquele período. \n<br>\n Dispositivos Legais: Lei nº 9.718, de 1996, arts. 2º e 3º, caput e § 2º, IV; Decreto-Lei nº 1.598, de 1977, art. 12.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 115875,
+      "idSegmento": 2236196,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "SC Cosit nº 7-2021",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 59906,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 7-2021.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 115875,
+      "idSegmento": 2236194,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "FERNANDO MOMBELLI \n<br>\n Coordenador-Geral da Cosit",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 4,
+      "siglaTipoSegmento": "fecho",
+      "nomeTipoSegmento": "Fecho",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 4,
+        "atributos": [
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 89,
+            "atributo": "text-align",
+            "valor": "center"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 90,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 91,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": true
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/115875/visao/original"
+}

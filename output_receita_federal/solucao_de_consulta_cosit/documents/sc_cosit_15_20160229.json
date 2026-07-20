@@ -1,0 +1,226 @@
+{
+  "idAto": 77088,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "15",
+    "dataAto": "2016-02-29",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "29 de fevereiro de 2016"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 15, de 29 de fevereiro de 2016",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 15, de 29/02/2016",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 15/2016",
+  "dadosPublicacao": "Publicado(a) no DOU de 05/09/2016, seção 1, página 42",
+  "dataPublicacao": "2016-09-05",
+  "dataVigenciaInicio": "2016-09-05",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 77088,
+      "idSegmento": 1659636,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA – IRPF EMENTA: PENSÃO ALIMENTÍCIA PAGA À MÃE DO CÔNJUGE. DECLARAÇÃO EM CONJUNTO. CONDIÇÃO DE DEDUTIBILIDADE \n<br>\n Conclui-se que o consulente poderá deduzir o valor da pensão alimentícia em face das normas do direito de família, quando em cumprimento de decisão judicial, inclusive a prestação de alimentos provisionais, acordo homologado judicialmente, ou de escritura pública a que se refere o art. 1.124-A da Lei nº 5.869, de 1973 - Código de Processo Civil (CPC) - atual art. 733 do Novo CPC (Lei nº 13.105, de 2015), paga a sua sogra pela sua esposa, da base de cálculo do Imposto sobre a Renda na Declaração de Ajuste Anual, desde que esta seja apresentada em conjunto pelo casal. \n<br>\n DISPOSITIVOS LEGAIS: Lei nº 5.869, de 11 de janeiro de 1979 - Código de Processo Civil (CPC); Lei nº 9.250 de 26 de dezembro de 1995, arts. 4º e 8º, com a redação dada pela Lei nº 11.727, de 23 de junho de 2008; Lei nº 13.105, de 16 de março de 2015 - Código de Processo Civil (CPC); Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda (RIR/1999), art. 8º; Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, arts. 101 a 103; e Perguntas e Respostas do Imposto sobre a Renda da Pessoa Física, Exercício de 2015, Perguntas 72 e 82.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 77088,
+      "idSegmento": 1659638,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 41213,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 15-2016.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 77088,
+      "idSegmento": 1659911,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 999,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Nota: Republicado por ter saído no D.O.U. n<strike>º</strike>68, de 11/04/2016, seção I, página 37, com incorreção do original..",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [
+    {
+      "idAto": 72885,
+      "idSegmento": null,
+      "idAnotacao": 227253,
+      "href": "72885",
+      "texto": "[Republicação - publicação anterior em 11 de abril de 2016]",
+      "dataInicioVigencia": null,
+      "dataRepublicacao": null,
+      "permiteExcluir": false,
+      "permiteAlterarData": false,
+      "ehAgendamento": false,
+      "textoAgendamento": null,
+      "exibirDataInicioVigencia": true,
+      "permiteAgendamento": false
+    }
+  ],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 999,
+      "siglaTipoSegmento": "nao identificad",
+      "nomeTipoSegmento": "Não Identificado",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 18,
+        "atributos": [
+          {
+            "idEstiloSegmento": 18,
+            "idAtributoEstiloSegmento": 25,
+            "atributo": "text-indent",
+            "valor": "63px"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/77088/visao/original"
+}

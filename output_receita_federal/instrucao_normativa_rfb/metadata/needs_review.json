@@ -1,0 +1,42 @@
+[
+  {
+    "type": "instrucao_normativa_rfb",
+    "number": "1131",
+    "date": "2011-02-20",
+    "canonical_name": "Instrução Normativa RFB nº 1.131, de 20 de fevereiro de 2011",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "1 candidate(s) found, none matched órgão=RFB/number=1131/date=2011-02-20",
+    "needs_review": true,
+    "review_reason": "date_mismatch",
+    "source_filenames": [
+      "Instrução Normativa RFB nº 1.131.txt"
+    ]
+  },
+  {
+    "type": "instrucao_normativa_rfb",
+    "number": "67",
+    "date": null,
+    "canonical_name": "Instrução Normativa RFB nº 67",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "No idAto returned by search",
+    "needs_review": true,
+    "review_reason": "not_found",
+    "source_filenames": [
+      "Instrução Normativa RFB nº 67.txt"
+    ]
+  }
+]

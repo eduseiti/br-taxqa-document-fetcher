@@ -1,0 +1,170 @@
+{
+  "idAto": 59829,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "356",
+    "dataAto": "2014-12-17",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "17 de dezembro de 2014"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 356, de 17 de dezembro de 2014",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 356, de 17/12/2014",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 356/2014",
+  "dadosPublicacao": "Publicado(a) no DOU de 30/12/2014, seção 1, página 42",
+  "dataPublicacao": "2014-12-30",
+  "dataVigenciaInicio": "2014-12-30",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 59829,
+      "idSegmento": 1484214,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA – IRPF \n<br>\n EMENTA: ISENÇÃO. MOLÉSTIA GRAVE. INTERPRETAÇÃO RESTRITIVA. ROL TAXATIVO DE DOENÇAS. LEIS Nºs 7.713, DE 22 DE DEZEMBRO DE 1988 e 11.052, DE 29 DE DEZEMBRO DE 2004. A isenção do imposto sobre a renda concedida aos aposentados portadores de moléstia grave somente alcança as enfermidades expressamente listadas em lei, sendo taxativo o rol contido nos dispositivos legais que concedam a isenção (numerus clausus), ou seja, restringe a concessão do benefício às situações nele enumeradas. BENEFÍCIO. PREVIDÊNCIA COMPLEMENTAR. NATUREZA COMPLEMENTAR À APOSENTADORIA OFICIAL. RENDIMENTO TRIBUTÁVEL. Os rendimentos de aposentadoria complementar recebidos pelo portador de doença grave listada nas leis de isenção somente serão isentos a partir do mês da concessão da aposentadoria pela previdência oficial, observadas as condições estabelecidas na legislação tributária. \n<br>\n DISPOSITIVOS LEGAIS: Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), art. 111, inciso II; Lei nº 7.713, de 22 de dezembro de 1988, art. 6º, inciso XIV; Lei nº 8.541, de 23 de dezembro de 1992, art. 47; Lei nº 9.250, de 26 de dezembro de 1995, art. 30, § 2º; Lei nº 11.052, de 29 de dezembro de 2004; Lei nº 11.053, de 29 de dezembro de 2004; Instrução Normativa SRF nº 15, de 6 fevereiro de 2001, art. 5º, inciso XII; Regulamento do Imposto sobre a Renda - RIR/99 - Decreto nº 3.000, de 26 de março de 1999, art. 39, inciso XXXIII e art. 633. \n<br>\n ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE – IRRF \n<br>\n EMENTA: ISENÇÃO. BENEFÍCIO. PREVIDÊNCIA COMPLEMENTAR. MOLÉSTIA GRAVE. INTERPRETAÇÃO RESTRITIVA. ROL TAXATIVO DE DOENÇAS. ALCANCE. NATUREZA COMPLEMENTAR À APOSENTADORIA OFICIAL. LEIS Nºs 7.713, DE 22 DE DEZEMBRO DE 1988 e 11.052, DE 29 DE DEZEMBRO DE 2004. A isenção de que trata o inciso XIV do art. 6º da Lei nº 7.713, de 22 de dezembro de 1988, com a redação dada pela Lei nº 11.052, de 29 de dezembro de 2004, aplica-se aos valores pagos por entidade de previdência complementar a título de complementação de aposentadoria se o beneficiário for aposentado pela Previdência Oficial e logre comprovar ser portador de uma das moléstias graves listadas no referido mandamento legal, atendidos os demais requisitos normativos para fins daquela comprovação. \n<br>\n DISPOSITIVOS LEGAIS: Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN) - art. 111, inciso II; Lei nº 7.713, de 22 de dezembro de 1988, art. 6º, inciso XIV; Lei nº 8.541, de 23 de dezembro de 1992, art. 47; Lei nº 9.250, de 26 de dezembro de 1995, art. 30, § 2º; Lei nº 11.052, de 29 de dezembro de 2004; Lei nº 11.053, de 29 de dezembro de 2004; Instrução Normativa SRF nº 15, de 6 de fevereiro de 2001, art. 5º, inciso XII; Regulamento do Imposto sobre a Renda - RIR/99 - Decreto nº 3.000, de 26 de março de 1999, art. 39, inciso XXXIII e art. 633.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 59829,
+      "idSegmento": 1484215,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 33996,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 356-2014.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/59829/visao/original"
+}

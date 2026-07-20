@@ -27,10 +27,11 @@ in 2007) and genuine collisions exist (nº 84 in 1979 and 2001), a returned
 ``idAto`` is **always verified** against the canonical (órgão, number, date) using
 the stage-2 JSON before it is accepted.
 
-Generalization: only the ``(tipo_code, orgao_sigla)`` pair is act-type-specific.
-``ActType`` captures that so the same fetcher serves ``instrucao_normativa_rfb``
-and other RFB act types (ADE, ADI, Portaria, Solução de Consulta, …) that live in
-the same ``sijut2consulta`` system.
+Generalization: only the ``(tipo_code, orgao)`` pair is act-type-specific.
+``ActType`` + the ``ACT_TYPES`` registry capture that, so the same fetcher serves
+every Receita-portal act referenced by the canonical file — IN (SRF/RFB), Solução
+de Consulta (Cosit), Ato Declaratório / Executivo / Interpretativo / Normativo,
+Parecer Normativo, Portaria MF, Resolução CGSN, etc. — all in ``sijut2consulta``.
 """
 
 import logging
@@ -78,29 +79,75 @@ _IDATO_RE = re.compile(r"link\.action\?(?:antigo=1&(?:amp;)?)?idAto=(\d+)")
 class ActType:
     """The act-type-specific parameters of a sijut2consulta search + verify.
 
-    Only ``tipo_code`` and ``orgao_sigla`` truly vary between act types; the rest
-    are labels/derived verification keys kept here so the fetcher stays generic.
+    Only ``tipo_code`` (the "Tipo do ato" code) and ``orgao`` (the órgão facet /
+    verification sigla) truly vary between act types; the rest are labels kept
+    here so the fetcher stays generic. ``orgao`` doubles as the ``orgaosSelecionados``
+    search filter (narrows same-number/same-year collisions server-side) and the
+    ``epigrafe.orgaos[].siglaOrgao`` verification key (compared case-insensitively,
+    since the portal mixes casing: ``SRF``/``RFB``/``CST`` but ``Cosit``/``Codac``).
+    ``orgao=None`` means "don't filter/verify by órgão" — for acts whose issuing
+    unit is ambiguous or regional (e.g. a generic Parecer, or ``Disit/SRRF`` SCs).
     """
-    type_slug: str        # canonical type_slug, e.g. "instrucao_normativa_srf"
-    tipo_code: str        # "Tipo do ato" checkbox value, e.g. "42" (Instrução Normativa)
-    tipo_label: str       # human label submitted as lblTiposAtosSelecionados
-    tipo_sigla: str       # epigrafe.tipoAto.siglaTipoAto to verify, e.g. "IN"
-    orgao_sigla: str      # epigrafe.orgaos[].siglaOrgao to verify, e.g. "SRF"
-    file_prefix: str      # output filename stem prefix, e.g. "in_srf"
+    type_slug: str          # canonical type_slug, e.g. "instrucao_normativa_srf"
+    tipo_code: str          # "Tipo do ato" checkbox value, e.g. "42" (Instrução Normativa)
+    tipo_label: str         # human label (also submitted as lblTiposAtosSelecionados)
+    orgao: Optional[str]    # órgão facet value + verify sigla, e.g. "SRF"; None = any
+    file_prefix: str        # output filename stem prefix, e.g. "in_srf"
 
 
-# Registry of supported act types. IN Conjunta uses code 79; RFB shares code 42.
+# --- registry -------------------------------------------------------------
+# Compact table: (type_slug, tipo_code, tipo_label, orgao, file_prefix).
+# tipo codes + órgão siglas were reverse-engineered live from consulta.action
+# (input.chkTiposAtos value/sigla) and verified against epigrafe.tipoAto.idTipoAto.
+# "Ato Declaratório Comum" is the plain "Ato Declaratório" (code 7); the canonical
+# suffix is the órgão. Entries with orgao=None match on tipo+number+date only.
+_REGISTRY_TABLE = [
+    # Instrução Normativa (42)
+    ("instrucao_normativa_srf",             "42", "Instrução Normativa",            "SRF",   "in_srf"),
+    ("instrucao_normativa_rfb",             "42", "Instrução Normativa",            "RFB",   "in_rfb"),
+    # Solução de Consulta / Interna / Divergência (72/75/73)
+    ("solucao_de_consulta_cosit",           "72", "Solução de Consulta",            "Cosit", "sc_cosit"),
+    ("solucao_de_consulta_interna_cosit",   "75", "Solução de Consulta Interna",    "Cosit", "sci_cosit"),
+    ("solucao_de_divergencia_cosit",        "73", "Solução de Divergência",         "Cosit", "sd_cosit"),
+    ("solucao_de_consulta",                 "72", "Solução de Consulta",            None,    "sc"),
+    # Ato Declaratório "Comum" = AD (7)
+    ("ato_declaratorio_comum_pgfn",         "7",  "Ato Declaratório",               "PGFN",  "ad_pgfn"),
+    ("ato_declaratorio_comum_srf",          "7",  "Ato Declaratório",               "SRF",   "ad_srf"),
+    ("ato_declaratorio_comum_cosit",        "7",  "Ato Declaratório",               "Cosit", "ad_cosit"),
+    ("ato_declaratorio_comum_cosar",        "7",  "Ato Declaratório",               "Cosar", "ad_cosar"),
+    # Ato Declaratório Executivo (9)
+    ("ato_declaratorio_executivo_rfb",      "9",  "Ato Declaratório Executivo",     "RFB",   "ade_rfb"),
+    ("ato_declaratorio_executivo_srf",      "9",  "Ato Declaratório Executivo",     "SRF",   "ade_srf"),
+    ("ato_declaratorio_executivo_cosit",    "9",  "Ato Declaratório Executivo",     "Cosit", "ade_cosit"),
+    ("ato_declaratorio_executivo_codac",    "9",  "Ato Declaratório Executivo",     "Codac", "ade_codac"),
+    # Ato Declaratório Interpretativo (10)
+    ("ato_declaratorio_interpretativo_srf", "10", "Ato Declaratório Interpretativo", "SRF",  "adi_srf"),
+    ("ato_declaratorio_interpretativo_rfb", "10", "Ato Declaratório Interpretativo", "RFB",  "adi_rfb"),
+    # Ato Declaratório Normativo (11)
+    ("ato_declaratorio_normativo_cst",      "11", "Ato Declaratório Normativo",     "CST",   "adn_cst"),
+    ("ato_declaratorio_normativo_cosit",    "11", "Ato Declaratório Normativo",     "Cosit", "adn_cosit"),
+    # Parecer Normativo (59) / Parecer (61)
+    ("parecer_normativo_cst",               "59", "Parecer Normativo",              "CST",   "pn_cst"),
+    ("parecer_normativo_cosit",             "59", "Parecer Normativo",              "Cosit", "pn_cosit"),
+    ("parecer_normativo",                   "59", "Parecer Normativo",              None,    "pn"),
+    ("parecer_cosit",                       "61", "Parecer",                        "Cosit", "par_cosit"),
+    ("parecer_pgfn",                        "61", "Parecer",                        "PGFN",  "par_pgfn"),
+    ("parecer_pgfncat",                     "61", "Parecer",                        None,    "par_pgfncat"),
+    ("parecer_sei",                         "61", "Parecer",                        None,    "par_sei"),
+    ("parecer",                             "61", "Parecer",                        None,    "par"),
+    # Nota (77)
+    ("nota_pgfn",                           "77", "Nota",                           "PGFN",  "nota_pgfn"),
+    ("nota_sei",                            "77", "Nota",                           None,    "nota_sei"),
+    # Portaria (57), Resolução (67), Despacho (35)
+    ("portaria_mf",                         "57", "Portaria",                       "MF",    "port_mf"),
+    ("resolucao_cgsn",                      "67", "Resolução",                      "CGSN",  "resol_cgsn"),
+    ("despacho",                            "35", "Despacho",                       None,    "desp"),
+]
+
 ACT_TYPES: Dict[str, ActType] = {
-    "instrucao_normativa_srf": ActType(
-        type_slug="instrucao_normativa_srf", tipo_code="42",
-        tipo_label="Instrução Normativa", tipo_sigla="IN",
-        orgao_sigla="SRF", file_prefix="in_srf",
-    ),
-    "instrucao_normativa_rfb": ActType(
-        type_slug="instrucao_normativa_rfb", tipo_code="42",
-        tipo_label="Instrução Normativa", tipo_sigla="IN",
-        orgao_sigla="RFB", file_prefix="in_rfb",
-    ),
+    slug: ActType(type_slug=slug, tipo_code=code, tipo_label=label,
+                  orgao=orgao, file_prefix=prefix)
+    for slug, code, label, orgao, prefix in _REGISTRY_TABLE
 }
 
 
@@ -150,7 +197,10 @@ def build_search_params(act: ActType, numero: str, year: Optional[int],
     """
     return {
         "facetsExistentes": "",
-        "orgaosSelecionados": "",
+        # Filtering by órgão narrows same-number/same-year collisions across órgãos
+        # server-side (e.g. AD nº 22/1997 exists for SRF, Cosar and Cosit). Empty
+        # when the act type has no fixed órgão (orgao=None).
+        "orgaosSelecionados": act.orgao or "",
         "tiposAtosSelecionados": act.tipo_code,
         "lblTiposAtosSelecionados": act.tipo_label,
         "ordemColuna": "",
@@ -251,18 +301,22 @@ class ReceitaNormaFetcher:
     def verify(self, data: dict, number: str, expected_iso: Optional[str]) -> bool:
         """True iff the JSON matches the canonical (type, number, órgão, date).
 
-        Requires all of: tipoAto.siglaTipoAto == act.tipo_sigla,
-        numeroAto == number, some orgaos[].siglaOrgao == act.orgao_sigla, and
-        dataAto == expected_iso (when a date is available to match on).
+        Requires all of: tipoAto.idTipoAto == act.tipo_code (numeric — robust to
+        the punctuated siglas like "Parec. Norm."), numeroAto == number, some
+        orgaos[].siglaOrgao == act.orgao (case-insensitive; skipped when the act
+        type has no fixed órgão), and dataAto == expected_iso (when a date is
+        available to match on).
         """
         epi = (data or {}).get("epigrafe") or {}
-        if (epi.get("tipoAto") or {}).get("siglaTipoAto") != self.act.tipo_sigla:
+        if str((epi.get("tipoAto") or {}).get("idTipoAto")) != str(self.act.tipo_code):
             return False
         if _norm_number(epi.get("numeroAto", "")) != _norm_number(number):
             return False
-        orgaos = {o.get("siglaOrgao") for o in (epi.get("orgaos") or [])}
-        if self.act.orgao_sigla not in orgaos:
-            return False
+        if self.act.orgao is not None:
+            orgaos = {(o.get("siglaOrgao") or "").casefold()
+                      for o in (epi.get("orgaos") or [])}
+            if self.act.orgao.casefold() not in orgaos:
+                return False
         if expected_iso and epi.get("dataAto") != expected_iso:
             return False
         return True
@@ -454,7 +508,7 @@ class ReceitaNormaFetcher:
                 result.review_reason = "date_mismatch"
                 result.error_message = (
                     f"{len(candidates)} candidate(s) found, none matched "
-                    f"órgão={self.act.orgao_sigla}/number={number}/date={iso_date}"
+                    f"órgão={self.act.orgao}/number={number}/date={iso_date}"
                 )
             return result
 

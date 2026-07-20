@@ -1,0 +1,222 @@
+{
+  "idAto": 131615,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "123",
+    "dataAto": "2023-06-23",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "23 de junho de 2023"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 123, de 23 de junho de 2023",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 123, de 23/06/2023",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 123/2023",
+  "dadosPublicacao": "Publicado(a) no DOU de 28/06/2023, seção 1, página 59",
+  "dataPublicacao": "2023-06-28",
+  "dataVigenciaInicio": "2023-06-28",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 131615,
+      "idSegmento": 2445319,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins \n<br>\n Contribuição para o PIS/Pasep \n<br>\n NÃO CUMULATIVIDADE. BONIFICAÇÕES EM MERCADORIAS. RECEITA DE DOAÇÃO. DESCONTO INCONDICIONAL. \n<br>\n Bonificações em mercadorias entregues gratuitamente, a título de mera liberalidade, sem vinculação a operação de venda, são consideradas receitas de doação para a pessoa jurídica recebedora dos produtos (donatária), incidindo a Cofins apurada pela sistemática não cumulativa sobre o valor de mercado desses bens. \n<br>\n A receita de vendas oriunda de bens recebidos a título de doação deve sofrer a incidência da Cofins, na forma da legislação geral da referida contribuição. \n<br>\n Quando da venda dos bens recebidos em doação, é incabível o desconto de créditos do cálculo da Cofins pela pessoa jurídica, uma vez que não houve pagamento da contribuição em etapa anterior por outra pessoa jurídica, como preconiza o regime não cumulativo. Além disso, não houve revenda de bens para que surja o direito ao desconto de créditos, tal como determina o inciso I do art. 3º da Lei nº 10.833, de 2003, mas uma venda de mercadorias adquiridas por doação. \n<br>\n Ao realizar a venda dos bens recebidos em bonificações na forma de mercadorias no mesmo documento fiscal, vinculadas à operação de venda, caracterizadas como descontos incondicionais, não há créditos a serem descontados do cálculo da Cofins, haja vista não ter ocorrido o pagamento da contribuição em etapa anterior por outra pessoa jurídica, conforme determina o inciso II do § 2º do art. 3º da Lei nº 10.833, de 2003. \n<br>\n SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 291, DE 13 DE JUNHO DE 2017, PUBLICADA NO DOU DE 16 DE JUNHO DE 2017, E À SOLUÇÃO DE CONSULTA COSIT Nº 202, DE 14 DE DEZEMBRO DE 2021, PUBLICADA NO DOU DE 24 DE DEZEMBRO DE 2021. \n<br>\n Assunto: Contribuição para o Contribuição para o PIS/Pasep \n<br>\n NÃO CUMULATIVIDADE. BONIFICAÇÕES EM MERCADORIAS. RECEITA DE DOAÇÃO. DESCONTO INCONDICIONAL. \n<br>\n Bonificações em mercadorias entregues gratuitamente, a título de mera liberalidade, sem vinculação a operação de venda, são consideradas receitas de doação para a pessoa jurídica recebedora dos produtos (donatária), incidindo a Contribuição para o PIS/Pasep apurada pela sistemática não cumulativa sobre o valor de mercado desses bens. \n<br>\n A receita de vendas oriunda de bens recebidos a título de doação deve sofrer a incidência da Contribuição para o PIS/Pasep, na forma da legislação geral da referida contribuição. \n<br>\n Quando da venda dos bens recebidos em doação, é incabível o desconto de créditos do cálculo da Contribuição para o PIS/Pasep pela pessoa jurídica, uma vez que não houve pagamento da contribuição em etapa anterior por outra pessoa jurídica, como preconiza o regime não cumulativo. Além disso, não houve revenda de bens para que surja o direito ao desconto de créditos, tal como determina o inciso I do art. 3º da Lei nº 10.637, de 2002, mas uma venda de mercadorias adquiridas por doação. \n<br>\n Ao realizar a venda dos bens recebidos em bonificações na forma de mercadorias no mesmo documento fiscal, vinculadas à operação de venda, caracterizadas como descontos incondicionais, não há créditos a serem descontados do cálculo da Contribuição para o PIS/Pasep, haja vista não ter ocorrido o pagamento da contribuição em etapa anterior por outra pessoa jurídica, conforme determina o inciso II do § 2º do art. 3º da Lei nº 10.637, de 2002. \n<br>\n SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 291, DE 13 DE JUNHO DE 2017, PUBLICADA NO DOU DE 16 DE JUNHO DE 2017, E À SOLUÇÃO DE CONSULTA COSIT Nº 202, DE 14 DE DEZEMBRO DE 2021, PUBLICADA NO DOU DE 24 DE DEZEMBRO DE 2021. \n<br>\n Dispositivos Legais: Lei nº 10.637, de 2002, arts. 1º e 3º; IN RFB nº 2.121, de 2022.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 131615,
+      "idSegmento": 2445320,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "SC Cosit nº 123-2023",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 70270,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 123-2023.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    },
+    {
+      "mapper": null,
+      "idAto": 131615,
+      "idSegmento": 2445321,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 4,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 3,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": true,
+      "textoIntegra": "RODRIGO AUGUSTO VERLY DE OLIVEIRA \n<br>\n Coordenador-Geral",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 4,
+      "siglaTipoSegmento": "fecho",
+      "nomeTipoSegmento": "Fecho",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 4,
+        "atributos": [
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 89,
+            "atributo": "text-align",
+            "valor": "center"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 90,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          },
+          {
+            "idEstiloSegmento": 4,
+            "idAtributoEstiloSegmento": 91,
+            "atributo": "padding",
+            "valor": "16px 0 0 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": true
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/131615/visao/original"
+}

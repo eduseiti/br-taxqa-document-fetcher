@@ -1,0 +1,170 @@
+{
+  "idAto": 95202,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "147",
+    "dataAto": "2018-09-24",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "24 de setembro de 2018"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 147, de 24 de setembro de 2018",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 147, de 24/09/2018",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 147/2018",
+  "dadosPublicacao": "Publicado(a) no DOU de 27/09/2018, seção 1, página 28",
+  "dataPublicacao": "2018-09-27",
+  "dataVigenciaInicio": "2018-09-27",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 95202,
+      "idSegmento": 1927775,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA – IRPF EMENTA: VENDA DE REBANHO BOVINO. GANHO DE CAPITAL. EQUIPARAÇÃO À PESSOA JURÍDICA. HABITUALIDADE. EXCLUSIVIDADE. A receita auferida na venda de rebanho bovino anteriormente comprado, com permanência em poder do contribuinte em prazo inferior a 52 dias, quando em regime de confinamento, ou 138 dias nos demais casos, não é tributada como receita da atividade rural, podendo ser tributada na pessoa física como ganho de capital, se não houver habitualidade, ou, no caso de a atividade ser exercida habitual e profissionalmente com o fim especulativo de lucro, como receita de pessoa jurídica, por força da sua equiparação à pessoa jurídica. A habitualidade, para fins de equiparação da pessoa física à pessoa jurídica, é própria das operações que não são eventuais, com intuito de continuidade e permanência, devendo ser aferidas no caso concreto. O inciso II do art. 150 do Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda (RIR/1999), exige para equiparação da pessoa física à pessoa jurídica que a exploração da atividade se dê de forma habitual, profissional e com o fim especulativo de lucro, nada dispondo sobre o exercício exclusivo da atividade. Dispositivos Legais: Lei nº 7.713, de 22 de dezembro de 1988, art. 3º, § 2º; Lei nº 8.981, de 20 de janeiro de 1995, art. 21; Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda (RIR/1999), art. 150; Instrução Normativa SRF nº 83, de 11 de outubro de 2001, art. 4º, inciso II; Instrução Normativa RFB nº 1.700, de 14 de março de 2017, art. 250, inciso II.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 95202,
+      "idSegmento": 1927776,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": ".",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 49639,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 147-2018.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/95202/visao/original"
+}

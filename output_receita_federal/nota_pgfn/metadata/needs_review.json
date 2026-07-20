@@ -1,0 +1,62 @@
+[
+  {
+    "type": "nota_pgfn",
+    "number": "1040",
+    "date": null,
+    "canonical_name": "Nota PGFN CRJ nº 1.040",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "No idAto returned by search",
+    "needs_review": true,
+    "review_reason": "not_found",
+    "source_filenames": [
+      "Nota PGFN CRJ nº 1.040 2015.txt"
+    ]
+  },
+  {
+    "type": "nota_pgfn",
+    "number": "1104",
+    "date": null,
+    "canonical_name": "Nota PGFN CRJ nº 1.104",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "No idAto returned by search",
+    "needs_review": true,
+    "review_reason": "not_found",
+    "source_filenames": [
+      "Nota PGFN CRJ nº 1.104 2017.txt"
+    ]
+  },
+  {
+    "type": "nota_pgfn",
+    "number": "981",
+    "date": null,
+    "canonical_name": "Nota PGFN CRJ nº 981",
+    "id_ato": "69651",
+    "alternate_id_atos": [],
+    "view": "original",
+    "url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/69651/visao/original",
+    "success": true,
+    "json_filename": "nota_pgfn_981_nodate.json",
+    "text_filename": "nota_pgfn_981_nodate.txt",
+    "docx_filename": "nota_pgfn_981_nodate.docx",
+    "error": null,
+    "needs_review": true,
+    "review_reason": "matched_without_date",
+    "source_filenames": [
+      "Nota PGFN CRJ nº 981 2015.txt"
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+{
+  "idAto": 50638,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 75,
+      "siglaTipoAto": "SCI",
+      "nomeTipoAto": "Solução de Consulta Interna",
+      "prioridadeTipoAto": 30,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "11",
+    "dataAto": "2012-06-28",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "28 de junho de 2012"
+  },
+  "epigrafeCompleta": "Solução de Consulta Interna Cosit nº 11, de 28 de junho de 2012",
+  "epigrafeSimplificada": "Solução de Consulta Interna Cosit nº 11, de 28/06/2012",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SCI Cosit nº 11/2012",
+  "dadosPublicacao": "Publicado no sitio da RFB em 03/07/2012",
+  "dataPublicacao": "2012-07-03",
+  "dataVigenciaInicio": "2012-07-03",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 50638,
+      "idSegmento": 1394450,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA - IRPF A comprovação da moléstia grave deverá ser realizada mediante laudo pericial, assim entendido como documento emitido por médico legalmente habilitado ao exercício da profissão de medicina, integrante de serviço médico oficial da União, dos estados, do Distrito Federal ou dos municípios, independentemente de ser emitido por médico investido ou não na função de perito, observadas a legislação e as normas internas especificas de cada ente. O laudo pericial deve conter, no mínimo, as seguintes informações: a) o órgão emissor; b) a qualificação do portador da moléstia; c) o diagnóstico da moléstia (descrição; CID-10; elementos que o fundamentaram; a data em que a pessoa física é considerada portadora da moléstia grave, nos casos de constatação da existência da doença em período anterior à emissão do laudo); d) caso a moléstia seja passível de controle, o prazo de validade do laudo pericial ao fim do qual o portador de moléstia grave provavelmente esteja assintomático; e e) o nome completo, a assinatura, o nº de inscrição no Conselho Regional de Medicina (CRM), o nº de registro no órgão público e a qualificação do(s) profissional(is) do serviço médico oficial responsável(is) pela emissão do laudo pericial. Para efeito do reconhecimento das isenções de que tratam os incisos XIV e XXI do art. 6º da Lei nº 7.713, de 22 de dezembro de 1988, sem prejuízo das demais exigências legais relativas à matéria, somente podem ser aceitos laudos periciais expedidos por instituições públicas, ou seja, instituídas e mantidas pelo Poder Público, independentemente da vinculação destas ao Sistema Único de Saúde (SUS). Os laudos médicos expedidos por entidades privadas não atendem à exigência legal, não podendo ser aceitos, ainda que o atendimento decorra de convênio referente ao SUS. Dispositivos Legais: Art. 6º, incisos XIV e XXI, da Lei nº 7.713, de 22 de dezembro de 1988; art. 30, caput, da Lei nº 9.250, de 26 de dezembro de 1995.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 50638,
+      "idSegmento": 1394451,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 29732,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "Solução de Consulta Interna Cosit nº 11-2012.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/50638/visao/original"
+}

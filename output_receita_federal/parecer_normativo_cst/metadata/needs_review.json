@@ -1,0 +1,222 @@
+[
+  {
+    "type": "parecer_normativo_cst",
+    "number": "122",
+    "date": "1974-06-08",
+    "canonical_name": "Parecer Normativo CST nº 122, de 8 de junho de 1974",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "1 candidate(s) found, none matched órgão=CST/number=122/date=1974-06-08",
+    "needs_review": true,
+    "review_reason": "date_mismatch",
+    "source_filenames": [
+      "Parecer Normativo CST nº 122, de 8 de junho de 1974.txt"
+    ]
+  },
+  {
+    "type": "parecer_normativo_cst",
+    "number": "129",
+    "date": "1973-09-13",
+    "canonical_name": "Parecer Normativo CST nº 129, de 13 de setembro de 1973",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "1 candidate(s) found, none matched órgão=CST/number=129/date=1973-09-13",
+    "needs_review": true,
+    "review_reason": "date_mismatch",
+    "source_filenames": [
+      "Parecer Normativo CST nº 129, de 13 de setembro de 1973.txt"
+    ]
+  },
+  {
+    "type": "parecer_normativo_cst",
+    "number": "25",
+    "date": null,
+    "canonical_name": "Parecer Normativo CST nº 25",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "No idAto returned by search",
+    "needs_review": true,
+    "review_reason": "not_found",
+    "source_filenames": [
+      "Parecer Normativo CST nº 25, de 1976.txt"
+    ]
+  },
+  {
+    "type": "parecer_normativo_cst",
+    "number": "250",
+    "date": "1971-03-15",
+    "canonical_name": "Parecer Normativo CST nº 250, de 15 de março de 1971",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "No idAto returned by search",
+    "needs_review": true,
+    "review_reason": "not_found",
+    "source_filenames": [
+      "Parecer Normativo CST nº 250, de 15 de março de 1971.txt"
+    ]
+  },
+  {
+    "type": "parecer_normativo_cst",
+    "number": "32",
+    "date": "1981-08-17",
+    "canonical_name": "Parecer Normativo CST nº 32, de 17 de agosto de 1981",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "No idAto returned by search",
+    "needs_review": true,
+    "review_reason": "not_found",
+    "source_filenames": [
+      "Parecer Normativo CST nº 32, de 17 de agosto de 1981.txt"
+    ]
+  },
+  {
+    "type": "parecer_normativo_cst",
+    "number": "36",
+    "date": "1977-05-30",
+    "canonical_name": "Parecer Normativo CST nº 36, de 30 de maio de 1977",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "1 candidate(s) found, none matched órgão=CST/number=36/date=1977-05-30",
+    "needs_review": true,
+    "review_reason": "date_mismatch",
+    "source_filenames": [
+      "Parecer Normativo CST nº 36, de 30 de maio de 1977.txt"
+    ]
+  },
+  {
+    "type": "parecer_normativo_cst",
+    "number": "38",
+    "date": null,
+    "canonical_name": "Parecer Normativo CST nº 38",
+    "id_ato": "131125",
+    "alternate_id_atos": [],
+    "view": "original",
+    "url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/131125/visao/original",
+    "success": true,
+    "json_filename": "pn_cst_38_nodate.json",
+    "text_filename": "pn_cst_38_nodate.txt",
+    "docx_filename": "pn_cst_38_nodate.docx",
+    "error": null,
+    "needs_review": true,
+    "review_reason": "matched_without_date",
+    "source_filenames": [
+      "Parecer Normativo CST nº 38, de 1975.txt"
+    ]
+  },
+  {
+    "type": "parecer_normativo_cst",
+    "number": "44",
+    "date": "1976-06-30",
+    "canonical_name": "Parecer Normativo CST nº 44, de 30 de junho de 1976",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "3 candidate(s) found, none matched órgão=CST/number=44/date=1976-06-30",
+    "needs_review": true,
+    "review_reason": "date_mismatch",
+    "source_filenames": [
+      "Parecer Normativo CST nº 44, de 30 de junho de 1976.txt"
+    ]
+  },
+  {
+    "type": "parecer_normativo_cst",
+    "number": "68",
+    "date": "1976-09-14",
+    "canonical_name": "Parecer Normativo CST nº 68, de 14 de setembro de 1976",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "1 candidate(s) found, none matched órgão=CST/number=68/date=1976-09-14",
+    "needs_review": true,
+    "review_reason": "date_mismatch",
+    "source_filenames": [
+      "Parecer Normativo CST nº 68, de 14 de setembro de 1976.txt"
+    ]
+  },
+  {
+    "type": "parecer_normativo_cst",
+    "number": "72",
+    "date": null,
+    "canonical_name": "Parecer Normativo CST nº 72",
+    "id_ato": "69612",
+    "alternate_id_atos": [],
+    "view": "original",
+    "url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/69612/visao/original",
+    "success": true,
+    "json_filename": "pn_cst_72_nodate.json",
+    "text_filename": "pn_cst_72_nodate.txt",
+    "docx_filename": "pn_cst_72_nodate.docx",
+    "error": null,
+    "needs_review": true,
+    "review_reason": "matched_without_date",
+    "source_filenames": [
+      "Parecer Normativo CST nº 72, de 1979.txt"
+    ]
+  },
+  {
+    "type": "parecer_normativo_cst",
+    "number": "90",
+    "date": "1978-10-16",
+    "canonical_name": "Parecer Normativo CST nº 90, de 16 de outubro de 1978",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "No idAto returned by search",
+    "needs_review": true,
+    "review_reason": "not_found",
+    "source_filenames": [
+      "Parecer Normativo CST nº 90, de 16 de outubro de 1978.txt"
+    ]
+  }
+]

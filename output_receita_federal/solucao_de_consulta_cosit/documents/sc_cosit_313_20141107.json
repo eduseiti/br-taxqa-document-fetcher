@@ -1,0 +1,170 @@
+{
+  "idAto": 58807,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "313",
+    "dataAto": "2014-11-07",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "7 de novembro de 2014"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 313, de 7 de novembro de 2014",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 313, de 07/11/2014",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 313/2014",
+  "dadosPublicacao": "Publicado(a) no DOU de 02/12/2014, seção 1, página 10",
+  "dataPublicacao": "2014-12-02",
+  "dataVigenciaInicio": "2014-12-02",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 58807,
+      "idSegmento": 1471593,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA – IRPF SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 98, DE 3 DE ABRIL DE 2014, EMENTA PUBLICADA NO DOU DE 6 DE MAIO DE 2014. EMENTA: Acidente de trânsito. Reparação por perda da capacidade laborativa da vítima e pelas despesas do seu tratamento. Intributabilidade. Não se sujeitam à incidência do Imposto sobre a Renda a indenização reparatória em decorrência de ato ilícito praticado por terceiros, em razão de danos físicos e invalidez, paga, na espécie, de uma única vez, bem como os valores recebidos para cobrir despesas médico-hospitalares que se protraem no tempo, por período “a priori” indeterminado, necessárias ao tratamento da vítima, ainda que tais rendimentos provenham de fonte pagadora estabelecida no exterior. DISPOSITIVOS LEGAIS: Código Tributário Nacional, art. 43, incisos I e II; Código Civil, arts. 186, 402, 403, 927, 944, 949 e 950; Decreto nº 3.000, de 1999 (RIR/1999), art. 39, inciso XVI; Instrução Normativa SRF nº 15, de 2001, art. 5º, inciso XXIV; Solução de Divergência Cosit nº 6, de 2011; Ato Declaratório Normativo nº 20, de 1989. EMENTA: Acidente de trânsito. Dano moral “in re ipsa”. Intributabilidade do “pretium doloris”. Em razão do acolhimento, pela Procuradoria-Geral da Fazenda Nacional, da Jurisprudência pacífica do Eg. Superior Tribunal de Justiça sobre a espécie, formada nos moldes do art. 543-C do Código de Processo Civil, segue-se que a verba percebida por pessoa física, a título de dano moral de qualquer natureza, ainda que paga por fonte situada no estrangeiro (“pain and suffering damages”, no direito anglo-saxão), não está sujeita à incidência do Imposto sobre a Renda. DISPOSITIVOS LEGAIS: Lei nº 10.522, de 2002, art. 19, incisos II e V, §§ 4º, 5º e 7º, com redação da Lei nº 12.844, de 2013; Decreto nº 2.346, de 1997, art. 5º; Parecer PGFN/CRJ nº 2.123, de 2011; Ato Declaratório PGFN nº 9, de 2011; Portaria Conjunta PGFN/RFB nº 1, de 2014; Nota PGFN/CRJ nº 1.114, de 2012; Solução de Divergência Cosit nº 6, de 2011; Ato Declaratório Normativo nº 20, de 1989.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 58807,
+      "idSegmento": 1471594,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 33518,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 313-2014.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/58807/visao/original"
+}

@@ -1,0 +1,170 @@
+{
+  "idAto": 112720,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "114",
+    "dataAto": "2020-09-28",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "28 de setembro de 2020"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 114, de 28 de setembro de 2020",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 114, de 28/09/2020",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 114/2020",
+  "dadosPublicacao": "Publicado(a) no DOU de 30/09/2020, seção 1, página 212",
+  "dataPublicacao": "2020-09-30",
+  "dataVigenciaInicio": "2020-09-30",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 112720,
+      "idSegmento": 2189131,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Assunto: Imposto sobre a Renda de Pessoa Física - IRPF \n<br>\n DESPESAS MÉDICAS. SEGURO-SAÚDE EMPRESARIAL. DEDUTIBILIDADE. \n<br>\n Podem ser deduzidos pelo contribuinte, na Declaração de Ajuste Anual do Imposto sobre a Renda de Pessoa Física, os valores pagos a empresas domiciliadas no Brasil relativos a sua participação em planos de saúde que assegurem direito de atendimento ou ressarcimento de despesas de natureza médica, odontológica ou hospitalar, em benefício próprio ou de seus dependentes relacionados na Declaração, ainda que se trate de seguro-saúde empresarial, observado que esses valores devem ser por ele reembolsados à empresa contratante do seguro-saúde e que o reembolso deve ser devidamente comprovado. \n<br>\n Dispositivos Legais: Regulamento do Imposto sobre a Renda (RIR/2018), aprovado pelo Decreto nº 9.580, de 22 de dezembro de 2018, art. 73, § 1º, inciso I. \n<br>\n Assunto: Processo Administrativo Fiscal \n<br>\n CONSULTA SOBRE A INTERPRETAÇÃO DA LEGISLAÇÃO TRIBUTÁRIA. \n<br>\n Não produz efeitos a consulta sobre situação em que a consulente não é o sujeito passivo da obrigação tributária. \n<br>\n Dispositivos Legais: Decreto nº 70.235, de 6 de março de 1972, arts. 46 e 52, inciso I; Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013, arts. 2º e 18, inciso I.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 112720,
+      "idSegmento": 2189132,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": ".",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 58238,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 114-2020.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/112720/visao/original"
+}

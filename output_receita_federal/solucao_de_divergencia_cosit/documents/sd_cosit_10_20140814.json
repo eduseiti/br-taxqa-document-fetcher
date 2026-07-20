@@ -1,0 +1,170 @@
+{
+  "idAto": 55877,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 73,
+      "siglaTipoAto": "SD",
+      "nomeTipoAto": "Solução de Divergência",
+      "prioridadeTipoAto": 28,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "10",
+    "dataAto": "2014-08-14",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "14 de agosto de 2014"
+  },
+  "epigrafeCompleta": "Solução de Divergência Cosit nº 10, de 14 de agosto de 2014",
+  "epigrafeSimplificada": "Solução de Divergência Cosit nº 10, de 14/08/2014",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SD Cosit nº 10/2014",
+  "dadosPublicacao": "Publicado(a) no DOU de 08/09/2014, seção 1, página 18",
+  "dataPublicacao": "2014-09-08",
+  "dataVigenciaInicio": "2014-09-08",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 55877,
+      "idSegmento": 1442585,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "ASSUNTO: Imposto sobre a Renda de Pessoa Física - IRPF \n<br>\n EMENTA: Os valores recebidos a título de resgate, que só poderá ocorrer enquanto não cumpridas as condições contratuais para o recebimento do benefício, por não configurar complemento de aposentadoria, estão sujeitos à incidência do imposto sobre a renda, ainda que efetuado por portador de moléstia grave. No transcurso do pagamento do benefício inexiste a possibilidade da ocorrência de resgate, nos termos previstos nas normas previdenciárias em vigor. \n<br>\n DISPOSITIVOS LEGAIS: inciso XIV do art. 6º da Lei nº 7.713, de 22 de dezembro de 1988; art. 30 e § 2º da Lei nº 9.250, de 26 de dezembro de 1995; incisos XXXI e XXXIII do caput e §§ 4º a 6º, do art. 39 do Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda (RIR/1999); Solução de Consulta Interna Cosit nº 36, de 17 de dezembro de 2003; inciso XXXV do art. 5º da Resolução CNSP nº 139, de 27 de dezembro de 2005; arts. 19, 20 e 24 da Resolução MPS/CGPC nº 6, de 30 de outubro de 2003.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 55877,
+      "idSegmento": 1443056,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 999,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 32085,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SD Cosit nº 10-2014.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/55877/visao/original"
+}

@@ -1,0 +1,170 @@
+{
+  "idAto": 114495,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "135",
+    "dataAto": "2020-12-01",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "1º de dezembro de 2020"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 135, de 1º de dezembro de 2020",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 135, de 01/12/2020",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 135/2020",
+  "dadosPublicacao": "Publicado(a) no DOU de 22/12/2020, seção 1, página 32",
+  "dataPublicacao": "2020-12-22",
+  "dataVigenciaInicio": "2020-12-22",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 114495,
+      "idSegmento": 2217057,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Assunto: Imposto sobre a Renda de Pessoa Física - IRPF \n<br>\n GANHO DE CAPITAL. ALIENAÇÃO A PRAZO DE BENS E DIREITOS. SUCESSÃO HEREDITÁRIA. PARCELA PAGA APÓS PARTILHA OU ADJUDICAÇÃO. SUCESSOR. OBRIGAÇÃO TRIBUTÁRIA PRINCIPAL. REPRESENTANTE. OBRIGAÇÃO ACESSÓRIA. RECOLHIMENTO EM NOME DO DE CUJUS. \n<br>\n Cabe ao sucessor, na qualidade de sujeito passivo responsável tributário, o pagamento do imposto sobre a renda da pessoa física incidente sobre o ganho de capital referente à parcela recebida, após a realização da partilha, em alienação a prazo efetuada pelo de cujus, em nome do qual deverá ser pago. \n<br>\n O imposto devido relativo a cada parcela recebida deve ser pago até o último dia útil do mês subsequente ao do recebimento. \n<br>\n Dispositivos Legais: Lei nº 5.172, de 25 de outubro de 1966, arts. 43, 113, 114, 121, 128, 129 e 131; Regulamento do Imposto sobre a Renda (RIR/2018), arts. 1º, 2º, 21, 128 e 151, aprovado pelo Decreto nº 9.580, de 22 de novembro de 2018. \n<br>\n Assunto: Processo Administrativo Fiscal \n<br>\n CONSULTA TRIBUTÁRIA. INEFICÁCIA PARCIAL. \n<br>\n É ineficaz a consulta apresentada sem a identificação da questão interpretativa que tenha obstado a aplicação, pelo consulente, de normas da legislação tributária; ou sem a identificação do específico dispositivo da legislação tributária sobre cuja aplicação haja dúvida. \n<br>\n Dispositivos Legais: Decreto nº 7.574, de 29 de setembro de 2011, arts. 88 e 94; Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013, arts. 1º, 3º e 18, incisos I, II, XI e XIV; Parecer Normativo CST nº 342, de 7 de outubro de 1970.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 114495,
+      "idSegmento": 2217058,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": ".",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 59209,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 135-2020.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/114495/visao/original"
+}

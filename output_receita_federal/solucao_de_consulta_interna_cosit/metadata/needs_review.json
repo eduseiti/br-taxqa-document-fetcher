@@ -1,0 +1,22 @@
+[
+  {
+    "type": "solucao_de_consulta_interna_cosit",
+    "number": "5",
+    "date": "2006-03-28",
+    "canonical_name": "Solução de Consulta Interna Cosit nº 5, de 28 de março de 2006",
+    "id_ato": null,
+    "alternate_id_atos": [],
+    "view": null,
+    "url": null,
+    "success": false,
+    "json_filename": "",
+    "text_filename": "",
+    "docx_filename": "",
+    "error": "14 candidate(s) found, none matched órgão=Cosit/number=5/date=2006-03-28",
+    "needs_review": true,
+    "review_reason": "date_mismatch",
+    "source_filenames": [
+      "Solução de Consulta Interna Cosit nº 5, de 28 de março de 2006.txt"
+    ]
+  }
+]

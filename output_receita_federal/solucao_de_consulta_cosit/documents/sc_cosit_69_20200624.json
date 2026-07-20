@@ -1,0 +1,170 @@
+{
+  "idAto": 110736,
+  "epigrafe": {
+    "tipoAto": {
+      "idTipoAto": 72,
+      "siglaTipoAto": "SC",
+      "nomeTipoAto": "Solução de Consulta",
+      "prioridadeTipoAto": 29,
+      "exibirTipoAto": 1
+    },
+    "numeroAto": "69",
+    "dataAto": "2020-06-24",
+    "orgaos": [
+      {
+        "idOrgao": 111,
+        "exibirOrgao": 1,
+        "siglaOrgao": "Cosit",
+        "nomeOrgao": "Coordenação-Geral de Tributação",
+        "prioridadeOrgao": 122,
+        "emDestaque": false,
+        "posicaoPesquisa": null,
+        "preferenciaSiglaComum": null
+      }
+    ],
+    "dataAtoPorExtenso": "24 de junho de 2020"
+  },
+  "epigrafeCompleta": "Solução de Consulta Cosit nº 69, de 24 de junho de 2020",
+  "epigrafeSimplificada": "Solução de Consulta Cosit nº 69, de 24/06/2020",
+  "epigrafesAnteriores": [],
+  "epigrafeUrl": "SC Cosit nº 69/2020",
+  "dadosPublicacao": "Publicado(a) no DOU de 30/06/2020, seção 1, página 41",
+  "dataPublicacao": "2020-06-30",
+  "dataVigenciaInicio": "2020-06-30",
+  "exibirVisoes": "1111",
+  "visao": "conjunta",
+  "integro": true,
+  "vigente": true,
+  "ehRepublicado": false,
+  "idAtoRepublicador": null,
+  "dataRepublicador": null,
+  "ehVisaoExclusiva": false,
+  "publicado": true,
+  "internet": true,
+  "ementas": [
+    {
+      "mapper": null,
+      "idAto": 110736,
+      "idSegmento": 2156007,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 1,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 1,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": "Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ \n<br>\n LUCRO PRESUMIDO. PRÊMIO. CONCURSO. SUBVENÇÃO PARA CUSTEIO OU OPERAÇÃO. OUTRAS RECEITAS. \n<br>\n Os recursos recebidos a título de prêmio pecuniário, no âmbito de concurso que visa à seleção de indústrias, startups e instituições de apoio ao desenvolvimento de negócios, para participação no Programa Nacional de Conexão Startup Indústria, são considerados como subvenções para custeio ou operação. \n<br>\n As subvenções para custeio ou operação, recebidas por beneficiária tributada com base no lucro presumido, são classificadas como receita diversa da receita bruta, devendo ser acrescidas em sua totalidade na determinação da base de cálculo do IRPJ do período de apuração. \n<br>\n SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 438, DE 18 DE SETEMBRO DE 2017. \n<br>\n Dispositivos Legais: Decreto-Lei nº 1.598, de 1977, art. 12; Parecer Normativo CST nº 112, de 1978; Lei nº 9.249, de 1995, art. 15; Lei nº 9.430, de 1996, art. 25, II; Lei nº 12.973, de 2014, arts. 30 e 50 e Instrução Normativa RFB nº 1.700, de 2017, arts. 40, 198 e 215. \n<br>\n Assunto: Contribuição Social sobre o Lucro Líquido - CSLL \n<br>\n RESULTADO PRESUMIDO. PRÊMIO. CONCURSO. SUBVENÇÃO PARA CUSTEIO OU OPERAÇÃO. OUTRAS RECEITAS. \n<br>\n Os recursos recebidos a título de prêmio pecuniário, no âmbito de concurso que visa à seleção de indústrias, startups e instituições de apoio ao desenvolvimento de negócios, para participação no Programa Nacional de Conexão Startup Indústria, são considerados como subvenções para custeio ou operação. \n<br>\n As subvenções para custeio ou operação, recebidas por beneficiária tributada com base no lucro presumido, são classificadas como receita diversa da receita bruta, devendo ser acrescidas em sua totalidade na determinação da base de cálculo da CSLL do período de apuração. \n<br>\n SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 438, DE 18 DE SETEMBRO DE 2017. \n<br>\n Dispositivos Legais: Decreto-Lei nº 1.598, de 1977, art. 12; Parecer Normativo CST nº 112, de 1978; Lei nº 9.249, de 1995, art. 20; Lei nº 9.430, art. 29, II; Lei nº 12.973, de 2014, arts. 30 e 50 e Instrução Normativa RFB nº 1.700, de 2017, arts. 40, 198 e 215. \n<br>\n Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins \n<br>\n CUMULATIVIDADE. RECEITA BRUTA. PRÊMIO. CONCURSO. SUBVENÇÃO PARA CUSTEIO OU OPERAÇÃO. INCIDÊNCIA. \n<br>\n A Cofins devida pelas pessoas jurídicas em regime cumulativo é calculada com base no seu faturamento, assim entendido como a receita bruta definida nos termos do art. 12 do DL nº 1.598, de 1977. \n<br>\n Os recursos recebidos a título de prêmio pecuniário, no âmbito de concurso que visa à seleção de indústrias, startups e instituições de apoio ao desenvolvimento de negócios, para participação no Programa Nacional de Conexão Startup Indústria, são considerados como subvenções para custeio ou operação. \n<br>\n No regime cumulativo, a Cofins não incide sobre valores considerados como subvenção para custeio ou operação. \n<br>\n SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 438, DE 18 DE SETEMBRO DE 2017. \n<br>\n Dispositivos Legais: Decreto-Lei nº 1.598, de 1977, art. 12; Lei nº 9.718, de 1998, arts. 2º e 3º, caput. \n<br>\n Assunto: Contribuição para o PIS/Pasep \n<br>\n CUMULATIVIDADE. RECEITA BRUTA. PRÊMIO. CONCURSO. SUBVENÇÃO PARA CUSTEIO OU OPERAÇÃO. INCIDÊNCIA. \n<br>\n A Contribuição para o Pis/Pasep devida pelas pessoas jurídicas em regime cumulativo é calculada com base no seu faturamento, assim entendido como a receita bruta definida nos termos do art. 12 do DL nº 1.598, de 1977. \n<br>\n Os recursos recebidos a título de prêmio pecuniário, no âmbito de concurso que visa à seleção de indústrias, startups e instituições de apoio ao desenvolvimento de negócios, para participação no Programa Nacional de Conexão Startup Indústria, são considerados como subvenções para custeio ou operação. \n<br>\n As receitas de subvenção para custeio ou operação não se enquadram no conceito de receita bruta do art. 12 do Decreto-lei nº 1.598, de 1977. \n<br>\n No regime cumulativo, a Contribuição para o PIS/Pasep não incide sobre valores considerados como subvenção para custeio ou operação. \n<br>\n SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 438, DE 18 DE SETEMBRO DE 2017. \n<br>\n Dispositivos Legais: Decreto-Lei nº 1.598, de 1977, art. 12; Lei nº 9.718, de 1998, arts. 2º e 3º, caput.",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": null,
+      "estiloSegmento": null
+    }
+  ],
+  "outrosSegmentos": [
+    {
+      "mapper": null,
+      "idAto": 110736,
+      "idSegmento": 2156008,
+      "versaoSegmento": 1,
+      "idTipoSegmento": 16,
+      "idAssunto": 1,
+      "ordemSegmentoAto": 2,
+      "omitir": false,
+      "tachado": false,
+      "original": true,
+      "compilado": true,
+      "agendado": false,
+      "desinenciaTipoSegmento": false,
+      "textoIntegra": ".",
+      "ancorasOrigem": [],
+      "ancorasDestino": [],
+      "arquivoBinario": {
+        "idArquivoBinario": 57038,
+        "idTipoArquivo": 6,
+        "arquivoBinario": null,
+        "nomeArquivoBinario": "SC Cosit nº 69-2020.pdf",
+        "textoArquivoBinario": null,
+        "posicaoArray": null,
+        "mensagemErro": null,
+        "tamanho": null,
+        "conteudoTabela": null
+      },
+      "estiloSegmento": null
+    }
+  ],
+  "ancorasRetificacaoEpigrafe": [],
+  "ancorasNoAto": [],
+  "historico": [],
+  "tiposSegmento": [
+    {
+      "idTipoSegmento": 0,
+      "siglaTipoSegmento": "global",
+      "nomeTipoSegmento": "Global",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 19,
+        "atributos": []
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 1,
+      "siglaTipoSegmento": "ementa",
+      "nomeTipoSegmento": "Ementa",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 1,
+        "atributos": [
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 28,
+            "atributo": "font-size",
+            "valor": "10pt"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 29,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          },
+          {
+            "idEstiloSegmento": 1,
+            "idAtributoEstiloSegmento": 30,
+            "atributo": "padding",
+            "valor": "24pt 0 24pt 0"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    },
+    {
+      "idTipoSegmento": 16,
+      "siglaTipoSegmento": "anexo",
+      "nomeTipoSegmento": "Anexo",
+      "idEstiloSegmento": null,
+      "estiloSegmento": {
+        "idEstiloSegmento": 16,
+        "atributos": [
+          {
+            "idEstiloSegmento": 16,
+            "idAtributoEstiloSegmento": 23,
+            "atributo": "text-align",
+            "valor": "center"
+          }
+        ]
+      },
+      "hierarquiaTipoSegmento": null,
+      "apareceEmSumario": false,
+      "desinenciaTipoSegmento": false
+    }
+  ],
+  "_view": "original",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/110736/visao/original"
+}
