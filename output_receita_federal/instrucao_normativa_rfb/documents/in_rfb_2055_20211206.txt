@@ -1,10 +1,11 @@
 Instrução Normativa RFB nº 2055, de 6 de dezembro de 2021
 
-Dispõe sobre restituição, compensação, ressarcimento e reembolso, no âmbito da Secretaria Especial da Receita Federal do Brasil.
+Dispõe sobre restituição, compensação, ressarcimento e reembolso, no âmbito da Secretaria Especial da Receita Federal do Brasil.
 
 O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020 , e tendo em vista o disposto na Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN) , no Decreto nº 70.235, de 6 de março de 1972 , na Lei nº 8.212, de 24 de julho de 1991 , na Lei nº 8.383, de 30 de dezembro de 1991 , na Lei nº 9.430, de 27 de dezembro de 1996 , na Lei nº 9.784, de 29 de janeiro de 1999 , e no Decreto nº 10.139, de 28 de novembro de 2019 , resolve:
 
-CAPÍTULO I DISPOSIÇÕES PRELIMINARES
+CAPÍTULO I
+DISPOSIÇÕES PRELIMINARES
 
 Art. 1º Esta Instrução Normativa regulamenta a restituição, a compensação, o ressarcimento e o reembolso, no âmbito da Secretaria Especial da Receita Federal do Brasil (RFB), no caso de:
 
@@ -32,9 +33,11 @@ e) referentes à retenção na cessão de mão de obra e na empreitada; e
 
 II - contribuições recolhidas para outras entidades ou fundos.
 
-CAPÍTULO II DA RESTITUIÇÃO
+CAPÍTULO II
+DA RESTITUIÇÃO
 
-Seção I Disposições Gerais
+Seção I
+Disposições Gerais
 
 Art. 3º A RFB poderá restituir as quantias recolhidas a título de tributo sob sua administração e outras receitas da União arrecadadas mediante Darf ou GPS, nas seguintes hipóteses:
 
@@ -56,7 +59,8 @@ Art. 7º Os valores recolhidos em decorrência de opções de aplicação do imp
 
 Parágrafo único. O disposto no caput aplica-se, inclusive, aos valores cuja opção por aplicação em investimentos regionais tenha sido manifestada na Escrituração Contábil Fiscal (ECF).
 
-Seção II Dos Procedimentos
+Seção II
+Dos Procedimentos
 
 Art. 8º A restituição poderá ser efetuada mediante:
 
@@ -94,7 +98,7 @@ Parágrafo único. A empresa ou equiparada e o empregador doméstico poderão re
 
 Art. 13. O pedido de restituição de tributos administrados pela RFB abrangidos pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional), instituído pela Lei Complementar nº 123, de 14 de dezembro de 2006 , deverá ser formalizado:
 
-I - na hipótese de pagamento indevido ou a maior efetuado em Documento de Arrecadação do Simples Nacional (DAS), por meio do programa Pedido Eletrônico de Restituição, disponível no Portal do Simples Nacional e no Portal do Centro Virtual de Atendimento (Portal e-CAC), no site da RFB na Internet, no endereço  < https://www.gov.br/receitafederal/pt-br >;
+I - na hipótese de pagamento indevido ou a maior efetuado em Documento de Arrecadação do Simples Nacional (DAS), por meio do programa Pedido Eletrônico de Restituição, disponível no Portal do Simples Nacional e no Portal do Centro Virtual de Atendimento (Portal e-CAC), no site da RFB na Internet, no endereço < https://www.gov.br/receitafederal/pt-br >;
 
 II - na hipótese de pagamento indevido ou a maior efetuado em DAS do Microempreendedor Individual (DAS-MEI), relativo à contribuição a que se refere o inciso IV do § 3º do art. 18-A da Lei Complementar nº 123, de 2006 , por meio do aplicativo "MEI" para dispositivos móveis; ou
 
@@ -206,7 +210,7 @@ Parágrafo único. A restituição do indébito de imposto sobre a renda retido 
 
 Art. 23. O contribuinte ou o representante por ele autorizado poderá requerer o pagamento do valor relativo ao imposto a restituir apurado na DIRPF e não resgatado no período em que esteve disponível na instituição financeira ou de pagamento.
 
-§ 1º O requerimento a que se refere o caput deverá ser formalizado por meio do formulário eletrônico Pedido de Pagamento de Restituição, disponível no Portal e-CAC, no site da RFB na Internet, no endereço < https://www.gov.br/receitafederal/pt-br >.
+§ 1º O requerimento a que se refere o caput deverá ser formalizado por meio do formulário eletrônico Pedido de Pagamento de Restituição, disponível no Portal e-CAC, no site da RFB na Internet, no endereço < https://www.gov.br/receitafederal/pt-br >.
 
 § 2º Caso não seja possível a utilização do formulário eletrônico previsto no § 1º, o pedido poderá ser apresentado por meio do formulário Pedido de Restituição ou de Ressarcimento, constante do Anexo I.
 
@@ -310,7 +314,7 @@ Seção XI
 
 Da Restituição do Adicional ao Frete para a Renovação da Marinha Mercante (AFRMM) e da Taxa de Utilização do Sistema de Controle de Arrecadação do Adicional ao Frete para Renovação da Marinha Mercante (TUM)
 
-Art. 37. A restituição de pagamento indevido ou a maior relativo ao AFRMM ou à TUM poderá ser solicitada mediante requerimento específico, disponível no site da RFB na Internet, no endereço < https: //www.gov.br/receitafederal/pt-br >, a ser apresentado nos termos da Instrução Normativa RFB nº 2.022, de 16 de abril de 2021 .
+Art. 37. A restituição de pagamento indevido ou a maior relativo ao AFRMM ou à TUM poderá ser solicitada mediante requerimento específico, disponível no site da RFB na Internet, no endereço < https: //www.gov.br/receitafederal/pt-br >, a ser apresentado nos termos da Instrução Normativa RFB nº 2.022, de 16 de abril de 2021 .
 
 Parágrafo único. Será sumariamente indeferido o pedido de restituição formalizado em desacordo com o disposto no caput.
 
@@ -318,7 +322,8 @@ Art. 38. O disposto nesta Instrução Normativa não se aplica ao ressarcimento 
 
 Art. 39. O disposto nesta Instrução Normativa não se aplica à restituição de AFRMM e TUM relativa a pedido protocolado até a data de início da vigência do Decreto nº 8.257, de 29 de maio de 2014 .
 
-CAPÍTULO III DO RESSARCIMENTO
+CAPÍTULO III
+DO RESSARCIMENTO
 
 Seção I
 
@@ -448,9 +453,21 @@ V - art. 6º da Lei nº 12.599, de 2012 , vinculados a exportação;
 
 VI - art. 15 da Lei nº 12.794, de 2 de abril de 2013 , vinculados a exportação;
 
-VII - art. 31 da Lei nº 12.865, de 2013 ; e
+VII - art. 31 da Lei nº 12.865, de 9 de outubro de 2013 ;
 
-VIII - inciso IV do § 3º do art. 8º da Lei nº 10.925, de 23 de julho de 2004 .
+[Redação dada pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+VIII - art. 8º, § 3º, inciso IV, da Lei nº 10.925, de 23 de julho de 2004 ;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+IX - art. 8º, § 11, da Lei nº 10.925, de 23 de julho de 2004 ; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+X - art. 15, § 2º-A, da Lei nº 10.865, de 30 de abril de 2004 .
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
 
 Art. 52. A parcela do crédito presumido da Contribuição para o PIS/Pasep e da Cofins calculado sobre o estoque de abertura, previsto no art. 11 da Lei nº 10.637, de 2002 , e no art. 12 da Lei nº 10.833, de 2003 , que seja decorrente de bens vinculados às receitas e às vendas de que tratam os incisos I a IV do caput do art. 49, poderá ser objeto de ressarcimento ou compensação.
 
@@ -528,7 +545,73 @@ II - ser efetuado pelo valor total do crédito apurado no período.
 
 § 10. A declaração de compensação deverá ser precedida de pedido de ressarcimento.
 
-CAPÍTULO IV DO REEMBOLSO
+§ 11. Para fins de apuração do crédito, o Reintegra aplica-se somente às operações cujo despacho aduaneiro tenha ocorrido com base em Declaração Única de Exportação - DU-E.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+§ 12. Para fins de apuração de crédito no âmbito do Programa Acredita Exportação, de que trata Lei Complementar nº 216, de 28 de julho de 2025 , considera-se microempresa ou empresa de pequeno porte a empresa:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+I - optante pelo Simples Nacional, de que trata a Lei Complementar nº 123, de 14 de dezembro de 2006 , no trimestre de apuração do crédito; ou
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+II - não optante pelo Simples Nacional que tenha auferido, no ano-calendário imediatamente anterior ao do trimestre de apuração do crédito, receita bruta dentro dos limites estabelecidos no art. 3º da Lei Complementar nº 123, de 14 de dezembro de 2006 .
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+§ 13. Na hipótese prevista no inciso II do § 12, o pedido de ressarcimento e a declaração de compensação serão recepcionados pela Secretaria Especial da Receita Federal do Brasil somente após a confirmação da transmissão da ECF relativa ao ano-calendário imediatamente anterior ao do trimestre de apuração do crédito.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+Seção V
+Do ressarcimento e da compensação do crédito fiscal decorrente de subvenção para implantação ou expansão de empreendimento econômico
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2214, de 2 de setembro de 2024]
+
+Art. 58-A. A pessoa jurídica que apurar e informar à RFB crédito fiscal decorrente de subvenção para implantação ou expansão de empreendimento econômico de que trata a Lei nº 14.789, de 29 de dezembro de 2023 , poderá utilizá-lo mediante pedido de ressarcimento em espécie ou declaração de compensação com débitos próprios, vencidos ou vincendos, relativos a tributos administrados pela RFB.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2214, de 2 de setembro de 2024]
+
+§ 1º Poderá ser beneficiária do crédito fiscal de subvenção para investimento a pessoa jurídica devidamente habilitada pela RFB, nos termos dos arts. 3º a 5º da Lei nº 14.789, de 29 de dezembro de 2023 , e da Instrução Normativa RFB nº 2.170, de 29 de dezembro de 2023 .
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2214, de 2 de setembro de 2024]
+
+§ 2º O crédito fiscal apurado em desacordo com o disposto na Lei nº 14.789, de 29 de dezembro de 2023 , não será reconhecido pela RFB.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2214, de 2 de setembro de 2024]
+
+Art. 58-B. O pedido de ressarcimento e a declaração de compensação devem ser efetuados mediante a utilização:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2214, de 2 de setembro de 2024]
+
+I - do programa PER/DCOMP; ou
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2214, de 2 de setembro de 2024]
+
+II - do formulário Pedido de Restituição ou de Ressarcimento ou do formulário Declaração de Compensação, constantes do Anexo I e do Anexo IV, respectivamente, caso não seja possível a utilização do programa PER/DCOMP.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2214, de 2 de setembro de 2024]
+
+Parágrafo único. O pedido de ressarcimento deverá referir-se a um único período de apuração.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2214, de 2 de setembro de 2024]
+
+Art. 58-C. O pedido de ressarcimento e a declaração de compensação serão recepcionados após a apuração do crédito fiscal na ECF relativa ao período de apuração de reconhecimento das receitas de subvenção.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2214, de 2 de setembro de 2024]
+
+§ 1º A declaração de compensação deverá ser precedida de pedido de ressarcimento.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2214, de 2 de setembro de 2024]
+
+§ 2º Na hipótese de o crédito fiscal não ter sido objeto de compensação, a RFB efetuará o seu ressarcimento no vigésimo quarto mês, contado da data do pedido de ressarcimento original.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2214, de 2 de setembro de 2024]
+
+CAPÍTULO IV
+DO REEMBOLSO
 
 Art. 59. O reembolso à empresa ou equiparada, de valores de quotas de salário-família e salário-maternidade pagos a segurados a seu serviço, poderá ser efetuado mediante dedução no ato do pagamento das contribuições devidas à Previdência Social, correspondentes ao mês de competência do pagamento do benefício ao segurado, caso em que deverá ser declarado em GFIP, ressalvado o disposto no art. 60.
 
@@ -554,9 +637,11 @@ Art. 62. O reembolso será requerido por meio do programa PER/DCOMP ou, na impos
 
 Art. 63. Aplica-se o disposto neste Capítulo aos valores relativos ao salário-maternidade de que trata o § 3º do art. 394-A do Decreto-lei nº 5.452, de 1º de maio de 1943 , pagos à gestante ou à lactante afastada de atividades consideradas insalubres e que não possa exercer suas atividades em local salubre na empresa.
 
-CAPÍTULO V DA COMPENSAÇÃO
+CAPÍTULO V
+DA COMPENSAÇÃO
 
-Seção I Das Disposições Gerais sobre a Compensação Efetuada Mediante Declaração de Compensação
+Seção I
+Das Disposições Gerais sobre a Compensação Efetuada Mediante Declaração de Compensação
 
 Art. 64. O sujeito passivo que apurar crédito, inclusive o crédito decorrente de decisão judicial transitada em julgado, relativo a tributo administrado pela RFB, passível de restituição ou de ressarcimento, poderá utilizá-lo na compensação de débitos próprios, vencidos ou vincendos, relativos a tributos administrados pela RFB, ressalvada a compensação de que trata a Seção VII deste Capítulo.
 
@@ -569,6 +654,10 @@ I - o débito e o crédito objetos da compensação se refiram a um mesmo tribut
 II - o crédito para com a Fazenda Nacional tenha sido apurado por pessoa jurídica de direito público.
 
 § 3º Consideram-se débitos próprios, para fins do disposto no caput, os débitos por obrigação própria e os decorrentes de responsabilidade tributária apurados por todos os estabelecimentos da pessoa jurídica.
+
+§ 4º A compensação de contribuições previdenciárias declaradas incorretamente fica condicionada à retificação da declaração, exceto se o direito creditório for decorrente de decisão judicial transitada em julgado.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2272, de 17 de julho de 2025]
 
 Art. 65. A compensação declarada à RFB extingue o crédito tributário, sob condição resolutória da ulterior homologação do procedimento.
 
@@ -602,7 +691,8 @@ Art. 71. Aplicam-se à compensação da multa de ofício as reduções de que tr
 
 Art. 72. A compensação prevista no inciso I do art. 7º da Lei nº 13.969, de 26 de dezembro de 2019 , e no inciso I do art. 4º-C da Lei nº 11.484, de 31 de maio de 2007 , entre débitos relativos a tributos administrados pela RFB e os créditos financeiros de que tratam as referidas leis, será efetuada com observância do disposto na Instrução Normativa RFB nº 1.953, de 21 de maio de 2020 .
 
-Seção II Da Compensação Não Homologada
+Seção II
+Da Compensação Não Homologada
 
 Art. 73. O sujeito passivo será cientificado da não homologação da compensação e intimado a efetuar o pagamento dos débitos indevidamente compensados no prazo de 30 (trinta) dias, contado da data da ciência do despacho de não homologação.
 
@@ -622,7 +712,8 @@ II - de 150% (cento e cinquenta por cento) sobre o valor total do débito tribut
 
 § 3º O lançamento de ofício das multas isoladas previstas nos §§ 1º e 2º será efetuado por Auditor-Fiscal da Receita Federal do Brasil.
 
-Seção III Da Compensação Não Declarada
+Seção III
+Da Compensação Não Declarada
 
 Art. 75. É vedada e será considerada não declarada a compensação do crédito que:
 
@@ -634,7 +725,9 @@ III - se refira a título público;
 
 IV - seja decorrente de decisão judicial não transitada em julgado;
 
-V - não se refira a tributos administrados pela RFB; ou
+V - não se refira a tributos administrados pela Secretaria Especial da Receita Federal do Brasil;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
 
 VI - tiver como fundamento a alegação de inconstitucionalidade de lei, exceto nos casos em que a lei:
 
@@ -644,7 +737,17 @@ b) tenha tido sua execução suspensa pelo Senado Federal;
 
 c) tenha sido julgada inconstitucional em sentença judicial transitada em julgado a favor do contribuinte; ou
 
-d) seja objeto de súmula vinculante aprovada pelo Supremo Tribunal Federal nos termos do art. 103-A da Constituição Federal .
+d) seja objeto de súmula vinculante aprovada pelo Supremo Tribunal Federal nos termos do art. 103-A da Constituição Federal ;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+VII - seja decorrente de pagamento indevido ou a maior que o devido, com fundamento em documento de arrecadação que se verifique inexistente; ou
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+VIII - seja decorrente do regime de incidência não cumulativa da Contribuição para o PIS/Pasep ou da Cofins, cujo crédito não esteja relacionado a atividades econômicas do sujeito passivo, excetuados os casos de transformação, incorporação ou fusão, em que podem ser consideradas as atividades da empresa originária.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
 
 § 1º Será exigida do sujeito passivo, mediante lançamento de ofício, multa isolada sobre o valor total do débito cuja compensação seja considerada não declarada nas hipóteses previstas neste artigo no percentual de:
 
@@ -722,13 +825,15 @@ Parágrafo único. À compensação considerada não declarada não se aplica o 
 
 Art. 79. Caso a compensação seja considerada não declarada em relação a parte dos débitos informados na declaração de compensação, somente a essa parcela será dado o tratamento previsto nesta Seção.
 
-Seção IV Da Compensação de Crédito Decorrente de Cancelamento ou de Retificação de DI ou Duimp
+Seção IV
+Da Compensação de Crédito Decorrente de Cancelamento ou de Retificação de DI ou Duimp
 
 Art. 80. A compensação de crédito decorrente de cancelamento ou de retificação de DI ou de Duimp será efetuada pelo sujeito passivo mediante declaração de compensação, por meio do programa PER/DCOMP, ou, na impossibilidade de utilização desse, do formulário Declaração de Compensação, constante do Anexo IV.
 
 Parágrafo único. A compensação de que trata o caput deverá ser precedida do pedido de restituição a que se refere o art. 31.
 
-Seção V Da Compensação de IRRF Relativo a Juros sobre Capital Próprio e de IRRF Incidente sobre Pagamento Efetuado a Cooperativas
+Seção V
+Da Compensação de IRRF Relativo a Juros sobre Capital Próprio e de IRRF Incidente sobre Pagamento Efetuado a Cooperativas
 
 Art. 81. A pessoa jurídica optante pelo lucro real no trimestre ou ano-calendário em que lhe foram pagos ou creditados juros sobre o capital próprio com retenção de imposto sobre a renda poderá, durante o trimestre ou ano-calendário da retenção, utilizar referido crédito de IRRF na compensação do IRRF incidente sobre o pagamento ou crédito de juros, a título de remuneração de capital próprio, a seu titular, sócios ou acionistas.
 
@@ -746,7 +851,8 @@ Art. 82. O crédito do IRRF incidente sobre o pagamento efetuado a cooperativa d
 
 § 2º A compensação de que trata este artigo será efetuada pela cooperativa de trabalho, associação de profissionais ou assemelhada, na forma prevista no § 1º do art. 64.
 
-Seção VI Da Compensação da Contribuição de Intervenção no Domínio Econômico Incidente sobre a Importação e a Comercialização de Petróleo e seus Derivados, Gás Natural e seus Derivados, e Álcool Etílico Combustível (Cide-Combustíveis)
+Seção VI
+Da Compensação da Contribuição de Intervenção no Domínio Econômico Incidente sobre a Importação e a Comercialização de Petróleo e seus Derivados, Gás Natural e seus Derivados, e Álcool Etílico Combustível (Cide-Combustíveis)
 
 Art. 83. O valor da Cide-Combustíveis pago por pessoa jurídica vendedora de hidrocarbonetos líquidos no mercado interno ou pago diretamente pelo importador, no caso de importação, poderá ser objeto de compensação pela pessoa jurídica adquirente ou importadora desses produtos.
 
@@ -776,7 +882,8 @@ II - incidente sobre a operação de venda no mercado interno.
 
 § 7º Não é passível de restituição o valor da Cide-Combustíveis referido no caput.
 
-Seção VII Da Compensação de Contribuições Previdenciárias pelo Sujeito Passivo que Não Utilizar o eSocial para Apuração das Contribuições
+Seção VII
+Da Compensação de Contribuições Previdenciárias pelo Sujeito Passivo que Não Utilizar o eSocial para Apuração das Contribuições
 
 Art. 84. O crédito relativo às contribuições previdenciárias previstas nas alíneas “a”, “c” e “d” do inciso I do art. 2º apurado pelo sujeito passivo, passível de restituição ou de reembolso, inclusive o crédito relativo à Contribuição Previdenciária sobre a Receita Bruta (CPRB), poderá ser utilizado na compensação de contribuições previdenciárias correspondentes a períodos subsequentes, observado o disposto no art. 89.
 
@@ -806,7 +913,8 @@ Art. 88. É vedada a compensação, pelo sujeito passivo, das contribuições de
 
 Art. 89. O disposto nesta Seção aplica-se somente à compensação de contribuições previdenciárias pelo sujeito passivo que não utilizar o eSocial para apuração das contribuições a que se referem os arts. 2º e 3º da Lei nº 11.457, de 2007 .
 
-Seção VIII Da Compensação de Valores Referentes à Retenção de Contribuições Previdenciárias na Cessão de Mão de Obra e na Empreitada
+Seção VIII
+Da Compensação de Valores Referentes à Retenção de Contribuições Previdenciárias na Cessão de Mão de Obra e na Empreitada
 
 Art. 90. Ressalvado o disposto no art. 91, a empresa prestadora de serviços que sofreu retenção no ato da quitação da nota fiscal, da fatura ou do recibo de prestação de serviços, poderá compensar o valor retido quando do recolhimento das contribuições previdenciárias, inclusive as devidas em decorrência do décimo terceiro salário, desde que a retenção esteja:
 
@@ -840,7 +948,8 @@ II - será considerada como competência da retenção o mês da emissão da not
 
 § 2º O sujeito passivo poderá requerer a restituição do saldo remanescente, na forma estabelecida no art. 33, ou utilizá-lo em declaração de compensação, na forma estabelecida no art. 64.
 
-Seção IX Da Compensação de Ofício
+Seção IX
+Da Compensação de Ofício
 
 Art. 92. A restituição e o ressarcimento de tributos administrados pela RFB ou a restituição de receita da União não administrada pela RFB arrecadada mediante Darf ou GPS será efetuada depois de verificada a ausência de débitos em nome do sujeito passivo credor perante a Fazenda Nacional.
 
@@ -860,9 +969,13 @@ Art. 92. A restituição e o ressarcimento de tributos administrados pela RFB ou
 
 § 8º O disposto no caput não se aplica ao reembolso.
 
-Art. 93. Na hipótese de restituição das contribuições a que se referem os incisos I e II do art. 2º, arrecadadas em GPS, a compensação de ofício será realizada com débitos vencidos e exigíveis das referidas contribuições, na ordem crescente dos prazos de prescrição.
+Art. 93.
 
-Art. 94. Na hipótese de restituição ou ressarcimento dos créditos de que trata o art. 92 ou do saldo remanescente da compensação de que trata o art. 93, caso exista, no âmbito da RFB ou da PGFN, débitos tributários vencidos e exigíveis do sujeito passivo, exceto débitos de contribuições a que se referem os incisos I e II do art. 2º confessados em GFIP, será observado, na compensação de ofício, sucessivamente:
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+Art. 94. Na hipótese de restituição ou ressarcimento dos créditos de que trata o art. 92, caso haja, no âmbito da Secretaria Especial da Receita Federal do Brasil ou da ProcuradoriaGeral da Fazenda Nacional, débitos tributários vencidos e exigíveis do sujeito passivo, exceto débitos de contribuições a que se refere o art. 2º, caput, incisos I e II, confessados em GFIP, será observado, na compensação de ofício, sucessivamente:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
 
 I - em 1º (primeiro) lugar, os débitos por obrigação própria e, em 2º (segundo) lugar, os decorrentes de responsabilidade tributária;
 
@@ -876,7 +989,9 @@ Parágrafo único. A prioridade de compensação entre os débitos tributários 
 
 Art. 95. O crédito do sujeito passivo para com a Fazenda Nacional que remanescer da compensação de que trata o art. 94 deverá ser compensado de ofício com os seguintes débitos do sujeito passivo, na ordem a seguir apresentada:
 
-I - o débito das contribuições a que se referem os incisos I e II do art. 2º confessado em GFIP, na ordem estabelecida no art. 93; e
+I - os débitos vencidos e exigíveis das contribuições a que se refere o art. 2º, caput, incisos I e II, confessado em GFIP, na ordem crescente dos prazos de prescrição; e
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
 
 II - o débito de natureza não tributária.
 
@@ -892,7 +1007,8 @@ II - do consentimento, expresso ou tácito, da compensação, nos demais casos.
 
 Art. 97. A compensação de ofício do débito do sujeito passivo será efetuada com obediência à proporcionalidade entre o principal e os respectivos acréscimos e encargos legais.
 
-Seção X Disposições Comuns
+Seção X
+Disposições Comuns
 
 Art. 98. No prazo máximo de 30 (trinta) dias úteis, contado da data em que a compensação for efetuada de ofício ou em que for apresentada a declaração de compensação, compete à RFB adotar os seguintes procedimentos:
 
@@ -920,7 +1036,8 @@ b) no processo de cobrança, o montante do crédito tributário extinto pela com
 
 III - expedirá aviso de cobrança, caso haja saldo remanescente de débito, ou ordem bancária, caso haja saldo remanescente a restituir ou a ressarcir depois de efetuada a compensação de ofício.
 
-CAPÍTULO VI DA COMPENSAÇÃO DE CRÉDITOS DECORRENTES DE DECISÃO JUDICIAL TRANSITADA EM JULGADO
+CAPÍTULO VI
+DA COMPENSAÇÃO DE CRÉDITOS DECORRENTES DE DECISÃO JUDICIAL TRANSITADA EM JULGADO
 
 Art. 100. A compensação de créditos decorrentes de decisão judicial transitada em julgado será realizada na forma prevista nesta Instrução Normativa, exceto se a decisão dispuser de forma diversa.
 
@@ -928,25 +1045,103 @@ Art. 101. É vedada a compensação do crédito do sujeito passivo para com a Fa
 
 Parágrafo único. Não poderão ser objeto de compensação os créditos relativos a títulos judiciais já executados perante o Poder Judiciário, com ou sem emissão de precatório.
 
+Art. 101-A. Na compensação de crédito decorrente de decisão judicial transitada em julgado, deverá ser observado o limite mensal estabelecido em ato do Ministro de Estado da Fazenda.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+§ 1º Quando se tratar de créditos decorrentes de decisão judicial transitada em julgado, o valor mensal a ser compensado fica limitado ao valor do crédito atualizado até a data da primeira declaração de compensação dividido pela quantidade de meses, conforme as seguintes regras, nos termos da Portaria Normativa MF nº 14/2024, de 5 de janeiro de 2024 :
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+I - créditos cujo valor total seja de R$ 10.000.000,00 (dez milhões de reais) a R$ 99.999.999,99 (noventa e nove milhões, novecentos e noventa e nove mil e novecentos e noventa e nove reais e noventa e nove centavos) deverão ser compensados no prazo mínimo de doze meses;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+II - créditos cujo valor total seja de R$ 100.000.000,00 (cem milhões de reais) a R$ 199.999.999,99 (cento e noventa e nove milhões, novecentos e noventa e nove mil e novecentos e noventa e nove reais e noventa e nove centavos) deverão ser compensados no prazo mínimo de vinte meses;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+III - créditos cujo valor total seja de R$ 200.000.000,00 (duzentos milhões de reais) e inferior a R$ 299.999.999,99 (duzentos e noventa e nove milhões, novecentos e noventa e nove mil e novecentos e noventa e nove reais e noventa e nove centavos) deverão ser compensados no prazo mínimo de trinta meses;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+IV - créditos cujo valor total seja de R$ 300.000.000,00 (trezentos milhões de reais) e inferior a R$ 399.999.999,99 (trezentos e noventa e nove milhões, novecentos e noventa e nove mil e novecentos e noventa e nove reais e noventa e nove centavos) deverão ser compensados no prazo mínimo de quarenta meses;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+V - créditos cujo valor total seja de R$ 400.000.000,00 (quatrocentos milhões de reais) a R$ 499.999.999,99 (quatrocentos e noventa e nove milhões, novecentos e noventa e nove mil e novecentos e noventa e nove reais e noventa e nove centavos) deverão ser compensados no prazo mínimo de cinquenta meses; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+VI - créditos cujo valor total seja igual ou superior a R$ 500.000.000,00 (quinhentos milhões de reais) deverão ser compensados no prazo mínimo de sessenta meses.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+§ 2º Os limites de que trata este artigo não se aplicam ao crédito decorrente de decisão judicial transitada em julgado cujo valor total seja inferior a R$ 10.000.000,00 (dez milhões de reais).
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
+§ 3º Para fins do disposto neste artigo, a primeira declaração de compensação deverá ser apresentada no prazo de cinco anos, contado da data do trânsito em julgado da decisão ou da homologação da desistência da execução do título judicial.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
+
 Art. 102. Na hipótese de crédito decorrente de decisão judicial transitada em julgado, a declaração de compensação será recepcionada pela RFB somente depois de prévia habilitação do crédito pela Delegacia da Receita Federal do Brasil (DRF) ou pela Delegacia Especializada da RFB com jurisdição sobre o domicílio tributário do sujeito passivo.
 
-§ 1º A habilitação a que se refere o caput será obtida mediante pedido do sujeito passivo, formalizado em processo administrativo instruído com:
+§ 1º A habilitação a que se refere o caput será obtida mediante pedido do sujeito passivo, formalizado em processo administrativo por meio do sistema Requerimentos Web, disponível no Centro Virtual de Atendimento - e-CAC, acessível no site da Secretaria Especial da Receita Federal do Brasil na Internet, no endereço eletrônico < https://www.gov.br/receitafederal >, instruído com:
 
-I - o formulário Pedido de Habilitação de Crédito Decorrente de Decisão Judicial Transitada em Julgado, constante do Anexo V;
+[Redação dada pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+I -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
 
 II - certidão de inteiro teor do processo, expedida pela Justiça Federal;
 
 III - caso o crédito esteja amparado em título judicial passível de execução, cópia da decisão que homologou a desistência da execução do título judicial, pelo Poder Judiciário, e a assunção de todas as custas e honorários advocatícios referentes ao processo de execução, ou cópia da declaração pessoal de inexecução do título judicial protocolada na Justiça Federal e certidão judicial que a ateste;
 
-IV - cópia do contrato social ou do estatuto da pessoa jurídica acompanhada, conforme o caso, da última alteração contratual em que houve mudança da administração ou da ata da assembleia que elegeu a diretoria;
+IV -
 
-V - cópia dos atos correspondentes aos eventos de cisão, incorporação ou fusão, se for o caso;
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
 
-VI - no caso de pedido de habilitação do crédito formulado por representante legal do sujeito passivo, cópia do documento comprobatório da representação legal e do documento de identidade do representante; e
+V -
 
-VII - no caso de pedido de habilitação formulado por mandatário do sujeito passivo, procuração conferida por instrumento público ou particular e cópia do documento de identidade do outorgado.
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
 
-§ 2º Se for constatada irregularidade ou insuficiência de informações necessárias à habilitação, o requerente será intimado a regularizar as pendências no prazo de até 30 (trinta) dias, contado da data da ciência da intimação.
+VI -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+VII -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+§ 1º-A. Além dos documentos previstos no § 1º, o pedido de habilitação de crédito amparado em título judicial decorrente de mandado de segurança coletivo deverá ser instruído também com:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+I - a petição inicial da ação;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+II - o estatuto da entidade impetrante vigente na data do protocolo do mandado de segurança coletivo;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+III - a cópia do contrato social ou do estatuto da pessoa jurídica vigente na data do ingresso na categoria ou da filiação;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+IV - documento que comprove a data de associação ou o ingresso na categoria e, caso aplicável, a data de saída; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+V - o inteiro teor da decisão judicial transitada em julgado.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+§ 2º Se for constatada irregularidade ou insuficiência de informações necessárias à habilitação, o requerente será intimado a regularizar as pendências no prazo de dez dias úteis, contado da data da ciência da intimação, nos termos do art. 5º-B do Decreto nº 70.325, de 6 de março de 1972 .
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
 
 § 3º O despacho decisório sobre o pedido de habilitação será proferido no prazo de até 30 (trinta) dias, contado da data da protocolização do pedido ou da regularização das pendências a que se refere o § 2º.
 
@@ -962,13 +1157,53 @@ IV - o pedido foi formalizado no prazo de 5 (cinco) anos, contado da data do tr�
 
 V - caso o crédito esteja amparado em título judicial passível de execução, houve a homologação pelo Poder Judiciário da desistência da execução do título judicial e a assunção de todas as custas e honorários advocatícios referentes ao processo de execução, ou a apresentação de declaração pessoal de inexecução do título judicial na Justiça Federal e de certidão judicial que a ateste.
 
+Art. 103-A. Sem prejuízo do atendimento aos requisitos previstos no art. 103, o pedido de habilitação de crédito amparado em título judicial decorrente de mandado de segurança coletivo impetrado por associação ou sindicato, nos casos em que a decisão judicial não tenha delimitado o grupo de beneficiários, será deferido por Auditor-Fiscal da Receita Federal do Brasil mediante a confirmação de que:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+I - o substituto possuía objeto determinado e específico à época da impetração; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+II - o substituído é filiado à associação ou integrante da categoria profissional, desde que essa condição esteja amparada pela abrangência territorial e finalística do substituto definida à época da impetração do mandado de segurança coletivo.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+§ 1º O direito creditório do substituído aplica-se somente a fatos geradores posteriores à filiação à associação ou ao ingresso na categoria, e é condicionado à manutenção dessa condição.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+§ 2º Caso esteja em curso a execução coletiva do título judicial, o substituído deverá apresentar:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+I - a cópia da decisão que homologou a desistência da execução do título; ou
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+II - a declaração pessoal de inexecução da sentença proferida no mandado de segurança coletivo, acompanhada de certidão comprobatória.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
 Art. 104. O deferimento do pedido de habilitação do crédito não implica reconhecimento do direito creditório nem homologação da compensação.
 
 Art. 105. O pedido de habilitação do crédito será indeferido caso:
 
-I - as pendências a que se refere o § 2º do art. 102 não forem regularizadas no prazo nele previsto; ou
+I - as pendências a que se refere o art. 102, § 2º, não tenham sido regularizadas no prazo nele previsto;
 
-II - os requisitos constantes do art. 103 não sejam atendidos.
+[Redação dada pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+II - os requisitos constantes dos arts. 103 e 103-A não tenham sido atendidos;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+III - o mandado de segurança coletivo tenha sido impetrado por associação de caráter genérico; ou
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+IV - a filiação à associação ou o ingresso na categoria profissional, pelo substituído, tenha ocorrido após o trânsito em julgado do título coletivo.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
 
 Art. 106. A declaração de compensação prevista no art. 102 poderá ser apresentada no prazo de até 5 (cinco) anos, contado da data do trânsito em julgado da decisão ou da homologação da desistência da execução do título judicial.
 
@@ -978,7 +1213,8 @@ Art. 107. O Auditor-Fiscal da Receita Federal do Brasil poderá exigir do sujeit
 
 Art. 108. O procedimento de habilitação de crédito decorrente de ação judicial não se aplica à compensação de que trata a Seção VII do Capítulo V.
 
-CAPÍTULO VII DA RETIFICAÇÃO E DO CANCELAMENTO DO PEDIDO DE RESTITUIÇÃO, DO PEDIDO DE RESSARCIMENTO, DO PEDIDO DE REEMBOLSO E DA DECLARAÇÃO DE COMPENSAÇÃO
+CAPÍTULO VII
+DA RETIFICAÇÃO E DO CANCELAMENTO DO PEDIDO DE RESTITUIÇÃO, DO PEDIDO DE RESSARCIMENTO, DO PEDIDO DE REEMBOLSO E DA DECLARAÇÃO DE COMPENSAÇÃO
 
 Art. 109. A retificação do pedido de restituição, do pedido de ressarcimento, do pedido de reembolso e da declaração de compensação, formalizados pelo sujeito passivo com utilização:
 
@@ -1022,9 +1258,11 @@ Art. 117. A retificação e o cancelamento da declaração de compensação tamb
 
 Art. 118. Considera-se pendente de decisão administrativa, para fins do disposto neste Capítulo, a declaração de compensação, o pedido de restituição, o pedido de ressarcimento ou o pedido de reembolso, em relação ao qual o sujeito passivo ainda não tenha sido intimado do despacho decisório proferido pelo Auditor-Fiscal da Receita Federal do Brasil competente para decidir sobre a compensação, a restituição, o ressarcimento ou o reembolso.
 
-CAPÍTULO VIII DA COMPETÊNCIA
+CAPÍTULO VIII
+DA COMPETÊNCIA
 
-Seção I Disposições Gerais
+Seção I
+Disposições Gerais
 
 Art. 119. A decisão relativa ao pedido de restituição, ao pedido de ressarcimento e ao pedido de reembolso, caberá à DRF ou à Delegacia Especializada da RFB que, à data do despacho decisório, tenha jurisdição sobre o domicílio tributário do sujeito passivo.
 
@@ -1034,7 +1272,8 @@ Art. 121. A decisão relativa à compensação caberá à DRF ou à Delegacia Es
 
 Art. 122. A compensação de ofício do crédito do sujeito passivo e a restituição ou o ressarcimento do saldo credor porventura remanescente da compensação caberão à DRF ou à Delegacia Especializada da RFB que, à data da compensação, tenha jurisdição sobre o domicílio tributário do sujeito passivo, observado o disposto no art. 134.
 
-Seção II Do Crédito Decorrente de Cancelamento ou Retificação de Declaração de Importação
+Seção II
+Do Crédito Decorrente de Cancelamento ou Retificação de Declaração de Importação
 
 Art. 123. A decisão relativa ao pedido de restituição de crédito decorrente de cancelamento ou retificação de DI ou de Duimp caberá à unidade responsável pela análise da retificação ou do cancelamento da declaração.
 
@@ -1046,7 +1285,8 @@ I - o reconhecimento do direito creditório caberá à unidade a que se refere o
 
 II - a decisão relativa à compensação caberá à DRF ou à Delegacia Especializada da RFB que, à data do despacho decisório, tenha jurisdição sobre o domicílio tributário do sujeito passivo.
 
-Seção III Do Crédito Relativo ao Comércio Exterior
+Seção III
+Do Crédito Relativo ao Comércio Exterior
 
 Art. 126. A decisão relativa ao pedido de restituição de crédito relativo a operação de comércio exterior que não seja decorrente de retificação ou cancelamento de DI ou de Duimp caberá à DRF ou à Alfândega da Receita Federal do Brasil (ALF) sob cuja jurisdição for efetuado o despacho aduaneiro da mercadoria.
 
@@ -1058,13 +1298,15 @@ I - o reconhecimento do direito creditório caberá à unidade a que se refere o
 
 II - a decisão relativa à compensação caberá à DRF ou à Delegacia Especializada da RFB que, à data do despacho decisório, tenha jurisdição sobre o domicílio tributário do sujeito passivo.
 
-Seção IV Do Crédito Relativo ao AFRMM ou à TUM
+Seção IV
+Do Crédito Relativo ao AFRMM ou à TUM
 
 Art. 129. Aplica-se o disposto nos arts. 119 e 120 ao crédito relativo ao AFRMM ou à TUM incidentes sobre operações de navegação de cabotagem, interior fluvial e lacustre.
 
 Art. 130. Aplica-se o disposto nos arts. 126 e 127 ao crédito relativo ao AFRMM ou à TUM incidentes sobre operações de comércio exterior.
 
-Seção V Do Crédito Relativo ao IPI
+Seção V
+Do Crédito Relativo ao IPI
 
 Art. 131. A decisão relativa ao pedido de restituição e ao pedido de ressarcimento de crédito relativo ao IPI caberá à DRF ou à Delegacia Especializada da RFB que, à data do despacho decisório, tenha jurisdição sobre o domicílio tributário do estabelecimento da pessoa jurídica que apurou o referido crédito.
 
@@ -1076,23 +1318,29 @@ Art. 134. A compensação de ofício do crédito de IPI e a restituição ou o r
 
 Art. 135. A decisão relativa ao pedido de ressarcimento de crédito de IPI incidente sobre produtos adquiridos no mercado interno destinados à manutenção, ampliação ou reforma de imóveis de uso de missão diplomática, repartição consular de caráter permanente ou representação de caráter permanente de órgão internacional de que o Brasil faça parte, e o respectivo ressarcimento caberão à DRF ou à Delegacia Especializada da RFB que, à data do despacho decisório, tenha jurisdição sobre o domicílio tributário do interessado.
 
-Seção VI Do Crédito Relativo ao Imposto sobre a Propriedade Territorial Rural (ITR)
+Seção VI
+Do Crédito Relativo ao Imposto sobre a Propriedade Territorial Rural (ITR)
 
 Art. 136. A decisão relativa ao pedido de restituição de crédito relativo ao ITR e a respectiva restituição caberão à DRF ou à Delegacia Especializada da RFB em cuja jurisdição territorial estiver localizado o imóvel.
 
 Art. 137. A decisão relativa à compensação de crédito relativo ao ITR caberá à DRF ou à Delegacia Especializada da RFB com jurisdição sobre o local em que estiver localizado o imóvel.
 
-Seção VII Do Crédito Relativo à Receita não Administrada pela RFB e ao IRPF não Resgatado na Rede Bancária
+Seção VII
+Do Crédito Relativo à Receita não Administrada pela RFB e ao IRPF não Resgatado na Rede Bancária
 
 Art. 138. A restituição de receita da União não administrada pela RFB arrecadada mediante Darf ou GPS e do saldo a restituir apurado na DIRPF, que não tenha sido resgatado no período em que esteve disponível na instituição financeira ou de pagamento, será promovida pela DRF ou pela Delegacia Especializada da RFB que, à data da restituição, tenha jurisdição sobre o domicílio tributário do interessado.
 
-Seção VIII Das Equipes Especializadas
+Seção VIII
+Das Equipes Especializadas
 
 Art. 139. As competências de que trata esta Instrução Normativa poderão ser exercidas por equipes especializadas regionais ou nacionais.
 
-CAPÍTULO IX DA DISCUSSÃO ADMINISTRATIVA
+CAPÍTULO IX
+DA DISCUSSÃO ADMINISTRATIVA
 
-Art. 140. O sujeito passivo poderá apresentar manifestação de inconformidade contra a decisão que indeferiu seu pedido de restituição, de ressarcimento ou de reembolso, ou contra a decisão que não homologou a compensação por ele efetuada, no prazo de até 30 (trinta) dias, contado da data da ciência da referida decisão, nos termos do Decreto nº 70.235, de 6 de março de 1972 .
+Art. 140. O sujeito passivo poderá apresentar manifestação de inconformidade contra a decisão que indeferiu seu pedido de restituição, de ressarcimento ou de reembolso ou contra a decisão que não homologou a compensação por ele efetuada no prazo de trinta dias, contado da data da ciência da referida decisão, nos termos da Lei nº 9.430, de 27 de dezembro de 1996 .
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
 
 § 1º A manifestação de inconformidade prevista no caput deverá atender aos requisitos de admissibilidade previstos no art. 16 do Decreto nº 70.235, de 1972 .
 
@@ -1106,7 +1354,9 @@ Art. 140. O sujeito passivo poderá apresentar manifestação de inconformidade 
 
 Art. 141. No âmbito do contencioso administrativo fiscal de pequeno valor a que se refere o inciso I do caput do art. 23 da Lei nº 13.988, de 14 de abril de 2020 , o julgamento relativo à manifestação de inconformidade será realizado, em última instância, por decisão colegiada da DRJ, observada a regulamentação específica.
 
-Art. 142. Da decisão que julgar improcedente a manifestação de inconformidade caberá recurso ao Conselho Administrativo de Recursos Fiscais (Carf), nos termos do Decreto nº 70.235, de 1972 , exceto na hipótese prevista no art. 141.
+Art. 142. Da decisão que julgar improcedente a manifestação de inconformidade, caberá recurso dirigido ao Conselho Administrativo de Recursos Fiscais - Carf, a ser apresentado no prazo de vinte dias úteis, nos termos do Decreto nº 70.235, de 6 de março de 1972 , exceto na hipótese prevista no art. 141.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2314, de 18 de março de 2026]
 
 Parágrafo único. Não caberá recurso de ofício da decisão que considerar procedente manifestação de inconformidade em processos relativos a restituição, ressarcimento, reembolso ou compensação.
 
@@ -1130,7 +1380,8 @@ Art. 146. É definitiva a decisão do Auditor-Fiscal da Receita Federal do Brasi
 
 Art. 147. No caso de receita da União não administrada pela RFB arrecadada mediante Darf ou GPS, a discussão administrativa será realizada de acordo com a legislação aplicável ao órgão ou à entidade competente para decidir quanto ao direito à restituição.
 
-CAPÍTULO X DA VALORAÇÃO DOS CRÉDITOS
+CAPÍTULO X
+DA VALORAÇÃO DOS CRÉDITOS
 
 Art. 148. O crédito relativo a tributo administrado pela RFB, passível de restituição ou de reembolso, será restituído, reembolsado ou compensado acrescido de juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais, acumulados mensalmente, e de juros de 1% (um por cento) no mês em que:
 
@@ -1152,9 +1403,13 @@ I - pagamento indevido ou a maior, o mês subsequente ao do pagamento;
 
 II - restituição de imposto sobre a renda apurada em declaração de rendimentos de pessoa física, a partir do 1º (primeiro) dia do mês subsequente ao previsto para a entrega tempestiva da referida declaração;
 
-III - declaração de saída definitiva do País, o mês seguinte ao da data de caracterização da condição de não residente;
+III - declaração de saída definitiva do País, a partir do 1º (primeiro) dia do mês subsequente ao previsto para a entrega tempestiva da referida declaração;
 
-IV - declaração de encerramento de espólio, o mês seguinte ao da data do trânsito em julgado da decisão judicial da partilha ou da data da lavratura da escritura pública;
+[Redação dada pelo(a) Instrução Normativa RFB nº 2156, de 8 de agosto de 2023]
+
+IV - declaração final de espólio, a partir do 1º (primeiro) dia do mês subsequente ao previsto para a entrega tempestiva da referida declaração;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2156, de 8 de agosto de 2023]
 
 V - saldo negativo de IRPJ e de CSLL, o mês subsequente ao do encerramento do período de apuração;
 
@@ -1184,7 +1439,9 @@ I - o mês de janeiro de 1996, caso a declaração seja referente ao exercício 
 
 II - o mês de julho de 2020, caso a declaração seja referente ao exercício de 2020.
 
-§ 3º Na hipótese de declaração de encerramento de espólio ou de saída definitiva do País, caso a declaração seja referente:
+§ 3º Na hipótese de declaração final de espólio ou de saída definitiva do País, caso a declaração seja referente:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2156, de 8 de agosto de 2023]
 
 I - ao exercício de 1995 ou a exercícios anteriores, o termo inicial da valoração do crédito será o mês de janeiro de 1996;
 
@@ -1200,13 +1457,23 @@ I - se a restituição for efetuada no mesmo mês da origem do direito creditór
 
 II - no caso de compensação de ofício ou compensação declarada pelo sujeito passivo, se a data de valoração do crédito ocorrer no mesmo mês da origem do direito creditório;
 
-III - no ressarcimento ou na compensação de créditos do IPI, da Contribuição para o PIS/Pasep, da Cofins e relativos ao Reintegra, ressalvado o disposto no art. 152; e
+III - no ressarcimento ou na compensação de créditos do IPI, da Contribuição para o PIS/Pasep, da Cofins e relativos ao Reintegra, ressalvado o disposto no art. 152;
 
-IV - na compensação do crédito de IRRF relativo a juros sobre capital próprio e de IRRF incidente sobre pagamentos efetuados a cooperativas a que se referem o art. 81 e o caput do art. 82, respectivamente.
+[Redação dada pelo(a) Instrução Normativa RFB nº 2214, de 2 de setembro de 2024]
+
+IV - na compensação do crédito de IRRF relativo a juros sobre capital próprio e de IRRF incidente sobre pagamentos efetuados a cooperativas a que se referem o art. 81 e o caput do art. 82, respectivamente; e
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2214, de 2 de setembro de 2024]
+
+V - no ressarcimento ou na compensação de crédito fiscal decorrente de subvenção para implantação ou expansão de empreendimento econômico a que se referem os arts. 58-A a 58-C.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2214, de 2 de setembro de 2024]
 
 Art. 152. Na hipótese de não haver o ressarcimento de créditos do IPI, da Contribuição para o PIS/Pasep, da Cofins e relativos ao Reintegra, no prazo de 360 (trezentos e sessenta) dias da data do protocolo do pedido de ressarcimento, aplica-se à parcela do crédito não ressarcida ou não compensada o acréscimo de que trata o caput do art. 148.
 
-§ 1º No cálculo dos juros de que trata o caput, será observado como termo inicial o 361º (trecentésimo sexagésimo primeiro) dia contado da data do protocolo do pedido de ressarcimento original.
+§ 1º No cálculo dos juros de que trata o caput, será observado como termo inicial o mês subsequente ao do trecentésimo sexagésimo primeiro dia, contado da data do protocolo do pedido de ressarcimento original.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2214, de 2 de setembro de 2024]
 
 § 2º O termo final da valoração do crédito objeto de pedido de ressarcimento deverá ser:
 
@@ -1226,7 +1493,8 @@ II - os créditos decorrentes de pagamento indevido ou a maior, passíveis de co
 
 § 2º O imposto a restituir, apurado em declaração de rendimentos, que tenha sido colocado à disposição do sujeito passivo antes de 1º de janeiro de 1996, deverá ter o seu valor devidamente convertido em reais, nos termos do caput, e sobre ele não incidirão os juros previstos no art. 148.
 
-CAPÍTULO XI DO PAGAMENTO
+CAPÍTULO XI
+DO PAGAMENTO
 
 Art. 154. O pagamento da restituição, do ressarcimento e do reembolso será efetuado pela RFB exclusivamente mediante crédito em conta corrente bancária ou de poupança de titularidade do beneficiário.
 
@@ -1240,11 +1508,16 @@ I - residente no exterior será efetuado a pessoa indicada em instrumento públi
 
 II - incapaz será efetuado a seu representante legal, que deverá apresentar documentação comprobatória dessa condição.
 
+§ 4º Caso o crédito na conta indicada pelo requerente não seja possível, será efetuada nova tentativa mediante utilização da chave PIX CPF ou CNPJ do beneficiário.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2156, de 8 de agosto de 2023]
+
 Art. 155. Compete à instituição financeira ou de pagamento que efetivar a restituição, o ressarcimento ou o reembolso verificar a correspondência do número de inscrição do respectivo beneficiário no CPF ou no CNPJ, constante dos documentos de abertura da conta corrente bancária, de poupança ou de pagamento, com o assinalado na correspondente autorização de crédito.
 
 Parágrafo único. O descumprimento do disposto no caput caracteriza desvio de recursos públicos e obriga a instituição responsável à entrega dos valores ao legítimo credor, ou à sua devolução ao Tesouro Nacional, acrescido dos juros previstos no art. 148, sem prejuízo da imposição das demais sanções previstas em legislação específica.
 
-CAPÍTULO XII DISPOSIÇÕES FINAIS
+CAPÍTULO XII
+DISPOSIÇÕES FINAIS
 
 Art. 156. O Auditor-Fiscal da Receita Federal do Brasil competente para decidir sobre a restituição, o ressarcimento, o reembolso e a compensação poderá condicionar o reconhecimento do direito creditório:
 
@@ -1292,7 +1565,9 @@ III - Pedido de Reembolso de Quotas de Salário-Família e de Salário-Maternida
 
 IV - Declaração de Compensação - Anexo IV; e
 
-V - Pedido de Habilitação de Crédito Decorrente de Decisão Judicial Transitada em Julgado - Anexo V.
+V -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
 
 Parágrafo único. A RFB disponibilizará os formulários a que se refere o caput em seu site na Internet, no endereço < https://www.gov.br/receitafederal/pt-br> .
 
@@ -1318,4 +1593,332 @@ JOSÉ BARROSO TOSTES NETO
 
 Anexo I - PEDIDO DE RESTITUIÇÃO OU DE RESSARCIMENTO
 
-Anexo I
+Pedido de Restituição ou de Ressarcimento – Anexo I
+
+ | Nome/ Nome Empresarial |  | CPF CNPJ
+
+ | Valor da Restituição/Ressarcimento Solicitado neste Pedido (em reais e sem a atualização de valor) |  |  |  |  |  |  |  |  | 
+ | Nome do Banco (para crédito) |  |  | Nº Banco |  |  | Nº Agência |  |  | Nº Conta-corrente
+
+3. ORIGEM E VALOR TOTAL DO DIREITO CREDITÓRIO
+
+Pagamento Indevido ou a Maior (o interessado deve anexar o comprovante de pagamento) |  | Valor Original do Pagamento Indevido ou a Maior ( em reais)
+Simples Nacional – Retenção Indevida (folha 2) |  | 
+Contribuição para o PIS/Pasep e Cofins Retidas na Fonte (folha 3) |  | 
+IPI – Missões Diplomáticas e Repartições Consulares (folha 4) |  | 
+Pagamento Indevido ou a Maior – Contribuição Previdenciária (folhas 5 e 6) |  | 
+Contribuição Previdenciária Retida – Na Cessão de Mão de Obra e na Empreitada (folhas 7 e 8) |  | 
+Outros | Detalhar: | 
+
+4. MOTIVO DO PEDIDO
+
+O INTERESSADO DEVERÁ ANEXAR A ESTE PEDIDO A DOCUMENTAÇÃO COMPROBATÓRIA DO DIREITO CREDITÓRIO.
+
+5. DEMONSTRATIVO DO CÁLCULO DA RESTITUIÇÃO OU DO RESSARCIMENTO
+
+O interessado poderá apresentar o demonstrativo de cálculo anexo ao presente documento.
+
+ | Pedido Retificador |  |  | Número do Processo do Pedido Retificado
+SIM NÃO |  |  |  | 
+ | Outras Informações |  |  | 
+Solicito a restituição/ressarcimento da importância acima mencionada, declarando, sob as penas da Lei nº 4.729, de 14 de julho de 1965, e da Lei nº 8.137, de 27 de dezembro de 1990, que as informações prestadas neste pedido são a expressão da verdade e que as importâncias ora requeridas não foram pleiteadas por via judicial nem compensadas. |  |  |  | 
+
+ | Nome |  |  | CPF
+ | Data | Assinatura (este documento pode ser assinado digitalmente com uso de certificado digital no padrão ICP Brasil) |  | 
+
+v.1.00.00 1/8
+
+Simples Nacional - Retenção Indevida
+
+Nome/ Nome Empresarial |  | CPF CNPJ
+
+2. DEMONSTRATIVO DOS VALORES RETIDOS
+
+CNPJ da Fonte Pagadora | Data da Retenção | Valor da Operação (em Reais) | Simples Nacional (tributos administrados pela RFB) | 
+ |  |  | Tributo Retido * | Valor a Restituir
+* Na coluna "Tributo Retido", deve-se identificar, quando possível, o nome (abreviação) do tributo indevidamente retido. |  |  |  | 
+
+3. INFORMAÇÕES ADICIONAIS Outras Informações
+
+v.1.00.00 2/8
+
+Contribuição para o PIS/Pasep e Cofins Retidas na Fonte
+
+ | Nome/ Nome Empresarial |  | CPF CNPJ
+
+2. DEMONSTRATIVO DOS VALORES RETIDOS
+
+CNPJ da Fonte Pagadora | Data da Retenção | Valor da Operação (em Reais) | Valor Retido | 
+ |  |  | PIS/Pasep | Cofins
+
+ | Outras Informações
+
+v.1.00.00 3/8
+
+Ressarcimento do IPI – Missões Diplomáticas e Repartições Consulares
+
+ | Nome/ Nome Empresarial |  | CPF CNPJ
+
+2. RELAÇÃO DAS NOTAS FISCAIS QUE DÃO ORIGEM AO CRÉDITO
+
+Estabelecimento Emissor - CNPJ | Número da Nota Fiscal | Valor da Nota Fiscal (em reais) | Valor do IPI (em reais)
+TOTAL |  |  | 
+
+ | Outras Informações
+
+v.1.00.00 4/8
+
+Pagamento Indevido ou a Maior – Contribuição Previdenciária
+
+ | Nome/ Nome Empresarial |  | CNPJ CEI NIT PIS PASEP
+
+2. DEMONSTRATIVO DE APURAÇÃO DO CRÉDITO (valor original)
+
+Competência | Data do Pagamento | Valor Recolhido | Valor Devido | Saldo | Banco / Agência
+
+ | Outras Informações
+
+v.1.00.00 5/8
+
+Contribuinte Individual
+
+Valor Recolhido pelo
+
+(se houver)
+
+Descontado
+
+Competência | Assinale com: “X” |  | Nome da Empresa | CNPJ da Empresa | Entidade Beneficente * | Remuneração Recebida | Valor Descontado | Valor Recolhido pelo Contribuinte Individual (se houver)
+ | Contribuinte Individual | Empregado |  |  |  |  |  | 
+
+Individual Empregado Nome da Empresa CNPJ da Empresa Entidade
+
+4. QUADRO DISCRIMINATIVO DE REMUNERAÇÕES E VALORES RECOLHIDOS PELO CONTRIBUINTE INDIVIDUAL
+
+Assinale com: “X”
+
+Competência Contribuinte
+
+Contribuição Previdenciária Retida na Cessão de Mão de Obra e na Empreitada
+
+ | Nome/ Nome Empresarial |  | CNPJ CEI
+
+2. MOTIVO DO PEDIDO
+
+Valor excedente da(s) retenção(ções) sofrida(s) sobre nota(s) fiscal(ais) de prestação de serviço(s) em relação ao valor devido sobre a folha de pagamento.
+
+3. DISCRIMINATIVO DOS DOCUMENTOS (valor original)
+
+Competência | CNPJ/CEI Contratada (Matriz / Filial) | Valor Retido (A) | Valor Retido já compensado |  | Valor Retido a Maior (D) = (A)-(B)-(C)
+ |  |  | Na Competência da Retenção (B) | Em Competências Subsequentes (C) | 
+O(s) formulário(s) “Demonstrativo(s) de Notas Fiscais/Faturas/Recibos de Serviços Prestados” (modelo da folha 8), com a discriminação dos valores retidos por competência(s) (mês/ano), deve(m) ser anexado(s) ao presente documento. |  |  |  |  | 
+
+ | Outras Informações
+
+v.1.00.00 7/8
+
+Demonstrativo de Notas Fiscais/Faturas/Recibos de Serviços Prestados
+
+ | Nome/ Nome Empresarial |  | CNPJ CEI | 
+
+ | Mês |  | Ano | 
+
+Número da Nota Fiscal (NF) / Fatura (F) | Data da Emissão da NF/F | Valor Bruto (R$) da NF/F | Valor Retido (R$) na NF/F | CNPJ da Contratante (tomadora do serviço)
+TOTAL [Transportar o valor total para o campo “Valor Retido (A)” do Quadro 3 “DISCRIMINATIVO DOS DOCUMENTOS (valor original) do formulário Contribuição Previdenciária Retida – na Cessão de Mão de Obra e na Empreitada”] |  |  |  | 
+
+v.1.00.00 8/8
+
+Anexo II - Pedido de Restituição DE DIREITO CREdITÓRIO DECORRENTE DE CANCELAMENTO OU DE retificação de DECLARAÇÃO DE IMPORTAçÃO
+
+[Incluído(a) por republicação parcial em 13 de dezembro de 2021]
+
+Pedido de Restituição de Direito Creditório Decorrente de Cancelamento ou de
+
+Retificação de Declaração de Importação – Anexo II
+
+ | Nome/ Nome Empresarial | CPF CNPJ
+
+ | Valor da Restituição Solicitado neste Pedido (em reais e sem a atualização de valor) |  |  |  |  |  |  |  |  | 
+ | Nome do Banco (para crédito) |  |  | Nº Banco |  |  | Nº Agência |  |  | Nº Conta-corrente
+
+3. ORIGEM E VALOR TOTAL DO DIREITO CREDITÓRIO
+
+Pedido de Restituição de Direito Creditório Decorrente de Pedido de Cancelamento de Declaração de Importação (DI)
+
+Pedido de Restituição de Direito Creditório Decorrente de Cancelamento de Ofício de DI
+
+Pedido de Restituição de Direito Creditório Decorrente de Retificação de DI
+
+O INTERESSADO DEVERÁ ANEXAR A ESTE PEDIDO A DOCUMENTAÇÃO COMPROBATÓRIA DO DIREITO CREDITÓRIO.
+
+ | Número de Registro das DI
+Observações: As Declarações de Importação (DI) listadas devem estar relacionadas à única opção assinalada no quadro (“OPÇÃO”). O detalhamento de cada uma das DI listadas deverá ser individualizado por DI e anexado ao presente documento, observando-se o modelo do “Demonstrativo das Declarações de Importação – Cancelamento ou Retificação” (folha 2, quadros 7 e 8). | 
+
+ | Pedido Retificador |  |  | Número do Processo do Pedido Retificado
+SIM NÃO |  |  |  | 
+ | Outras Informações |  |  | 
+Solicito a restituição da importância acima mencionada, declarando, sob as penas da Lei nº 4.729, de 14 de julho de 1965, e da Lei nº 8.137, de 27 de dezembro de 1990, que as informações prestadas neste pedido são a expressão da verdade e que as importâncias ora requeridas não foram pleiteadas por via judicial nem compensadas. |  |  |  | 
+
+ | Nome |  |  |  | CPF
+ | Data |  | Assinatura (este documento pode ser assinado digitalmente com uso de certificado digital no padrão ICP Brasil) |  | 
+
+v.1.00.00 1/2
+
+Demonstrativo das Declarações de Importação – Cancelamento ou Retificação
+
+7. IDENTIFICAÇÃO DA DI REFERENTE À OPERAÇÃO COMERCIAL (*)
+
+Número da DI | 
+Número do Protocolo de Transmissão | 
+Data do Registro da DI | 
+Data da Quitação dos Tributos | 
+Código do Banco Debitado | 
+Código da Agência Debitada | 
+Número da Conta-corrente Debitada | 
+Código da Unidade Local de Despacho | 
+(*) Deverão ser informados os dados da DI que deverá permanecer registrada no Siscomex. | 
+
+8. CÁLCULO DO TRIBUTO A RESTITUIR EM DECORRÊNCIA DO CANCELAMENTO OU RETIFICAÇÃO DA DI
+
+Código de Receita | Valor Pago (em reais) (A) | Valor Devido após a Retificação da Declaração de Importação (em reais) * (B) | Valor a Restituir (em reais) (C) = (A) – (B)
+* Na hipótese de cancelamento de DI, não preencher a coluna relacionada com o “Valor Devido após a Retificação da Declaração de Importação” (B). |  |  | 
+
+ | Outras Informações | 
+
+v.1.00.00 2/2
+
+[Incluído(a) por republicação parcial em 13 de dezembro de 2021]
+
+Anexo III - Pedido de Reembolso de Quotas de SALÁRIO-FAMÍLIA E DE SALÁRIO-MATERNIDADE
+
+[Incluído(a) por republicação parcial em 13 de dezembro de 2021]
+
+Pedido de Reembolso de Quotas de Salário-Família e de Salário-Maternidade –
+
+Anexo III
+
+ | Nome/ Nome Empresarial | CPF CNPJ
+
+ | Valor do Reembolso Solicitado neste Pedido (em reais e sem a atualização de valor) |  |  |  |  |  |  |  |  | 
+ | Nome do Banco (para crédito) |  |  | Nº Banco |  |  | Nº Agência |  |  | Nº Conta-corrente
+
+3. MOTIVO DO PEDIDO
+
+O INTERESSADO DEVERÁ ANEXAR A ESTE PEDIDO A DOCUMENTAÇÃO COMPROBATÓRIA DO DIREITO CREDITÓRIO.
+
+4. DEMONSTRATIVO DE APURAÇÃO DO CRÉDITO (valor original)
+
+Competência | Valor do Salário-Família [SF] | Valor do Salário- Maternidade [SM] | Valor Total na Competência [SF] + [SM] (A) | Valor Total da Dedução na Competência (B) | Valor Total das Compensações em Competências Posteriores (C) | Valor do Reembolso Solicitado (D) = (A) - (B) - (C)
+
+ | Outras Informações
+Solicito o reembolso da importância acima mencionada, declarando, sob as penas da Lei nº 4.729, de 14 de julho de 1965, e da Lei nº 8.137, de 27 de dezembro de 1990, que as informações prestadas neste pedido são a expressão da verdade e que as importâncias ora requeridas não foram pleiteadas por via judicial nem compensadas. | 
+
+ | Nome |  |  |  | CPF
+ | Data |  | Assinatura (este documento pode ser assinado digitalmente com uso de certificado digital no padrão ICP Brasil) |  | 
+
+v.1.00.00 1/1
+
+[Incluído(a) por republicação parcial em 13 de dezembro de 2021]
+
+Anexo IV - DECLARAÇÃO DE COMPENSAÇÃO
+
+[Incluído(a) por republicação parcial em 13 de dezembro de 2021]
+
+Declaração de Compensação – Anexo IV
+
+ | Nome/ Nome Empresarial | CPF CNPJ
+
+2. ORIGEM E VALOR DO CRÉDITO UTILIZADO Pagamento Indevido ou a Maior (folha 2)
+
+Pagamento Indevido ou a Maior (folha 2) |  | 
+Contribuição para o PIS/Pasep e Cofins Retidas na Fonte (folha 3) |  | 
+Cide-combustíveis |  | 
+Crédito Objeto de Pedido de Restituição ou de Ressarcimento |  | Número do Processo de Restituição/Ressarcimento:
+Outros | Detalhar: | 
+Crédito Utilizado nesta Declaração de Compensação (em reais): |  | 
+Observações: Em cada declaração de compensação será aceita apenas uma origem de crédito; e o interessado deverá anexar a esta declaração de compensação a documentação comprobatória do direito creditório. |  | 
+
+3. RELAÇÃO DOS DÉBITOS COMPENSADOS
+
+Código de Receita | Período de Apuração | Vencimento | Valor Original do Débito (em reais) | Número do Processo do Débito (se houver) | Outras Informações (*)
+(*) Indicar:  Se relativo a IOF-ouro, o código do município produtor;  No caso de ITR, o número do imóvel rural;  CNPJ referente ao débito a ser compensado, quando diferente no mencionado no campo 1 (somente estabelecimentos da mesma empresa, incorporada, fusionada ou cindida). |  |  |  |  | 
+COMPENSAÇÃO SOB CONDIÇÃO RESOLUTÓRIA, SUJEITA A ULTERIOR HOMOLOGAÇÃO. |  |  |  |  | 
+
+ | Declaração de Compensação Retificadora |  |  | Número do Processo da Declaração de Compensação Retificada
+SIM NÃO |  |  |  | 
+ | Outras Informações |  |  | 
+
+ | Nome |  |  |  | CPF
+ | Data |  | Assinatura (este documento pode ser assinado digitalmente com uso de certificado digital no padrão ICP Brasil) |  | 
+
+v.1.00.00 1/3
+
+Pagamento Indevido ou a Maior
+
+ | Nome/ Nome Empresarial |  | CPF CNPJ
+
+ | Crédito detalhado em declaração de compensação anterior, constante do processo |  | Valor Original (em reais)
+ | administrativo abaixo especificado. |  | 
+Número do Processo Administrativo: |  |  | 
+
+3. DEMONSTRATIVO DO PAGAMENTO INDEVIDO OU A MAIOR
+
+Código de Receita | 
+CNPJ do DARF (*) | 
+Período de Apuração | 
+Data de Vencimento | 
+Data do Pagamento | 
+Valor Total do DARF (em reais) | 
+Valor Original do Pagamento Indevido ou a Maior (em reais) | 
+(*) Nos casos de pagamento efetuado por estabelecimento filial, incorporada, fusionada ou cindida. | 
+
+ | Valor Original ( em reais) |  | 
+(Valor deve ser transportado para o quadro 2 do formulário “Declaração de Compensação”) |  |  | 
+
+ | Outras Informações
+
+v.1.00.00 2/3
+
+Contribuição para o Pis/Pasep e Cofins Retidas na Fonte
+
+ | Nome/ Nome Empresarial |  | CPF CNPJ
+
+CNPJ da Fonte Pagadora | Data da Retenção | Valor da Operação (em reais) | Valor Retido (em reais) | 
+ |  |  | PIS/Pasep | Cofins
+
+ | Outras Informações
+
+v.1.00.00 3/3
+
+[Incluído(a) por republicação parcial em 13 de dezembro de 2021]
+
+Anexo V
+
+[Incluído(a) por republicação parcial em 13 de dezembro de 2021]
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]
+
+Pedido de Habilitação de Crédito Decorrente de Decisão Judicial Transitada em
+
+Julgado – Anexo V
+
+ | Nome/ Nome Empresarial | CPF CNPJ
+
+ | Número do Processo Judicial |  |  | Seção Judiciária |  |  | Vara
+ | Data do Trânsito em Julgado |  |  | Tributo ao qual o Crédito se Refere |  |  | 
+ | Valor Total do Crédito Original |  |  | Valor Total do Crédito Atualizado (*) |  |  | 
+(*) Utilizar os índices de atualização determinados na decisão judicial. Sendo omissa a decisão judicial e na hipótese de o crédito estar sujeito a atualização, deve-se utilizar a taxa Selic. |  |  |  |  |  |  | 
+Observação: O deferimento do pedido de habilitação do crédito não implica reconhecimento do direito creditório nem homologação da compensação. |  |  |  |  |  |  | 
+
+ | Outras Informações
+
+4. ASSINATURA
+
+ | Nome |  |  |  | CPF
+ | Data |  | Assinatura (este documento pode ser assinado digitalmente com uso de certificado digital no padrão ICP Brasil) |  | 
+
+v.1.00.00 1/1
+
+[Incluído(a) por republicação parcial em 13 de dezembro de 2021]
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2288, de 30 de outubro de 2025]

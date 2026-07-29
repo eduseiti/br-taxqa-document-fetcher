@@ -1,12 +1,14 @@
 Instrução Normativa SRF nº 76, de 18 de setembro de 2001
 
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2155, de 4 de agosto de 2023]
+
 Dispõe sobre as restituições do imposto de renda das pessoas físicas pela rede arrecadadora de receitas federais.
 
-O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF No 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 16 da Lei No 9.250, de 26 de dezembro de 1995, resolve:
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 16 da Lei nº 9.250, de 26 de dezembro de 1995, resolve:
 
-Art. 1o O valor do imposto de renda pago a maior, apurado na declaração de ajuste anual do imposto de renda das pessoas físicas, será restituído por intermédio dos bancos integrantes da rede arrecadadora de receitas federais autorizados a receber as declarações, bem assim pelos demais bancos indicados pelos contribuintes, observadas as disposições desta Instrução Normativa.
+Art. 1º O valor do imposto de renda pago a maior, apurado na declaração de ajuste anual do imposto de renda das pessoas físicas, será restituído por intermédio dos bancos integrantes da rede arrecadadora de receitas federais autorizados a receber as declarações, bem assim pelos demais bancos indicados pelos contribuintes, observadas as disposições desta Instrução Normativa.
 
-Art. 2o A Secretaria da Receita Federal (SRF) fornecerá aos bancos, em meio magnético:
+Art. 2º A Secretaria da Receita Federal (SRF) fornecerá aos bancos, em meio magnético:
 
 I - a relação nominal dos contribuintes, com a indicação do número da conta corrente ou de poupança e da respectiva agência, informados na declaração de ajuste, para crédito do valor a restituir;
 
@@ -14,51 +16,51 @@ II - o valor em reais a ser restituído a cada contribuinte, acrescido de juros 
 
 Parágrafo único. A incidência de juros sobre os valores a restituir cessará a partir do primeiro dia do mês subseqüente àquele em que os recursos forem disponibilizados, em estabelecimento bancário, em favor do contribuinte.
 
-Art. 3o Os valores das restituições serão repassados aos bancos integrantes da rede de recepção de declarações, por intermédio da Secretaria do Tesouro Nacional (STN), a cada lote de processamento, com antecedência de cinco dias úteis da data a partir da qual ficarão disponíveis para pagamento aos destinatários.
+Art. 3º Os valores das restituições serão repassados aos bancos integrantes da rede de recepção de declarações, por intermédio da Secretaria do Tesouro Nacional (STN), a cada lote de processamento, com antecedência de cinco dias úteis da data a partir da qual ficarão disponíveis para pagamento aos destinatários.
 
-§ 1o Para os bancos que somente integram a rede de crédito das restituições e para os demais que, embora não integrando a rede de crédito, venham a ser indicados pelo contribuinte, os recursos serão repassados pelo Banco do Brasil S/A, por meio de Documento de Compensação do Sistema de Administração Financeira do Governo Federal (DOC-Siafi), no dia anterior ao previsto para início do crédito.
+§ 1º Para os bancos que somente integram a rede de crédito das restituições e para os demais que, embora não integrando a rede de crédito, venham a ser indicados pelo contribuinte, os recursos serão repassados pelo Banco do Brasil S/A, por meio de Documento de Compensação do Sistema de Administração Financeira do Governo Federal (DOC-Siafi), no dia anterior ao previsto para início do crédito.
 
-§ 2o Na hipótese do § 1o deste artigo, os recursos serão transferidos ao Banco do Brasil pela STN, com antecedência de seis dias úteis da data fixada para o pagamento da restituição.
+§ 2º Na hipótese do § 1º deste artigo, os recursos serão transferidos ao Banco do Brasil pela STN, com antecedência de seis dias úteis da data fixada para o pagamento da restituição.
 
-Art. 4o A SRF expedirá comunicação aos contribuintes para informar o valor da restituição, o banco e a agência bancária encarregada do crédito ou a agência do Banco do Brasil onde este ficará disponível aguardando autorização de crédito ou transferência.
+Art. 4º A SRF expedirá comunicação aos contribuintes para informar o valor da restituição, o banco e a agência bancária encarregada do crédito ou a agência do Banco do Brasil onde este ficará disponível aguardando autorização de crédito ou transferência.
 
-Art. 5o O crédito deverá ser efetuado em conta corrente ou de poupança dos destinatários das restituições devidamente identificados pelo estabelecimento bancário.
+Art. 5º O crédito deverá ser efetuado em conta corrente ou de poupança dos destinatários das restituições devidamente identificados pelo estabelecimento bancário.
 
-§ 1o A prova inequívoca do crédito da restituição ao contribuinte é de inteira responsabilidade do Banco, que manterá os comprovantes dos pagamentos efetuados, ou respectivos microfilmes, por lotes, durante cinco anos, contados da data do pagamento.
+§ 1º A prova inequívoca do crédito da restituição ao contribuinte é de inteira responsabilidade do Banco, que manterá os comprovantes dos pagamentos efetuados, ou respectivos microfilmes, por lotes, durante cinco anos, contados da data do pagamento.
 
-§ 2o O Banco deverá creditar o valor da restituição na conta indicada pelo contribuinte em sua declaração de ajuste anual, conforme constar do arquivo magnético a ser fornecido pela SRF.
+§ 2º O Banco deverá creditar o valor da restituição na conta indicada pelo contribuinte em sua declaração de ajuste anual, conforme constar do arquivo magnético a ser fornecido pela SRF.
 
-§ 3o Na hipótese de não haver indicação de conta corrente ou de conta de poupança na declaração de ajuste, ou de indicação com dados incorretos que impeçam sua identificação, a restituição ficará disponível no Banco do Brasil, que providenciará o crédito em conta corrente ou de poupança que vier a ser indicada pelo contribuinte.
+§ 3º Na hipótese de não haver indicação de conta corrente ou de conta de poupança na declaração de ajuste, ou de indicação com dados incorretos que impeçam sua identificação, a restituição ficará disponível no Banco do Brasil, que providenciará o crédito em conta corrente ou de poupança que vier a ser indicada pelo contribuinte.
 
-Art. 6o Para efeito de restituição a outra pessoa que não o próprio contribuinte, a pessoa indicada para recebê-la deverá informar a conta corrente ou de poupança (número da conta, banco e agência) de sua titularidade e apresentar:
+Art. 6º Para efeito de restituição a outra pessoa que não o próprio contribuinte, a pessoa indicada para recebê-la deverá informar a conta corrente ou de poupança (número da conta, banco e agência) de sua titularidade e apresentar:
 
 I - instrumento público de procuração;
 
-II - Alvará Judicial, no caso de contribuinte falecido, quando houver bens a inventariar, ou autorização emitida pela autoridade fiscal da jurisdição do contribuinte, quando não houver bens a inventariar ou a arrolar, observado o disposto na Instrução Normativa SRF No 56/89, de 31 de maio de 1989;
+II - Alvará Judicial, no caso de contribuinte falecido, quando houver bens a inventariar, ou autorização emitida pela autoridade fiscal da jurisdição do contribuinte, quando não houver bens a inventariar ou a arrolar, observado o disposto na Instrução Normativa SRF nº 56/89, de 31 de maio de 1989;
 
-§ 1o Quando a restituição for devida a menor de idade, o pagamento será efetuado a um dos pais, que deverá apresentar autorização do cônjuge ou certidão de óbito, se este for falecido, ou ao tutor, que apresentará o Termo de Tutela.
+§ 1º Quando a restituição for devida a menor de idade, o pagamento será efetuado a um dos pais, que deverá apresentar autorização do cônjuge ou certidão de óbito, se este for falecido, ou ao tutor, que apresentará o Termo de Tutela.
 
-§ 2o Os documentos de que trata este artigo deverão ser mantidos em boa guarda pelo estabelecimento bancário, pelo prazo referido no § 1o do art. 5o.
+§ 2º Os documentos de que trata este artigo deverão ser mantidos em boa guarda pelo estabelecimento bancário, pelo prazo referido no § 1º do art. 5º.
 
-Art. 7o O contribuinte que entender insuficiente o valor da restituição poderá receber a importância disponível no banco e reclamar a diferença na unidade local da SRF.
+Art. 7º O contribuinte que entender insuficiente o valor da restituição poderá receber a importância disponível no banco e reclamar a diferença na unidade local da SRF.
 
 Parágrafo único. Na hipótese de o valor da restituição ser maior que o apurado na declaração de ajuste anual e não constarem da comunicação expedida pela SRF as causas da alteração do valor, o contribuinte deverá procurar a unidade da SRF.
 
-Art. 8o Decorrido o período um ano, contado do dia em que os valores das restituições ficaram disponíveis para resgate, os bancos recolherão ao Tesouro Nacional os valores correspondentes às restituições não pagas.
+Art. 8º Decorrido o período um ano, contado do dia em que os valores das restituições ficaram disponíveis para resgate, os bancos recolherão ao Tesouro Nacional os valores correspondentes às restituições não pagas.
 
 Parágrafo único. O recolhimento deverá ser efetuado até o décimo dia útil subseqüente ao do vencimento do prazo mencionado neste artigo, mediante Documento de Arrecadação de Receitas Federais (Darf), com o código de receita 4634.
 
-Art. 9o Os bancos deverão encaminhar à SRF, até o décimo dia útil subseqüente ao do vencimento do prazo mencionado no parágrafo único do art. 8o, a prestação de contas relativa às restituições.
+Art. 9º Os bancos deverão encaminhar à SRF, até o décimo dia útil subseqüente ao do vencimento do prazo mencionado no parágrafo único do art. 8º, a prestação de contas relativa às restituições.
 
 Art. 10. O banco, cuja prestação de contas for rejeitada pelo processamento, terá o prazo de dez dias úteis, contado da data da devolução da fita magnética, disquete ou transmissão eletrônica rejeitada, para reapresentar sua prestação de contas.
 
-Art. 11. A prestação de contas das restituições pagas por meio de DOC-Siafi será feita pelo Banco do Brasil, observados os prazos constantes dos arts. 9o e 10 desta Instrução Normativa.
+Art. 11. A prestação de contas das restituições pagas por meio de DOC-Siafi será feita pelo Banco do Brasil, observados os prazos constantes dos arts. 9º e 10 desta Instrução Normativa.
 
 Art. 12. O descumprimento das normas relativas à restituição sujeita os bancos às seguintes penalidades:
 
-I - no caso de pagamento ou crédito da restituição à pessoa indevida, multa de 10% sobre o valor restituído, não inferior a R$ 50,00 (cinqüenta reais), independentemente do ressarcimento à União do valor pago indevidamente, acrescido dos juros previstos no inciso II do art. 2o, calculados até a data do ressarcimento;
+I - no caso de pagamento ou crédito da restituição à pessoa indevida, multa de 10% sobre o valor restituído, não inferior a R$ 50,00 (cinqüenta reais), independentemente do ressarcimento à União do valor pago indevidamente, acrescido dos juros previstos no inciso II do art. 2º, calculados até a data do ressarcimento;
 
-II - no caso de inobservância dos prazos previstos nos arts. 8o ao 10 desta Instrução Normativa ou de rejeição da reapresentação da prestação de contas:
+II - no caso de inobservância dos prazos previstos nos arts. 8º ao 10 desta Instrução Normativa ou de rejeição da reapresentação da prestação de contas:
 
 a) multa de R$ 20,00 (vinte reais) por dia de atraso na devolução dos arquivos cujas restituições tenham sido integralmente pagas;
 
@@ -72,6 +74,6 @@ Art. 13. A Coordenação-Geral de Administração Tributária poderá editar ato
 
 Art. 14. Esta Instrução Normativa entra em vigor na data de sua publicação.
 
-Art. 15. Fica formalmente revogada, sem interrupção de sua força normativa, a Instrução Normativa SRF No 52, de 17 de maio de 2000.
+Art. 15. Fica formalmente revogada, sem interrupção de sua força normativa, a Instrução Normativa SRF nº 52, de 17 de maio de 2000.
 
 EVERARDO MACIEL

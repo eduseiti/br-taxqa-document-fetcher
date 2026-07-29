@@ -32,7 +32,7 @@
   "dataPublicacao": "2016-05-31",
   "dataVigenciaInicio": "2016-05-31",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -692,13 +692,13 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 33,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "Parágrafo único. Para efeito do disposto no inciso I do caput, entende-se por remessa destinada ao exterior para fins educacionais, científicos ou culturais aquela relativa ao pagamento pela prestação de serviços de natureza educacional, científica ou cultural.",
+      "textoIntegra": "Parágrafo único.  Para efeito do disposto no inciso I do caput, entende-se por remessa destinada ao exterior para fins educacionais, científicos ou culturais aquela relativa ao pagamento pela prestação de serviços de natureza educacional, científica ou cultural.",
       "ancorasOrigem": [],
       "ancorasDestino": [],
       "arquivoBinario": null,
@@ -712,7 +712,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 34,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -720,7 +720,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Parágrafo único: As remessas a que se refere o inciso I deverão ser desprovidas de finalidade econômica, destinando-se à manutenção de pessoa física que esteja cumprindo programa ou participando de evento no exterior de natureza educacional, científica ou cultural, tais como para pagamento de:",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 97675,
+          "idSegmento": 1953291,
+          "idAnotacao": 241286,
+          "href": "97675",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1860, de 26 de dezembro de 2018]",
+          "dataInicioVigencia": "27/12/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -732,7 +748,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 999,
       "ordemSegmentoAto": 35,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -740,7 +756,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "I - taxas escolares, taxas de exames de proficiência, material didático, alojamento, alimentação e outras despesas cobradas por instituições de ensino destinadas à manutenção de estudantes;",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 97675,
+          "idSegmento": 1953292,
+          "idAnotacao": 241287,
+          "href": "97675",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1860, de 26 de dezembro de 2018]",
+          "dataInicioVigencia": "27/12/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -752,7 +784,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 999,
       "ordemSegmentoAto": 36,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -760,7 +792,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "II - taxas de inscrição em congressos, conclaves, seminários ou assemelhados, mesas redondas;",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 97675,
+          "idSegmento": 1953293,
+          "idAnotacao": 241288,
+          "href": "97675",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1860, de 26 de dezembro de 2018]",
+          "dataInicioVigencia": "27/12/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -772,15 +820,31 @@
       "idTipoSegmento": 15,
       "idAssunto": 999,
       "ordemSegmentoAto": 37,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "III - taxas de inscrição em concursos artísticos. ",
+      "textoIntegra": "III - taxas de inscrição em concursos artísticos.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 97675,
+          "idSegmento": 1953294,
+          "idAnotacao": 241289,
+          "href": "97675",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1860, de 26 de dezembro de 2018]",
+          "dataInicioVigencia": "27/12/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -819,7 +883,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 6º Fica revogada a Instrução Normativa RFB nº 1.611, de 25 de janeiro de 2016.",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 71159,
+          "idSegmento": null,
+          "idAnotacao": 226616,
+          "href": "71159",
+          "texto": "[Instrução Normativa RFB nº 1611, de 25/01/2016 - |Dispõe sobre a incidência do Imposto sobre a ...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -860,7 +940,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     }
   ],
@@ -1023,6 +1103,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/74319/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/74319/visao/vigente",
+  "_fetched_at": "2026-07-29T19:19:25.214414+00:00"
 }

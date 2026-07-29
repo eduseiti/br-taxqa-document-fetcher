@@ -32,7 +32,7 @@
   "dataPublicacao": "2024-04-03",
   "dataVigenciaInicio": "2024-04-03",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": false,
   "vigente": true,
   "ehRepublicado": false,
@@ -539,6 +539,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/137012/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/137012/visao/vigente",
+  "_fetched_at": "2026-07-29T19:25:29.098073+00:00"
 }

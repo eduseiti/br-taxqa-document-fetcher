@@ -32,7 +32,7 @@
   "dataPublicacao": "2001-10-17",
   "dataVigenciaInicio": "2001-10-17",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": false,
   "vigente": true,
   "ehRepublicado": false,
@@ -3148,9 +3148,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "II - alienação de bens ou direitos por valor igual ou inferior a R$ 20.000,00 (vinte mil reais);",
+      "textoIntegra": "II -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15526,
+          "idSegmento": 122344,
+          "idAnotacao": 185544,
+          "href": "15526",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa SRF nº 599, de 28 de dezembro de 2005]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3328,9 +3344,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "§ 2o O limite a que se refere o inciso II do caput é considerado em relação:",
+      "textoIntegra": "§ 2o",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15526,
+          "idSegmento": 122344,
+          "idAnotacao": 185545,
+          "href": "15526",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa SRF nº 599, de 28 de dezembro de 2005]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3348,9 +3380,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "I - ao bem ou direito ou ao valor do conjunto dos bens ou direitos da mesma natureza, alienados em um mesmo mês;",
+      "textoIntegra": "I -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15526,
+          "idSegmento": 122344,
+          "idAnotacao": 185546,
+          "href": "15526",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa SRF nº 599, de 28 de dezembro de 2005]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3368,9 +3416,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "II - à parte de cada condômino ou co-proprietário, no caso de bens possuídos em condomínio;",
+      "textoIntegra": "II -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15526,
+          "idSegmento": 122344,
+          "idAnotacao": 185547,
+          "href": "15526",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa SRF nº 599, de 28 de dezembro de 2005]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3388,9 +3452,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "III - a cada um dos bens ou direitos possuídos em comunhão e ao valor do conjunto dos bens ou direitos da mesma natureza, alienados em um mesmo mês, no caso de sociedade conjugal.",
+      "textoIntegra": "III -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15526,
+          "idSegmento": 122344,
+          "idAnotacao": 185548,
+          "href": "15526",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa SRF nº 599, de 28 de dezembro de 2005]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3408,9 +3488,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "§ 3o Para efeito do disposto nos incisos I e III do § 2o, consideram-se bens ou direitos da mesma natureza aqueles que guardam as mesmas características entre si, tais como automóveis e motocicletas; imóvel urbano e terra nua; quadros e esculturas; ações e quotas.",
+      "textoIntegra": "§ 3o",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15526,
+          "idSegmento": 122344,
+          "idAnotacao": 185549,
+          "href": "15526",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa SRF nº 599, de 28 de dezembro de 2005]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -4111,6 +4207,51 @@
       "textoIntegra": "Art. 35. Ficam formalmente revogadas, sem interrupção de sua força normativa, as Instruções Normativas SRF No 39/93, de 30 de março de 1993, No 48/98, de 26 de maio de 1998, No 51/98, de 3 de junho de 1998, e No 158/99, de 23 de dezembro de 1999.",
       "ancorasOrigem": [
         {
+          "idAto": 13889,
+          "idSegmento": null,
+          "idAnotacao": 213516,
+          "href": "13889",
+          "texto": "[Instrução Normativa SRF nº 51, de 03/06/1998 - |Dispõe sobre a apuração de ganho de capital n...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        },
+        {
+          "idAto": 14992,
+          "idSegmento": null,
+          "idAnotacao": 215243,
+          "href": "14992",
+          "texto": "[Instrução Normativa SRF nº 158, de 23/12/1999 - |Dispõe sobre o prazo para pagamento do impost...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        },
+        {
+          "idAto": 13835,
+          "idSegmento": null,
+          "idAnotacao": 247907,
+          "href": "13835",
+          "texto": "[Instrução Normativa SRF nº 48, de 26/05/1998 - |Retificação| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        },
+        {
           "idAto": 13669,
           "idSegmento": null,
           "idAnotacao": 252198,
@@ -4124,6 +4265,36 @@
           "textoAgendamento": null,
           "exibirDataInicioVigencia": false,
           "permiteAgendamento": false
+        },
+        {
+          "idAto": 13669,
+          "idSegmento": null,
+          "idAnotacao": 252199,
+          "href": "13669",
+          "texto": "[Instrução Normativa SRF nº 39, de 30/03/1993 - |Consolida as normas sobre a apuração dos ganh...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        },
+        {
+          "idAto": 13834,
+          "idSegmento": null,
+          "idAnotacao": 290482,
+          "href": "13834",
+          "texto": "[Instrução Normativa SRF nº 48, de 26/05/1998 - |Dispõe sobre a apuração de ganhos de capital ...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
         }
       ],
       "ancorasDestino": [],
@@ -4226,7 +4397,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     }
   ],
@@ -4507,6 +4678,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/14400/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/14400/visao/vigente",
+  "_fetched_at": "2026-07-29T19:18:56.896024+00:00"
 }

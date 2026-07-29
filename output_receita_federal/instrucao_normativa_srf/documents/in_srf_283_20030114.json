@@ -32,7 +32,7 @@
   "dataPublicacao": "2003-01-16",
   "dataVigenciaInicio": "2003-01-16",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -299,7 +299,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 6º Fica revogada, sem interrupção de sua força normativa, a Instrução Normativa SRF nº 8, de 3 de fevereiro de 1999.",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 12951,
+          "idSegmento": null,
+          "idAnotacao": 212552,
+          "href": "12951",
+          "texto": "[Instrução Normativa SRF nº 8, de 03/02/1999 - |Dispõe sobre o pagamento de Imposto de Renda ...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -487,6 +503,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/15166/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/15166/visao/vigente",
+  "_fetched_at": "2026-07-29T19:18:37.117180+00:00"
 }

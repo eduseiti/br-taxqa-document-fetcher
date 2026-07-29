@@ -32,7 +32,7 @@
   "dataPublicacao": "2005-12-26",
   "dataVigenciaInicio": "2005-12-26",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -267,6 +267,7 @@
       "desinenciaTipoSegmento": true
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5216/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5216/visao/vigente",
+  "_fetched_at": "2026-07-29T19:25:29.939533+00:00"
 }

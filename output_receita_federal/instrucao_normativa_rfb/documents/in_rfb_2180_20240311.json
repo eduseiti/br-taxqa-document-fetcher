@@ -32,7 +32,7 @@
   "dataPublicacao": "2024-03-13",
   "dataVigenciaInicio": "2024-03-13",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -6099,7 +6099,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 58. Fica revogada a Instrução Normativa SRF nº 118, de 28 de dezembro de 2000.",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 14802,
+          "idSegmento": null,
+          "idAnotacao": 284248,
+          "href": "14802",
+          "texto": "[Instrução Normativa SRF nº 118, de 28/12/2000 - |Dispõe sobre a tributação do ganho de capital...| - Revogação]",
+          "dataInicioVigencia": "13/03/2024",
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -6405,6 +6421,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/136603/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/136603/visao/vigente",
+  "_fetched_at": "2026-07-29T19:20:08.697141+00:00"
 }

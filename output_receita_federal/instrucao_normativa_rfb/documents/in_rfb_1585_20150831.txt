@@ -84,15 +84,23 @@ VI - cotas de outros fundos de investimento.
 
 § 4º Os prazos médios das cotas dos fundos de investimento de longo prazo serão sempre considerados como de 366 (trezentos e sessenta e seis) dias.
 
+§ 4º-A Os prazos médios das cotas de Fundos de Índice de Renda Fixa, a que se refere o art. 28, serão considerados pelo prazo médio de repactuação da carteira do Fundo de Índice de Renda Fixa.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
+
 § 5º Serão excluídos do cálculo do prazo médio da carteira do fundo os seguintes títulos ou valores mobiliários e operações:
 
-I - títulos ou operações com data de vencimento ou liquidação indeterminada;
+I - títulos ou operações com data de vencimento ou liquidação indeterminada, com exceção das cotas dos Fundos de Índices de Renda Fixa, que obedecerão ao disposto no § 4º-A;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
 
 II - operações com renda variável;
 
 III - operações com CDB de emissão do administrador, do gestor e de empresas dos respectivos conglomerados financeiros;
 
-IV - cotas de fundos e clubes de investimento em ações, cotas de FIP e cotas de FIF FIP;
+IV - cotas de fundos e clubes de investimento em ações, cotas de FIP, cotas de FIF FIP, cotas de FIP-IE, cotas de FIP-PD&I e cotas de FIEE;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
 
 V - operações com direitos creditórios, conforme definição dada pela CVM, integrante das carteiras dos fundos de investimentos de direitos creditórios;
 
@@ -258,7 +266,9 @@ Art. 17. É responsável pela retenção e pelo recolhimento do imposto:
 
 I - o administrador do fundo de investimento;
 
-II - a instituição que intermediar recursos, junto a clientes, para aplicações em fundos de investimento administrados por outra instituição, na forma prevista em normas expedidas pelo Conselho Monetário Nacional (CMN) ou pela CVM.
+II - a instituição que intermediar recursos por conta e ordem de seus respectivos clientes, para aplicações em fundos de investimento administrados por outra instituição, na forma prevista em normas expedidas pelo Conselho Monetário Nacional (CMN) ou pela CVM.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
 
 § 1º Para efeitos do disposto no inciso II do caput, a instituição intermediadora de recursos deverá:
 
@@ -270,7 +280,17 @@ III - fornecer à instituição administradora do fundo de investimento, individ
 
 IV - prestar à Secretaria da Receita Federal do Brasil (RFB) todas as informações decorrentes da responsabilidade prevista neste artigo.
 
-§ 2º O recolhimento do imposto sobre a renda retido na fonte deverá ser efetuado até o 3º (terceiro) dia útil subsequente ao decêndio de ocorrência dos fatos geradores.
+§ 2º No caso de mudança de administrador do fundo de investimento, cada administrador será responsável pela retenção e recolhimento do imposto referente aos fatos geradores ocorridos no período relativo à sua respectiva administração.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
+
+§ 3º No caso de alteração da forma de distribuição das cotas do fundo, para distribuição por conta e ordem ou vice-versa, o administrador do fundo de investimento e a instituição que intermediar a subscrição das cotas do fundo por conta e ordem de seus respectivos clientes serão responsáveis pela retenção e recolhimento do imposto referente aos fatos geradores ocorridos no período relativo à sua respectiva responsabilidade tributária, conforme disposto no caput.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
+
+§ 4º O recolhimento do imposto sobre a renda retido na fonte deverá ser efetuado até o 3º (terceiro) dia útil subsequente ao decêndio de ocorrência dos fatos geradores.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
 
 Seção II Das Aplicações em Fundos de Investimento Regidos por Norma Própria
 
@@ -360,7 +380,9 @@ III - quando não houver rendimento apropriado até 31 de dezembro de 2001, a ba
 
 Art. 20. Ao fundo ou clube de investimento em ações que deixar de observar a proporção a que se refere o § 2º do art. 18, aplicar-se-á o disposto nos arts. 6º e 9º, a partir do momento do desenquadramento, salvo no caso de, cumulativamente:
 
-I - a referida proporção não ultrapassar o limite de 50% (cinquenta por cento) do total da carteira;
+I - a referida proporção não ultrapassar o limite de 50% (cinquenta por cento) do total do patrimônio líquido;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
 
 II - a situação for regularizada no prazo máximo de 30 (trinta) dias; e
 
@@ -468,6 +490,22 @@ III - 15% (quinze por cento), no caso de Fundos de Índice de Renda Fixa cuja ca
 
 § 2º No caso de alteração do prazo médio de repactuação da carteira dos Fundos de Índice de Renda Fixa que implique modificação de seu enquadramento para fins de determinação do regime tributário, será aplicada a alíquota correspondente ao prazo médio de repactuação do fundo até o dia imediatamente anterior ao da alteração da condição, sujeitando-se os rendimentos auferidos a partir de então à alíquota correspondente ao novo prazo médio de repactuação.
 
+§ 2º-A O disposto no §2º aplica-se quando:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
+
+I - da distribuição de qualquer valor pelo Fundo de Índice de Renda Fixa; ou
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
+
+II- do resgate de cotas do Fundo de Índice de Renda Fixa.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
+
+§ 2º-B Nas hipóteses de alienação de cotas em mercado secundário, deve-se considerar para fins da incidência do imposto sobre a renda a alíquota correspondente ao prazo médio de repactuação em que a carteira do Fundo de Índice de Renda Fixa esteja enquadrada na data em que ocorra a alienação.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
+
 § 3º É obrigatório o registro das cotas dos Fundos de Índice de Renda Fixa em depositária central de ativos autorizada pela CVM ou pelo Bacen.
 
 § 4º O imposto sobre a renda de que trata este artigo incidirá na fonte e exclusivamente por ocasião do resgate ou da alienação das cotas ou da distribuição de rendimentos.
@@ -549,6 +587,10 @@ II - como ganho líquido, à alíquota de 15% (quinze por cento), quando auferid
 § 6º Ressalvada a responsabilidade do próprio contribuinte pelo pagamento do imposto de que trata o § 1º, a instituição administradora do fundo fica responsável pela retenção e pelo recolhimento do imposto até o 3º (terceiro) dia útil subsequente ao decêndio de ocorrência dos fatos geradores.
 
 § 7º As perdas apuradas nas operações de que trata este artigo não serão dedutíveis na apuração do lucro real.
+
+§ 8º Não se aplica às alienações de cotas a que se refere o inciso I do § 1º a retenção de imposto sobre a renda na fonte a que se referem os arts. 63 e 65.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
 
 Subseção IX Dos Fundos de Investimento com Carteira em Debêntures
 
@@ -750,7 +792,17 @@ b) da data da aplicação, no caso de aplicação efetuada após 22 de dezembro 
 
 § 11. Relativamente à alienação de aplicações realizadas até 31 de dezembro de 1995 serão obedecidas as normas sobre determinação da base de cálculo e alíquota previstas na legislação correspondente aos períodos em que os rendimentos foram produzidos.
 
-§ 12. O disposto neste artigo aplica-se, também, aos rendimentos ou ganhos decorrentes da negociação de títulos ou valores mobiliários de renda fixa em bolsas de valores, de mercadorias, de futuros e assemelhadas.
+§ 12. O disposto neste artigo aplica-se:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
+
+I - aos rendimentos ou ganhos decorrentes da negociação de títulos ou valores mobiliários de renda fixa em bolsas de valores, de mercadorias, de futuros e assemelhadas;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
+
+II- às operações ativas vinculadas pelas instituições financeiras com base em recursos entregues ou colocados à disposição da instituição por terceiros, de acordo com a regulamentação do CMN, inclusive na hipótese de a instituição financeira liquidar a operação com a entrega do ativo vinculado em razão de inadimplemento dos recursos captados pelo devedor.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
 
 Art. 47. São também tributados como aplicações financeiras de renda fixa os rendimentos auferidos:
 
@@ -885,6 +937,10 @@ II - fica mantida a incidência do imposto de renda na fonte sobre eventuais jur
 III - deve ser considerada como data de aquisição do ativo entregue fisicamente, a data de liquidação do certificado.
 
 § 7º As perdas incorridas em COE, emitidos de acordo com as normas do CMN, serão dedutíveis na apuração do lucro real.
+
+§ 8º Em relação ao disposto no inciso II do § 6º, quando não houver liquidação financeira, caberá ao investidor disponibilizar previamente ao responsável tributário os recursos necessários para o recolhimento do imposto sobre a renda devido nos termos deste artigo e do IOF, quando aplicável.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
 
 Subseção IV Do Ouro Equiparado a Operações de Renda Fixa
 
@@ -1318,6 +1374,26 @@ Art. 69. As publicações ordenadas pela Lei nº 6.404, de 1976, das companhias 
 
 § 3º Incumbe ao respectivo jornal providenciar certificação digital da autenticidade dos documentos mantidos no sítio próprio, por autoridade certificadora credenciada no âmbito da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil).
 
+Art. 69-A. A isenção de que trata o art. 66 não se aplica às ações adquiridas a partir da data da realização da oferta pública subsequente por companhia emissora que não mais atenda às regras descritas nos arts. 66 a 69.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1916, de 18 de dezembro de 2019]
+
+§ 1º O disposto no caput aplica-se, inclusive, às ações adquiridas a partir da data da oferta pública subsequente, por meio do exercício do direito de preferência do acionista, conforme previsto na Lei nº 6.404, de 1976, ou por meio de ações recebidas em bonificação até 31 de dezembro de 2023.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1916, de 18 de dezembro de 2019]
+
+§ 2º Permanecem isentas as ações adquiridas antes da realização da oferta pública subsequente a que se refere o caput.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1916, de 18 de dezembro de 2019]
+
+§ 3º O investidor que alienar ações que ainda gozem da isenção poderá compensar, na forma prevista no art. 64, o imposto sobre a renda retido na fonte de que trata o art. 63.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1916, de 18 de dezembro de 2019]
+
+§ 4º O investidor deverá controlar, de forma separada, as ações adquiridas antes da oferta pública subsequente, que ainda gozem da isenção, daquelas adquiridas a partir da oferta pública, que serão tributadas de acordo com as regras estabelecidas nesta Instrução Normativa.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1916, de 18 de dezembro de 2019]
+
 Seção III Das Disposições Comuns às Operações de Renda Fixa e de Renda Variável
 
 Art. 70. O imposto sobre a renda retido na fonte sobre os rendimentos de aplicações financeiras de renda fixa e de renda variável ou pago sobre os ganhos líquidos mensais será:
@@ -1327,6 +1403,10 @@ I - deduzido do devido no encerramento de cada período de apuração ou na data
 II - definitivo, no caso de pessoa física e de pessoa jurídica optante pela inscrição no Simples Nacional ou isenta.
 
 § 1º Os rendimentos e os ganhos líquidos de que trata este artigo integrarão o lucro real, presumido ou arbitrado.
+
+§ 1º-A No caso de pessoa jurídica tributada com base no lucro real, o imposto sobre a renda retido na fonte referente a rendimentos de aplicações financeiras já computados na apuração do lucro real de períodos de apuração anteriores, em observância ao regime de competência, poderá ser deduzido do imposto devido no encerramento do período de apuração em que tiver ocorrido a retenção, observado o disposto no § 10.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1720, de 20 de julho de 2017]
 
 § 2º Os rendimentos e ganhos líquidos previstos neste artigo, auferidos nos meses em que forem levantados os balanços ou balancetes de que trata o art. 35 da Lei nº 8.981, de 1995, serão neles computados, e o imposto de que trata o art. 56 será pago com o apurado no referido balanço, hipótese em que fica dispensado o seu pagamento em separado.
 
@@ -1349,6 +1429,10 @@ I - o imposto de que trata o art. 56 será pago em separado nos 2 (dois) meses a
 II - os rendimentos auferidos em aplicações financeiras serão adicionados ao lucro presumido ou arbitrado somente por ocasião da alienação, resgate ou cessão do título ou aplicação (regime de caixa);
 
 III - as perdas apuradas nas operações de que tratam os arts. 58 e 60 a 62 somente podem ser compensadas com os ganhos auferidos nas mesmas operações, observado o disposto no art. 64.
+
+§ 9º-A Para fins do disposto no inciso II do § 9º deste artigo, considera-se resgate, no caso de aplicações em fundos de investimento por pessoa jurídica tributada com base no lucro presumido ou arbitrado, a incidência semestral do imposto sobre a renda nos meses de maio e novembro de cada ano nos termos do inciso I do art. 9º.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1720, de 20 de julho de 2017]
 
 § 10. A compensação do imposto sobre a renda retido em aplicações financeiras da pessoa jurídica deverá ser feita de acordo com o comprovante de rendimentos, mensal ou trimestral, fornecido pela instituição financeira.
 
@@ -1570,7 +1654,9 @@ I - da transferência dos recursos ou ativos para conta da mesma titularidade do
 
 II - do retorno dos recursos para o exterior, no caso de liquidação das operações realizadas pelo investidor do mercado financeiro e de capitais.
 
-§ 4º A isenção prevista nos incisos I a IV do art. 55, alcança as operações realizadas por pessoas físicas residentes no exterior, inclusive em país com tributação favorecida nos termos do art. 24 da Lei nº 9.430, de 1996.
+§ 4º A isenção prevista no art. 40 e nos incisos I a IV do caput do art. 55, alcança as operações realizadas por pessoas físicas residentes no exterior, inclusive em país com tributação favorecida nos termos do art. 24 da Lei nº 9.430, de 1996.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
 
 Art. 86. Os rendimentos auferidos no resgate de cotas de fundos de investimento mantidos com recursos provenientes de conversão de débitos externos brasileiros, e de que participem, exclusivamente, residentes ou domiciliados no exterior, serão tributados de acordo com as normas previstas no Capítulo I.
 
@@ -1594,6 +1680,10 @@ Seção II Das Aplicações Sujeitas a Regime Especial
 
 Art. 88. Esta Seção dispõe sobre a tributação dos rendimentos auferidos por investidor residente ou domiciliado no exterior, individual ou coletivo, que realizar operações financeiras no País de acordo com as normas e condições estabelecidas pelo CMN não residentes ou domiciliados em país com tributação favorecida nos termos do art. 24 da Lei nº 9.430, de 1996, excetuado os fundos soberanos a que se refere o § 15 do art. 92.
 
+Parágrafo único. A isenção prevista no art. 40 e nos incisos I a IV do caput do art. 55 alcança as operações realizadas por pessoas físicas residentes no exterior.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
+
 Art. 89. Os rendimentos a que se refere o art. 88 sujeitam-se à incidência do imposto sobre a renda às seguintes alíquotas:
 
 I - 10% (dez por cento) no caso de aplicações nos fundos de investimento em ações, em operações de swap, registradas ou não em bolsa, e nas operações realizadas em mercados de liquidação futura, fora de bolsa;
@@ -1610,7 +1700,9 @@ Art. 90. Não estão sujeitos à incidência do imposto sobre a renda os ganhos 
 
 § 1º Para efeitos do disposto neste artigo consideram-se ganhos de capital, os resultados positivos auferidos:
 
-I - nas operações realizadas em bolsas de valores, de mercadorias, de futuros e assemelhadas, inclusive quando se tratar de alienação de cotas de fundos de índice a que se refere o art. 27, com exceção das operações conjugadas de que trata o inciso I do caput do art. 47;
+I - nas operações realizadas em bolsas de valores, de mercadorias, de futuros e assemelhadas, inclusive quando se tratar de alienação de cotas de fundos de índice, a que se refere o inciso I do caput do art. 27, com exceção das operações conjugadas de que trata o inciso I do caput do art. 47;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
 
 II - nas operações com ouro, ativo financeiro, fora de bolsa.
 
@@ -1641,6 +1733,10 @@ II - à remuneração auferida nas operações de empréstimo que tenham por obj
 I - 15% (quinze por cento) para os rendimentos produzidos até 15 de fevereiro de 2006;
 
 II - 0 (zero) para os rendimentos produzidos a partir de 16 de fevereiro de 2006.
+
+§ 7º Caso o percentual mínimo previsto no inciso II do § 1º não seja atingido observar-se-á no que couber o disposto no art. 7º.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1637, de 9 de maio de 2016]
 
 Art. 92. Fica reduzida a 0 (zero) a alíquota do imposto sobre a renda incidente sobre os rendimentos definidos nos termos da alínea “a” do § 2º do art. 81 da Lei nº 8.981, de 1995, quando pagos, creditados, entregues ou remetidos a beneficiário residente ou domiciliado no exterior, exceto em país com tributação favorecida nos termos do art. 24 da Lei nº 9.430, de 1996, produzidos por:
 
@@ -1836,6 +1932,12 @@ JORGE ANTONIO DEHER RACHID
 
 ANEXO I
 
+[imagem]
+
 ANEXO II
 
+[imagem]
+
 ANEXO III
+
+[imagem]

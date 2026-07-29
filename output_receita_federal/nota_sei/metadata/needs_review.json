@@ -10,6 +10,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "No idAto returned by search",
@@ -17,6 +18,11 @@
     "review_reason": "not_found",
     "source_filenames": [
       "Nota SEI nº 48 2018 CRJPGACETPGFN-MF.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   }
 ]

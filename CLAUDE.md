@@ -57,7 +57,10 @@ Resolução CGSN, Despacho, etc. Two stages:
 - **Content** -> `GET normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/{idAto}/visao/{slug}`
   (needs a same-site `Referer`/`Origin` or the WAF returns 403). JSON carries the
   épigrafe (type/number/date/órgão), ementa, and body segments (`outrosSegmentos`).
-  View chain `original -> vigente -> multivigente` (406 = view unavailable).
+  View chain **`vigente -> multivigente -> original`** (406 = view unavailable);
+  see "Rendering fidelity" below for why `vigente` and not `original`.
+- **Annexes** -> `GET .../api/consulta-externa/ato/{idAto}/anexo/{idArquivoBinario}`
+  (same-site headers likewise; undocumented — every sibling path 403s).
 
 Every `idAto` is **verified** against the canonical act before saving:
 `epigrafe.tipoAto.idTipoAto == tipo_code` (numeric — robust to punctuated siglas
@@ -75,15 +78,63 @@ nº 23/1983, Parecer SEI, Parecer PGFNCAT) go to `needs_review.json`.
 
 Run: `python fetch_receita_normas_main.py` (default: whole registry;
 `--only <slug>`, `--types a,b,c`, `--exclude`, `--limit N`, `--dry-run`,
-`--no-docx`, `--list`). **Output — one folder per document kind:**
+`--no-docx`, `--list`, `--view <slug>`, `--also-save-original`,
+`--no-attachments`). **Output — one folder per document kind:**
 `output_receita_federal/<type_slug>/{documents,metadata}/` (per act a lossless
-`.json`, reconstructed `.txt`, and `.docx`), plus
+`.json`, reconstructed `.txt`, and `.docx`; raw annexes under
+`documents/attachments/`), plus
 `output_receita_federal/metadata/aggregate_report.json` (roll-up across kinds).
 Key modules: `receita_norma_fetcher.py` (`ActType` + `_REGISTRY_TABLE` make the
 `(tipo_code, orgao)` pair the only act-specific bits), `fetch_receita_normas_main.py`
 (orchestrator). The old `fetch_instrucoes_normativas_main.py` is a deprecated shim
 that defaults to IN SRF + `output_instrucoes_normativas/`. Offline tests:
 `tests/test_instrucao_normativa_fetching.py`.
+
+### Rendering fidelity: the `vigente` view, annexes, ordinals
+
+The artifacts are the act **as currently in force**, plus amendment/revocation
+annotations — a deliberate change from the as-published text. Four coupled rules,
+all mirroring the portal's own Angular renderer rather than inventing a layout:
+
+- **View = `vigente`, not `original`.** Every view returns the *same* segment
+  list and varies only per-segment flags. `original` carries **no
+  `ancorasDestino` at all** (so no annotations) and its `omitir` mask is
+  *inverted*: rendering it publishes the **superseded** wording and drops the
+  current one. `vigente` also blanks individually-revoked provisions server-side,
+  truncating them to their label stub (`II -`) with a `Revogado(a) pelo(a) …`
+  annotation, so revoked wording cannot leak through. Whole-act revocation is not
+  a segment flag — it is `vigente: false` + `ancorasNoAto` in the header, emitted
+  as one banner under the épigrafe.
+- **No strikethrough is ever emitted.** `tachado` is set only in `multivigente`;
+  if the chain falls back there, struck segments are *dropped* instead.
+- **Annexes are real content, not decoration.** An *anexo* segment
+  (`idTipoSegmento == 16`) with an `arquivoBinario` renders the **attachment**
+  and its flattened `textoIntegra` is dropped (the portal does the same). Inline
+  base64 covers `.htm`/`.html`/`.jpg`; **PDF/DOC/ODS are by-reference** and must
+  be pulled from the `/anexo/` endpoint — 268 PDFs across 143 acts, 156 of whose
+  segments carry an *empty* `textoIntegra`, i.e. they were missing outright
+  before. Converters: bs4 (html), PyMuPDF `find_tables()` (pdf), stdlib zipfile
+  (ods), data-URI (jpg); legacy `.doc` needs LibreOffice and otherwise falls back
+  to the flattened text. Raw bytes are **always** persisted first, so a converter
+  failure degrades to "unformatted", never to "lost".
+- **Ordinals are normalized** (`receita_text_normalize.py`): `art. 1o` → `1º`,
+  `Lei No 9.250` → `Lei nº 9.250` (a digit look-ahead separates it from the
+  preposition `No caso de …`), `art. 3°` → `3º`, and `<strike>º</strike>` →
+  `º`. In this corpus `<strike>` is **only** a typographic hack around ordinals
+  (366/366 occurrences), so it is always unwrapped — the opposite of planalto,
+  which uses it for genuinely revoked text. That is why the unwrapping lives
+  Receita-side and never in the shared `WordDocumentBuilder`.
+
+Normalization touches only the `.txt`/`.docx`; the `.json` stays a byte-faithful
+mirror of the API. Because `vigente` is a **moving target**, every act records
+`_fetched_at` (and `exibirVisoes` / resolved `view` in the fetch report).
+`--also-save-original` keeps the as-published text as a second `.json`.
+
+Key modules: `receita_text_normalize.py` (`--audit-ordinals` prints every rewrite
+with context), `receita_attachments.py` (endpoint client + converters),
+`compare_receita_corpus.py` (`--baseline DIR` before/after diff, flags any act
+that loses text without an `omitir`/annex explanation). Offline tests:
+`tests/test_receita_rendering.py`.
 
 ## Key Commands
 

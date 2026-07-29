@@ -1,14 +1,17 @@
 Instrução Normativa RFB nº 1548, de 13 de fevereiro de 2015
 
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2172, de 9 de janeiro de 2024]
+
 Dispõe sobre o Cadastro de Pessoas Físicas (CPF).
 
-O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF n º 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 11 da Lei n º 4.862, de 29 de novembro de 1965, nos arts. 1 º e 3 º do Decreto-Lei n º 401, de 30 de dezembro de 1968, no art. 16 da Lei n º 9.779, de 19 de janeiro de 1999, nos arts. 33 a 36 do Decreto n º 3.000, de 26 de março de 1999, no art. 1 º do Decreto n º 4.166, de 13 de março de 2002, e nas Portarias Interministeriais MF/MRE n º 101 e n º 102, de 23 de abril de 2002, resolve:
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 11 da Lei nº 4.862, de 29 de novembro de 1965, nos arts. 1º e 3º do Decreto-Lei nº 401, de 30 de dezembro de 1968, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, nos arts. 33 a 36 do Decreto nº 3.000, de 26 de março de 1999, no art. 1º do Decreto nº 4.166, de 13 de março de 2002, e nas Portarias Interministeriais MF/MRE nº 101 e nº 102, de 23 de abril de 2002, resolve:
 
-Art. 1 º O Cadastro de Pessoas Físicas (CPF) será administrado em conformidade com o disposto nesta Instrução Normativa.
+Art. 1º O Cadastro de Pessoas Físicas (CPF) será administrado em conformidade com o disposto nesta Instrução Normativa.
 
-CAPÍTULO I DOS ATOS PRATICADOS PERANTE O CPF
+CAPÍTULO I
+DOS ATOS PRATICADOS PERANTE O CPF
 
-Art. 2 º No CPF são praticados os seguintes atos:
+Art. 2º No CPF são praticados os seguintes atos:
 
 I - inscrição da pessoa física;
 
@@ -28,11 +31,13 @@ VIII - restabelecimento da inscrição.
 
 Parágrafo único. Os atos perante o CPF podem ser praticados a pedido da pessoa física ou de ofício pela Secretaria da Receita Federal do Brasil (RFB), à exceção dos atos relacionados nos incisos III, IV e VII do caput, que somente serão praticados de ofício.
 
-CAPÍTULO II DA INSCRIÇÃO
+CAPÍTULO II
+DA INSCRIÇÃO
 
-Seção I Da Obrigatoriedade de Inscrição
+Seção I
+Da Obrigatoriedade de Inscrição
 
-Art. 3 º Estão obrigadas a inscrever-se no CPF as pessoas físicas:
+Art. 3º Estão obrigadas a inscrever-se no CPF as pessoas físicas:
 
 I - residentes no Brasil que integrem o polo passivo de relação tributária principal ou acessória, seja na condição de contribuinte ou responsável, bem como os respectivos representantes legais, nos termos da legislação tributária da União, estados, Distrito Federal ou municípios;
 
@@ -46,7 +51,9 @@ c) operarem no mercado financeiro ou de capitais no Brasil, inclusive em bolsas 
 
 d) possuírem, no Brasil, bens e direitos sujeitos a registro público ou cadastro específico, incluídos imóveis, veículos, embarcações, aeronaves, instrumentos financeiros e participações societárias ou no mercado de capitais;
 
-III - com 16 (dezesseis) anos ou mais que constem como dependentes em Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física (DIRPF);
+III - que constem como dependentes para fins do Imposto sobre a Renda da Pessoa Física, observado o disposto no § 2º;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1760, de 16 de novembro de 2017]
 
 IV - cuja inscrição seja exigida por órgãos ou entidades da administração pública federal, estadual, distrital ou municipal, nos termos da legislação própria afeta aos negócios desses órgãos e entidades;
 
@@ -54,11 +61,18 @@ V - registradas em ofício de registro civil de pessoas naturais no Brasil, no m
 
 VI - filiadas como segurados obrigatórios da Previdência Social ou requerentes de benefícios de qualquer espécie no Instituto Nacional do Seguro Social (INSS).
 
-Parágrafo único. As pessoas físicas, mesmo que não estejam obrigadas a inscrever-se no CPF, podem solicitar a sua inscrição.
+§ 1º As pessoas físicas, mesmo que não estejam obrigadas a inscrever-se no CPF, podem solicitar a sua inscrição.
 
-Seção II Da Comprovação da Inscrição
+[Redação dada pelo(a) Instrução Normativa RFB nº 1760, de 16 de novembro de 2017]
 
-Art. 4 º A comprovação da inscrição no CPF será feita mediante a menção do número de inscrição no CPF nos seguintes documentos:
+§ 2º Estão dispensadas da inscrição no CPF, relativamente ao exercício de 2018, ano-calendário de 2017, as pessoas físicas a que se refere o inciso III do caput com menos de 8 (oito) anos de idade.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1760, de 16 de novembro de 2017]
+
+Seção II
+Da Comprovação da Inscrição
+
+Art. 4º A comprovação da inscrição no CPF será feita mediante a menção do número de inscrição no CPF nos seguintes documentos:
 
 I - Carteira de Identidade;
 
@@ -72,7 +86,7 @@ V - Carteira de identidade profissional, expedida por órgãos fiscalizadores de
 
 VI - carteiras funcionais emitidas por órgãos públicos, válidas como documento de identificação em todo o território nacional.
 
-§ 1 º Também são válidos como documento de comprovação de inscrição, desde que acompanhado de documento de identificação do inscrito:
+§ 1º Também são válidos como documento de comprovação de inscrição, desde que acompanhado de documento de identificação do inscrito:
 
 I - “Comprovante de Inscrição no CPF” impresso a partir do sítio da RFB na Internet, no endereço http://www.receita.fazenda.gov.br, ou emitido pela entidade conveniada;
 
@@ -80,7 +94,7 @@ II - “Comprovante de Inscrição no CPF” acessado por meio do aplicativo “
 
 III - Cartão CPF emitido em conformidade com a legislação anterior.
 
-§ 2 º O “Comprovante de Inscrição no CPF”, conforme modelos constantes dos Anexos I e II desta Instrução Normativa, conterá obrigatoriamente:
+§ 2º O “Comprovante de Inscrição no CPF”, conforme modelos constantes dos Anexos I e II desta Instrução Normativa, conterá obrigatoriamente:
 
 I - o nome da pessoa física;
 
@@ -90,23 +104,26 @@ III - a data de nascimento; e
 
 IV - a data e hora da emissão e o código de controle que deverão ser utilizados para comprovar a autenticidade do comprovante.
 
-§ 3 º O “Comprovante de Inscrição no CPF” somente produzirá efeitos mediante confirmação de autenticidade no sítio da RFB na Internet.
+§ 3º O “Comprovante de Inscrição no CPF” somente produzirá efeitos mediante confirmação de autenticidade no sítio da RFB na Internet.
 
-§ 4 º Nos casos em que o “Comprovante de Inscrição no CPF” for emitido por uma das entidades conveniadas citadas nos incisos I a IV do caput do art. 24, será permitida a inserção de sua logomarca, conforme modelo constante do Anexo I desta Instrução Normativa.
+§ 4º Nos casos em que o “Comprovante de Inscrição no CPF” for emitido por uma das entidades conveniadas citadas nos incisos I a IV do caput do art. 24, será permitida a inserção de sua logomarca, conforme modelo constante do Anexo I desta Instrução Normativa.
 
-§ 5 º Nos casos em que o “Comprovante de Inscrição no CPF” for emitido pelas entidades conveniadas citadas nos incisos VI e IX do caput do art. 24, deverá ser adotado o modelo constante do Anexo II desta Instrução Normativa.
+§ 5º Nos casos em que o “Comprovante de Inscrição no CPF” for emitido pelas entidades conveniadas citadas nos incisos VI e IX do caput do art. 24, deverá ser adotado o modelo constante do Anexo II desta Instrução Normativa.
 
-Seção III Do Número Único de Inscrição
+Seção III
+Do Número Único de Inscrição
 
-Art. 5 º O número de inscrição no CPF é atribuído à pessoa física uma única vez, vedada a concessão de mais de um número de CPF.
+Art. 5º O número de inscrição no CPF é atribuído à pessoa física uma única vez, vedada a concessão de mais de um número de CPF.
 
-Seção IV Dos Documentos Necessários à Inscrição e Locais de Solicitação
+Seção IV
+Dos Documentos Necessários à Inscrição e Locais de Solicitação
 
-Art. 6 º A inscrição no CPF será solicitada conforme estabelecido nos Anexos III ou IV desta Instrução Normativa.
+Art. 6º A inscrição no CPF será solicitada conforme estabelecido nos Anexos III ou IV desta Instrução Normativa.
 
-Seção V Da Inscrição Realizada pelas Unidades da RFB
+Seção V
+Da Inscrição Realizada pelas Unidades da RFB
 
-Art. 7 º Além das hipóteses enumeradas nos Anexos III ou IV desta Instrução Normativa, as inscrições serão efetuadas diretamente pelas unidades da RFB nos seguintes casos:
+Art. 7º Além das hipóteses enumeradas nos Anexos III ou IV desta Instrução Normativa, as inscrições serão efetuadas diretamente pelas unidades da RFB nos seguintes casos:
 
 I - solicitação de órgãos públicos, entidades de assistência social e entidades de saúde públicas ou privadas, em função da incapacidade de comparecimento da pessoa física nas entidades conveniadas;
 
@@ -118,47 +135,105 @@ IV - determinação judicial.
 
 Parágrafo único. A inscrição realizada conforme disposto no inciso III do caput será comunicada à pessoa física interessada.
 
-CAPÍTULO III DA ALTERAÇÃO DE DADOS CADASTRAIS
+CAPÍTULO III
+DA ALTERAÇÃO DE DADOS CADASTRAIS
 
-Seção I Dos Documentos Necessários à Alteração e Locais de Solicitação
+Seção I
+Dos Documentos Necessários à Alteração e Locais de Solicitação
 
-Art. 8 º A alteração no CPF será solicitada conforme estabelecido nos Anexos III ou IV desta Instrução Normativa.
+Art. 8º A alteração no CPF será solicitada conforme estabelecido nos Anexos III ou IV desta Instrução Normativa.
 
-§ 1 º A alteração do endereço poderá ser efetivada por intermédio:
+§ 1º A informação do endereço é declaratória, sendo dispensada a apresentação de documentos que comprovem sua alteração, que poderá ser efetivada por intermédio:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
 
 I - da DIRPF;
 
-II - do Portal e-Cac no sítio da RFB na Internet;
+II - do Centro Virtual de Atendimento (e-CAC) ou do Pedido de Alteração, disponíveis no sítio da RFB na Internet;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
 
 III - de solicitação nas entidades relacionadas nos incisos I a VI do caput do art. 24;
 
-IV - do formulário “Ficha Cadastral de Pessoa Física”, disponível no sítio da RFB na Internet, no endereço http://www.receita.fazenda.gov.br, para residentes no exterior; ou
+IV - do formulário “Ficha Cadastral de Pessoa Física”, disponível no sítio da RFB na Internet, no endereço http://rfb.gov.br, no caso de residentes no exterior, que deverão apresentá-lo em uma representação diplomática brasileira; ou
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
 
 V - das unidades da RFB, no caso de alteração de endereço para o exterior.
 
-§ 2 º Fica dispensada a apresentação de documentos que comprovem a alteração de endereço.
+§ 2º A inclusão do ano do óbito resultará na mudança da situação cadastral da pessoa física falecida, de acordo com o inciso V do art. 21.
 
-Seção II Da Alteração Realizada pelas Unidades da RFB
+[Redação dada pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
 
-Art. 9 º Além das hipóteses enumeradas nos Anexos III ou IV desta Instrução Normativa, as alterações serão realizadas diretamente pela RFB quando houver interesse da administração tributária ou por determinação judicial.
+Seção II
+Da Alteração Realizada pelas Unidades da RFB
 
-Parágrafo único. A alteração, quando realizada no interesse da administração tributária, será comunicada à pessoa física interessada.
+Art. 9º Além das hipóteses enumeradas nos Anexos III ou IV desta Instrução Normativa, as alterações de dados cadastrais no CPF serão realizadas diretamente pela RFB:
 
-CAPÍTULO IV DA INDICAÇÃO DE PENDÊNCIA DE REGULARIZAÇÃO
+[Redação dada pelo(a) Instrução Normativa RFB nº 1718, de 18 de julho de 2017]
 
-Seção I Da Indicação e da Ciência
+I - quando houver interesse da administração tributária;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1718, de 18 de julho de 2017]
+
+II - quando forem informadas por terceiros, em conformidade com convênios de troca de informações celebrados;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
+
+III - em atendimento a determinação judicial; ou
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
+
+IV - para inclusão ou exclusão de nome social de pessoa travesti ou transexual.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
+
+§ 1º A alteração, quando realizada no interesse da administração tributária, será comunicada à pessoa física interessada.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1718, de 18 de julho de 2017]
+
+§ 2º A inclusão do ano do óbito resultará na mudança da situação cadastral da pessoa física falecida, de acordo com o inciso V do art. 21.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
+
+§ 3º A alteração a que se refere o inciso IV do caput deverá ser feita mediante requerimento do interessado, conforme previsto no art. 6º do Decreto nº 8.727, de 28 de abril de 2016.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
+
+§ 4º O requerimento a que se refere o § 3º pode ser apresentado por procurador com poderes específicos.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
+
+CAPÍTULO IV
+DA INDICAÇÃO DE PENDÊNCIA DE REGULARIZAÇÃO
+
+Seção I
+Da Indicação e da Comunicação
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
 
 Art. 10. A indicação de pendência de regularização da inscrição será realizada quando houver omissão na entrega de DIRPF, se obrigatória.
 
-Parágrafo único. Será dada ciência da indicação de pendência de regularização por meio do:
+Parágrafo único. A pendência de regularização será comunicada por meio do:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
 
 I - “Comprovante de Situação Cadastral no CPF”, conforme modelo constante do Anexo V desta Instrução Normativa, disponível no sítio da RFB na Internet, no endereço http://www.receita.fazenda.gov.br;
 
 II - “Comprovante de Situação Cadastral no CPF” acessado por meio do aplicativo “APP Pessoa Física” para dispositivos móveis; ou
 
-III - pelo serviço de atendimento telefônico da RFB.
+III -
 
-Seção II Da Regularização da Situação Cadastral “Pendente de Regularização”
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+Seção II
+Da Regularização da Situação Cadastral “Pendente de Regularização”
 
 Art. 11. A pessoa física regularizará a situação cadastral “pendente de regularização” mediante a apresentação:
 
@@ -166,31 +241,89 @@ I - da DIRPF a que estava obrigada, ainda que em atraso; ou
 
 II - da Declaração de Saída Definitiva do País, ainda que em atraso.
 
-§ 1 º A situação cadastral “pendente de regularização” será regularizada diretamente na RFB, quando houver erro na indicação de pendência ou em decorrência de decisão judicial ou administrativa.
+§ 1º A situação cadastral “pendente de regularização” será regularizada diretamente na RFB, quando houver erro na indicação de pendência ou em decorrência de decisão judicial ou administrativa.
 
-§ 2 º A regularização dar-se-á sem prejuízo da exigência do imposto que for devido e da imposição das penalidades cabíveis.
+§ 2º A regularização dar-se-á sem prejuízo da exigência do imposto que for devido e da imposição das penalidades cabíveis.
 
-CAPÍTULO V DA SUSPENSÃO DA INSCRIÇÃO
+CAPÍTULO V
+DA SUSPENSÃO DA INSCRIÇÃO
 
-Seção I Da Suspensão e Da Ciência
+Seção I
+Da Suspensão e da Comunicação
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
 
 Art. 12. A suspensão da inscrição será realizada pela RFB quando houver inconsistência cadastral.
 
-Parágrafo único. Será dada ciência da suspensão por meio do:
+§ 1º A suspensão da inscrição no CPF será comunicada por meio:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
 
 I - “Comprovante de Situação Cadastral no CPF”, conforme modelo constante do Anexo V desta Instrução Normativa, disponível no sítio da RFB na Internet, no endereço http://www.receita.fazenda.gov.br;
 
-II - “Comprovante de Situação Cadastral no CPF” acessado por meio do aplicativo “APP Pessoa Física” para dispositivos móveis; ou
+II - do "Comprovante de Situação Cadastral no CPF" acessado por meio do aplicativo "APP Pessoa Física" para dispositivos móveis;
 
-III - pelo serviço de atendimento telefônico da RFB.
+[Redação dada pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
 
-Seção II Da Regularização da Situação Cadastral “Suspensa”
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+III - do serviço de notificação ao cidadão constante do cadastro digital do governo federal, disponível no endereço eletrônico < https://www.gov.br> ou no "APP Pessoa Física" para dispositivos móveis;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+IV - de mensagem eletrônica (e-mail) ou short message service (SMS);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+V - de carta; ou
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+VI - de edital a ser publicado no site da RFB na Internet, nos casos em que não for possível contatar a pessoa física pelos meios relacionados nos incisos I a V deste parágrafo.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+§ 2º Pelo prazo de 90 (noventa) dias, o e-CAC emitirá alerta sobre a existência das comunicações relacionadas nos incisos I e II do § 1º.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+§ 3º A inscrição que se encontra suspensa há 5 (cinco) anos ou mais na base de dados do CPF poderá ser cancelada de ofício.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+Seção II
+Da Regularização da Situação Cadastral “Suspensa”
 
 Art. 13. A regularização da situação cadastral “suspensa” será realizada conforme estabelecido nos Anexos III ou IV desta Instrução Normativa.
 
-Parágrafo único. A situação cadastral “suspensa” será regularizada diretamente na RFB, quando houver erro ou em decorrência de decisão judicial ou administrativa.
+§ 1º A situação cadastral "suspensa" será regularizada diretamente na RFB quando houver erro ou em decorrência de decisão judicial ou administrativa.
 
-CAPÍTULO VI DO CANCELAMENTO DA INSCRIÇÃO
+[Redação dada pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+§ 2º Depois de 90 (noventa) dias contados da data de comunicação da suspensão, a inscrição poderá ser cancelada de ofício.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+CAPÍTULO VI
+DO CANCELAMENTO DA INSCRIÇÃO
 
 Art. 14. O cancelamento da inscrição no CPF poderá ocorrer:
 
@@ -198,61 +331,90 @@ I - a pedido; ou
 
 II - de ofício.
 
-Seção I Do Cancelamento a Pedido
+Seção I
+Do Cancelamento a Pedido
 
-Art. 15. O cancelamento da inscrição no CPF a pedido ocorrerá, exclusivamente:
+Art. 15. O cancelamento da inscrição no CPF a pedido ocorrerá exclusivamente quando constatada a multiplicidade de inscrições pela própria pessoa física.
 
-I - quando constatada a multiplicidade de inscrições pela própria pessoa física; ou
+[Redação dada pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
 
-II - nos casos de óbito.
+I -
 
-§ 1 º No caso de multiplicidade, o cancelamento da inscrição no CPF se dará em conformidade com o disposto nos Anexos III ou IV desta Instrução Normativa, mantendo-se a inscrição de maior interesse para a administração tributária.
+[Suprimido(a) - vide Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
 
-§ 2 º No caso de óbito, o cancelamento da inscrição no CPF se dará da seguinte forma:
+II -
 
-I - se houver espólio, mediante a apresentação de Declaração Final de Espólio (DFE); e
+[Suprimido(a) - vide Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
 
-II - se não houver espólio, conforme disposto nos Anexos III ou IV desta Instrução Normativa.
+Parágrafo único. O cancelamento da inscrição no CPF se dará em conformidade com o disposto nos Anexos III ou IV desta Instrução Normativa, ficando a critério da administração tributária eleger o número de inscrição no CPF a ser mantido ativo.
 
-Seção II Do Cancelamento de Ofício
+[Redação dada pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
+
+§ 2º
+
+[Suprimido(a) - vide Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
+
+I -
+
+[Suprimido(a) - vide Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
+
+II -
+
+[Suprimido(a) - vide Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
+
+Seção II
+Do Cancelamento de Ofício
 
 Art. 16. Será cancelada de ofício a inscrição no CPF nas seguintes hipóteses:
 
 I - atribuição de mais de um número de inscrição para uma mesma pessoa física;
 
-II - no caso de óbito informado por terceiro, em conformidade com convênios de troca de informações celebrados com a RFB;
+II -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
 
 III - por decisão administrativa; ou
 
 IV - por determinação judicial.
 
-§ 1 º O cancelamento de ofício da inscrição no CPF será efetuada pelo titular da unidade da RFB que tomar conhecimento do fato que o motivou.
+§ 1º O cancelamento de ofício da inscrição no CPF será efetuada pelo titular da unidade da RFB que tomar conhecimento do fato que o motivou.
 
-§ 2 º A ciência do cancelamento de ofício da inscrição no CPF será dada pelo:
+§ 2º O cancelamento de ofício da inscrição no CPF será comunicado por meio do:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
 
 I - “Comprovante de Situação Cadastral no CPF”, conforme modelo constante do Anexo V desta Instrução Normativa, disponível no sítio da RFB na Internet, no endereço http://www.receita.fazenda.gov.br;
 
 II - “Comprovante de Situação Cadastral no CPF” acessado por meio do aplicativo “APP Pessoa Física” para dispositivos móveis; ou
 
-III - pelo serviço de atendimento telefônico da RFB.
+III -
 
-CAPÍTULO VII DA DECLARAÇÃO DE NULIDADE DA INSCRIÇÃO
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+CAPÍTULO VII
+DA DECLARAÇÃO DE NULIDADE DA INSCRIÇÃO
 
 Art. 17. Será declarada nula pela RFB a inscrição no CPF em que for constatada fraude.
 
 Art. 18. A declaração de nulidade da inscrição no CPF será realizada pelo titular da unidade da RFB que constatar a fraude, por meio de Ato Declaratório Executivo (ADE), publicado no sítio da RFB na Internet, indicando sua motivação.
 
-Art. 19. A declaração de nulidade da inscrição no CPF produzirá efeitos retroativos à data de inscrição, ressalvado o disposto no § 1 º .
+Art. 19. A declaração de nulidade da inscrição no CPF produzirá efeitos retroativos à data de inscrição, ressalvado o disposto no § 1º.
 
-§ 1 º Havendo multiplicidade de inscrições fraudulentas para a mesma pessoa, ficarão elas vinculadas à inscrição legítima, desde que comprovado, em processo administrativo em que se assegure o contraditório e a ampla defesa, que a pessoa tinha ciência da fraude e dela se aproveitou.
+§ 1º Havendo multiplicidade de inscrições fraudulentas para a mesma pessoa, ficarão elas vinculadas à inscrição legítima, desde que comprovado, em processo administrativo em que se assegure o contraditório e a ampla defesa, que a pessoa tinha ciência da fraude e dela se aproveitou.
 
-§ 2 º Constatada a fraude ao final do processo administrativo, o fato deverá ser comunicado aos órgãos responsáveis pela persecução penal.
+§ 2º Constatada a fraude ao final do processo administrativo, o fato deverá ser comunicado aos órgãos responsáveis pela persecução penal.
 
-CAPÍTULO VIII DO RESTABELECIMENTO DA INSCRIÇÃO
+CAPÍTULO VIII
+DO RESTABELECIMENTO DA INSCRIÇÃO
 
 Art. 20. O restabelecimento da inscrição é o ato praticado pela RFB, para reverter o cancelamento ou a nulidade da inscrição, por erro ou por decisão judicial ou administrativa.
 
-CAPÍTULO IX DA SITUAÇÃO CADASTRAL
+CAPÍTULO IX
+DA SITUAÇÃO CADASTRAL
 
 Art. 21. A inscrição no CPF será enquadrada, quanto à situação cadastral, em:
 
@@ -262,39 +424,59 @@ II - pendente de regularização, quando houver omissão de DIRPF;
 
 III - suspensa, quando houver inconsistência cadastral;
 
-IV - cancelada por multiplicidade, quando houver mais de uma inscrição no CPF para a mesma pessoa;
+IV - cancelada, em caso de multiplicidade de inscrição, por decisão administrativa ou determinação judicial;
 
-V - cancelada por óbito sem espólio, nos termos do inciso II do § 2 º do art. 15;
+[Redação dada pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
 
-VI - cancelada por encerramento de espólio, nos termos do inciso I do § 2 º do art. 15; e
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+V - titular falecido, quando for incluído o ano de óbito;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
+
+VI -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
 
 VII - nula, nos termos do art. 17.
 
-Parágrafo único. A regularidade da situação cadastral do CPF independe da regularidade dos pagamentos dos tributos administrados pela RFB.
+Parágrafo único. A situação cadastral do CPF independe da regularidade dos pagamentos dos tributos administrados pela RFB.
 
-Art. 22. A consulta pública à situação cadastral da pessoa física no CPF poderá ser realizada pelo “Comprovante de Situação Cadastral no CPF” disponível no sítio da RFB na Internet, no endereço http://www.receita.fazenda.gov.br, por meio do aplicativo “APP Pessoa Física” para dispositivos móveis, ou pelo serviço de atendimento telefônico da RFB.
+[Redação dada pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
+
+Art. 22. A consulta pública à situação cadastral da pessoa física no CPF poderá ser realizada por meio do "Comprovante de Situação Cadastral no CPF", disponível no site da RFB na Internet, no endereço < https://www.gov.br/receitafederal/pt-br> ou por meio do aplicativo "APP Pessoa Física" para dispositivos móveis.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
 
 Parágrafo único. A consulta pela Internet ou por intermédio do “APP Pessoa Física” será realizada mediante indicação do número de inscrição no CPF e da data de nascimento, permitindo, tão somente, o conhecimento do nome, da data de nascimento, da situação cadastral da pessoa física, da data de inscrição e do ano de óbito, se existir.
 
-CAPÍTULO X DA PESQUISA AO NÚMERO DE INSCRIÇÃO NO CPF
+CAPÍTULO X
+DA PESQUISA AO NÚMERO DE INSCRIÇÃO NO CPF
 
-Art. 23. A informação sobre o número de inscrição no CPF poderá ser obtida em uma unidade de atendimento da RFB e fornecida apenas para o titular, representante legal ou procurador.
+Art. 23 A informação sobre o número de inscrição no CPF poderá ser obtida em uma Serventia de Registro Civil de Pessoas Naturais ou em uma unidade de atendimento da RFB, e será fornecida apenas para o titular, representante legal ou procurador.
 
-§ 1 º No caso de pessoa com 16 ou 17 anos de idade, o número poderá ser fornecido ao próprio interessado ou a um dos pais.
+[Redação dada pelo(a) Instrução Normativa RFB nº 1890, de 14 de maio de 2019]
 
-§ 2 º No caso de falecido, o número poderá ser fornecido:
+§ 1º No caso de pessoa com 16 ou 17 anos de idade, o número poderá ser fornecido ao próprio interessado ou a um dos pais.
+
+§ 2º No caso de falecido, o número poderá ser fornecido:
 
 I - se houver bens a inventariar, ao inventariante, cônjuge, companheiro ou sucessor a qualquer título; ou
 
 II - se não houver bens a inventariar, ao cônjuge, companheiro ou parente.
 
-§ 3 º O número de inscrição no CPF também poderá ser fornecido aos órgãos relacionados nos incisos I e II do caput do art. 7 º , nas hipóteses ali consignadas.
+§ 3º O número de inscrição no CPF também poderá ser fornecido aos órgãos relacionados nos incisos I e II do caput do art. 7º, nas hipóteses ali consignadas.
 
-CAPÍTULO XI DAS ENTIDADES CONVENIADAS
+CAPÍTULO XI
+DAS ENTIDADES CONVENIADAS
 
-Seção I Dos Convênios
+Seção I
+Dos Convênios
 
-Subseção I Das Entidades com as quais a RFB pode Celebrar Convênios
+Subseção I
+Das Entidades com as quais a RFB pode Celebrar Convênios
 
 Art. 24. Para a execução dos atos perante o CPF, a RFB poderá celebrar convênios com as seguintes entidades:
 
@@ -316,17 +498,22 @@ VIII - Associação dos Registradores de Pessoas Naturais do Brasil (ARPEN); e
 
 IX - Comissão de Valores Mobiliários (CVM).
 
-Subseção II Dos Convênios Celebrados pela RFB
+Subseção II
+Dos Convênios Celebrados pela RFB
 
-Art. 25. A RFB poderá celebrar convênio com outros órgãos da administração pública federal a fim de permitir que pratiquem, gratuitamente, os atos previstos nos incisos I e II do caput do art. 2 º .
+Art. 25. A RFB poderá celebrar convênio com outros órgãos da administração pública federal a fim de permitir que pratiquem, gratuitamente, os atos previstos nos incisos I e II do caput do art. 2º.
 
 Art. 26. Para praticarem atos perante o CPF, as entidades citadas nos incisos I a IV do caput do art. 24 deverão celebrar convênio com a RFB, conforme modelo referencial constante do Anexo VI desta Instrução Normativa.
 
-§ 1 º As entidades conveniadas mencionadas no caput e a CVM poderão cobrar dos interessados valor correspondente aos serviços de atendimento, conclusivo ou não conclusivo, não cabendo qualquer ônus financeiro à RFB em função do atendimento realizado.
+§ 1º As entidades conveniadas mencionadas no caput, a CVM e a ARPEN poderão cobrar dos interessados valor correspondente aos serviços de atendimento, conclusivo ou não conclusivo, e não caberá qualquer ônus financeiro à RFB em função do atendimento realizado, exceto no caso de serviço prestado a título gratuito pela ARPEN previsto em convênio.
 
-§ 2 º O valor referido no § 1 º não excederá a quantia de R$ 5,70 (cinco reais e setenta centavos).
+[Redação dada pelo(a) Instrução Normativa RFB nº 1890, de 14 de maio de 2019]
 
-§ 3 º A prática dos atos previstos neste artigo será realizada de imediato, exceto nos casos previstos no art. 30, e implicará, obrigatoriamente, a entrega do “Comprovante de Inscrição no CPF” ao solicitante, conforme modelo constante do Anexo I desta Instrução Normativa.
+§ 2º O valor referido no § 1º não excederá a quantia de R$ 7,00 (sete reais).
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1588, de 7 de outubro de 2015]
+
+§ 3º A prática dos atos previstos neste artigo será realizada de imediato, exceto nos casos previstos no art. 30, e implicará, obrigatoriamente, a entrega do “Comprovante de Inscrição no CPF” ao solicitante, conforme modelo constante do Anexo I desta Instrução Normativa.
 
 Art. 27. Para praticarem atos perante o CPF, as entidades citadas no inciso V do caput do art. 24 deverão celebrar convênio com a RFB, representada pelo Superintendente da Receita Federal do Brasil de sua jurisdição fiscal, conforme o modelo:
 
@@ -340,67 +527,92 @@ c) outros documentos de acesso a serviços de saúde pública, de assistência s
 
 II - constante do Anexo VIII desta Instrução Normativa, se a entidade conveniada não emitir nenhum dos documentos citados no inciso I do caput.
 
-§ 1 º Os convênios, nos modelos mencionados nos incisos I e II do caput, obrigam a entidade conveniada a efetuar exclusivamente atos de inscrição e de alteração de dados cadastrais.
+§ 1º Os convênios, nos modelos mencionados nos incisos I e II do caput, obrigam a entidade conveniada a efetuar exclusivamente atos de inscrição e de alteração de dados cadastrais.
 
-§ 2 º O atendimento prestado pelas entidades conveniadas de que trata este artigo será gratuito.
+§ 2º O atendimento prestado pelas entidades conveniadas de que trata este artigo será gratuito.
 
-§ 3 º Os convênios celebrados conforme o modelo constante do Anexo VII desta Instrução Normativa obrigam a entidade conveniada a inserir o número de inscrição no CPF nos documentos que emitir.
+§ 3º Os convênios celebrados conforme o modelo constante do Anexo VII desta Instrução Normativa obrigam a entidade conveniada a inserir o número de inscrição no CPF nos documentos que emitir.
 
-§ 4 º Os convênios celebrados conforme o Anexo VIII desta Instrução Normativa obrigam a entidade conveniada a entregar à pessoa física o “Comprovante de Inscrição no CPF”, consoante modelo constante do Anexo II desta Instrução Normativa, exceto nos casos previstos no art. 30.
+§ 4º Os convênios celebrados conforme o Anexo VIII desta Instrução Normativa obrigam a entidade conveniada a entregar à pessoa física o “Comprovante de Inscrição no CPF”, consoante modelo constante do Anexo II desta Instrução Normativa, exceto nos casos previstos no art. 30.
 
-Subseção III Da Identificação dos Atos da Entidade Conveniada
+Subseção III
+Da Identificação dos Atos da Entidade Conveniada
 
 Art. 28. Todos os atos praticados pelas entidades conveniadas serão identificados individualmente mediante a indicação da entidade na qual hajam sido praticados, do local, da data e hora de sua ocorrência, bem como do responsável pela inserção dos dados no sistema CPF.
 
-Subseção IV Da Responsabilidade da Entidade Conveniada
+Subseção IV
+Da Responsabilidade da Entidade Conveniada
 
-Art. 29. A conferência dos documentos apresentados e a fidelidade na transcrição dos dados informados perante o CPF serão de responsabilidade da entidade conveniada, ressalvado o disposto no § 2 º .
+Art. 29. A conferência dos documentos apresentados e a fidelidade na transcrição dos dados informados perante o CPF serão de responsabilidade da entidade conveniada, ressalvado o disposto no § 2º.
 
-§ 1 º As entidades conveniadas serão responsáveis, por si e por seus funcionários, pelo sigilo das informações de que tiverem conhecimento em decorrência dos atos praticados perante o CPF, inclusive quanto à reparação das irregularidades e dos danos causados ao interessado ou a terceiros.
+§ 1º As entidades conveniadas serão responsáveis, por si e por seus funcionários, pelo sigilo das informações de que tiverem conhecimento em decorrência dos atos praticados perante o CPF, inclusive quanto à reparação das irregularidades e dos danos causados ao interessado ou a terceiros.
 
-§ 2 º Em relação aos atos praticados por intermédio do convênio celebrado com a entidade constante do inciso IX do caput do art. 24 a conferência dos documentos apresentados e a fidelidade na transcrição dos dados informados perante o CPF, bem como a guarda da documentação apresentada serão de responsabilidade das instituições financeiras representantes do investidor estrangeiro no Brasil.
+§ 2º Em relação aos atos praticados por intermédio do convênio celebrado com a entidade constante do inciso IX do caput do art. 24 a conferência dos documentos apresentados e a fidelidade na transcrição dos dados informados perante o CPF, bem como a guarda da documentação apresentada serão de responsabilidade das instituições financeiras representantes do investidor estrangeiro no Brasil.
 
-Subseção V Do Atendimento Não Conclusivo
+Subseção V
+Do Atendimento Não Conclusivo
 
 Art. 30. São não conclusivos os atendimentos iniciados nas entidades conveniadas ou na Internet que necessitem ser finalizados em uma unidade da RFB.
 
-§ 1 º Para o atendimento não conclusivo, será gerado protocolo de atendimento contendo a relação de documentos que devem ser apresentados pelo interessado na RFB, em conformidade com os Anexos III ou IV desta Instrução Normativa.
+§ 1º Para o atendimento não conclusivo, será gerado protocolo de atendimento contendo a relação de documentos que devem ser apresentados pelo interessado na RFB, em conformidade com os Anexos III ou IV desta Instrução Normativa.
 
-§ 2 º Os atendimentos não conclusivos, prestados pelas repartições diplomáticas brasileiras no exterior ou pelo Ministério das Relações Exteriores (MRE) no Brasil, deverão ser concluídos pela Delegacia da Receita Federal do Brasil em Brasília/DF.
+§ 2º
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
 
 Art. 31. Nos casos de solicitações que não tenham atendimento conclusivo:
 
-I - o código constante no protocolo de atendimento permitirá ao solicitante acompanhar o andamento da solicitação pelo sítio da RFB na Internet, no endereço http://www.receita.fazenda.gov.br ou pelo serviço de atendimento telefônico da RFB;
+I - o código constante no protocolo de atendimento permitirá ao solicitante acompanhar o andamento da solicitação pelo site da RFB na Internet, no endereço eletrônico < https://www.gov.br/receitafederal/pt-br>; e
 
-II - o código constante no formulário “Ficha Cadastral de Pessoa Física”, para as solicitações efetuadas no exterior, permitirá o seu acompanhamento pelo sítio da RFB na Internet, no endereço http://www.receita.fazenda.gov.br ou pelo serviço de atendimento telefônico da RFB.
+[Redação dada pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
 
-Seção II Dos Atos Praticados por Entidades Conveniadas
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+II - o código constante no formulário "Ficha Cadastral de Pessoa Física", para as solicitações efetuadas no exterior, permitirá o seu acompanhamento pelo site da RFB na Internet, no endereço < https://www.gov.br/receitafederal/pt-br>.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+Seção II
+Dos Atos Praticados por Entidades Conveniadas
 
 Art. 32. Os atos de inscrição, alteração de dados cadastrais e regularização de situação cadastral “suspensa” são praticados por entidades conveniadas, nos termos dos arts. 25 a 27.
 
-Seção III Dos Atos Praticados por Repartições Diplomáticas Brasileiras no Exterior
+Seção III
+Dos Atos Praticados por Repartições Diplomáticas Brasileiras no Exterior
 
-Art. 33. As repartições diplomáticas brasileiras no exterior podem praticar, perante o CPF, os atos descritos nos incisos I e II do caput do art. 2 º , de forma conclusiva.
+Art. 33. As repartições diplomáticas brasileiras no exterior podem praticar, perante o CPF, os atos descritos nos incisos I e II do caput do art. 2º, de forma conclusiva.
 
-§ 1 º As repartições de que trata o caput também podem iniciar o atendimento dos atos descritos nos incisos I, II, V e VI do caput do art. 2 º , nos termos do § 2 º do art. 30.
+§ 1º As repartições de que trata o caput também podem iniciar o atendimento dos atos descritos nos incisos I, II, V e VI do caput do art. 2º, nos termos do § 2º do art. 30.
 
-§ 2 º No caso de atendimento conclusivo, as repartições a que se refere o caput devem imprimir e entregar ao interessado o “Comprovante de Inscrição no CPF”, conforme modelo constante do Anexo II desta Instrução Normativa.
+§ 2º No caso de atendimento conclusivo, as repartições a que se refere o caput devem imprimir e entregar ao interessado o “Comprovante de Inscrição no CPF”, conforme modelo constante do Anexo II desta Instrução Normativa.
 
-Seção IV Dos Atos Praticados pelo Ministério das Relações Exteriores
+Seção IV
+Dos Atos Praticados pelo Ministério das Relações Exteriores
 
-Art. 34. O MRE pode praticar, perante o CPF, os atos descritos nos incisos I e II do caput do art. 2 º , de forma conclusiva.
+Art. 34. O MRE pode praticar, perante o CPF, os atos descritos nos incisos I e II do caput do art. 2º, de forma conclusiva.
 
-§ 1 º O MRE também pode iniciar o atendimento dos atos descritos nos incisos I, II, V e VI do caput do art. 2 º nos termos do § 2 º do art. 30.
+§ 1º O MRE também pode iniciar o atendimento dos atos descritos nos incisos I, II, V e VI do caput do art. 2º nos termos do § 2º do art. 30.
 
-§ 2 º No caso de atendimento conclusivo, o MRE deve imprimir e entregar ao interessado o “Comprovante de Inscrição no CPF”, conforme modelo constante do Anexo II desta Instrução Normativa.
+§ 2º No caso de atendimento conclusivo, o MRE deve imprimir e entregar ao interessado o “Comprovante de Inscrição no CPF”, conforme modelo constante do Anexo II desta Instrução Normativa.
 
-CAPÍTULO XII DAS Disposições Gerais Sobre Documentos
+CAPÍTULO XII
+DAS Disposições Gerais Sobre Documentos
 
 Art. 35. Os documentos apresentados deverão ser originais ou cópias autenticadas.
 
-§ 1 º Somente será aceita cópia simples dos documentos se estiver acompanhada do documento original.
+[Vide o(a) Instrução Normativa RFB nº 1931, de 2 de abril de 2020]
 
-§ 2 º Poderá ser exigida a tradução juramentada dos documentos apresentados em língua estrangeira.
+§ 1º Somente será aceita cópia simples dos documentos se estiver acompanhada do documento original.
+
+[Vide o(a) Instrução Normativa RFB nº 1931, de 2 de abril de 2020]
+
+§ 2º Poderá ser exigida a tradução juramentada dos documentos apresentados em língua estrangeira.
+
+[Vide o(a) Instrução Normativa RFB nº 1931, de 2 de abril de 2020]
 
 Art. 36. Nas solicitações realizadas por procurador, devem ser apresentados:
 
@@ -414,19 +626,31 @@ IV - instrumento público ou particular de procuração.
 
 Parágrafo único. O instrumento público de procuração lavrado no exterior ou o instrumento particular com firma reconhecida no exterior devem ter sua validade reconhecida por repartição consular brasileira, salvo disposição contrária constante de lei, acordo ou tratado internacional.
 
-CAPÍTULO XIII DAS Disposições Transitórias
+CAPÍTULO XIII
+DAS Disposições Transitórias
 
 Art. 37. O Anexo V desta Instrução Normativa será implementado em até 120 (cento e vinte) dias, contados a partir da data de publicação desta Instrução Normativa.
 
-CAPÍTULO XIV DAS Disposições Finais
+Art. 37-A. Em decorrência da pandemia da doença provocada pelo coronavírus identificado em 2019 (Covid-19), os atos cadastrais previstos nos incisos I a VI do art. 2º, praticados durante o período de 20 de março de 2020 a 31 de julho de 2020, podem ser efetivados, de ofício, pela Administração Tributária e cientificados ao interessado, quando cabível, por meio do "Comprovante de Situação Cadastral.
 
-Art. 38. Para fins de inscrição no Cadastro Informativo de Créditos Não Quitados do Setor Público Federal (Cadin), nos termos do inciso II do art. 2 º da Lei n º 10.522, de 19 de julho de 2002, a situação cadastral nula perante o CPF equivale à situação cancelada.
+[Redação dada pelo(a) Instrução Normativa RFB nº 1961, de 29 de junho de 2020]
 
-Art. 39. A Coordenação-Geral de Gestão de Cadastros (Cocad) poderá editar atos complementares a esta Instrução Normativa para alterar seus Anexos.
+Parágrafo único. Além das solicitações previstas nos anexos III e IV desta Instrução Normativa, os pedidos para que sejam praticados os atos cadastrais referidos no caput e para obtenção das informações referidas no art. 23 poderão ser recepcionados pelos meios virtuais disponíveis.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1938, de 15 de abril de 2020]
+
+CAPÍTULO XIV
+DAS Disposições Finais
+
+Art. 38. Para fins de inscrição no Cadastro Informativo de Créditos Não Quitados do Setor Público Federal (Cadin), nos termos do inciso II do art. 2º da Lei nº 10.522, de 19 de julho de 2002, a situação cadastral nula perante o CPF equivale à situação cancelada.
+
+Art. 39.
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1688, de 31 de janeiro de 2017, republicado(a) em 02/02/2017]
 
 Art. 40. Esta Instrução Normativa entra em vigor na data de sua publicação no Diário Oficial da União.
 
-Art. 41. Ficam revogadas a Instrução Normativa RFB n º 1.042, de 10 de junho de 2010, a Instrução Normativa RFB n º 1.054, de 12 de julho de 2010, a Instrução Normativa RFB n º 1.359, de 13 de maio de 2013, e a Instrução Normativa RFB n º 1.442, de 29 de janeiro de 2014.
+Art. 41. Ficam revogadas a Instrução Normativa RFB nº 1.042, de 10 de junho de 2010, a Instrução Normativa RFB nº 1.054, de 12 de julho de 2010, a Instrução Normativa RFB nº 1.359, de 13 de maio de 2013, e a Instrução Normativa RFB nº 1.442, de 29 de janeiro de 2014.
 
 JORGE ANTONIO DEHER RACHID
 
@@ -434,30 +658,469 @@ Anexo I
 
 Modelo de "Comprovante de Inscrição no CPF" Emitido pelas Entidades Conveniadas
 
+[imagem]
+
 Anexo II
 
 Modelo de "Comprovante de Inscrição no CPF" Emitido pelo Sítio da RFB na Internet
+
+[imagem]
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1718, de 18 de julho de 2017]
 
 Anexo III
 
 CPF - Atendimentos no Brasil
 
+(Fl. 1 do Anexo I da Instrução Normativa RFB nº 1.746, de 28 de setembro de 2017.)
+
+ANEXO I (Anexo III da Instrução Normativa RFB nº 1.548, de 13 de fevereiro de 2015)
+
+CPF – ATENDIMENTOS NO BRASIL
+
+Nacionalidade | Quem pode requerer | Documentação necessária | Local de atendimento
+Brasileira | Nos casos de pessoa tutelada, sujeita à guarda, ou menor de 16 (dezesseis) anos de idade: tutor, responsável pela guarda ou um dos pais. | a) Certidão de Nascimento ou documento de identificação oficial com foto do menor, que comprove naturalidade, filiação e data de nascimento; b) Documento de identificação oficial com foto do solicitante (um dos pais, tutor, ou responsável pela guarda); c) Documento que comprove tutela ou responsabilidade pela guarda, conforme o caso, do incapaz; d) Documento que comprove o CPF do menor ou tutelado, para os pedidos de alteração e regularização efetuados no sítio da Secretaria da Receita Federal do Brasil (RFB) na Internet, nos Correios, no Banco do Brasil, na Caixa Econômica Federal ou em entidade pública conveniada. | a) Correios, Banco do Brasil ou Caixa Econômica Federal, nos casos de inscrição, alteração e regularização da situação cadastral suspensa; b) Entidades Públicas Conveniadas, nos casos de inscrição e de alteração de endereço; c) Sítio da Secretaria da Receita Federal do Brasil (RFB) na Internet, nos casos de inscrição, alteração e regularização da situação cadastral suspensa; d) Unidade de Atendimento da RFB: d.1) para a conclusão, caso necessário, de atendimento iniciado nos locais indicados nos itens “a”, “b” e “c” acima, devendo ser apresentado o protocolo de atendimento obtido nesses locais; d.2) quando o endereço do titular do CPF é no exterior; d.3) nos casos de regularização de situação “Pendente de Regularização” prevista no § 1º do art. 11 da Instrução Normativa RFB nº 1.548, de 13 de fevereiro de 2015, restabelecimento e cancelamento por multiplicidade; d.4) para inscrição, alteração e regularização, nos casos em que o solicitante for a própria pessoa com deficiência.
+ | Nos casos de pessoa com 16 (dezesseis) ou 17 (dezessete) anos de idade: a própria pessoa ou um dos pais. | a) Se o solicitante for a própria pessoa: documento de identificação oficial com foto do menor, que comprove naturalidade, filiação e data de nascimento; b) Se o solicitante for um dos pais: Certidão de Nascimento ou documento de identificação oficial com foto do menor que comprove naturalidade, filiação e data de nascimento e documento de identificação oficial com foto do solicitante (um dos pais); c) Título de eleitor ou documento que comprove o alistamento eleitoral (facultativo); d) Documento que comprove o CPF do menor para os pedidos de alteração e regularização efetuados no sítio da RFB na Internet, nos Correios, no Banco do Brasil, na Caixa Econômica Federal ou em entidade pública conveniada. | 
+ | Nos casos de pessoa com deficiência com 18 (dezoito) anos de idade ou mais: a própria pessoa, o cônjuge, o convivente, os ascendentes, os descendentes, os parentes colaterais até o 3º (terceiro) grau ou seu curador. | a) Se o solicitante for a própria pessoa ou procurador: documento de identificação oficial com foto da pessoa, que comprove naturalidade, filiação e data de nascimento; b) Se o solicitante for cônjuge, convivente, ascendente, descendente ou parente colateral até o 3º (terceiro) grau: laudo médico atestando a deficiência e Certidão de Nascimento, Certidão de Casamento, escritura pública de união estável ou documento de identificação oficial com foto da pessoa, que comprove naturalidade, filiação e data de nascimento. O solicitante deverá apresentar documento de identificação oficial com foto, bem como documento que comprove o parentesco; c) Título de eleitor ou documento que comprove o alistamento eleitoral ou sua dispensa; d) Documento que comprove o CPF da pessoa, para os pedidos de alteração e regularização efetuados no sítio da RFB na Internet, nos Correios, no Banco do Brasil, na Caixa Econômica Federal ou em entidade pública conveniada. | 
+ | Nos casos de pessoa com 18 (dezoito) anos de idade ou mais: a própria pessoa. | a) Documento de identificação oficial com foto do interessado; b) Certidão de Nascimento ou Certidão de Casamento, caso não conste no documento de identificação oficial apresentado a naturalidade, a filiação e a data de nascimento; c) Título de eleitor ou documento que comprove o alistamento eleitoral; d) No caso de inexistência da obrigatoriedade ou da impossibilidade do alistamento eleitoral, certidão da justiça eleitoral ou documento que comprove essa condição; e) Documento que comprove o CPF do solicitante, para os pedidos de alteração e regularização efetuados no sítio da RFB na Internet, nos Correios, no Banco do Brasil, na Caixa Econômica Federal ou em entidade pública conveniada. | 
+
+(Fl. 2 do Anexo I da Instrução Normativa RFB nº 1.746, de 28 de setembro de 2017.)
+
+ | Nos casos de pessoa falecida: a) Se houver bens a inventariar no Brasil: o inventariante, o cônjuge, o companheiro ou o sucessor a qualquer título; b) Se não houver bens a inventariar no Brasil: o cônjuge, o companheiro ou parente. | a) Certidão de Óbito ou Certidão de Nascimento ou Certidão de Casamento em que conste a averbação da data do óbito; b) Documento de identificação oficial, Certidão de Nascimento ou Certidão de Casamento da pessoa falecida, caso não conste a data de nascimento, naturalidade e filiação na Certidão de Óbito; c) Documento que comprove a legitimidade do solicitante; d) Documento de identificação oficial com foto do solicitante; e) Para o caso de inscrição, documento que a justifique. | Unidade de Atendimento da RFB, nos casos de informação da data do óbito, inscrição, alteração, regularização, restabelecimento e cancelamento por multiplicidade.
+
+(Fl. 3 do Anexo I da Instrução Normativa RFB nº 1.746, de 28 de setembro de 2017.)
+
+Nacionalidade | Quem pode requerer | Documentação necessária | Local de atendimento
+Demais Nacionalidades | Nos casos de pessoa tutelada, sujeita à guarda, ou menor de 16 (dezesseis) anos de idade: tutor, responsável pela guarda ou um dos pais. | a) Certidão de Nascimento (ou documento equivalente) ou documento de identificação oficial com foto* do menor, que comprove nacionalidade, filiação e data de nascimento; b) Documento de identificação oficial com foto* do solicitante (um dos pais, tutor ou responsável pela guarda); c) Documento que comprove tutela ou responsabilidade pela guarda, conforme o caso, do incapaz; d) Documento que comprove o CPF do menor ou tutelado, para os pedidos de alteração e regularização efetuados no sítio da RFB na Internet, nos Correios, no Banco do Brasil, na Caixa Econômica Federal ou em entidade pública conveniada. | a) Correios, Banco do Brasil ou Caixa Econômica Federal, nos casos de inscrição, alteração e regularização da situação cadastral suspensa; b) Sítio da Secretaria da Receita Federal do Brasil (RFB) na Internet, nos casos de alteração e regularização da situação cadastral suspensa; c) Unidade de Atendimento da RFB: c.1) para a conclusão, caso necessário, de atendimento iniciado nos locais indicados nos itens “a” e “b” acima, devendo ser apresentado o protocolo de atendimento obtido nesses locais; c.2) quando o endereço do titular do CPF é no exterior; c.3) nos casos de regularização de situação “Pendente de Regularização” prevista no § 1º do art. 11 da Instrução Normativa RFB nº 1.548, de 2015, restabelecimento e cancelamento por multiplicidade; c.4) para inscrição, alteração e regularização, nos casos em que o solicitante for a própria pessoa com deficiência.
+ | Nos casos de pessoa com 16 (dezesseis) ou 17 (dezessete) anos de idade: a própria pessoa ou um dos pais. | a) Se o solicitante for a própria pessoa: documento de identificação oficial com foto* do menor, que comprove nacionalidade e data de nascimento; b) Se o solicitante for um dos pais: Certidão de Nascimento (ou documento equivalente) ou documento de identificação oficial com foto* do menor que comprove nacionalidade, filiação e data de nascimento e documento de identificação oficial com foto do solicitante (um dos pais); c) Documento que comprove o CPF do menor para os pedidos de alteração e regularização efetuados no sítio da RFB na Internet, nos Correios, no Banco do Brasil, na Caixa Econômica Federal ou em entidade pública conveniada. | 
+ | Nos casos de pessoa com deficiência com 18 (dezoito) anos de idade ou mais: a própria pessoa, o cônjuge, o convivente, os ascendentes, os descendentes, os parentes colaterais até o 3º (terceiro) grau ou seu curador. | a) Se o solicitante for a própria pessoa ou procurador: documento de identificação oficial com foto*da pessoa, que comprove nacionalidade e data de nascimento; b) Se o solicitante for cônjuge, convivente, ascendente, descendente ou parente colateral até o 3º (terceiro) grau: laudo médico atestando a deficiência e Certidão de Nascimento (ou documento equivalente), Certidão de Casamento (ou documento equivalente), escritura pública de união estável ou documento de identificação oficial com foto* da pessoa, que comprove nacionalidade, filiação e data de nascimento. O solicitante deverá apresentar documento de identificação oficial com foto, bem como documento que comprove o parentesco; c) Documento que comprove o CPF do menor para os pedidos de alteração e regularização efetuados no sítio da RFB na Internet, nos Correios, no Banco do Brasil, na Caixa Econômica Federal ou em entidade pública conveniada. | 
+ | Nos casos de pessoa com 18 (dezoito) anos de idade ou mais: a própria pessoa. | a) Documento de identificação oficial com foto* do interessado, que comprove nacionalidade e data de nascimento; b) Certidão de Nascimento (ou documento equivalente), Certidão de Casamento (ou documento equivalente), caso não conste no documento de identificação oficial apresentado a nacionalidade e a data de nascimento; c) Documento que comprove o CPF da pessoa, para os pedidos de alteração e regularização efetuados no sítio da RFB na Internet, nos Correios, no Banco do Brasil, na Caixa Econômica Federal ou em entidade pública conveniada. | 
+
+(Fl. 4 do Anexo I da Instrução Normativa RFB nº 1.746, de 28 de setembro de 2017.)
+
+ | Nos casos de funcionário estrangeiro de missão diplomática, de repartição consular ou de representação de organismo internacional que goze de imunidade e privilégios: o próprio interessado. | a) Documento de identificação oficial com foto* do interessado, que comprove nacionalidade e data de nascimento; b) Certidão de Nascimento (ou documento equivalente), Certidão de Casamento (ou documento equivalente), caso não conste no documento de identificação oficial apresentado a nacionalidade e a data de nascimento; c) Documento que comprove o CPF da pessoa, para os pedidos de alteração e regularização efetuados no sítio da RFB na Internet, nos Correios, no Banco do Brasil, na Caixa Econômica Federal ou em entidade pública conveniada. | a) Correios, Banco do Brasil ou Caixa Econômica Federal, nos casos de inscrição, alteração e regularização da situação cadastral suspensa, com conclusão da solicitação nas unidades da RFB, caso necessário. Se optar por esta via, o solicitante deverá comunicar o fato da inscrição ou alteração no CPF ao Ministério das Relações Exteriores (MRE); b) Sítio da RFB na Internet nos casos de alteração e regularização da situação cadastral suspensa, com conclusão da solicitação nas unidades da RFB, caso necessário; c) No Ministério das Relações Exteriores (MRE).
+ | Nos casos de pessoa falecida: a) Se houver bens a inventariar no Brasil: o inventariante, o cônjuge, o companheiro ou o sucessor a qualquer título; Se não houver bens a inventariar no Brasil: o cônjuge, o companheiro ou parente. | a) Certidão de Óbito (ou documento equivalente), Certidão de Nascimento (ou documento equivalente) ou Casamento (ou documento equivalente) em que conste a averbação da data do óbito; b) Documento de identificação oficial, Certidão de Nascimento ou Certidão de Casamento da pessoa falecida, caso não conste a data de nascimento e nacionalidade na Certidão de Óbito; c) Documento que comprove a legitimidade do solicitante; d) Documento de identificação oficial com foto do solicitante; e) Para o caso de inscrição, documento que a justifique. | Unidade de Atendimento da RFB, nos casos de informação da data do óbito, inscrição, alteração, regularização, restabelecimento e cancelamento por multiplicidade.
+
+*Serão aceitos como documento de identificação:
+
+I - para residentes no exterior ou em trânsito pelo Brasil:
+
+a) Passaporte;
+
+b) Documento de identificação do país de origem;
+
+c) Outros documentos de viagem e de retorno admitidos em tratados internacionais.
+
+II - para residentes no Brasil:
+
+a) Carteira do Registro Nacional Migratório (CRNM) ou a antiga Cédula de Identidade de Estrangeiro (CIE/RNE);
+
+b) Documento Provisório de Registro Nacional Migratório (DPRNM), emitido pela Polícia Federal para solicitantes de refúgio;
+
+c) Protocolo de refúgio, previsto no art. 21 da Lei 9.474, de 22 de julho de 1997;
+
+d) Certificado de inscrição consular contendo a foto do estrangeiro;
+
+e) Documentos de viagem e de retorno dos Estados Partes do Mercosul e Estados associados, admitidos em acordo internacional.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
+[Vide o(a) Instrução Normativa RFB nº 2034, de 24 de junho de 2021]
+
 Anexo IV
 
 CPF - Atendimentos no Exterior
+
+(Fl. 1 do Anexo II da Instrução Normativa RFB nº 1.746, de 28 de setembro de 2017.)
+
+ANEXO II (Anexo IV da Instrução Normativa RFB nº 1.548, de 13 de fevereiro de 2015)
+
+CPF – ATENDIMENTOS NO EXTERIOR
+
+Nacionalidade | Quem pode requerer | Documentação necessária | Local de atendimento
+Brasileira | Nos casos de pessoa tutelada, sujeita à guarda, ou menor de 16 (dezesseis) anos de idade: tutor, responsável pela guarda ou um dos pais. | a) Certidão de Nascimento ou documento de identificação oficial com foto do menor que comprove naturalidade, filiação e data de nascimento; b) Documento de identificação oficial com foto do solicitante (um dos pais, tutor ou responsável pela guarda); c) Documento que comprove tutela ou responsabilidade pela guarda, conforme o caso, do incapaz; d) Documento que comprove o CPF da pessoa, para os pedidos de alteração e regularização. | a) Sítio da Secretaria da Receita Federal do Brasil (RFB) na Internet, nos casos de inscrição e pedido de regularização da situação cadastral suspensa, para pessoa que possui Título de Eleitor; b) Representação diplomática brasileira, no local onde se encontre o interessado ou o seu procurador, nos casos de informação da data do óbito, inscrição, alteração, regularização e cancelamento por multiplicidade, devendo ser apresentada a Ficha Cadastral de Pessoa Física (FCPF), a ser preenchida no sítio da RFB na Internet.
+ | Nos casos de pessoa com 16 (dezesseis) ou 17 (dezessete) anos de idade: a própria pessoa ou um dos pais. | a) Se o solicitante for a própria pessoa: documento de identificação oficial com foto do menor, que comprove naturalidade, filiação e data de nascimento; b) Se o solicitante for um dos pais: Certidão de Nascimento ou documento de identificação oficial com foto do menor que comprove naturalidade, filiação e data de nascimento e documento de identificação oficial com foto do solicitante (um dos pais); c) Título de Eleitor ou documento que comprove o alistamento eleitoral (facultativo); d) Documento que comprove o CPF do menor, para os pedidos de alteração e regularização. | 
+ | Nos casos de pessoa com deficiência com 18 (dezoito) anos de idade ou mais: a própria pessoa, o cônjuge, o convivente, os ascendentes, os descendentes, os parentes colaterais até o 3º (terceiro) grau ou seu curador. | a) Se o solicitante for a própria pessoa ou procurador: documento de identificação oficial com foto da pessoa, que comprove naturalidade, filiação e data de nascimento; b) Se o solicitante for o cônjuge, convivente, ascendente, descendente ou parente colateral até o 3º (terceiro) grau: laudo médico atestando a deficiência e Certidão de Nascimento, Certidão de Casamento, escritura pública de união estável ou documento de identificação oficial com foto da pessoa que comprove naturalidade, filiação e data de nascimento. O solicitante deverá apresentar documento de identificação oficial com foto, bem como documento que comprove o parentesco ou a procuração; c) Título de Eleitor ou documento que comprove o alistamento eleitoral ou sua dispensa; d) Documento que comprove o CPF da pessoa, para os pedidos de alteração e regularização. | 
+ | Nos casos de pessoa com 18 (dezoito) anos de idade ou mais: a própria pessoa. | a) Documento de identificação oficial com foto do interessado; b) Certidão de Nascimento ou Certidão de Casamento, caso não conste no documento de identificação oficial apresentado a naturalidade, a filiação e a data de nascimento; c) Título de Eleitor ou documento que comprove o alistamento eleitoral; d) No caso de inexistência da obrigatoriedade ou da impossibilidade do alistamento eleitoral, certidão da justiça eleitoral ou documento que comprove essa condição; e) Documento que comprove o CPF da pessoa, para os pedidos de alteração e regularização. | 
+ | Nos casos de pessoa falecida: a) Se houver bens a inventariar: o inventariante, o cônjuge, o companheiro ou o sucessor a qualquer título; b) Se não houver bens a inventariar no Brasil: o cônjuge, | a) Certidão de Óbito ou Certidão de Nascimento ou Certidão de Casamento em que conste a averbação da data do óbito; b) Documento de identificação oficial, Certidão de Nascimento ou Certidão de Casamento da pessoa falecida, caso não conste a data de nascimento, naturalidade e filiação na Certidão de Óbito; c) Documento que comprove a legitimidade do solicitante; d) Documento de identificação oficial com foto do solicitante; e) Para o caso de inscrição, documento que a justifique. | 
+
+(Fl. 2 do Anexo II da Instrução Normativa RFB nº 1.746, de 28 de setembro de 2017.)
+
+ | o companheiro ou parente. |  | 
+
+(Fl. 3 do Anexo II da Instrução Normativa RFB nº 1.746, de 28 de setembro de 2017.)
+
+Nacionalidade | Quem pode requerer | Documentação necessária | Local de atendimento
+Demais Nacionalidades | Nos casos de pessoa tutelada, sujeita à guarda, ou menor de 16 (dezesseis) anos de idade: o tutor, responsável pela guarda ou um dos pais. | a) Certidão de Nascimento (ou documento equivalente) ou documento de identificação oficial com foto do menor, que comprove nacionalidade, filiação e data de nascimento; b) Documento de identificação oficial com foto do solicitante (um dos pais, tutor ou responsável pela guarda); c) Documento que comprove tutela ou responsabilidade pela guarda, conforme o caso; d) Documento que comprove o CPF da pessoa, para os pedidos de alteração e regularização. | a) Representação diplomática brasileira, no local onde se encontre o interessado ou o seu procurador, inclusive funcionário estrangeiro de missão diplomática, de repartição consular ou de representação de organismo internacional que goze de imunidade e privilégios, devendo ser apresentada a Ficha Cadastral de Pessoa Física (FCPF), a ser preenchida no sítio da RFB na Internet; b) Em instituição financeira representante de investidor no Brasil, intermediada pela Comissão de Valores Mobiliários (CVM), se tiver por objetivo realizar aplicações no mercado financeiro e de capitais, na ocasião em que for deferido o Registro de Investidor Estrangeiro; c) Representação diplomática brasileira, no local onde se encontre o interessado ou o seu procurador, nos casos de informação da data do óbito, inscrição, alteração, regularização e cancelamento por multiplicidade, devendo ser apresentada a Ficha Cadastral de Pessoa Física (FCPF), a ser preenchida no sítio da RFB na Internet.
+ | Nos casos de pessoa com 16 (dezesseis) ou 17 (dezessete) anos de idade: a própria pessoa ou um dos pais. | a) Se o solicitante for a própria pessoa: documento de identificação oficial com foto do menor, que comprove nacionalidade, filiação e data de nascimento; b) Se o solicitante for um dos pais: Certidão de Nascimento (ou documento equivalente) ou documento de identificação oficial com foto do menor que comprove naturalidade, filiação e data de nascimento e documento de identificação oficial com foto do solicitante (um dos pais); c) Documento que comprove o CPF do menor, para os pedidos de alteração e regularização. | 
+ | Nos casos de pessoa com deficiência com 18 (dezoito) anos de idade ou mais: a própria pessoa, o cônjuge, o convivente, os ascendentes, os descendentes, os parentes colaterais até o 3º (terceiro) grau ou seu curador. | a) Se o solicitante for a própria pessoa ou procurador: documento de identificação oficial com foto da pessoa, que comprove nacionalidade e data de nascimento; b) Se o solicitante for o cônjuge, convivente, ascendente, descendente ou parente colateral até o 3º (terceiro) grau: laudo médico atestando a deficiência e Certidão de Nascimento (ou documento equivalente), Certidão de Casamento (ou documento equivalente), escritura pública de união estável (ou documento equivalente) ou documento de identificação oficial com foto da pessoa que comprove nacionalidade, filiação e data de nascimento. O solicitante deverá apresentar documento de identificação oficial com foto, bem como documento que comprove o parentesco ou a procuração; c) Documento que comprove o CPF da pessoa, para os pedidos de alteração e regularização. | 
+ | Nos casos de pessoa com 18 (dezoito) anos de idade ou mais: a própria pessoa. | a) Documento de identificação oficial com foto do interessado; b) Certidão de Nascimento (ou documento equivalente) ou Certidão de Casamento (ou documento equivalente), caso não conste no documento de identificação oficial apresentado a nacionalidade, a filiação e a data de nascimento; c) Documento que comprove o CPF da pessoa, para os pedidos de alteração e regularização. | 
+ | Nos casos de pessoa falecida: a) Se houver bens a inventariar no Brasil: o inventariante, o cônjuge, o companheiro ou o sucessor a qualquer título; b) Se não houver bens a inventariar no Brasil: o cônjuge, o companheiro ou parente. | a) Certidão de Óbito (ou documento equivalente), Certidão de Nascimento (ou documento equivalente) ou Certidão de Casamento (ou documento equivalente) em que conste a averbação da data do óbito; b) Documento de identificação oficial, Certidão de Nascimento ou Certidão de Casamento da pessoa falecida, caso não conste a data de nascimento e nacionalidade na Certidão de Óbito; c) Documento que comprove a legitimidade do solicitante; d) Documento de identificação oficial com foto do solicitante; e) Para o caso de inscrição, documento que a justifique. | 
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1746, de 28 de setembro de 2017]
 
 Anexo V
 
 Modelo do Comprovante de Situação Cadastral no CPF
 
+[imagem]
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1718, de 18 de julho de 2017]
+
 Anexo VI
 
 Modelo Referencial de Convênio a ser Celebrado entre a RFB, Bancos e ECT
 
+ANEXO ÚNICO
+
+MODELO DE CONVÊNIO A SER CELEBRADO ENTRE A RFB, BANCOS E ECT
+
+(Anexo VI da Instrução Normativa RFB nº 1.548, de 13 de fevereiro de 2015.)
+
+Convênio que entre si celebram a União, por intermédio da Secretaria da Receita Federal do Brasil (RFB), e o <NOME DO CONVENIADO>, objetivando a ampliação dos pontos de atendimento aos interessados na prática de atos relativos ao Cadastro de Pessoas Físicas (CPF).
+
+A UNIÃO, por intermédio da SECRETARIA DA RECEITA FEDERAL DO BRASIL, doravante denominada RFB, representada pelo Secretário da Receita Federal do Brasil <Nome do Secretário>, RG nº XXX.XXX, CPF nº XXX.XXX.XXXXX, no uso da atribuição que lhe foi conferida pelo inciso VI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e o <CONVENIADO>, representado pelo senhor, <Nome do Representante do Conveniado>, RG nº XXXXXXXXX, CPF nº XXX.XXX.XXX-XX, resolvem celebrar este Convênio que se regerá pelo disposto na Instrução Normativa RFB nº 1.548, de 13 de fevereiro de 2015, e pelas cláusulas seguintes:
+
+CLÁUSULA PRIMEIRA - OBJETO DO CONVÊNIO - Este convênio tem como objetivo possibilitar ao <CONVENIADO> o atendimento de pessoas interessadas na inscrição no Cadastro de Pessoas Físicas (CPF), na alteração de dados cadastrais e na regularização da situação cadastral, nos casos especificados pela RFB, compreendendo atendimento e orientação aos interessados, recebimento, conferência e transcrição, pré-validação e transmissão eletrônica de dados por intermédio de sistema informatizado disponibilizado pela RFB.
+
+PARÁGRAFO PRIMEIRO - O <CONVENIADO> poderá cobrar pelo serviço de atendimento de que trata este convênio até R$ 7,00 (sete reais).
+
+PARÁGRAFO SEGUNDO - Não caberá nenhum ônus financeiro à RFB nas operações realizadas pelo <CONVENIADO>.
+
+PARÁGRAFO TERCEIRO - O <CONVENIADO> se compromete a fornecer ao interessado o respectivo Comprovante de Inscrição no CPF sem imputar qualquer ônus adicional a este.
+
+PARÁGRAFO QUARTO - A RFB disciplinará os casos de atendimento exclusivo em suas unidades.
+
+CLÁUSULA SEGUNDA - DAS INCUMBÊNCIAS DA RFB - Incumbe à RFB:
+
+I - prestar ao <CONVENIADO> as informações necessárias à adequada execução das atividades previstas neste Convênio;
+
+II - designar formalmente representante para acompanhar e fiscalizar a execução deste Convênio, o qual poderá dirimir as dúvidas, quando necessário, e emitir parecer quanto ao cumprimento das obrigações pactuadas;
+
+III - encaminhar ao <CONVENIADO> os atos administrativos e normativos por ela emitidos, referentes à matéria objeto deste Convênio, bem como suas alterações e atualizações;
+
+IV - disponibilizar ao <CONVENIADO> sistema específico de atendimento on-line ao interessado na obtenção de serviço relativo ao CPF;
+
+V - manter o sistema CPF em funcionamento, inclusive nos feriados e finais de semana;
+
+VI – comunicar com antecedência ao conveniado manutenção no sistema CPF que provoque sua interrupção, inclusive as efetivadas em feriados e nos finais de semana;
+
+VII - coordenar a capacitação das entidades conveniadas para a adequada execução dos serviços do CPF, as quais se responsabilizarão pela disseminação desse conhecimento aos seus funcionários.
+
+CLÁUSULA TERCEIRA - DAS INCUMBÊNCIAS DO <CONVENIADO> - Incumbe ao <CONVENIADO>:
+
+I - atender e orientar os contribuintes da RFB na inscrição, alteração de dados cadastrais e regularização de situação cadastral no CPF;
+
+II - conferir a documentação apresentada pelo interessado, para verificar se preenche os requisitos necessários à prática de cada um dos atos do CPF;
+
+III – corrigir, sem ônus para o solicitante, erro decorrente da execução de seu serviço, desde que seja dado ciência ao <CONVENIADO> no prazo de 60 (sessenta) dias, contado a partir do atendimento inicial;
+
+IV - emitir código de atendimento e entregá-lo ao interessado;
+
+V – entregar ao interessado a relação de documentos a serem apresentados à RFB, nos casos de atendimento não-conclusivo;
+
+VI - manter as conexões de acesso ao sistema CPF em funcionamento;
+
+VII - manter pessoal capacitado para prestar atendimento adequado ao interessado no CPF;
+
+VIII - definir interlocutor responsável pelo sistema CPF, que prestará à RFB informações necessárias ao gerenciamento do convênio;
+
+IX - permitir acesso por servidor da RFB, responsável pelo controle de qualidade, a todas as operações relativas
+
+ao CPF abrangidas por este Convênio;
+
+X - propor ajustes necessários ao aprimoramento, à segurança e racionalização operacional do cadastramento e as respectivas alterações, na forma do objeto deste convênio; e
+
+XI - comunicar à RFB qualquer anormalidade de caráter urgente e prestar os esclarecimentos julgados necessários.
+
+CLÁUSULA QUARTA - VIGÊNCIA - Este Convênio vigerá por 60 (sessenta) meses, a partir da data de sua assinatura.
+
+CLÁUSULA QUINTA - ALTERAÇÃO - Este convênio poderá ser alterado em qualquer de suas cláusulas e condições, mediante termo aditivo.
+
+CLÁUSULA SEXTA - DO REPRESENTANTE DA RFB - O acompanhamento e a fiscalização deste Convênio serão exercidos por representante da RFB formalmente designado.
+
+CLÁUSULA SÉTIMA - DA DENÚNCIA - Este Convênio poderá ser denunciado por acordo entre os convenentes ou unilateralmente, desde que o denunciante o comunique ao outro convenente por escrito, com antecedência mínima de 30 (trinta) dias, ficando os convenentes responsáveis somente pelas obrigações e as vantagens do tempo em que participaram do acordo, em conformidade com o art. 12 do Decreto nº 6.170, de 25 de julho de 2007.
+
+CLÁSULA OITAVA - DA PUBLICAÇÃO - Incumbirá à RFB providenciar a publicação do extrato deste Convênio no Diário Oficial da União, bem como dos eventuais termos aditivos que forem firmados, até o 15º (décimo quinto) dia útil do mês subsequente ao de sua assinatura.
+
+CLÁUSULA NONA - DO FORO - As questões sobre a aplicação das disposições deste Convênio serão submetidas à Justiça Federal, Seção Judiciária do Distrito Federal.
+
+E, por estarem de acordo os partícipes, foi lavrado este Convênio, em 2 (duas) vias de igual teor e forma, assinadas pelos respectivos representantes, destinada uma para cada convenente.
+
+<Cidade (UF)>, XX de XXXXX de XXXX.
+
+Secretário da Receita Federal do Brasil | Representante do <CONVENIADO >
+
+TESTEMUNHAS:
+
+1) Nome:
+
+CPF: ___.___.___-__ e assinatura: _______________________________.
+
+2) Nome:
+
+CPF: ___.___.___-__ e assinatura: _______________________________.
+
+(Modelo aprovado pela Instrução Normativa RFB nº 1.588, de 07 de outubro de 2015.)
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1588, de 7 de outubro de 2015]
+
 Anexo VII
 
-Modelo de Convênio a ser Celebrado entre a RFB e Estados ou Municípios - Entidades citadas no inciso I do art. 27 da Instrução Normativa RFB n º X.XXX, de XX de junho de 2015.
+Modelo de Convênio a ser Celebrado entre a RFB e Estados ou Municípios - Entidades citadas no inciso I do art. 27 da Instrução Normativa RFB nº X.XXX, de XX de junho de 2015.
+
+ANEXO VII
+
+MODELO DE CONVÊNIO A SER CELEBRADO ENTRE A RFB E ESTADOS OU MUNICÍPIOS - ENTIDADES CITADAS
+
+NO INCISO I DO ART. 27 DA IN RFB Nº 1548, DE 2015.
+
+Convênio que entre si celebram a União, por intermédio da Secretaria da Receita Federal do Brasil, e o Estado/Município <NOME DO ESTADO/MUNICÍPIO>, por intermédio da <NOME DA SECRETARIA DE ESTADO/MUNICÍPIO>, objetivando a ampliação dos pontos de atendimento aos interessados na prática de atos relativos ao Cadastro de Pessoas Físicas (CPF).
+
+A UNIÃO, por intermédio da SECRETARIA DA RECEITA FEDERAL DO BRASIL, doravante denominada RFB, CNPJ sob o nº 00.394.460/0058-87, representada pelo Superintendente da Receita Federal do Brasil na XXa Região Fiscal, <Indicação do Superintendente>, R.G. nº XXX.XXX, CPF nº XXX.XXX.XXXXX, conforme atribuição que lhe foi conferida pela IN RFB nº 864, de 25 de julho de 2008, e o Estado/Município <NOME DO ESTADO/MUNICÍPIO>, por intermédio da <NOME DA SECRETARIA DE ESTADO/MUNICÍPIO (SECRE)>, representada pelo seu Secretário, <Indicação do Secretário Estadual/Municipal>, R.G. nº XXXXXXXXX, CPF nº XXX.XXX.XXX-XX, resolvem celebrar, por seus representantes legais, o presente Convênio que se regerá pelo disposto na IN RFB nº 864, de 25 de julho de 2008 e pelas cláusulas seguintes:
+
+CLÁUSULA PRIMEIRA - OBJETO DO CONVÊNIO – O presente Convênio tem como objetivo possibilitar à <SECRE> o atendimento de pessoas interessadas na inscrição e na alteração de endereço no Cadastro de Pessoas Físicas (CPF), nos casos especificados pela RFB, compreendendo atendimento e orientação aos interessados, recebimento, conferência e transcrição de dados por intermédio de sistema informatizado disponibilizado pela RFB.
+
+PARÁGRAFO PRIMEIRO - O serviço de atendimento aos interessados prestado pela <SECRE> deverá ser gratuito.
+
+PARÁGRAFO SEGUNDO - Caberá à RFB os custos de acesso às suas bases de dados nas operações realizadas pela <SECRE>.
+
+PARÁGRAFO TERCEIRO - A <SECRE> deverá fazer constar o número de inscrição resultante do atendimento à solicitação de inscrição no CPF em um dos documentos abaixo, de sua emissão:
+
+I - Carteira de Identidade;
+
+II - Carteira Nacional de Habilitação;
+
+III - outros documentos de acesso a serviços de saúde pública, de assistência social ou previdenciários.
+
+PARÁGRAFO QUARTO - A <SECRE> poderá imprimir o “Comprovante de Inscrição no CPF” a partir da página da RFB na Internet, no endereço <www.receita.fazenda.gov.br>.
+
+PARÁGRAFO QUINTO - A RFB disciplinará os casos de atendimento exclusivo em suas unidades.
+
+CLÁUSULA SEGUNDA - DAS INCUMBÊNCIAS DA RFB- Incumbe à RFB:
+
+I - estabelecer as diretrizes necessárias à operacionalização, pela <SECRE>, das atividades previstas neste Convênio;
+
+II - prestar à <SECRE> as informações necessárias à adequada execução das atividades previstas no presente Convênio;
+
+III - designar formalmente representante para acompanhar e fiscalizar a execução do presente Convênio, o qual poderá dirimir as dúvidas, quando necessário, e emitir parecer quanto ao cumprimento das obrigações pactuadas;
+
+IV - encaminhar à <SECRE> os atos administrativos e normativos por ela emitidos, referentes à matéria objeto deste Convênio, bem assim suas alterações e atualizações;
+
+V - tornar disponível à <SECRE> serviço específico de atendimento ao interessado na obtenção de serviço relativo ao CPF;
+
+VI - manter o sistema CPF em funcionamento.
+
+PARÁGRAFO ÚNICO – A RFB disponibilizará à <SECRE>, por qualquer meio ou solução que venha a ser adotado pela Coordenação-Geral de Tecnologia da Informação (Cotec), a consulta à base de dados cadastrais do sistema CPF, quando necessária à execução das atividades previstas neste Convênio.
+
+CLÁUSULA TERCEIRA - DAS INCUMBÊNCIAS DA <SECRE> - Incumbe a <SECRE>:
+
+I - atender e orientar os contribuintes da RFB na inscrição no Cadastro de Pessoas Físicas (CPF) e na atualização do endereço;
+
+II - conferir a documentação apresentada pelo interessado, para verificar se preenche os requisitos necessários à
+
+prática de cada um dos atos do CPF;
+
+III - coletar os dados dos documentos apresentados e transcrevê-los fielmente no sistema CPF;
+
+IV - emitir o código de atendimento e entregá-lo ao interessado;
+
+V – entregar ao interessado a relação de documentos a serem apresentados à RFB, nos casos de atendimento não-conclusivo;
+
+VI - manter as conexões de acesso ao sistema de cadastramento em funcionamento;
+
+VII - arquivar o formulário por sessenta dias, podendo destruí-lo após esse prazo;
+
+VIII - manter pessoal capacitado para prestar atendimento adequado ao interessado no CPF;
+
+IX - definir interlocutor responsável pelo sistema CPF, prestando à RFB informações necessárias ao gerenciamento do Convênio;
+
+X - permitir acesso por servidor da RFB, responsável pelo controle de qualidade, a todas as operações relativas ao CPF abrangidas por este Convênio;
+
+XI - propor ajustes necessários ao aprimoramento, à segurança e racionalização operacional do cadastramento e as respectivas alterações, na forma do objeto deste Convênio;
+
+XII - comunicar à RFB qualquer anormalidade de caráter urgente e prestar os esclarecimentos julgados necessários;
+
+XIII - utilizar os dados que lhe forem fornecidos somente nas atividades previstas neste Convênio, não podendo transferi-los a terceiros, seja a título oneroso ou gratuito, ou, de qualquer forma, divulgá-los, sob pena de extinção imediata deste Convênio.
+
+CLÁUSULA QUARTA - VIGÊNCIA - O presente Convênio vigerá por prazo indeterminado, a partir da publicação do respectivo extrato no Diário Oficial da União.
+
+CLÁUSULA QUINTA - ALTERAÇÃO - O presente Convênio poderá ser alterado em qualquer de suas cláusulas e condições mediante termo aditivo.
+
+CLÁUSULA SEXTA - DO REPRESENTANTE DA RFB - O acompanhamento e a fiscalização deste Convênio serão exercidos por um representante da RFB formalmente designado.
+
+CLÁUSULA SÉTIMA - DA DENÚNCIA - O presente Convênio poderá ser denunciado por acordo entre os conveniados ou unilateralmente, desde que o denunciante o comunique ao outro conveniado por escrito, com antecedência mínima de trinta dias, ficando os conveniados responsáveis somente pelas obrigações e as vantagens do tempo em quer participaram do acordo.
+
+CLÁSULA OITAVA - DA PUBLICAÇÃO - Incumbirá à RFB providenciar a publicação do extrato deste Convênio no Diário Oficial da União, bem assim dos eventuais termos aditivos.
+
+CLÁUSULA NONA- DO FORO - As questões sobre a aplicação das disposições deste Convênio serão submetidas à Justiça Federal, Seção Judiciária do Distrito Federal.
+
+E, por estarem de acordo os partícipes, foi lavrado o presente Convênio, em duas vias de igual teor e forma, assinadas pelos respectivos representantes, destinada uma para cada convenente.
+
+<Cidade (UF)>, de de 200X.
+
+<NOME DO SUPERINTENDENTE>
+
+Superintendente da Receita Federal do Brasil
+
+< NOME DO SECRETÁRIO DO ESTADO/MUNICÍPIO>
+
+<Secretário de Estado ou Municipal>
+
+TESTEMUNHAS:
+
+1)Nome:
+
+CPF: ___.___.___-__ e assinatura: _______________________________.
+
+2)Nome:
+
+CPF: ___.___.___-__ e assinatura: _______________________________.
+
+(Modelo aprovado pela Instrução Normativa RFB nº 1548, de 13 de fevereiro de 2015.)
 
 ANEXO VIII
 
-Modelo de Convênio a ser Celebrado entre a RFB e Estados ou Municípios - Entidades citadas no inciso II do art. 27 da Instrução Normativa RFB n º X.XXX, de XX de junho de 2015.
+Modelo de Convênio a ser Celebrado entre a RFB e Estados ou Municípios - Entidades citadas no inciso II do art. 27 da Instrução Normativa RFB nº X.XXX, de XX de junho de 2015.
+
+ANEXO VIII
+
+MODELO DE CONVÊNIO A SER CELEBRADO ENTRE A RFB E ESTADOS OU MUNICÍPIOS - ENTIDADES CITADAS
+
+NO INCISO II DO ART. 27 DA IN RFB Nº XXX, DE XXXX.
+
+Convênio que entre si celebram a União, por intermédio da Secretaria da Receita Federal do Brasil, e o Estado/Município <NOME DO ESTADO/MUNICÍPIO >, por intermédio da <NOME DA SECRETARIA DE ESTADO/ MUNICÍPIO>, objetivando a ampliação dos pontos de atendimento aos interessados na prática de atos relativos ao Cadastro de Pessoas Físicas (CPF).
+
+A UNIÃO, por intermédio da SECRETARIA DA RECEITA FEDERAL DO BRASIL, doravante denominada RFB, CNPJ sob o nº 00.394.460/0058-87, representada pelo Superintendente da Receita Federal do Brasil na XXa Região Fiscal, <Indicação do Superintendente>, R.G. nº XXX.XXX, CPF nº XXX.XXX.XXXXX, conforme atribuição que lhe foi conferida pela IN RFB nº 864, de 25 de julho de 2008, e o Estado/Município <NOME DO ESTADO/MUNICÍPIO>, por intermédio da <NOME DA SECRETARIA DE ESTADO/MUNICÍPIO (SECRE)>, representada pelo seu Secretário, <Indicação do Secretário Estadual/Municipal>, R.G. nº XXXXXXXXX, CPF nº XXX.XXX.XXX-XX, resolvem celebrar, por seus representantes legais, o presente Convênio que se regerá pelo disposto na IN RFB nº 864, de 25 de julho de 2008 e pelas cláusulas seguintes:
+
+CLÁUSULA PRIMEIRA - OBJETO DO CONVÊNIO – O presente Convênio tem como objetivo possibilitar à <SECRE> o atendimento de pessoas interessadas na inscrição e na alteração de endereço no Cadastro de Pessoas Físicas (CPF), nos casos especificados pela RFB, compreendendo atendimento e orientação aos interessados, recebimento, conferência e transcrição de dados em sistema informatizado disponibilizado pela RFB.
+
+PARÁGRAFO PRIMEIRO - O serviço de atendimento aos interessados prestado pela <SECRE> deverá ser gratuito.
+
+PARÁGRAFO SEGUNDO - Caberá à RFB os custos de acesso às suas bases de dados nas operações realizadas pela <SECRE>.
+
+PARÁGRAFO TERCEIRO - A <SECRE> deverá entregar à pessoa física cópia do “Comprovante de Inscrição no CPF” impressa a partir da página da RFB na Internet, no endereço <www.receita.fazenda.gov.br>.
+
+PARÁGRAFO QUARTO - A RFB disciplinará os casos de atendimento exclusivo em suas unidades.
+
+CLÁUSULA SEGUNDA - DAS INCUMBÊNCIAS DA RFB - Incumbe à RFB:
+
+I - estabelecer as diretrizes necessárias à operacionalização, pela <SECRE>, das atividades previstas neste Convênio;
+
+II - prestar à <SECRE> as informações necessárias à adequada execução das atividades previstas no presente Convênio;
+
+III - designar formalmente representante para acompanhar e fiscalizar a execução do presente Convênio, o qual poderá dirimir as dúvidas, quando necessário, e emitir parecer quanto ao cumprimento das obrigações pactuadas;
+
+IV - encaminhar à <SECRE> os atos administrativos e normativos por ela emitidos, referentes à matéria objeto deste Convênio, bem assim suas alterações e atualizações;
+
+V - tornar disponível à <SECRE> serviço específico de atendimento ao interessado na obtenção de serviço relativo ao CPF;
+
+VI - manter o sistema CPF em funcionamento.
+
+PARÁGRAFO ÚNICO – A RFB disponibilizará à <SECRE>, por qualquer meio ou solução que venha a ser adotado pela Coordenação-Geral de Tecnologia da Informação (Cotec), a consulta à base de dados cadastrais do sistema CPF, quando necessária à execução das atividades previstas neste Convênio.
+
+CLÁUSULA TERCEIRA - DAS INCUMBÊNCIAS DA <SECRE> - Incumbe a <SECRE>:
+
+I - atender e orientar os contribuintes da RFB na inscrição no Cadastro de Pessoas Físicas (CPF) e na atualização do endereço;
+
+II - conferir a documentação apresentada pelo interessado, para verificar se preenche os requisitos necessários à prática de cada um dos atos do CPF;
+
+III - coletar os dados dos documentos apresentados e transcrevê-los fielmente no sistema CPF;
+
+IV - emitir o código de atendimento e entregá-lo ao interessado;
+
+V - entregar ao interessado a relação de documentos a serem apresentados à RFB, nos casos de atendimento não-conclusivo.
+
+VI - manter as conexões de acesso ao sistema de cadastramento em funcionamento;
+
+VII - arquivar o formulário por sessenta dias, podendo destruí-lo após esse prazo;
+
+VIII - manter pessoal capacitado para prestar atendimento adequado ao interessado no CPF;
+
+IX - definir interlocutor responsável pelo sistema CPF, prestando à RFB informações necessárias ao gerenciamento do Convênio;
+
+X - permitir acesso por servidor da RFB, responsável pelo controle de qualidade, a todas as operações relativas ao CPF abrangidas por este Convênio;
+
+XI - propor ajustes necessários ao aprimoramento, à segurança e racionalização operacional do cadastramento e as respectivas alterações, na forma do objeto deste Convênio;
+
+XII - comunicar à RFB qualquer anormalidade de caráter urgente e prestar os esclarecimentos julgados necessários;
+
+XIII - utilizar os dados que lhe forem fornecidos somente nas atividades previstas neste Convênio, não podendo transferi-los a terceiros, seja a título oneroso ou gratuito, ou, de qualquer forma, divulgá-los, sob pena de extinção imediata deste Convênio.
+
+CLÁUSULA QUARTA - VIGÊNCIA - O presente Convênio vigerá por prazo indeterminado, a partir da publicação do respectivo extrato no Diário Oficial da União.
+
+CLÁUSULA QUINTA - ALTERAÇÃO - O presente Convênio poderá ser alterado em qualquer de suas cláusulas e condições mediante termo aditivo.
+
+CLÁUSULA SEXTA - DO REPRESENTANTE DA RFB - O acompanhamento e a fiscalização deste Convênio serão exercidos por um representante da RFB formalmente designado.
+
+CLÁUSULA SÉTIMA - DA DENÚNCIA - O presente Convênio poderá ser denunciado por acordo entre os conveniados ou unilateralmente, desde que o denunciante o comunique ao outro conveniado por escrito, com antecedência mínima de trinta dias, ficando os conveniados responsáveis somente pelas obrigações e as vantagens do tempo em quer participaram do acordo.
+
+CLÁSULA OITAVA - DA PUBLICAÇÃO - Incumbirá à RFB providenciar a publicação do extrato deste Convênio no Diário Oficial da União, bem assim dos eventuais termos aditivos.
+
+CLÁUSULA NONA- DO FORO - As questões sobre a aplicação das disposições deste Convênio serão submetidas à Justiça Federal, Seção Judiciária do Distrito Federal.
+
+E, por estarem de acordo os partícipes, foi lavrado o presente Convênio, em duas vias de igual teor e forma, assinadas pelos respectivos representantes, destinada uma para cada convenente.
+
+<Cidade (UF)>, de de 200X.
+
+<NOME DO SUPERINTENDENTE>
+
+Superintendente da Receita Federal do Brasil
+
+< NOME DO SECRETÁRIO DO ESTADO/MUNICÍPIO>
+
+<Secretário de Estado ou Municipal>
+
+TESTEMUNHAS:
+
+1)Nome:
+
+CPF: ___.___.___-__ e assinatura: _______________________________.
+
+2)Nome:
+
+CPF: ___.___.___-__ e assinatura: _______________________________.
+
+(Modelo aprovado pela Instrução Normativa RFB nº 1548, de 13 de fevereiro de 2015.)
+
+ANEXO IX
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1718, de 18 de julho de 2017]
+
+Modelo de requerimento de inclusão/exclusão de nome social no CPF
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1718, de 18 de julho de 2017]
+
+ANEXO III (Anexo IX da Instrução Normativa RFB nº 1.548, de 13 de fevereiro de 2015)
+
+REQUERIMENTO DE INCLUSÃO/EXCLUSÃO DE NOME SOCIAL NO CPF
+
+__________________________________________________(nome civil), portador do Documento de
+
+Identificação nº ______________, expedido pelo ___________ em ____/____/______, inscrito no
+
+Cadastro de Pessoas Físicas sob o nº ______________________, solicita, com base no art. 6º do Decreto
+
+nº 8.727, de 28 de abril de 2016:
+
+inclusão de seu nome social, _______________________________________________, no CPF.
+
+I
+
+ou
+
+exclusão de seu nome social, ______________________________________________, no CPF.
+
+____________________________, ____/____/________
+
+Local e data
+
+________________________________________________________
+
+Assinatura
+
+Decreto nº 8.727 de 28 de abril de 2016 (...) Art. 6º A pessoa travesti ou transexual poderá requerer, a qualquer tempo, a inclusão de seu nome social em documentos oficiais e nos registros dos sistemas de informação, de cadastros, de programas, de serviços, de fichas, de formulários, de prontuários e congêneres dos órgãos e das entidades da administração pública federal direta, autárquica e fundacional. (...)
+
+IN RFB 1.548/2015 v.1.00.00 1/1
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1718, de 18 de julho de 2017]

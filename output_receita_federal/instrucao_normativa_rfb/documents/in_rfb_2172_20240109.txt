@@ -4,7 +4,8 @@ Dispõe sobre o Cadastro de Pessoas Físicas.
 
 O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020 , e tendo em vista o disposto no art. 11 da Lei nº 4.862, de 29 de novembro de 1965 , nos arts. 1º e 3º do Decreto-Lei nº 401, de 30 de dezembro de 1968 , no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999 , no art. 32 do Decreto nº 9.580, de 22 de novembro de 2018 , e nas Portarias Interministeriais MF/MRE nº 101 e nº 102, de 23 de abril de 2002 ,: resolve:
 
-CAPÍTULO I DISPOSIÇÕES PRELIMINARES
+CAPÍTULO I
+DISPOSIÇÕES PRELIMINARES
 
 Art. 1º Esta Instrução Normativa dispõe sobre o Cadastro de Pessoas Físicas - CPF administrado pela Secretaria Especial da Receita Federal do Brasil - RFB.
 
@@ -12,9 +13,15 @@ Art. 1º Esta Instrução Normativa dispõe sobre o Cadastro de Pessoas Físicas
 
 § 2º À pessoa física inscrita no CPF é atribuído um identificador único, vedada a concessão de mais de um número para a mesma pessoa, denominado número de inscrição no CPF - NI-CPF.
 
-CAPÍTULO II DA SITUAÇÃO CADASTRAL E DOS ATOS CADASTRAIS NO CPF
+§ 3º A pessoa física deve manter atualizados os dados de sua inscrição no CPF.
 
-Seção I Da situação cadastral no CPF
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+CAPÍTULO II
+DA SITUAÇÃO CADASTRAL E DOS ATOS CADASTRAIS NO CPF
+
+Seção I
+Da situação cadastral no CPF
 
 Art. 2º A inscrição no CPF será enquadrada, quanto à situação cadastral, em:
 
@@ -30,9 +37,20 @@ V - "Titular Falecido", caso conste informação de óbito do titular da inscri�
 
 VI - "Nula", em caso de constatação de fraude.
 
-Parágrafo único. A situação cadastral no CPF independe da regularidade dos pagamentos dos tributos administrados pela RFB.
+§ 1º A situação cadastral no CPF independe da regularidade dos pagamentos dos tributos administrados pela RFB.
 
-Seção II Dos atos praticados perante o CPF
+[Redação dada pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+§ 2º A inscrição no CPF cujo titular seja pessoa falecida deverá ser necessariamente enquadrada na situação cadastral "Titular Falecido", não sendo permitida a alteração para a situação cadastral "Regular", que se destina apenas a inscrições de pessoas vivas.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+§ 3º A situação cadastral "Titular Falecido" possibilita aos interessados a prática de quaisquer atos da vida civil, inclusive recebimento de precatórios, processamento de inventários, entrega de declarações, pagamentos de tributos, registro de imóveis, lavraturas de escrituras e instituição de benefício previdenciário.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+Seção II
+Dos atos praticados perante o CPF
 
 Art. 3º No CPF são praticados os seguintes atos cadastrais:
 
@@ -58,9 +76,11 @@ VIII - restabelecimento da inscrição.
 
 § 3º Os atos praticados de ofício no CPF somente poderão ser realizados pela RFB ou por órgãos públicos autorizados.
 
-CAPÍTULO III DA INSCRIÇÃO
+CAPÍTULO III
+DA INSCRIÇÃO
 
-Seção I Da obrigatoriedade de inscrição
+Seção I
+Da obrigatoriedade de inscrição
 
 Art. 4º Estão obrigadas à inscrição no CPF as pessoas físicas:
 
@@ -86,7 +106,8 @@ VI - filiadas como segurados obrigatórios da Previdência Social ou requerentes
 
 Parágrafo único. As pessoas físicas não obrigadas à inscrição de que trata este artigo podem solicitar a sua inscrição.
 
-Seção II Da comprovação da inscrição
+Seção II
+Da comprovação da inscrição
 
 Art. 5º A comprovação da inscrição no CPF será feita mediante a apresentação de documento, emitido por órgão público no Brasil, em que conste o NI-CPF, em especial nos seguintes documentos:
 
@@ -134,13 +155,21 @@ IV - a data e hora da emissão e o código de controle, que deverão ser utiliza
 
 § 6º Nos casos em que o Comprovante de Inscrição no CPF for emitido pelas entidades conveniadas citadas nos incisos IV a VI do caput do art. 24, deverá ser adotado o modelo constante do Anexo II.
 
-Seção III Dos documentos necessários à inscrição e locais de solicitação
+Seção III
+Dos documentos necessários à inscrição e locais de solicitação
 
-Art. 6º Ressalvada a hipótese prevista no inciso II do caput do art. 7º, a inscrição no CPF será solicitada conforme estabelecido no Anexo IV.
+Art. 6º A inscrição no CPF será solicitada conforme estabelecido no Anexo IV.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
 
 Parágrafo único. Além dos documentos relacionados no Anexo IV, poderão ser exigidos outros documentos, a critério da RFB.
 
-Seção IV Da inscrição realizada pela RFB
+Art. 6º-A. A inscrição no CPF para brasileiro, nato ou naturalizado, com dezoito anos de idade ou mais, que não possuir documento de identificação oficial com foto deve ser realizada no âmbito do processo de emissão da Carteira de Identidade Nacional - CIN pelo órgão de identificação civil.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2293, de 19 de novembro de 2025]
+
+Seção IV
+Da inscrição realizada pela RFB
 
 Art. 7º Além das hipóteses enumeradas no Anexo IV, as inscrições serão realizadas pela RFB nas seguintes hipóteses:
 
@@ -150,7 +179,9 @@ a) unidade prisional ou unidade socioeducativa de internação;
 
 b) órgão público, entidade de assistência social ou entidade de saúde pública ou privada, em razão da impossibilidade de solicitação pela pessoa física ou seu representante, por meio dos canais de atendimento da RFB previstos no Anexo IV;
 
-c) órgão de identificação civil para fins de emissão da Carteira de Identidade Nacional - CIN, nos termos de norma editada pela RFB; e
+c) órgão de identificação civil para fins de emissão da CIN, nos termos de norma editada pela Secretaria Especial da Receita Federal do Brasil; e
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2293, de 19 de novembro de 2025]
 
 d) Conselho Tutelar, para menores em situação de risco;
 
@@ -158,19 +189,45 @@ II - no interesse da administração tributária; e
 
 III - em atendimento a determinação judicial.
 
-§ 1º Na inscrição solicitada por unidade prisional ou por unidade socioeducativa de internação, deverá ser observado o disposto no Anexo V.
+§ 1º No caso previsto na alínea "a" do inciso I do caput, deverá ser observado o disposto no Anexo V.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
 
 § 2º A inscrição realizada conforme disposto no inciso II do caput será comunicada à pessoa física interessada.
 
-CAPÍTULO IV DA ALTERAÇÃO DE DADOS CADASTRAIS
+§ 3º No caso previsto no inciso III do caput, deverá ser informado o endereço da pessoa a ser inscrita e poderão ser aceitos os seguintes documentos:
 
-Seção I Dos documentos necessários à alteração e locais de solicitação
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+I - documento de identificação oficial com foto;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+II - cópia do prontuário ou da ficha de identificação civil;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+III - certidão de nascimento, para menores de dezesseis anos de idade; ou
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+IV - certidão de óbito, para falecido.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+CAPÍTULO IV
+DA ALTERAÇÃO DE DADOS CADASTRAIS
+
+Seção I
+Dos documentos necessários à alteração e locais de solicitação
 
 Art. 8º A alteração no CPF será solicitada conforme estabelecido no Anexo IV.
 
 § 1º Além dos documentos exigidos no Anexo IV, poderão ser exigidos outros documentos que comprovem a alteração cadastral.
 
-§ 2º A pessoa física é responsável pela atualização da informação relativa a seu endereço, dispensada a apresentação de documentos comprobatórios, a qual poderá ser efetuada por meio:
+§ 2º A atualização da informação relativa a endereço poderá ser efetuada por meio:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
 
 I - da DIRPF;
 
@@ -184,7 +241,16 @@ V - dos canais de atendimento da RFB, no caso de alteração de endereço para o
 
 § 3º A informação de óbito do titular resultará na mudança da situação cadastral da inscrição no CPF para "Titular Falecido", prevista no inciso V do caput do art.2º.
 
-Seção II Da alteração realizada pela RFB
+Art. 8º-A. Para pessoa que possua CIN emitida, os dados de identificação pessoal - nome, nome social, filiação, data de nascimento, sexo, naturalidade e nacionalidade - constantes no CPF, devem corresponder integralmente aos da CIN.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2293, de 19 de novembro de 2025]
+
+Parágrafo único. A alteração no CPF dos dados de identificação pessoal mencionados no caput deve ser realizada por meio da emissão de nova via da CIN pelo órgão de identificação civil.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2293, de 19 de novembro de 2025]
+
+Seção II
+Da alteração realizada pela RFB
 
 Art. 9º Além das hipóteses enumeradas no Anexo IV, as alterações de dados cadastrais no CPF serão realizadas pela RFB:
 
@@ -198,7 +264,9 @@ c) órgão de identificação civil para fins de emissão da CIN, nos termos de 
 
 d) Conselho Tutelar, para menores em situação de risco;
 
-II - para inclusão ou exclusão de nome social de pessoa travesti ou transexual, mediante solicitação do interessado, conforme previsto no art. 6º do Decreto nº 8.727, de 28 de abril de 2016 ;
+II - para inclusão ou exclusão de nome social, mediante solicitação do interessado, conforme previsto no art. 6º do Decreto nº 8.727, de 28 de abril de 2016 , observado o disposto no art. 8º-A desta Instrução Normativa;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2293, de 19 de novembro de 2025]
 
 III - no caso de informações disponibilizadas por terceiros, em conformidade com convênios celebrados para troca de informações;
 
@@ -206,7 +274,9 @@ IV - no interesse da administração tributária; e
 
 V - em atendimento a determinação judicial.
 
-§ 1º Na alteração solicitada por unidade prisional ou por unidade socioeducativa de internação, deverá ser observado o disposto no Anexo V.
+§ 1º No caso previsto na alínea "a" do inciso I do caput, deverá ser observado o disposto no Anexo V.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
 
 § 2º A alteração efetuada em conformidade com o disposto no inciso IV do caput será comunicada à pessoa física interessada por meio da emissão do:
 
@@ -218,9 +288,31 @@ II - Comprovante de Situação Cadastral no CPF, acessado por meio do aplicativo
 
 § 4º Na alteração a que se refere o inciso II do caput, deverá ser observado o disposto nos Anexos VII e VIII.
 
-CAPÍTULO V DA PENDÊNCIA DE REGULARIZAÇÃO
+§ 5º No caso previsto no inciso V do caput, deverá ser informado o endereço do titular da inscrição do CPF e poderão ser aceitos os seguintes documentos:
 
-Seção I Da indicação e da comunicação
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+I - documento de identificação oficial com foto;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+II - cópia do prontuário ou da ficha de identificação civil;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+III - certidão de nascimento, para menores de dezesseis anos de idade; ou
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+IV - certidão de óbito, para falecido.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+CAPÍTULO V
+DA PENDÊNCIA DE REGULARIZAÇÃO
+
+Seção I
+Da indicação e da comunicação
 
 Art. 10. A indicação de pendência de regularização será realizada quando não houver entrega de DIRPF, se obrigatória.
 
@@ -230,7 +322,8 @@ I - Comprovante de Situação Cadastral no CPF, conforme modelo constante do Ane
 
 II - Comprovante de Situação Cadastral no CPF, acessado por meio do aplicativo da RFB para dispositivos móveis.
 
-Seção II Da regularização da pendência
+Seção II
+Da regularização da pendência
 
 Art. 11. A pessoa física regularizará a situação cadastral "Pendente de Regularização" mediante a apresentação, ainda que em atraso:
 
@@ -242,11 +335,15 @@ II - da Declaração de Saída Definitiva do País.
 
 § 2º A regularização será efetuada sem prejuízo da exigência do imposto que for devido e da imposição das penalidades cabíveis.
 
-CAPÍTULO VI DA SUSPENSÃO DA INSCRIÇÃO
+CAPÍTULO VI
+DA SUSPENSÃO DA INSCRIÇÃO
 
-Seção I Da suspensão e da comunicação
+Seção I
+Da suspensão e da comunicação
 
-Art. 12. A suspensão da inscrição no CPF será realizada pela RFB quando houver inconsistência cadastral ou em atendimento a determinação judicial.
+Art. 12. A suspensão da inscrição no CPF poderá ocorrer quando houver inconsistência cadastral, inclusive a decorrente do não atendimento da exigência prevista no art. 23-A, e será realizada pela RFB no interesse da administração tributária ou para atendimento a determinação judicial.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
 
 § 1º A suspensão da inscrição no CPF será comunicada por meio:
 
@@ -266,17 +363,31 @@ VI - de edital a ser publicado no site da RFB na Internet, nos casos em que não
 
 § 3º A inscrição constante da base de dados do CPF que se encontre suspensa há, pelo menos, 5 (cinco) anos pode ser cancelada de ofício.
 
-Seção II Dos documentos necessários à regularização e dos locais de solicitação
+Seção II
+Dos documentos necessários à regularização e dos locais de solicitação
 
 Art. 13. A regularização da inscrição na situação cadastral "Suspensa" será realizada conforme estabelecido no Anexo IV.
 
 § 1º Além dos documentos relacionados no Anexo IV, poderão ser exigidos outros documentos, a critério da RFB.
 
-§ 2º A regularização de inscrição na situação cadastral "Suspensa" em razão de determinação judicial somente poderá ser efetuada em decorrência de outra determinação judicial.
+§ 2º A regularização de inscrição na situação cadastral "Suspensa" decorrente:
 
-§ 3º Depois de 90 (noventa) dias contados da data de comunicação da suspensão, a inscrição pode ser cancelada de ofício.
+[Redação dada pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
 
-Seção III Da regularização realizada pela RFB
+I - de determinação judicial somente poderá ser efetuada em decorrência de outra determinação judicial; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+II - do não atendimento da exigência prevista no art. 23-A deverá ser efetuada por meio da atualização extemporânea dos dados do estrangeiro nos termos previstos no referido artigo.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+§ 3º Depois de noventa dias contados da data de comunicação da suspensão, a inscrição poderá ser cancelada de ofício.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+Seção III
+Da regularização realizada pela RFB
 
 Art. 14. Além das hipóteses enumeradas no Anexo IV, a regularização da situação cadastral "Suspensa" será realizada pela RFB:
 
@@ -294,17 +405,43 @@ II - no interesse da administração tributária; e
 
 III - em atendimento a determinação judicial.
 
-§ 1º Na regularização da situação cadastral "Suspensa" solicitada por unidade prisional ou por unidade socioeducativa de internação, deverá ser observado o disposto no Anexo V.
+§ 1º No caso previsto na alínea "a" do inciso I do caput, deverá ser observado o disposto no Anexo V.
 
-§ 2º A regularização da situação cadastral "Suspensa", quando realizada no interesse da administração tributária, será comunicada à pessoa física interessada por meio do:
+[Redação dada pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+§ 2º A regularização da situação cadastral "Suspensa" realizada conforme disposto no inciso II do caput será comunicada à pessoa física interessada, por meio da emissão do:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
 
 I - Comprovante de Situação Cadastral no CPF, conforme modelo constante do Anexo VI, disponível no site da RFB na Internet; ou
 
 II - Comprovante de Situação Cadastral no CPF, acessado por meio do aplicativo da RFB para dispositivos móveis.
 
-CAPÍTULO VII DO CANCELAMENTO DA INSCRIÇÃO
+§ 3º No caso previsto no inciso III do caput, deverá ser informado o endereço do titular da inscrição do CPF e poderão ser aceitos os seguintes documentos:
 
-Seção I Das formas de cancelamento
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+I - documento de identificação oficial com foto;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+II - cópia do prontuário ou da ficha de identificação civil;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+III - certidão de nascimento, para menores de dezesseis anos de idade; ou
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+IV - certidão de óbito, para falecido.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+CAPÍTULO VII
+DO CANCELAMENTO DA INSCRIÇÃO
+
+Seção I
+Das formas de cancelamento
 
 Art. 15. O cancelamento da inscrição no CPF poderá ocorrer:
 
@@ -312,13 +449,15 @@ I - a pedido; ou
 
 II - de ofício.
 
-Seção II Do Cancelamento a Pedido
+Seção II
+Do Cancelamento a Pedido
 
 Art. 16. O cancelamento da inscrição no CPF a pedido ocorrerá exclusivamente quando constatada a multiplicidade de inscrições pela própria pessoa física.
 
 Parágrafo único. O cancelamento da inscrição no CPF será realizado em conformidade com o disposto no Anexo IV, ficando a critério da administração tributária eleger o número de inscrição no CPF a ser mantido válido.
 
-Seção III Do Cancelamento de Ofício
+Seção III
+Do Cancelamento de Ofício
 
 Art. 17. Será cancelada de ofício a inscrição no CPF nas seguintes hipóteses:
 
@@ -334,7 +473,8 @@ I - Comprovante de Situação Cadastral no CPF, conforme modelo constante do Ane
 
 II - Comprovante de Situação Cadastral no CPF, acessado por meio do aplicativo da RFB para dispositivos móveis.
 
-CAPÍTULO VIII DA DECLARAÇÃO DE NULIDADE DA INSCRIÇÃO
+CAPÍTULO VIII
+DA DECLARAÇÃO DE NULIDADE DA INSCRIÇÃO
 
 Art. 18. Será declarada nula a inscrição no CPF em que for constatada fraude.
 
@@ -346,7 +486,8 @@ Art. 20. A declaração de nulidade da inscrição no CPF produzirá efeitos ret
 
 § 2º Constatada a fraude ao final do processo administrativo, o fato deverá ser comunicado aos órgãos responsáveis pela persecução penal.
 
-CAPÍTULO IX DO RESTABELECIMENTO DA INSCRIÇÃO
+CAPÍTULO IX
+DO RESTABELECIMENTO DA INSCRIÇÃO
 
 Art. 21. O restabelecimento da inscrição é o ato cadastral praticado para reverter o cancelamento ou a nulidade da inscrição, por decisão judicial ou administrativa.
 
@@ -354,7 +495,8 @@ Art. 21. O restabelecimento da inscrição é o ato cadastral praticado para rev
 
 § 2º O restabelecimento de inscrição na situação cadastral "Cancelada" em razão de determinação judicial somente poderá ser efetuado em decorrência de outra determinação judicial.
 
-CAPÍTULO X DA CONSULTA À SITUAÇÃO CADASTRAL E AO NÚMERO DE INSCRIÇÃO NO CPF
+CAPÍTULO X
+DA CONSULTA À SITUAÇÃO CADASTRAL E AO NÚMERO DE INSCRIÇÃO NO CPF
 
 Art. 22. A consulta pública à situação cadastral do NI-CPF poderá ser realizada por meio do Comprovante de Situação Cadastral no CPF, disponível no site da RFB na Internet ou por meio do aplicativo da RFB para dispositivos móveis.
 
@@ -370,11 +512,47 @@ II - ao cônjuge, companheiro ou parente, caso não haja bens a inventariar.
 
 § 3º O NI-CPF também poderá ser fornecido aos órgãos relacionados no inciso I do caput do art. 7º, nas hipóteses nele previstas.
 
-CAPÍTULO XI DAS ENTIDADES CONVENIADAS
+CAPÍTULO X-A
+DA ATUALIZAÇÃO ANUAL DA INSCRIÇÃO NO CPF DE ESTRANGEIRO COM ENDEREÇO NO EXTERIOR
 
-Seção I Dos Convênios
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
 
-Subseção I Das Entidades com as quais a RFB pode celebrar convênios
+Art. 23-A. O estrangeiro com endereço no exterior e idade igual ou maior que dezesseis anos deverá realizar anualmente a atualização dos dados de sua inscrição no CPF por meio do aplicativo da RFB para dispositivos móveis, no período compreendido entre 1º de janeiro a 31 de dezembro.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+§ 1º Para atualizar os dados de sua inscrição no CPF o estrangeiro deverá:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+I - informar o NI-CPF e a data de nascimento; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+II - capturar, por meio do aplicativo da RFB para dispositivos móveis, a fotografia de seu rosto e do passaporte.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+§ 2º Caso não seja possível realizar a atualização pelo aplicativo a que se refere o caput, o estrangeiro deverá:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+I - solicitar o serviço por meio de uma representação diplomática brasileira; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+II - apresentar a mensagem emitida pelo aplicativo e a documentação prevista no Anexo IV.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+CAPÍTULO XI
+DAS ENTIDADES CONVENIADAS
+
+Seção I
+Dos Convênios
+
+Subseção I
+Das Entidades com as quais a RFB pode celebrar convênios
 
 Art. 24. Para a execução dos atos perante o CPF, a RFB poderá celebrar convênios com as seguintes entidades:
 
@@ -390,7 +568,8 @@ V - Associação dos Registradores de Pessoas Naturais do Brasil - ARPEN-BR; e
 
 VI - Comissão de Valores Mobiliários - CVM.
 
-Subseção II Dos convênios celebrados pela RFB
+Subseção II
+Dos convênios celebrados pela RFB
 
 Art. 25. Os órgãos a que se refere o inciso IV do caput do art.24 poderão praticar, de forma gratuita, os atos cadastrais previstos no art. 3º, nos termos previstos em convênio.
 
@@ -402,11 +581,13 @@ Art. 26. Para praticarem atos perante o CPF, as entidades relacionadas no art. 2
 
 § 3º A prática dos atos perante o CPF será efetuada de imediato, exceto nos casos previstos no art. 30, e implicará, obrigatoriamente, a entrega do Comprovante de Inscrição no CPF ao solicitante, conforme modelo constante do Anexo I.
 
-Subseção III Da identificação dos atos da entidade conveniada
+Subseção III
+Da identificação dos atos da entidade conveniada
 
 Art. 27. Todos os atos praticados pelas entidades conveniadas serão identificados individualmente, mediante a indicação da entidade na qual hajam sido praticados, do local, da data e hora de sua ocorrência, bem como do responsável pela inserção dos dados no CPF.
 
-Subseção IV Da responsabilidade da entidade conveniada
+Subseção IV
+Da responsabilidade da entidade conveniada
 
 Art. 28. A conferência dos documentos apresentados e a fidelidade na transcrição dos dados informados perante o CPF serão de responsabilidade da entidade conveniada, ressalvado o disposto no § 2º.
 
@@ -414,7 +595,8 @@ Art. 28. A conferência dos documentos apresentados e a fidelidade na transcriç
 
 § 2º Em relação a atos praticados com fundamento no convênio celebrado com a entidade relacionada no inciso VI do caput do art. 24, a conferência dos documentos apresentados, a fidelidade na transcrição dos dados informados perante o CPF e a guarda da documentação apresentada serão de responsabilidade das instituições financeiras representantes do investidor estrangeiro no Brasil.
 
-Subseção V Do atendimento não conclusivo
+Subseção V
+Do atendimento não conclusivo
 
 Art. 29. São não conclusivos os atendimentos iniciados nas entidades conveniadas ou na Internet que necessitem ser concluídos pela RFB.
 
@@ -428,11 +610,13 @@ II - o código constante do formulário Ficha Cadastral de Pessoa Física, para 
 
 III - o código constante do protocolo de atendimento iniciado em uma serventia de registro civil de pessoas naturais permitirá ao solicitante acompanhar o andamento da solicitação pelo endereço eletrônico disponibilizado pela ARPEN-BR.
 
-Seção II Dos atos praticados por entidades conveniadas
+Seção II
+Dos atos praticados por entidades conveniadas
 
 Art. 31. Os atos de inscrição, alteração de dados cadastrais e regularização de situação cadastral "Suspensa" são praticados por entidades conveniadas, nos termos dos arts. 25 e 26.
 
-Seção III Dos atos praticados por repartições diplomáticas brasileiras no exterior e pelo Ministério das Relações Exteriores
+Seção III
+Dos atos praticados por repartições diplomáticas brasileiras no exterior e pelo Ministério das Relações Exteriores
 
 Art. 32. As repartições diplomáticas brasileiras no exterior e o Ministério das Relações Exteriores - MRE podem praticar, perante o CPF, os atos relacionados nos incisos I e II do caput do art. 3º, de forma conclusiva.
 
@@ -440,7 +624,21 @@ Art. 32. As repartições diplomáticas brasileiras no exterior e o Ministério 
 
 § 2º No caso de atendimento conclusivo, as repartições diplomáticas e o MRE devem imprimir e entregar ao interessado o Comprovante de Inscrição no CPF, conforme modelo constante do Anexo II.
 
-CAPÍTULO XII DISPOSIÇÕES GERAIS
+CAPÍTULO XI-A
+DISPOSIÇÕES TRANSITÓRIAS
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+Art. 32-A. O documento de identificação dos Estados Partes do Mercosul e Estados associados, admitido em acordo internacional, permanece válido para os atos cadastrais no CPF até 31 de dezembro de 2026.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2304, de 23 de dezembro de 2025]
+
+Art. 32-B. No ano de 2024, a atualização dos dados de inscrição no CPF prevista no art. 23-A será facultativa.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
+
+CAPÍTULO XII
+DISPOSIÇÕES GERAIS
 
 Art. 33. Os documentos apresentados para fins de atos cadastrais no CPF poderão ser originais ou cópias autenticadas, simples ou eletrônicas, obtidas por meio de digitalização.
 
@@ -454,19 +652,40 @@ I - apostilamento ou legalização consular de documentos estrangeiros; e
 
 II - tradução juramentada de documentos em língua estrangeira.
 
-Art. 34. Nas solicitações realizadas por procurador, devem ser apresentados:
+Art. 34. Nas solicitações realizadas por procurador, serão exigidos:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2293, de 19 de novembro de 2025]
 
 I - os documentos exigidos no Anexo IV, conforme o caso;
 
 II - documento de identificação oficial com foto do procurador;
 
-III - documento do procurador que comprove sua inscrição no CPF; e
+III - NI-CPF do procurador, comprovado por um dos documentos previstos no art. 5º desta Instrução Normativa;
 
-IV - instrumento público ou particular de procuração.
+[Redação dada pelo(a) Instrução Normativa RFB nº 2293, de 19 de novembro de 2025]
 
-Parágrafo único. O instrumento público de procuração lavrado no exterior ou o instrumento particular com firma reconhecida no exterior devem ser apostilados, caso tenha sido emitido em país signatário da Convenção Haia, ou ter sua validade reconhecida por repartição consular brasileira, salvo disposição de lei, acordo ou tratado internacional em contrário.
+IV - instrumento público ou particular de procuração, para atendimento presencial ou à distância, observado o disposto no § 2º;
 
-CAPÍTULO XIII DISPOSIÇÕES FINAIS
+[Redação dada pelo(a) Instrução Normativa RFB nº 2293, de 19 de novembro de 2025]
+
+V - no caso de atendimento presencial, fotografia do procurador capturada na unidade de atendimento da Secretaria Especial da Receita Federal do Brasil; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2293, de 19 de novembro de 2025]
+
+VI - fotografia do procurador segurando seu documento de identificação oficial com foto próximo ao rosto, em que o documento apareça completo, com a fotografia e os dados da pessoa identificada, para os canais de atendimento a distância da Secretaria Especial da Receita Federal do Brasil, quando não estiver disponível a autenticação por meio da conta gov.br.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2293, de 19 de novembro de 2025]
+
+§1º O instrumento público de procuração lavrado no exterior ou o instrumento particular com firma reconhecida no exterior devem ser apostilados, caso tenha sido emitido em país signatário da Convenção Haia, ou ter sua validade reconhecida por repartição consular brasileira, salvo disposição de lei, acordo ou tratado internacional em contrário.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2293, de 19 de novembro de 2025]
+
+§ 2º Para solicitações de serviços a distância mediante autenticação por meio da conta gov.br, com nível prata ou ouro, é obrigatória a utilização de procuração digital, exceto para solicitações de inscrição e consulta ao número de CPF.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2293, de 19 de novembro de 2025]
+
+CAPÍTULO XIII
+DISPOSIÇÕES FINAIS
 
 Art. 35. Para fins de inscrição no Cadastro Informativo de Créditos Não Quitados do Setor Público Federal - Cadin, nos termos do inciso II do caput do art. 2º da Lei nº 10.522, de 19 de julho de 2002 , a situação cadastral "Nula" perante o CPF equivale à situação cancelada.
 
@@ -498,34 +717,816 @@ Art. 38. Esta Instrução Normativa entra em vigor na data de sua publicação n
 
 ROBINSON SAKIYAMA BARREIRINHAS
 
-Anexo I MODELO DE "COMPROVANTE DE INSCRIÇÃO NO CPF" EMITIDO PELAS ENTIDADES CONVENIADAS
-
 Anexo I
+MODELO DE "COMPROVANTE DE INSCRIÇÃO NO CPF" EMITIDO PELAS ENTIDADES CONVENIADAS
 
-Anexo II MODELO DE "COMPROVANTE DE INSCRIÇÃO NO CPF" EMITIDO PELO SITE DA RFB NA INTERNET
+ANEXO I (Anexo I da Instrução Normativa RFB nº 2.172, de 9 de janeiro de 2024.)
+
+MODELO DE "COMPROVANTE DE INSCRIÇÃO NO CPF" EMITIDO PELAS ENTIDADES CONVENIADAS
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+
+MINISTÉRIO DA FAZENDA Secretaria Especial da Receita Federal do Brasil
+
+COMPROVANTE DE INSCRIÇÃO NO CPF (Válido somente com documento de identificação).
+
+Nº do CPF: XXX.XXX.XXX-XX
+
+Nome: NONONO NONONO NONONO NONONO
+
+Data de nascimento: DD/MM/AAAA
+
+Comprovante emitido às HH:MM:SS do dia DD/MM/AAAA (hora e data de Brasília).
+
+Código de Controle do Comprovante: XXXX.XXXX.XXXX.XXXX
+
+Dígito Verificador: XX
+
+A autenticidade deste comprovante deverá ser confirmada na internet, no endereço
+
+http://www.rfb.gov.br
+
+(Modelo aprovado pela IN RFB nº XXXX, de XX de XXXXXXXXX de 2023)
+
+Emitido por: (nome da entidade conveniada)
 
 Anexo II
+MODELO DE "COMPROVANTE DE INSCRIÇÃO NO CPF" EMITIDO PELO SITE DA RFB NA INTERNET
 
-Anexo III MODELO DE "CERTIDÃO NARRATIVA DE INSCRIÇÃO NO CPF"
+ANEXO II (Anexo II da Instrução Normativa RFB nº 2.172, de 9 de janeiro de 2024.)
+
+MODELO DE "COMPROVANTE DE INSCRIÇÃO NO CPF" EMITIDO PELO SITE DA RFB NA INTERNET
+
+MODELO DE COMPROVANTE SEM NOME SOCIAL
+
+COMPROVANTE DE INSCRIÇÃO CPF
+
+Número 111.111.111-11
+
+Nome ZZHELZZHALRRY XYXYXYXY DA HZHZHZ
+
+Nascimento dd/mm/aaaa
+
+CÓDIGO DE CONTROLE
+
+6B40.77E4.0A85
+
+Emitido pela Secretaria Especial da Receita Federal do Brasil
+
+às hh:mm:ss do dia dd/mm/aaaa (hora e data de Brasília)
+
+dígito verificador: 00
+
+VÁLIDO SOMENTE COM COMPROVANTE DE IDENTIFICAÇÃO
+
+MODELO DE COMPROVANTE COM NOME SOCIAL
+
+COMPROVANTE DE INSCRIÇÃO CPF
+
+Número 111.111.111-11
+
+Nome Social LXA NYWRIS DXCVBA BXVBHE
+
+Nome Civil ZZHELZZHALRRY XYXYXYXY DA HZHZHZ
+
+Nascimento dd/mm/aaaa
+
+CÓDIGO DE CONTROLE
+
+6B40.77E4.0A85.8E1A
+
+Emitido pela Secretaria Especial da Receita Federal do Brasil
+
+às hh:mm:ss do dia dd/mm/aaaa (hora e data de Brasília)
+
+dígito verificador: 00 VÁLIDO SOMENTE COM COMPROVANTE DE IDENTIFICAÇÃO
 
 Anexo III
+MODELO DE "CERTIDÃO NARRATIVA DE INSCRIÇÃO NO CPF"
 
-Anexo IV CPF - ATENDIMENTOS NO BRASIL E NO EXTERIOR
+ANEXO III (Anexo III da Instrução Normativa RFB nº 2.172, de 9 de janeiro de 2024)
+
+MODELO DE "CERTIDÃO NARRATIVA DE INSCRIÇÃO NO CPF"
+
+MODELO DE CERTIDÃO NARRATIVA SEM NOME SOCIAL
+
+Ministério da Fazenda Secretaria Especial da Receita Federal do Brasil
+
+Certidão Narrativa de Inscrição no CPF
+
+Certificamos, para os devidos fins de direito, que o número de inscrição no Cadastro de Pessoas Físicas - CPF, na Secretaria Especial da Receita Federal do Brasil, do(a) Sr(ª) ZZHELZZHALRRY XYXYXYXY DA HZHZHZ, nascido(a) em dd/mm/aaaa, filho(a) de FILIAÇÃO é:
+
+111.111.111-11 Qualquer outro número de inscrição no CPF para essa pessoa deverá ser desconsiderado e substituído pelo número acima informado.
+
+Do que, para constar, foi lavrada a presente certidão. Certidão emitida às: hh:mm:ss do dia dd/mm/aaaa (hora e data de Brasília). Código de controle: 03E5.5AB9.DFF8.29DA Dígito Verificador: 00
+
+A autenticidade desta certidão deverá ser confirmada pela leitura do QR Code acima ou diretamente no site da Secretaria Especial da Receita Federal do Brasil na Internet, no endereço <https://www.gov.br/receitafederal>.
+
+MODELO DE CERTIDÃO NARRATIVA COM NOME SOCIAL
+
+Ministério da Fazenda Secretaria Especial da Receita Federal do Brasil
+
+Certidão Narrativa de Inscrição no CPF
+
+Certificamos, para os devidos fins de direito, que o número de inscrição no Cadastro de Pessoas Físicas - CPF, na Secretaria Especial da Receita Federal do Brasil, do(a) Sr(ª) LXA NYWRIS DXCVBA BXVBHE (nome social), ZZHELZZHALRRY XYXYXYXY DA HZHZHZ (nome civil), nascido(a) em dd/mm/aaaa, filho(a) de FILIAÇÃO é:
+
+111.111.111-11 Qualquer outro número de inscrição no CPF para essa pessoa deverá ser desconsiderado e substituído pelo número acima informado.
+
+Do que, para constar, foi lavrada a presente certidão. Certidão emitida às: hh:mm:ss do dia dd/mm/aaaa (hora e data de Brasília). Código de controle: 03E5.5AB9.DFF8.29DA Dígito Verificador: 00
+
+A autenticidade desta certidão deverá ser confirmada pela leitura do QR Code acima ou diretamente no site da Secretaria Especial da Receita Federal do Brasil na Internet, no endereço <https://www.gov.br/receitafederal>.
 
 Anexo IV
+CPF - ATENDIMENTOS NO BRASIL E NO EXTERIOR
 
-Anexo V CPF - ATENDIMENTO A SOLICITAÇÃO DE UNIDADE PRISIONAL OU POR UNIDADE SOCIOEDUCATIVA DE INTERNAÇÃO
+(ANEXO IV DA INSTRUÇÃO NORMATIVA RFB Nº 2.236, DE 22 DE NOVEMBRO DE 2024) |  |  | 
+CPF - ATENDIMENTOS NO BRASIL E NO EXTERIOR |  |  | 
+Nacionalidade | Quem pode requerer | Documentação necessária | Local/Canal de atendimento
+ |  |  | a) Cartórios de Registro Civil, Correios,
+ |  |  | Banco do Brasil, Caixa Econômica
+ |  |  | Federal ou site da RFB na internet, para
+ |  | a) Certidão de Nascimento ou documento de identificação oficial com foto* do | pedidos de inscrição, alteração e
+ |  | menor, que comprove a naturalidade, a filiação e a data de nascimento; | regularização da situação cadastral
+ | Nos casos de pessoa tutelada, |  | "Suspensa";
+ |  | b) Documento de identificação oficial com foto* do requerente (um dos pais, | 
+ | sujeita à guarda, ou menor de |  | 
+ |  | tutor, ou responsável pela guarda); | b) Canais de atendimento à distância ou
+Brasileira | dezesseis anos de idade: tutor, |  | 
+ |  |  | Atendimento presencial da RFB; ou
+ | responsável pela guarda ou um | c) Documento que comprove tutela ou responsabilidade pela guarda, | 
+ | dos pais. | conforme o caso, do incapaz. Em se tratando de guardião institucional (art. | c) Representação diplomática brasileira,
+ |  | 92, § 1º, da Lei 8.069, de 13 de julho de 1990 - Estatuto da Criança e do | para o atendimento realizado no Exterior,
+ |  | Adolescente), é | nos casos de inscrição, devendo ser
+ |  |  | apresentada a Ficha Cadastral de Pessoa
+ |  |  | Física - FCPF, a ser preenchida no site da
+ |  |  | RFB na Internet.
+ |  | necessária a apresentação de documentação que comprove o acolhimento | 
+ |  | institucional do menor e documento que comprove que o solicitante é | 
+ |  | dirigente da entidade de abrigo. Em se tratando de guardião de fato, que | 
+ |  | ainda não regularizou judicialmente a guarda, apresentar Termo de | 
+ |  | Encaminhamento e Responsabilidade, expedido pelo Conselho Tutelar (art. | 
+ |  | 101, caput, inciso I, da Lei 8.069, de 13 de julho de 1990 - Estatuto da | 
+ |  | Criança e do Adolescente); | 
+ |  | d) Documento que comprove o CPF do menor ou tutelado, para os pedidos | 
+ |  | de alteração e regularização efetuados nos Correios, no Banco do Brasil ou | 
+ |  | na Caixa Econômica Federal; e | 
+ |  | e) Para os canais de atendimento da Secretaria Especial da Receita Federal | 
+ |  | do Brasil - RFB, presenciais ou à distância não certificado pelo | 
+ |  | serviço GovBR: foto do requerente segurando seu documento de | 
+ |  | identificação oficial com foto* próximo ao rosto, em que o documento apareça | 
+ |  | completo, com a fotografia e os dados da pessoa identificada. Caso não seja | 
+ |  | possível exibir a fotografia e os dados da pessoa identificada, serão | 
+ |  | necessárias duas fotos, uma exibindo a fotografia e outra os dados. | 
+
+* O documento de identificação do brasileiro poderá ter a validade negada em razão de: |  |  | 
+I - alteração dos dados nela contidos; |  |  | 
+II - existência de danos no meio físico que comprometam a verificação da sua autenticidade; |  |  | 
+III - alteração de características físicas do titular que suscitem dúvidas fundadas sobre a sua identidade. |  |  | 
+Nacionalidade | Quem pode requerer | Documentação necessária | Local/Canal de atendimento
+ |  |  | a) Cartórios de Registro Civil,
+ |  |  | Correios, Banco do Brasil, Caixa
+ |  |  | Econômica Federal ou site da RFB
+ |  |  | na internet, para pedidos de
+ |  |  | inscrição, alteração e regularização
+ |  |  | da situação cadastral "Suspensa";
+ |  | a) Caso o requerente seja a própria pessoa: documento de identificação oficial com foto* | 
+ | Nos casos de pessoa com | do menor, que comprove a naturalidade, a filiação e a data de nascimento; | 
+ |  |  | b) Canais de atendimento à distância
+ | dezesseis ou dezessete |  | 
+ |  |  | ou Atendimento presencial da RFB;
+Brasileira | anos de idade: a própria | b) Caso o requerente seja um dos pais, tutor ou responsável pela guarda: Certidão de | 
+ |  |  | ou
+ | pessoa, responsável pela | Nascimento ou documento de identificação oficial com foto* do menor que comprove a | 
+ | guarda ou um dos pais. | naturalidade, a filiação e a data de nascimento e documento de identificação oficial com | c) Representação diplomática
+ |  | foto* do requerente (um dos pais, tutor ou responsável pela guarda); | 
+ |  |  | brasileira, para o atendimento
+ |  |  | realizado no Exterior, nos casos de
+ |  |  | inscrição, devendo ser apresentada
+ |  |  | a Ficha Cadastral de Pessoa Física -
+ |  |  | FCPF, a ser preenchida no site da
+ |  |  | RFB na Internet.
+ |  | c) Documento que comprove tutela ou responsabilidade pela guarda, conforme o caso, | 
+ |  | do incapaz. No caso de guardião institucional (art. 92, § 1º, da Lei 8.069, de 13 de julho | 
+ |  | de 1990 - Estatuto da Criança e do Adolescente), é necessária a apresentação de | 
+ |  | documentação que comprove o acolhimento institucional do menor e documento que | 
+ |  | comprove que o solicitante é dirigente da entidade de abrigo. No caso de guardião de | 
+ |  | fato, que ainda não regularizou judicialmente a guarda, é necessário apresentar Termo | 
+ |  | de Encaminhamento e Responsabilidade, expedido pelo Conselho Tutelar (art. 101, | 
+ |  | caput, inciso I da Lei 8.069, de 13 de julho de 1990 - Estatuto da Criança e do | 
+ |  | Adolescente); | 
+ |  | d) Documento que comprove o CPF do menor para os pedidos de alteração e | 
+ |  | regularização efetuados nos Correios, no Banco do Brasil ou na Caixa Econômica | 
+ |  | Federal; e | 
+ |  | e) Para os canais de atendimento da RFB, presenciais ou à distância não certificado pelo | 
+ |  | serviço GovBR: foto do requerente segurando seu documento de identificação oficial com | 
+ |  | foto* próximo ao rosto, em que o documento apareça completo, com a fotografia e os | 
+
+ |  | dados da pessoa identificada. Caso não seja possível exibir a fotografia e os dados da | 
+ |  | pessoa identificada, serão necessárias duas fotos, uma exibindo a fotografia e outra os | 
+ |  | dados. | 
+
+* O documento de identificação do brasileiro poderá ter a validade negada em razão de: |  |  | 
+I - alteração dos dados nela contidos; |  |  | 
+II - existência de danos no meio físico que comprometam a verificação da sua autenticidade; |  |  | 
+III - alteração de características físicas do titular que suscitem dúvidas fundadas sobre a sua identidade. |  |  | 
+Nacionalidade | Quem pode requerer | Documentação necessária | Local/Canal de atendimento
+ |  |  | a) Cartórios de Registro Civil, Correios,
+ |  |  | Banco do Brasil, Caixa Econômica
+ |  |  | Federal ou site da RFB na internet, para
+ |  |  | pedidos de inscrição, alteração e
+ |  |  | regularização da situação cadastral
+ |  | a) Caso o requerente seja a própria pessoa ou o seu procurador: | 
+ | Nos casos de pessoa com deficiência com | documento de identificação oficial com foto* da pessoa, que | "Suspensa";
+ | dezoito anos de idade ou mais: a própria | comprove a naturalidade, a filiação e a data de nascimento; | 
+ |  |  | b) Canais de atendimento à distância ou
+ | pessoa, o cônjuge, o companheiro, os |  | 
+Brasileira |  |  | Atendimento presencial da RFB; ou
+ | ascendentes, os descendentes, os parentes | b) Caso o requerente seja cônjuge, companheiro, ascendente, | 
+ | colaterais até o terceiro grau ou seu | descendente ou parente colateral até o 3º (terceiro) grau: laudo | c) Representação diplomática brasileira,
+ | curador. | médico atestando a deficiência e Certidão de Nascimento, | para o atendimento realizado no
+ |  | Certidão de Casamento ou documento de identificação | 
+ |  |  | Exterior, nos casos de inscrição,
+ |  |  | devendo ser apresentada a Ficha
+ |  |  | Cadastral de Pessoa Física - FCPF, a
+ |  |  | ser preenchida no site da RFB na
+ |  |  | Internet.
+ |  | oficial com foto* da pessoa, que comprove a naturalidade, a | 
+ |  | filiação e a data de nascimento. O requerente deverá apresentar | 
+ |  | documento de identificação oficial com foto*, bem como | 
+ |  | documento que comprove o parentesco ou o vínculo matrimonial | 
+ |  | ou de união estável; | 
+ |  | c) Caso o requerente seja o curador, termo de curatela e Certidão | 
+ |  | de Nascimento, Certidão de Casamento ou documento de | 
+ |  | identificação oficial com foto* da pessoa, que comprove a | 
+ |  | naturalidade, a filiação e a data de nascimento; | 
+
+ |  | d) Documento que comprove o CPF da pessoa, para os pedidos | 
+ |  | de alteração e regularização efetuados nos Correios, no Banco do | 
+ |  | Brasil ou na Caixa Econômica Federal; e | 
+ |  | e) Para os canais de atendimento da RFB, presenciais ou à | 
+ |  | distância não certificado pelo serviço GovBR: foto do requerente | 
+ |  | segurando seu documento de identificação oficial com foto* | 
+ |  | próximo ao rosto, em que o documento apareça completo, com a | 
+ |  | fotografia e os dados da pessoa identificada. Caso não seja | 
+ |  | possível exibir a fotografia e os dados da pessoa identificada, | 
+ |  | serão necessárias duas fotos, uma exibindo a fotografia e outra os | 
+ |  | dados. | 
+
+* O documento de identificação do brasileiro poderá ter a validade negada em razão de: |  |  | 
+I - alteração dos dados nela contidos; |  |  | 
+II - existência de danos no meio físico que comprometam a verificação da sua autenticidade; |  |  | 
+III - alteração de características físicas do titular que suscitem dúvidas fundadas sobre a sua identidade. |  |  | 
+Nacionalidade | Quem pode requerer | Documentação necessária | Local/Canal de atendimento
+ |  |  | a) Cartórios de Registro Civil, Correios, Banco
+ |  |  | do Brasil, Caixa Econômica Federal ou site da
+ |  |  | RFB na internet, para pedidos de inscrição,
+ |  | a) Documento de identificação oficial com foto* do interessado; | 
+ |  |  | alteração e regularização da situação cadastral
+ |  | b) Certidão de Nascimento ou Certidão de Casamento, caso não conste no | "Suspensa";
+ | Nos casos de pessoa com | documento de identificação oficial com foto* apresentado a naturalidade, a | 
+ |  |  | b) Canais de atendimento à distância ou
+Brasileira | dezoito anos de idade ou | filiação e a data de nascimento; | 
+ |  |  | Atendimento presencial da RFB; ou
+ | mais: a própria pessoa. |  | 
+ |  | c) Documento que comprove o CPF do requerente, para os pedidos de | 
+ |  |  | c) Representação diplomática brasileira, para o
+ |  | alteração e regularização efetuados nos Correios, no Banco do Brasil ou na | 
+ |  |  | atendimento realizado no Exterior, nos casos
+ |  | Caixa Econômica Federal; e | 
+ |  |  | de inscrição, devendo ser apresentada a Ficha
+ |  |  | Cadastral de Pessoa Física - FCPF, a ser
+ |  |  | preenchida no site da RFB na Internet.
+ |  | d) Para os canais de atendimento da RFB, presenciais ou à distância não | 
+ |  | certificado pelo serviço GovBR: foto do requerente segurando seu | 
+ |  | documento de identificação oficial com foto* próximo ao rosto, em que o | 
+ |  | documento apareça completo, com a fotografia e os dados da pessoa | 
+ |  | identificada. Caso não seja possível exibir a fotografia e os dados da | 
+ |  | pessoa identificada, serão necessárias duas fotos, uma exibindo a | 
+ |  | fotografia e outra os dados. | 
+
+* O documento de identificação do brasileiro poderá ter a validade negada em razão de: |  |  | 
+I - alteração dos dados nela contidos; |  |  | 
+II - existência de danos no meio físico que comprometam a verificação da sua autenticidade; |  |  | 
+III - alteração de características físicas do titular que suscitem dúvidas fundadas sobre a sua identidade. |  |  | 
+ |  |  | Local/Canal de
+Nacionalidade | Quem pode requerer | Documentação necessária | 
+ |  |  | atendimento
+ |  | a) Certidão de Óbito ou Certidão de Nascimento ou Certidão de Casamento em que conste a | 
+ |  | averbação da data do óbito; | 
+ | Nos casos de pessoa falecida: |  | 
+ |  |  | Canais de atendimento
+ |  | b) Documento de identificação com foto*, Certidão de Nascimento ou Certidão de Casamento da | 
+ | a) Se houver bens a |  | à distância ou
+Brasileira |  | pessoa falecida, caso não conste a data de nascimento, a naturalidade e a filiação na Certidão de | 
+ | inventariar no Brasil: o |  | Atendimento presencial
+ |  | Óbito; | 
+ | inventariante, o cônjuge, o |  | da RFB.
+ | companheiro ou o |  | 
+ |  | c) Documento que comprove a legitimidade do requerente. Para o caso de beneficiário de pensão | 
+ |  | previdenciária por morte, | 
+ |  | documentação do órgão previdenciário que comprove a condição de beneficiário do falecido; | 
+ | sucessor a qualquer título; |  | 
+ |  | d) Documento de identificação oficial com foto* do requerente; | 
+ | b) Se não houver bens a |  | 
+ |  | e) Para o caso de inscrição, documento que a justifique; | 
+ | inventariar no Brasil: o |  | 
+ | cônjuge, o companheiro ou | f) Para mera informação do óbito, é suficiente a apresentação dos documentos dos itens "a" e "d", | 
+ | parente; | exceto em caso de atendimento à distância, quando também deverá ser apresentada a foto | 
+ |  | constante do item "g"; e | 
+ | c) Beneficiário de pensão |  | 
+ | previdenciária por morte; ou | g) Para os canais de atendimento da RFB, presenciais ou à distância não certificado pelo | 
+ |  | serviço GovBR: foto do requerente segurando seu documento de identificação oficial com foto* | 
+ | d) Qualquer pessoa, | próximo ao rosto, em que o documento apareça completo, com a fotografia e os dados da pessoa | 
+ | exclusivamente no caso de | identificada. Caso não seja possível exibir a fotografia e os dados da pessoa identificada, serão | 
+ | informar o óbito de uma | necessárias duas fotos, uma exibindo a fotografia e outra os dados. | 
+ | pessoa à RFB. |  | 
+
+* O documento de identificação do brasileiro poderá ter a validade negada em razão de: |  |  | 
+I - alteração dos dados nela contidos; |  |  | 
+II - existência de danos no meio físico que comprometam a verificação da sua autenticidade; |  |  | 
+III - alteração de características físicas do titular que suscitem dúvidas fundadas sobre a sua identidade. |  |  | 
+Nacionalidade | Quem pode requerer | Documentação necessária | Local/Canal de atendimento
+
+ |  | a) Certidão de Nascimento (ou documento equivalente) ou documento de | 
+ |  | identificação oficial com foto** do menor, que comprove nacionalidade, filiação | 
+ |  |  | a) Cartórios de Registro Civil, Correios, Banco do
+ | Nos casos de pessoa | e data de nascimento; | Brasil, Caixa Econômica Federal ou site da RFB
+ | tutelada, sujeita à |  | na internet, para pedidos de inscrição, alteração
+ |  | b) Documento de identificação oficial com foto** do requerente (um dos pais, | 
+Demais | guarda, ou menor de |  | e regularização da situação cadastral
+ |  | tutor ou responsável pela guarda); | 
+Nacionalidades | dezesseis anos de idade: |  | "Suspensa";
+ | tutor, responsável pela | c) Documento que comprove tutela ou responsabilidade pela guarda, conforme | 
+ | guarda ou um dos pais. | o caso, do incapaz. No caso de guardião institucional (art. 92, § 1º, da Lei | b) Canais de atendimento à distância ou
+ |  |  | Atendimento presencial da RFB;
+ |  | 8.069, de 13 de julho de 1990 - do Estatuto da Criança e do Adolescente), é | 
+ |  | necessária a | 
+ |  | apresentação de documentação que comprove o acolhimento institucional do | 
+ |  | menor e documento que comprove que o solicitante é dirigente da entidade de | 
+ |  | abrigo. No caso de guardião de fato, que ainda não regularizou judicialmente a | c) Representação diplomática brasileira, para o
+ |  | guarda, é necessário apresentar Termo de Encaminhamento e | atendimento realizado no Exterior, nos casos de
+ |  | Responsabilidade, expedido pelo Conselho Tutelar (art. 101, caput, inciso I, da | inscrição, devendo ser apresentada a Ficha
+ |  | Lei 8.069, de 13 de julho de 1990 - do Estatuto da Criança e do Adolescente); | Cadastral de Pessoa Física - FCPF, a ser
+ |  |  | preenchida no site da RFB na Internet; ou
+ |  | d) Documento que comprove o CPF do menor ou tutelado, para os pedidos de | 
+ |  | alteração e regularização efetuados nos | 
+ |  | Correios, no Banco do Brasil ou na Caixa Econômica Federal; e | 
+ |  |  | d) Em instituição financeira representante de
+ |  | e) Para os canais de atendimento da RFB, presenciais ou à distância não | investidor no Brasil, intermediada pela Comissão
+ |  | certificado pelo serviço GovBR: foto do requerente segurando seu documento | de Valores Mobiliários - CVM, se tiver por
+ |  | de identificação oficial com foto* próximo ao rosto, em que o documento | objetivo realizar aplicações no mercado
+ |  | apareça completo, com a fotografia e os dados da pessoa identificada. Caso | financeiro e de capitais, na ocasião em que for
+ |  | não seja possível exibir a fotografia e os dados da pessoa identificada, serão | deferido o Registro de Investidor Estrangeiro.
+ |  | necessárias duas fotos, uma exibindo a fotografia e outra os dados. | 
+
+**Serão aceitos como documento de identificação: I - para residentes no exterior ou em trânsito pelo Brasil: a) Passaporte; b) Carteira do Registro Nacional Migratório - CRNM ou a antiga Cédula de Identidade de Estrangeiro - CIE/RNE; ou c) Documento de identificação dos Estados Partes do Mercosul e Estados associados, admitidos em acordo internacional, até o prazo estipulado no art. 32-A desta Instrução Normativa;
+
+II - para residentes no Brasil: a) Carteira do Registro Nacional Migratório - CRNM ou a antiga Cédula de Identidade de Estrangeiro - CIE/RNE; b) Protocolo da CRNM; c) Documento Provisório de Registro Nacional Migratório - DPRNM, emitido pela Polícia Federal para requerentes de refúgio;
+
+d) Protocolo de refúgio, previsto no art. 21 da Lei 9.474, de 22 de julho de 1997; |  |  | 
+e) Certificado de inscrição consular contendo a foto do estrangeiro; ou |  |  | 
+f) Documento de identificação dos Estados Partes do Mercosul e Estados associados, admitidos em acordo internacional, até o prazo estipulado no art. 32-A desta |  |  | 
+Instrução Normativa. |  |  | 
+Nacionalidade | Quem pode requerer | Documentação necessária | Local/Canal de atendimento
+ | Nos casos de pessoa |  | 
+ |  | a) Caso o requerente seja a própria pessoa: documento de identificação oficial | 
+ | com dezesseis ou |  | a) Cartórios de Registro Civil, Correios, Banco
+ |  | com foto** do menor, que comprove nacionalidade e data de nascimento; | 
+Demais | dezessete anos de |  | do Brasil, Caixa Econômica Federal ou site da
+Nacionalidades | idade: a própria pessoa, |  | RFB na internet, para pedidos de inscrição,
+ |  | b) Caso o requerente seja um dos pais, tutor ou responsável pela guarda: | 
+ | responsável pela guarda |  | alteração e regularização
+ |  | Certidão de Nascimento ou documento de | 
+ | ou um dos pais. |  | 
+ |  | identificação oficial com foto** do menor que comprove a naturalidade, a filiação | 
+ |  | e a data de nascimento e documento de identificação oficial com foto** do | 
+ |  |  | da situação cadastral "Suspensa";
+ |  | requerente (um dos pais, tutor ou responsável pela guarda); | 
+ |  |  | b) Canais de atendimento à distância ou
+ |  | c) Documento que comprove tutela ou responsabilidade pela guarda, conforme o | 
+ |  |  | Atendimento presencial da RFB;
+ |  | caso, do incapaz. Em se tratando de guardião institucional (art. 92, § 1º, da Lei | 
+ |  | 8.069, de 13 de julho de 1990 - do Estatuto da Criança e do Adolescente), é | 
+ |  | necessária a apresentação de documentação que comprove o acolhimento | 
+ |  | institucional do menor e documento que comprove que o solicitante é dirigente | 
+ |  | da entidade de abrigo. Em se tratando de guardião de fato, que ainda não | c) Representação diplomática brasileira, para o
+ |  | regularizou judicialmente a guarda, apresentar Termo de Encaminhamento e | atendimento realizado no Exterior, nos casos
+ |  | Responsabilidade, expedido pelo Conselho Tutelar (art. 101, caput, inciso I, da | de inscrição, devendo ser apresentada a Ficha
+ |  | Lei 8.069, de 13 de julho de 1990 - do Estatuto da Criança e do Adolescente); | Cadastral de Pessoa Física - FCPF, a ser
+ |  |  | preenchida no site da RFB na Internet; ou
+ |  | d) Documento que comprove o CPF do menor para os pedidos de alteração e | 
+ |  | regularização efetuados nos Correios, no | 
+ |  | Banco do Brasil ou na Caixa Econômica Federal; e | 
+ |  |  | d) Em instituição financeira representante de
+ |  |  | investidor no Brasil, intermediada pela
+ |  | e) Para os canais de atendimento da RFB, presenciais ou à distância não | 
+ |  |  | Comissão de Valores Mobiliários - CVM, se
+ |  | certificado pelo serviço GovBR: foto do requerente segurando seu documento de | 
+ |  |  | tiver por objetivo realizar aplicações no
+ |  | identificação oficial com foto* próximo ao rosto, em que o documento apareça | 
+ |  |  | mercado financeiro e de capitais, na ocasião
+ |  | completo, com a fotografia e os dados da pessoa identificada. Caso não seja | 
+ |  |  | em que for deferido o Registro de Investidor
+ |  | possível exibir a fotografia e os dados da pessoa identificada, serão necessárias | 
+ |  |  | Estrangeiro.
+ |  | duas fotos, uma exibindo a fotografia e outra os dados. | 
+
+**Serão aceitos como documento de identificação: I - para residentes no exterior ou em trânsito pelo Brasil:
+
+a) Passaporte; |  |  | 
+b) Carteira do Registro Nacional Migratório - CRNM ou a antiga Cédula de Identidade de Estrangeiro - CIE/RNE; ou |  |  | 
+c) Documento de identificação dos Estados Partes do Mercosul e Estados associados, admitidos em acordo internacional, até o prazo estipulado no art. 32-A desta |  |  | 
+Instrução Normativa; |  |  | 
+II - para residentes no Brasil: |  |  | 
+a) Carteira do Registro Nacional Migratório - CRNM ou a antiga Cédula de Identidade de Estrangeiro - CIE/RNE; |  |  | 
+b) Protocolo da CRNM; |  |  | 
+c) Documento Provisório de Registro Nacional Migratório - DPRNM, emitido pela Polícia Federal para requerentes de refúgio; |  |  | 
+d) Protocolo de refúgio, previsto no art. 21 da Lei 9.474, de 22 de julho de 1997; |  |  | 
+e) Certificado de inscrição consular contendo a foto do estrangeiro; ou |  |  | 
+f) Documento de identificação dos Estados Partes do Mercosul e Estados associados, admitidos em acordo internacional, até o prazo estipulado no art. 32-A desta |  |  | 
+Instrução Normativa |  |  | 
+Nacionalidade | Quem pode requerer | Documentação necessária | Local/Canal de atendimento
+ |  | a) Caso o requerente seja a própria pessoa ou seu procurador: | 
+ |  | documento de identificação oficial com foto** da pessoa, que | 
+ | Nos casos de pessoa com deficiência | comprove nacionalidade e data de nascimento; | 
+ |  |  | a) Cartórios de Registro Civil, Correios,
+ | com dezoito anos de idade ou mais: |  | 
+ |  |  | Banco do Brasil, Caixa Econômica Federal ou
+Demais | a própria pessoa, o cônjuge, o | b) Caso o requerente seja cônjuge, companheiro, ascendente, | 
+ |  |  | site da RFB na internet, para pedidos de
+Nacionalidades | companheiro, os ascendentes, os | descendente ou parente colateral até o 3º (terceiro) grau: laudo | 
+ |  |  | inscrição, alteração e regularização da
+ | descendentes, os parentes colaterais | médico atestando a deficiência e Certidão de Nascimento, Certidão de | 
+ | até o terceiro grau ou seu curador. | Casamento, ou documento de identificação oficial com foto** da | situação cadastral "Suspensa";
+ |  | pessoa, que comprove nacionalidade, filiação e data de nascimento. | 
+ |  | O requerente deverá apresentar | 
+ |  | documento de identificação oficial com foto**, bem como documento | 
+ |  | que comprove o parentesco ou o vínculo matrimonial ou de união | 
+ |  |  | b) Canais de atendimento à distância ou
+ |  | estável; | 
+ |  |  | Atendimento presencial da RFB;
+ |  | c) Caso o requerente seja o curador: termo de curatela e Certidão de | 
+ |  |  | c) Representação diplomática brasileira, para
+ |  | Nascimento, Certidão de Casamento ou documento de identificação | 
+ |  |  | o atendimento realizado no Exterior, nos
+ |  | oficial com foto** da pessoa, que comprove nacionalidade e data de | 
+ |  |  | casos de inscrição, devendo ser apresentada
+ |  | nascimento; | 
+ |  |  | a Ficha Cadastral de Pessoa Física - FCPF, a
+ |  |  | ser preenchida no site da RFB na Internet; ou
+ |  | d) Documento que comprove o CPF do menor para os pedidos de | 
+ |  | alteração e regularização efetuados nos Correios, no | 
+ |  | Banco do Brasil ou na Caixa Econômica Federal; e | d) Em instituição financeira representante de
+ |  |  | investidor no Brasil, intermediada pela
+ |  | e) Para os canais de atendimento da RFB, presenciais ou à distância | Comissão de Valores Mobiliários - CVM, se
+ |  | não certificado pelo serviço GovBR: foto do requerente segurando seu | tiver por objetivo realizar aplicações no
+ |  | documento de identificação oficial com foto* próximo ao rosto, em que | mercado financeiro e de capitais, na ocasião
+
+ |  | o documento apareça completo, com a fotografia e os dados da | em que for deferido o Registro de Investidor
+ |  | pessoa identificada. Caso não seja possível exibir a fotografia e os | Estrangeiro.
+ |  | dados da pessoa identificada, serão necessárias duas fotos, uma | 
+ |  | exibindo a fotografia e outra os dados. | 
+
+**Serão aceitos como documento de identificação: |  |  | 
+I - para residentes no exterior ou em trânsito pelo Brasil: |  |  | 
+a) Passaporte; |  |  | 
+b) Carteira do Registro Nacional Migratório - CRNM ou a antiga Cédula de Identidade de Estrangeiro - CIE/RNE; ou |  |  | 
+c) Documento de identificação dos Estados Partes do Mercosul e Estados associados, admitidos em acordo internacional, até o prazo estipulado no art. 32-A desta |  |  | 
+Instrução Normativa; |  |  | 
+II - para residentes no Brasil: |  |  | 
+a) Carteira do Registro Nacional Migratório - CRNM ou a antiga Cédula de Identidade de Estrangeiro - CIE/RNE; |  |  | 
+b) Protocolo da CRNM; |  |  | 
+c) Documento Provisório de Registro Nacional Migratório - DPRNM, emitido pela Polícia Federal para requerentes de refúgio; |  |  | 
+d) Protocolo de refúgio, previsto no art. 21 da Lei 9.474, de 22 de julho de 1997; |  |  | 
+e) Certificado de inscrição consular contendo a foto do estrangeiro; ou |  |  | 
+f) Documento de identificação dos Estados Partes do Mercosul e Estados associados, admitidos em acordo internacional, até o prazo estipulado no art. 32-A desta |  |  | 
+Instrução Normativa. |  |  | 
+ | Quem pode |  | 
+Nacionalidade |  | Documentação necessária | Local/Canal de atendimento
+ | requerer |  | 
+ | Nos casos de | a) Documento de identificação oficial com foto** do interessado, que comprove | 
+ |  |  | a) Cartórios de Registro Civil, Correios, Banco do
+ | pessoa com | nacionalidade e data de nascimento; | 
+Demais |  |  | Brasil, Caixa Econômica Federal ou site da RFB na
+ | dezoito anos de |  | 
+Nacionalidades |  |  | internet, para pedidos de inscrição, alteração e
+ | idade ou mais: a | b) Certidão de Nascimento (ou documento equivalente), Certidão de Casamento | 
+ |  |  | regularização da situação cadastral "Suspensa";
+ | própria pessoa. | (ou documento equivalente), caso não | 
+ |  |  | b) Canais de atendimento à distância ou
+ |  | conste no documento de identificação oficial com foto** apresentado a | Atendimento presencial da RFB;
+ |  | nacionalidade e a data de nascimento; | 
+ |  |  | c) Representação diplomática brasileira, para o
+ |  | c) Documento que comprove o CPF da pessoa, para os pedidos de alteração e | atendimento realizado no Exterior, nos casos de
+ |  | regularização efetuados nos Correios, no Banco do Brasil ou na Caixa Econômica | inscrição, devendo ser apresentada a Ficha
+ |  | Federal; e | Cadastral de Pessoa Física - FCPF, a ser
+ |  |  | preenchida no site da RFB na Internet; ou
+ |  | d) Para os canais de atendimento da RFB, presenciais ou à distância não | d) Em instituição financeira representante de
+ |  | certificado pelo serviço GovBR: foto do requerente segurando seu documento de | investidor no Brasil, intermediada pela Comissão de
+ |  | identificação oficial com foto* próximo ao rosto, em que o documento apareça | Valores Mobiliários - CVM, se tiver por objetivo
+
+ |  | completo, com a fotografia e os dados da pessoa identificada. Caso não seja | realizar aplicações no mercado financeiro e de
+ |  | possível exibir a fotografia e os dados da pessoa identificada, serão necessárias | capitais, na ocasião em que for deferido o Registro
+ |  | duas fotos, uma exibindo a fotografia e outra os dados. | de Investidor Estrangeiro.
+
+**Serão aceitos como documento de identificação: |  |  | 
+I - para residentes no exterior ou em trânsito pelo Brasil: |  |  | 
+a) Passaporte; |  |  | 
+b) Carteira do Registro Nacional Migratório - CRNM ou a antiga Cédula de Identidade de Estrangeiro - CIE/RNE; ou |  |  | 
+c) Documento de identificação dos Estados Partes do Mercosul e Estados associados, admitidos em acordo internacional, até o prazo estipulado no art. 32-A desta |  |  | 
+Instrução Normativa; |  |  | 
+II - para residentes no Brasil: |  |  | 
+a) Carteira do Registro Nacional Migratório - CRNM ou a antiga Cédula de Identidade de Estrangeiro - CIE/RNE; |  |  | 
+b) Protocolo da CRNM; |  |  | 
+c) Documento Provisório de Registro Nacional Migratório - DPRNM, emitido pela Polícia Federal para requerentes de refúgio; |  |  | 
+d) Protocolo de refúgio, previsto no art. 21 da Lei 9.474, de 22 de julho de 1997; |  |  | 
+e) Certificado de inscrição consular contendo a foto do estrangeiro; ou |  |  | 
+f) Documento de identificação dos Estados Partes do Mercosul e Estados associados, admitidos em acordo internacional, até o prazo estipulado no art. 32-A desta |  |  | 
+Instrução Normativa. |  |  | 
+Nacionalidade | Quem pode requerer | Documentação necessária | Local/Canal de atendimento
+ | Nos casos de funcionário estrangeiro | a) Documento de identificação oficial com foto** do interessado | a) Cartórios de Registro Civil, Correios,
+ | de missão diplomática, de repartição | (considerar a documentação relativa a residente no exterior), que | Banco do Brasil ou Caixa Econômica
+Demais | consular ou de representação de | comprove nacionalidade e data de nascimento; | Federal, nos casos de inscrição, alteração
+Nacionalidades | organismo internacional que goze de |  | e regularização da situação cadastral
+ | imunidade e privilégios: o próprio | b) Certidão de Nascimento (ou documento equivalente), Certidão de | "Suspensa", com conclusão da solicitação
+ | interessado. | Casamento (ou documento equivalente), caso não | nas unidades da RFB, caso necessário.
+ |  |  | Se optar por essa via, o requerente
+ |  |  | deverá comunicar o fato da inscrição ou
+ |  | conste no documento de identificação oficial com foto** apresentado a | alteração no CPF ao Ministério das
+ |  | nacionalidade e a data de nascimento; | Relações Exteriores - MRE;
+ |  | c) Documento que comprove o CPF da pessoa, para os pedidos de | b) Site da RFB na Internet nos casos de
+ |  | alteração e regularização efetuados nos Correios, no Banco do Brasil ou | alteração e regularização da situação
+ |  | na Caixa Econômica Federal; e | cadastral "Suspensa", com conclusão da
+ |  |  | solicitação nas unidades da RFB, caso
+ |  |  | necessário;
+
+ |  |  | c) No Ministério das Relações Exteriores -
+ |  | d) Para os canais de atendimento da RFB, presenciais ou à distância não | MRE; ou
+ |  | certificado pelo serviço GovBR: foto do requerente segurando seu | 
+ |  | documento de identificação oficial com foto* próximo ao rosto, em que o | d) Representação diplomática brasileira,
+ |  | documento apareça completo, com a fotografia e os dados da pessoa | para o atendimento realizado no Exterior,
+ |  | identificada. Caso não seja possível exibir a fotografia e os dados da | nos casos de inscrição, devendo ser
+ |  | pessoa identificada, serão necessárias duas fotos, uma exibindo a | apresentada a Ficha Cadastral de Pessoa
+ |  | fotografia e outra os dados. | Física - FCPF, a ser preenchida no site da
+ |  |  | RFB na Internet.
+
+**Serão aceitos como documento de identificação: |  |  | 
+I - para residentes no exterior ou em trânsito pelo Brasil: |  |  | 
+a) Passaporte; |  |  | 
+b) Carteira do Registro Nacional Migratório - CRNM ou a antiga Cédula de Identidade de Estrangeiro - CIE/RNE; ou |  |  | 
+c) Documento de identificação dos Estados Partes do Mercosul e Estados associados, admitidos em acordo internacional, até o prazo estipulado no art. 32-A desta |  |  | 
+Instrução Normativa; |  |  | 
+II - para residentes no Brasil: |  |  | 
+a) Carteira do Registro Nacional Migratório - CRNM ou a antiga Cédula de Identidade de Estrangeiro - CIE/RNE; |  |  | 
+b) Protocolo da CRNM; |  |  | 
+c) Documento Provisório de Registro Nacional Migratório - DPRNM, emitido pela Polícia Federal para requerentes de refúgio; |  |  | 
+d) Protocolo de refúgio, previsto no art. 21 da Lei 9.474, de 22 de julho de 1997; |  |  | 
+e) Certificado de inscrição consular contendo a foto do estrangeiro; ou |  |  | 
+f) Documento de identificação dos Estados Partes do Mercosul e Estados associados, admitidos em acordo internacional, até o prazo estipulado no art. 32-A desta |  |  | 
+Instrução Normativa. |  |  | 
+ |  |  | Local/Canal de
+Nacionalidade | Quem pode requerer | Documentação necessária | 
+ |  |  | atendimento
+ |  | a) Certidão de Óbito (ou documento equivalente), | 
+ |  | Certidão de Nascimento (ou documento equivalente) ou | 
+ |  | Casamento (ou documento equivalente) em que conste a | Canais de
+ | Nos casos de pessoa falecida: |  | 
+ |  | averbação da data do óbito; | atendimento à
+Demais |  |  | 
+ |  |  | distância ou
+Nacionalidades | a) Se houver bens a inventariar no Brasil: o inventariante, o cônjuge, o |  | 
+ |  | b) Documento de identificação oficial com foto**, Certidão | Atendimento
+ | companheiro ou o sucessor a qualquer título; |  | 
+ |  | de Nascimento ou Certidão de Casamento da pessoa | presencial da RFB.
+ |  | falecida, caso não conste a data de nascimento e | 
+ |  | nacionalidade na Certidão de Óbito; | 
+ | b) Se não houver bens a inventariar no Brasil: o cônjuge, o companheiro | c) Documento que comprove a legitimidade do | 
+ | ou parente; | requerente. Para o caso de beneficiário de pensão | 
+ |  | previdenciária por morte, documentação do órgão | 
+
+ | c) Beneficiário de pensão previdenciária por morte; ou | previdenciário que comprove a condição de beneficiário | 
+ |  | do falecido; | 
+ |  | d) Documento de identificação oficial com foto** do | 
+ |  | requerente; | 
+ |  | e) Para o caso de inscrição, documento que a justifique; | 
+ |  | f) Para mera informação do óbito, é suficiente a | 
+ |  | apresentação dos documentos dos itens "a" e "d", exceto | 
+ |  | em caso de | 
+ |  | atendimento à distância, quando também deverá ser | 
+ |  | apresentada a foto constante do item "g"; e | 
+ |  | g) Para os canais de atendimento da RFB, presenciais ou | 
+ |  | à distância não certificado pelo serviço GovBR: foto do | 
+ | d) Qualquer pessoa, exclusivamente no caso de informar o óbito de |  | 
+ |  | requerente segurando seu documento de identificação | 
+ | uma pessoa à RFB. |  | 
+ |  | oficial com foto* próximo ao rosto, em que o documento | 
+ |  | apareça completo, com a fotografia e os dados da pessoa | 
+ |  | identificada. Caso não seja possível exibir a fotografia e | 
+ |  | os dados da pessoa identificada, serão necessárias duas | 
+ |  | fotos, uma exibindo a fotografia e outra os dados. | 
+
+**Serão aceitos como documento de identificação: I - para residentes no exterior ou em trânsito pelo Brasil: a) Passaporte; b) Carteira do Registro Nacional Migratório - CRNM ou a antiga Cédula de Identidade de Estrangeiro - CIE/RNE; ou c) Documento de identificação dos Estados Partes do Mercosul e Estados associados, admitidos em acordo internacional, até o prazo estipulado no art. 32-A desta Instrução Normativa;
+
+II - para residentes no Brasil: a) Carteira do Registro Nacional Migratório - CRNM ou a antiga Cédula de Identidade de Estrangeiro - CIE/RNE; b) Protocolo da CRNM; c) Documento Provisório de Registro Nacional Migratório - DPRNM, emitido pela Polícia Federal para requerentes de refúgio; d) Protocolo de refúgio, previsto no art. 21 da Lei 9.474, de 22 de julho de 1997; e) Certificado de inscrição consular contendo a foto do estrangeiro; ou f) Documento de identificação dos Estados Partes do Mercosul e Estados associados, admitidos em acordo internacional, até o prazo estipulado no art. 32-A desta Instrução Normativa.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2236, de 22 de novembro de 2024]
 
 Anexo V
+CPF - ATENDIMENTO A SOLICITAÇÃO DE UNIDADE PRISIONAL OU POR UNIDADE SOCIOEDUCATIVA DE INTERNAÇÃO
 
-Anexo VI MODELO DO COMPROVANTE DE SITUAÇÃO CADASTRAL NO CPF
+ | (ANEXO V DA INSTRUÇÃO NORMATIVA RFB Nº 2.172/2024) | 
+CPF - ATENDIMENTOS A SOLICITAÇÕES DE UNIDADES PRISIONAIS OU DE UNIDADES |  | 
+SOCIOEDUCATIVAS DE INTERNAÇÃO |  | 
+1. Para fins do disposto neste Anexo, considera-se: |  | 
+I - pessoa privada de liberdade, a pessoa maior de idade custodiada por Unidade |  | 
+Prisional e a pessoa menor de idade internada em Unidade Socioeducativa de Internação; |  | 
+II - unidade solicitante, a unidade prisional ou unidade socioeducativa de internação; |  | 
+III - secretaria ou instituto solicitante, a secretaria ou instituto de estado ao qual a |  | 
+unidade solicitante é vinculada; IV - RFB, a Secretaria Especial da Receita Federal do Brasil; |  | 
+V - NI-CPF, o número de inscrição da pessoa no Cadastro de Pessoas Físicas - CPF; |  | 
+VI - NI-CNPJ, o número de inscrição da entidade no Cadastro Nacional da Pessoas |  | 
+Jurídicas - CNPJ; |  | 
+VII - e-mail institucional, o endereço eletrônico cujo domínio (parte que vem após o |  | 
+sinal "@") contenha a expressão "gov.br". |  | 
+2. O atendimento de solicitações relacionadas ao CPF ou de consulta do NI-CPF cujo |  | 
+titular seja pessoa privada de liberdade ficará condicionado à apresentação: |  | 
+I - de documento de identificação que comprove nome, data de nascimento, filiação e |  | 
+naturalidade; ou |  | 
+II - de certidão de nascimento ou de casamento. |  | 
+Observação: para realização de ato cadastral no CPF cujo titular seja estrangeiro será |  | 
+exigido documento pessoal que comprove nome, data de nascimento e nacionalidade, podendo |  | 
+ser declaratória a informação sobre filiação. |  | 
+3. Os documentos originais a que se refere o item 2 poderão ser substituídos por cópia |  | 
+simples, observado o disposto no item 4. |  | 
+4. A solicitação de ato cadastral ou de consulta ao CPF relativa a pessoa privada de |  | 
+liberdade apresentada por unidade solicitante ou por secretaria ou instituto solicitante deverá ser |  | 
+formalizada mediante ofício, o qual deverá atender aos seguintes requisitos: |  | 
+I - no corpo do ofício deverão constar: |  | 
+a) a identificação da pessoa privada de liberdade à qual a solicitação ou consulta se |  | 
+refere, com informação sobre sentença penal condenatória transitada em julgado, se houver; |  | 
+b) a informação de que as cópias dos documentos enviados foram autenticadas à |  | 
+vista dos originais; |  | 
+c) o endereço completo da unidade prisional ou da unidade socioeducativa de |  | 
+internação; |  | 
+d) e-mail institucional e NI-CNPJ da pessoa jurídica solicitante; e |  | 
+Observação: caso a unidade solicitante não tenha inscrição no CNPJ deverá ser |  | 
+informado o NI-CNPJ da secretaria de estado ou do instituto de estado ao qual estiver vinculada. |  | 
+e) a assinatura do titular ou do substituto de unidade solicitante ou de secretaria ou |  | 
+instituto solicitante, que deve ser igual à assinatura que constar da cópia de seu documento de |  | 
+identificação enviado. |  | 
+Observação: A assinatura referida no subitem "e" pode ser digital, desde que seja |  | 
+possível conferir sua autenticidade. |  | 
+II - deverão ser anexadas ao ofício: |  | 
+a) cópia do documento de identificação ou da certidão de nascimento ou casamento |  | 
+da pessoa privada de liberdade; e |  | 
+b) cópias do documento de identificação e do ato de designação ou nomeação do |  | 
+titular ou substituto de unidade solicitante ou de secretaria ou instituto solicitante. |  | 
+
+Observação: fica dispensada a cópia do documento de identificação do signatário do ofício, caso a assinatura seja digital e seja possível a conferência de sua autenticidade.
+
+5. As solicitações de que trata este Anexo podem ser apresentadas: I - preferencialmente por meio do Centro de Atendimento Virtual da Receita Federal do Brasil - e-CAC, mediante abertura de processo digital, informado o NI-CNPJ de unidade solicitante ou de secretaria ou instituto solicitante;
+
+II - por mensagem eletrônica enviada a uma das unidades da RFB, desde que a unidade solicitante ou a secretaria ou o instituto solicitante tenha e-mail institucional;
+
+III - mediante envio de correspondência física para o endereço de uma das unidades da RFB; ou
+
+IV - diretamente a uma unidade da RFB. 6. Cada solicitação deve se referir a no máximo 10 (dez) pessoas privadas de liberdade.
+
+7. Cada nova solicitação deve ser instruída com toda a documentação prevista no item 4, mesmo que já enviada anteriormente.
+
+[Redação dada pelo(a) Portaria Cocad nº 67, de 5 de agosto de 2024]
 
 Anexo VI
+MODELO DO COMPROVANTE DE SITUAÇÃO CADASTRAL NO CPF
 
-Anexo VII REQUERIMENTO DE INCLUSÃO/ALTERAÇÃO/EXCLUSÃO DE NOME SOCIAL PARA PESSOA TRAVESTI OU TRANSEXUAL NO CPF
+ANEXO VI (Anexo VI da Instrução Normativa RFB nº 2.172, de 9 de janeiro de 2024)
+
+MODELO DO COMPROVANTE DE SITUAÇÃO CADASTRAL NO CPF
+
+MODELO SEM NOME SOCIAL
+
+Ministério da Fazenda Secretaria Especial da Receita Federal do Brasil
+
+Comprovante de Situação Cadastral no CPF Nº do CPF: 111.111.111-11 Nome: ZZHELZZHALRRY XYXYXYXY DA HZHZHZ Data de Nascimento: dd/mm/aaaa Situação Cadastral: REGULAR Data de Inscrição: dd/mm/aaaa Comprovante emitido às: hh:mm:ss do dia dd/mm/aaaa (hora e data de Brasília). Código de controle do comprovante: 03E5.5AB9.DFF8.29DA Dígito Verificador: 00
+
+A autenticidade deste comprovante deverá ser confirmada pela leitura do QR Code acima ou diretamente no site da Secretaria Especial da Receita Federal do Brasil na Internet, no endereço <https://www.gov.br/receitafederal>.
+
+Este documento não substitui o "Comprovante de inscrição no CPF ".
+
+(Modelo aprovado pela IN RFB nº XXXX, de XX de XXXXXX de 2023.)
+
+MODELO COM NOME SOCIAL
+
+Ministério da Fazenda Secretaria Especial da Receita Federal do Brasil
+
+Comprovante de Situação Cadastral no CPF
+
+Nº do CPF: 111.111.111-11 Nome Social: LXA NYWRIS DXCVBA BXVBHE Nome Civil: ZZHELZZHALRRY XYXYXYXY DA HZHZHZ Data de Nascimento: dd/mm/aaaa Situação Cadastral: REGULAR Data de Inscrição: dd/mm/aaaa Comprovante emitido às: hh:mm:ss do dia dd/mm/aaaa (hora e data de Brasília). Código de controle do comprovante: 03E5.5AB9.DFF8.29DA Dígito Verificador: 00
+
+A autenticidade deste comprovante deverá ser confirmada pela leitura do QR Code acima ou diretamente no site da Secretaria Especial da Receita Federal do Brasil na Internet, no endereço <https://www.gov.br/receitafederal>.
+
+Este documento não substitui o "Comprovante de inscrição no CPF ".
+
+(Modelo aprovado pela IN RFB nº XXXX, de XX de XXXXXX de 2023.)
 
 Anexo VII
+REQUERIMENTO DE INCLUSÃO/ALTERAÇÃO/EXCLUSÃO DE NOME SOCIAL PARA PESSOA TRAVESTI OU TRANSEXUAL NO CPF
 
-Anexo VIII REQUERIMENTO DE INCLUSÃO/ALTERAÇÃO/EXCLUSÃO DE NOME SOCIAL PARA PESSOA TRAVESTI OU TRANSEXUAL NO CPF (PARA MENORES DE 16 ANOS)
+ANEXO VII (Anexo VII da Instrução Normativa RFB nº 2.172, de 9 de janeiro de 2024)
+
+REQUERIMENTO DE INCLUSÃO/ALTERAÇÃO/EXCLUSÃO DE NOME SOCIAL PARA PESSOA TRAVESTI OU
+
+TRANSEXUAL NO CPF
+
+Ministério da Fazenda Secretaria Especial da Receita Federal do Brasil
+
+REQUERIMENTO DE INCLUSÃO/ALTERAÇÃO/EXCLUSÃO DE NOME SOCIAL PARA PESSOA TRAVESTI OU
+
+TRANSEXUAL NO CPF
+
+______________________________________________________________ (nome civil), portador(a) do
+
+Documento de Identificação nº ____________________________, expedido por ________________, em
+
+____/____/________, inscrito no Cadastro de Pessoas Físicas sob o nº ___________________________,
+
+com base no art. 6º do Decreto nº 8.727, de 28 de abril de 2016, e sob as penas do art. 299 do Decreto-
+
+Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), declara ser
+
+ | TRAVESTI
+
+ | TRANSEXUAL
+
+Inclusão de seu Nome Social, ________________________________________________, no CPF;
+
+Alteração de seu Nome Social, para ___________________________________________, no CPF ou
+
+Exclusão de seu Nome Social, ________________________________________________, no CPF.
+
+______________________________, ____/____/________
+
+Local e data
+
+__________________________________________________
+
+Assinatura
 
 Anexo VIII
+REQUERIMENTO DE INCLUSÃO/ALTERAÇÃO/EXCLUSÃO DE NOME SOCIAL PARA PESSOA TRAVESTI OU TRANSEXUAL NO CPF (PARA MENORES DE 16 ANOS)
+
+ANEXO VIII (Anexo VIII da Instrução Normativa RFB nº 2.172, de 9 de janeiro de 2024)
+
+REQUERIMENTO DE INCLUSÃO/ALTERAÇÃO/EXCLUSÃO DE NOME SOCIAL PARA PESSOA TRAVESTI OU
+
+TRANSEXUAL NO CPF (PARA MENORES DE 16 ANOS)
+
+Ministério da Fazenda Secretaria Especial da Receita Federal do Brasil
+
+REQUERIMENTO DE INCLUSÃO/ALTERAÇÃO/EXCLUSÃO DE NOME SOCIAL PARA PESSOA TRAVESTI OU
+
+TRANSEXUAL NO CPF (PARA MENORES DE 16 ANOS)
+
+______________________________________________________________ (nome civil), portador(a) do
+
+Documento de Identificação /Certidão de Nascimento nº__________________________________,
+
+inscrito(a) no Cadastro de Pessoas Físicas sob o nº _________________________, por meio de seu(s)
+
+representante(s) legal(is) _________________________________________________________(nome),
+
+portador(a) do Documento de Identificação nº ____________________, expedido por ______________,
+
+em ___/___/_____, inscrito(a) no Cadastro de Pessoas Físicas sob o nº _________________________, e
+
+____________________________________________________(nome), portador(a) do Documento de
+
+Identificação nº_______________________, expedido por________________, em ___/___/______,
+
+inscrito(a) no Cadastro de Pessoas Físicas sob o nº ___________________________, com base no art. 6º
+
+do Decreto nº 8.727, de 28 de abril de 2016, e sob as penas do art. 299 do Decreto-Lei nº 2.848, de 7 de
+
+dezembro de 1940 (Código Penal), declara ser
+
+ | TRAVESTI
+
+TRANSEXUAL e solicita:
+
+Inclusão de seu Nome Social, ________________________________________________, no CPF;
+
+Alteração de seu Nome Social, para ___________________________________________, no CPF ou
+
+Exclusão de seu Nome Social, ________________________________________________, no CPF.
+
+______________________________, ____/____/________
+
+Local e data
+
+_____________________________________
+
+Assinatura do representante legal 1
+
+_______________________________________
+
+Assinatura do representante legal 2

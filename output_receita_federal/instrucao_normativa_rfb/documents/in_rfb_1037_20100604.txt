@@ -4,7 +4,9 @@ Relaciona países ou dependências com tributação favorecida e regimes fiscais
 
 O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no art. 24 da Lei nº 9.430, de 27 de dezembro de 1996; no art. 8º da Lei nº 9.779, de 19 de janeiro de 1999; no art. 7º da Lei nº 9.959, de 27 de janeiro de 2000; no § 1º do art. 29 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, no § 2º do art. 16 da Medida Provisória nº 2.189-49, de 23 de agosto de 2001, nos arts. 3º e 4º da Lei nº 10.451, de 10 de maio de 2002, e nos arts. 22 e 23 da Lei nº 11.727, de 23 de junho de 2008, resolve:
 
-Art. 1º Para efeitos do disposto nesta Instrução Normativa, consideram-se países ou dependências que não tributam a renda ou que a tributam à alíquota inferior a 20% (vinte por cento) ou, ainda, cuja legislação interna não permita acesso a informações relativas à composição societária de pessoas jurídicas ou à sua titularidade, as seguintes jurisdições:
+Art. 1º Para fins do disposto nesta Instrução Normativa, consideram-se países ou dependências que não tributam a renda ou que a tributam à alíquota inferior a 17% (dezessete por cento) ou, ainda, cuja legislação interna não permita acesso a informações relativas à composição societária de pessoas jurídicas, à sua titularidade ou à identificação do beneficiário efetivo de rendimentos atribuídos a não residentes, as seguintes jurisdições:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2265, de 9 de maio de 2025]
 
 I - Andorra;
 
@@ -12,7 +14,9 @@ II - Anguilla;
 
 III - Antígua e Barbuda;
 
-IV - Antilhas Holandesas;
+IV -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1658, de 13 de setembro de 2016]
 
 V - Aruba;
 
@@ -38,17 +42,23 @@ XV - Ilhas Cayman;
 
 XVI - Chipre;
 
-XVII - Cingapura;
+XVII -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
 
 XVIII - Ilhas Cook;
 
-XIX - República da Costa Rica;
+XIX -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
 
 XX - Djibouti;
 
 XXI - Dominica;
 
-XXII - Emirados Árabes Unidos;
+XXII -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2265, de 9 de maio de 2025]
 
 XXIII - Gibraltar;
 
@@ -68,7 +78,9 @@ XXX - Liechtenstein;
 
 XXXI - Macau;
 
-XXXII - Ilha da Madeira;
+XXXII -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
 
 XXXIII - Maldivas;
 
@@ -98,7 +110,9 @@ XLVI - Samoa Americana;
 
 XLVII - Samoa Ocidental;
 
-XLVIII - San Marino;
+XLVIII -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1896, de 27 de junho de 2019]
 
 XLIX - Ilhas de Santa Helena;
 
@@ -114,11 +128,15 @@ LIV - Seychelles;
 
 LV - Ilhas Solomon;
 
-LVI - St. Kitts e Nevis;
+LVI -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1658, de 13 de setembro de 2016]
 
 LVII - Suazilândia;
 
-LVIII - Suíça;
+LVIII -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1474, de 18 de junho de 2014]
 
 LIX - Sultanato de Omã;
 
@@ -134,25 +152,159 @@ LXIV - Ilhas Virgens Americanas;
 
 LXV - Ilhas Virgens Britânicas;
 
+LXVI - Curaçao;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1658, de 13 de setembro de 2016]
+
+LXVII - São Martinho;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1658, de 13 de setembro de 2016]
+
+LXVIII - Irlanda.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1658, de 13 de setembro de 2016]
+
 Art. 2º São regimes fiscais privilegiados:
 
-I - com referência à legislação de Luxemburgo, o regime aplicável às pessoas jurídicas constituídas sob a forma de holding company;
+I -
+
+[Revogado(a) pelo(a) Ato Declaratório Executivo RFB nº 3, de 25 de março de 2011]
 
 II - com referência à legislação do Uruguai, o regime aplicável às pessoas jurídicas constituídas sob a forma de " Sociedades Financeiras de Inversão (Safis)" até 31 de dezembro de 2010;
 
-III - com referência à legislação da Dinamarca, o regime aplicável às pessoas jurídicas constituídas sob a forma de holding company;
+III - com referência à legislação da Dinamarca, o regime aplicável às pessoas jurídicas constituídas sob a forma de holding company que não exerçam atividade econômica substantiva;
 
-IV - com referência à legislação do Reino dos Países Baixos, o regime aplicável às pessoas jurídicas constituídas sob a forma de holding company;
+[Redação dada pelo(a) Instrução Normativa RFB nº 1045, de 23 de junho de 2010]
+
+IV - com referência à legislação do Reino dos Países Baixos, o regime aplicável às pessoas jurídicas constituídas sob a forma de holding company que não exerçam atividade econômica substantiva;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1045, de 23 de junho de 2010]
 
 V - com referência à legislação da Islândia, o regime aplicável às pessoas jurídicas constituídas sob a forma de International Trading Company (ITC);
 
-VI - com referência à legislação da Hungria, o regime aplicável às pessoas jurídicas constituídas sob a forma de offshore KFT;
+VI -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1474, de 18 de junho de 2014]
 
 VII - com referência à legislação dos Estados Unidos da América, o regime aplicável às pessoas jurídicas constituídas sob a forma de Limited Liability Company (LLC) estaduais, cuja participação seja composta de não residentes, não sujeitas ao imposto de renda federal; ou
 
 VIII - com referência à legislação da Espanha, o regime aplicável às pessoas jurídicas constituídas sob a forma de Entidad de Tenencia de Valores Extranjeros (E.T.V.Es.);
 
 IX - com referência à legislação de Malta, o regime aplicável às pessoas jurídicas constituídas sob a forma de International Trading Company (ITC) e de International Holding Company (IHC).
+
+X - com referência à Suíça, os regimes aplicáveis às pessoas jurídicas constituídas sob a forma de holding company, domiciliary company, auxiliary company, mixed company e administrative company cujo tratamento tributário resulte em incidência de Imposto sobre a Renda da Pessoa Jurídica (IRPJ), de forma combinada, inferior a 20% (vinte por cento), segundo a legislação federal, cantonal e municipal, assim como o regime aplicável a outras formas legais de constituição de pessoas jurídicas, mediante rulings emitidos por autoridades tributárias, que resulte em incidência de IRPJ, de forma combinada, inferior a 20% (vinte por cento), segundo a legislação federal, cantonal e municipal.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1474, de 18 de junho de 2014]
+
+XI -
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1683, de 29 de dezembro de 2016]
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2265, de 9 de maio de 2025]
+
+XII - com referência à legislação da República da Costa Rica, o Regime de Zonas Francas (RZF);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+XIII - com referência à legislação de Portugal, o regime do Centro Internacional de Negócios da Madeira (CINM); e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+XIV - com referência à legislação de Singapura, os seguintes regimes de alíquota diferenciada para:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+a) armador ou fretador ou para empresa de transporte aéreo não residentes (special rate of tax for non-resident shipowner or charterer or air transport undertaking);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+b) seguradoras e resseguradoras ou o regime de isenção aplicável a tais empresas (exemption and concessionary rate of tax for insurance and reinsurance business);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+c) Centro de Finanças e Tesouraria (concessionary rate of tax for Finance and Treasury Centre);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+d) administrador fiduciário (concessionary rate of tax for trustee company);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+e) renda derivada de títulos de dívida (concessionary rate of tax for income derived from debt securities);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+f) empresa de comércio global e empresa elegível (concessionary rate of tax for global trading company and qualifying company);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+g) empresa de incentivo do setor financeiro (concessionary rate of tax for financial sector incentive company);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+h) prestação de serviços de processamento para instituições financeiras (concessionary rate of tax for provision of processing services for financial institutions);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+i) gestor de investimentos em transporte marítimo (concessionary rate of tax for shipping investment manager);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+j) beneficiário de renda fiduciária (concessionary rate of tax for trust income to which beneficiary is entitled);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+k) arrendamento de aeronaves e motores de aeronaves (concessionary rate of tax for leasing of aircraft and aircraft engines);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+l) gestor de investimentos em aeronaves (concessionary rate of tax for aircraft investment manager);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+m) empresa de investimento em contêineres (concessionary rate of tax for container investment enterprise);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+n) gestor de investimentos em contêineres (concessionary rate of tax for container investment manager);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+o) corretores de seguros autorizados (concessionary rate of tax for approved insurance brokers);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+p) renda derivada da gestão de negócios registrados de fideicomissos ou de empresas elegíveis (concessionary rate of tax for income derived from managing qualifying registered business trust or company);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+q) corretores de navios e de operações de proteção de frete marítimo (concessionary rate of tax for ship broking and forward freight agreement trading);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+r) serviços de suporte relacionados com transporte marítimo (concessionary rate of tax for shipping-related support services);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+s) renda derivada da gestão de investimentos autorizados (concessionary rate of tax for income derived from managing approved venture company); e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+t) empresa em processo de expansão internacional (concessionary rate of tax for international growth company).
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+Parágrafo único. Para fins de identificação de regimes fiscais privilegiados previstos nos incisos III e IV do caput, entende-se que a pessoa jurídica que exerce a atividade de holding desempenha atividade econômica substantiva quando possui, no seu país de domicílio, capacidade operacional apropriada para os seus fins, evidenciada, entre outros fatores, pela existência de empregados próprios qualificados em número suficiente e de instalações físicas adequadas para o exercício da gestão e efetiva tomada de decisões relativas:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]
+
+I - ao desenvolvimento das atividades com o fim de obter rendas derivadas dos ativos de que dispõe; ou
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1658, de 13 de setembro de 2016]
+
+II - à administração de participações societárias com o fim de obter rendas decorrentes da distribuição de lucro e do ganho de capital.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1658, de 13 de setembro de 2016]
 
 Art. 3º Esta Instrução Normativa entra em vigor na data de sua publicação.
 

@@ -32,7 +32,7 @@
   "dataPublicacao": "2000-04-27",
   "dataVigenciaInicio": "2000-04-27",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -287,6 +287,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/1451/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/1451/visao/vigente",
+  "_fetched_at": "2026-07-29T19:25:17.591781+00:00"
 }

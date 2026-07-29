@@ -1,6 +1,13 @@
 Parecer Normativo CST nº 130, de 23 de outubro de 1975
 
-MNTPJ - 2.28.10.00 - Exclusões do Lucro Real. - 2.28.10.20 - Exclusão dos Resultados na Alienação de Imóveis. Alienação de imóveis que integrem o ativo imobilizado de empresas; isenção do imposto sobre os lucros, com base no Decreto-lei número 1.260/73: 1) quando as datas de quitação e aquisição forem diferentes, o prazo de cinco anos (inciso I, § 2º, art. 1º) é contado a partir do evento mais recente; 2) entende-se por venda de imóveis a prazo aquela em que a totalidade do preço não é recebida no ato da alienação, e existe vinculação entre os créditos resultantes da parte não recebida e a respectiva transação; 3) o período de cinco anos, dentro do qual não poderá ocorrer a extinção da empresa ou redução do capital aumentado com lucros decorrentes da venda de imóveis a prazo, é contado a partir da data da última assembléia geral ou alteração contratual que deu causa ao aumento; 4) para os imóveis que venham a integrar o ativo imobilizado de pessoa jurídica em virtude de incorporação de outra empresa, o prazo de cinco anos anterior à revenda é contado a partir da aquisição ou quitação do preço, pela empresa incorporada; 5) entende-se por imóveis os definidos no art. 43 do Código Civil Brasileiro.
+MNTPJ - 2.28.10.00 - Exclusões do Lucro Real.
+- 2.28.10.20 - Exclusão dos Resultados na Alienação de Imóveis.
+Alienação de imóveis que integrem o ativo imobilizado de empresas; isenção do imposto sobre os lucros, com base no Decreto-lei número 1.260/73:
+1) quando as datas de quitação e aquisição forem diferentes, o prazo de cinco anos (inciso I, § 2º, art. 1º) é contado a partir do evento mais recente;
+2) entende-se por venda de imóveis a prazo aquela em que a totalidade do preço não é recebida no ato da alienação, e existe vinculação entre os créditos resultantes da parte não recebida e a respectiva transação;
+3) o período de cinco anos, dentro do qual não poderá ocorrer a extinção da empresa ou redução do capital aumentado com lucros decorrentes da venda de imóveis a prazo, é contado a partir da data da última assembléia geral ou alteração contratual que deu causa ao aumento;
+4) para os imóveis que venham a integrar o ativo imobilizado de pessoa jurídica em virtude de incorporação de outra empresa, o prazo de cinco anos anterior à revenda é contado a partir da aquisição ou quitação do preço, pela empresa incorporada;
+5) entende-se por imóveis os definidos no art. 43 do Código Civil Brasileiro.
 
 Dúvidas têm sido suscitadas relativamente à aplicação do Decreto-lei nº 1.260, de 26.02.73, quanto:
 
@@ -34,4 +41,5 @@ De acordo,
 
 Publique-se e, a seguir, encaminhem-se cópias às SS.RR.R.F. para conhecimento e ciência aos demais órgãos subordinados.
 
-Antonio Augusto de Mesquita Neto Coordenador
+Antonio Augusto de Mesquita Neto
+Coordenador

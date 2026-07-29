@@ -10,6 +10,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "1 candidate(s) found, none matched órgão=None/number=129/date=1973-09-13",
@@ -17,6 +18,11 @@
     "review_reason": "date_mismatch",
     "source_filenames": [
       "Parecer Normativo nº 129, de 13 de setembro de 1973.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   }
 ]

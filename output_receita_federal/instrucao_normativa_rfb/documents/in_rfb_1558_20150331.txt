@@ -18,7 +18,7 @@ XVI - rendimentos recebidos no Brasil por não residentes, exceto os ganhos a qu
 
 ........................................................................................” (NR)
 
-“Art. 22. ?.............................................................................
+“Art. 22. ..............................................................................
 
 ...................................................................................................
 
@@ -26,7 +26,8 @@ XI - salário-educação;
 
 ........................................................................................” (NR)
 
-“Subseção I Dos RRA Submetidos à Incidência do Imposto sobre a Renda com Base na Tabela Progressiva Correspondentes a Anos-calendário Anteriores ao do Recebimento” (NR)
+“Subseção I
+Dos RRA Submetidos à Incidência do Imposto sobre a Renda com Base na Tabela Progressiva Correspondentes a Anos-calendário Anteriores ao do Recebimento” (NR)
 
 “Art. 36. Os RRA, a partir de 11 de março de 2015, submetidos à incidência do imposto sobre a renda com base na tabela progressiva, quando correspondentes a anos-calendário anteriores ao do recebimento, serão tributados exclusivamente na fonte, no mês do recebimento ou crédito, em separado dos demais rendimentos recebidos no mês.
 
@@ -116,6 +117,16 @@ Art. 2º O Anexo I da Instrução Normativa RFB nº 1.500, de 2014, passa a vigo
 
 “
 
+Ano-calendário | Valores isentos mensais (em R$)
+2010 | até 1.499,15
+2011, até o mês de março | até 1.499,15
+2011, a partir do mês de abril | até 1.566,61
+2012 | até 1.637,11
+2013 | até 1.710,78
+2014 | até 1.787,77
+2015, até o mês de março | até 1.787,77
+A partir do mês de abril do ano-calendário de 2015 | até 1.903,98
+
 ” (NR)
 
 Art. 3º O item V do Anexo II da Instrução Normativa RFB nº 1.500, de 2014, passa a vigorar com a seguinte redação:
@@ -128,7 +139,21 @@ Art. 4º O Anexo II da Instrução Normativa RFB nº 1.500, de 2014, passa a vig
 
 “VI - para o ano-calendário de 2015, até o mês de março:
 
+Base de Cálculo (R$) | Alíquota (%) | Parcela a deduzir do IR (em R$)
+Até 1.787,77 | - | -
+De 1.787,78 até 2.679,29 | 7,5 | 134,08
+De 2.679,30 até 3.572,43 | 15 | 335,03
+De 3.572,44 até 4.463,81 | 22,5 | 602,96
+Acima de 4.463,81 | 27,5 | 826,15
+
 VII - a partir do mês de abril do ano-calendário de 2015:
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a deduzir do IR (em R$)
+Até 1.903,98 | - | -
+De 1.903,99 até 2.826,65 | 7,5 | 142,80
+De 2.826,66 até 3.751,05 | 15 | 354,80
+De 3.751,06 até 4.664,68 | 22,5 | 636,13
+Acima de 4.664,68 | 27,5 | 869,36
 
 "
 
@@ -142,7 +167,21 @@ Art. 6º O Anexo III da Instrução Normativa RFB nº 1.500, de 2014, passa a vi
 
 “III - para o ano-calendário de 2015, até o mês de março:
 
+Valor do PLR anual (em R$) | Alíquota | Parcela a deduzir do imposto (em R$)
+De 0,00 a 6.270,00 | 0,0% | -
+De 6.270,01 a 9.405,00 | 7,5% | 470,25
+De 9.405,01 a 12.540,00 | 15% | 1.175,63
+De 12.540,01 a 15.675,00 | 22,5% | 2.116,13
+Acima de 15.675,00 | 27,5% | 2.899,88
+
 IV - a partir do mês de abril do ano-calendário de 2015:
+
+Valor do PLR anual (em R$) | Alíquota | Parcela a deduzir do imposto (em R$)
+De 0,00 a 6.677,55 | 0,0% | -
+De 6.677,56 a 9.922,28 | 7,5% | 500,82
+De 9.922,29 a 13.167,00 | 15% | 1.244,99
+De 13.167,01 a 16.380,38 | 22,5% | 2.232,51
+Acima de 16.380,38 | 27,5% | 3.051,53
 
 ”
 
@@ -150,13 +189,34 @@ Art. 7º O item IV do Anexo IV da Instrução Normativa RFB nº 1.500, de 2014, 
 
 “IV - para o ano-calendário de 2014:
 
+Base de Cálculo em R$ | Alíquota (%) | Parcela a deduzir do imposto (R$)
+Até (1.787,77 x NM) | - | -
+Acima de (1.787,77 x NM) até (2.679,29 x NM) | 7,5 | 134,08275 x NM
+Acima de (2.679,29 x NM) até (3.572,43 x NM) | 15 | 335,02950 x NM
+Acima de (3.572,43 x NM) até (4.463,81 x NM) | 22,5 | 602,96175 x NM
+Acima de (4.463,81 x NM) | 27,5 | 826,15225 x NM
+
 ” (NR)
 
 Art. 8º O Anexo IV da Instrução Normativa RFB nº 1.500, de 2014, passa a vigorar acrescido dos itens V e VI:
 
 “V - para o ano-calendário de 2015, até o mês de março:
 
+Base de Cálculo em R$ | Alíquota (%) | Parcela a deduzir do imposto (R$)
+Até (1.787,77 x NM) | - | -
+Acima de (1.787,77 x NM) até (2.679,29 x NM) | 7,5 | 134,08275 x NM
+Acima de (2.679,29 x NM) até (3.572,43 x NM) | 15 | 335,02950 x NM
+Acima de (3.572,43 x NM) até (4.463,81 x NM) | 22,5 | 602,96175 x NM
+Acima de (4.463,81 x NM) | 27,5 | 826,15225 x NM
+
 VI - a partir do mês de abril do ano-calendário de 2015:
+
+Base de Cálculo em R$ | Alíquota (%) | Parcela a deduzir do imposto (R$)
+Até (1.903,98 x NM) | - | -
+Acima de (1.903,98 x NM) até (2.826,65 x NM) | 7,5 | 142,79850 x NM
+Acima de (2.826,65 x NM) até (3.751,05 x NM) | 15 | 354,79725 x NM
+Acima de (3.751,05 x NM) até (4.664,68 x NM) | 22,5 | 636,12600 x NM
+Acima de (4.664,68 x NM) | 27,5 | 869,36000 x NM
 
 Legenda: NM = Número de meses a que se refere o pagamento acumulado”
 
@@ -164,7 +224,24 @@ Art. 9º O Anexo VI da Instrução Normativa RFB nº 1.500, de 2014, passa a vig
 
 “Mensal:
 
+Ano-calendário | Quantia por dependente (em R$)
+2010 | 150,69
+2011 | 157,47
+2012 | 164,56
+2013 | 171,97
+2014 | 179,71
+2015, até o mês de março | 179,71
+A partir do mês de abril do ano-caledário de 2015 | 189,59
+
 Anual:
+
+Ano-calendário | Quantia por dependente (em R$)
+2010 | 1.808,28
+2011 | 1.889,64
+2012 | 1.974,72
+2013 | 2.063,64
+2014 | 2.156,52
+A partir de 2015 | 2.275,08
 
 ” (NR)
 
@@ -178,17 +255,40 @@ Art. 11. O Anexo VII da Instrução Normativa RFB nº 1.500, de 2014, passa a vi
 
 “V - a partir do exercício 2016, ano-calendário de 2015:
 
+Base de Cálculo (R$) | Alíquota (%) | Parcela a deduzir do IR (R$)
+Até 22.499,13 | - | -
+De 22.499,14 até 33.477,72 | 7,5 | 1.687,43
+De 33.477,73 até 44.476,74 | 15 | 4.198,26
+De 44.476,75 até 55.373,55 | 22,5 | 7.534,02
+Acima de 55.373,55 | 27,5 | 10.302,70
+
 ”
 
 Art. 12. O Anexo VIII da Instrução Normativa RFB nº 1.500, de 2014, passa a vigorar com a seguinte redação:
 
 "
 
+Ano-calendário | Quantia (em R$)
+2010 | 2.830,84
+2011 | 2.958,23
+2012 | 3.091,35
+2013 | 3.230,46
+2014 | 3.375,83
+A partir de 2015 | 3.561,50
+
 ” (NR)
 
 Art. 13. O Anexo IX da Instrução Normativa RFB nº 1.500, de 2014, passa a vigorar com a seguinte redação:
 
 "
+
+Ano-calendário | Quantia (em R$)
+2010 | 13.317,09
+2011 | 13.916,36
+2012 | 14.542,60
+2013 | 15.197,02
+2014 | 15.880,89
+A partir de 2015 | 16.754,34
 
 ” (NR)
 

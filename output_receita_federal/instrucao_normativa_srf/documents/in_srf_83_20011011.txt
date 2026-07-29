@@ -2,7 +2,7 @@ Instrução Normativa SRF nº 83, de 11 de outubro de 2001
 
 Dispõe sobre a tributação dos resultados da atividade rural das pessoas físicas.
 
-O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF Nº 259, de 24 de agosto de 2001, e tendo em vista o disposto nas Leis Nº 8.023, de 12 de abril de 1990, No 8.134, de 27 de dezembro de 1990, Nº 9.249 e Nº 9.250, de 26 de dezembro de 1995, resolve:
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF Nº 259, de 24 de agosto de 2001, e tendo em vista o disposto nas Leis Nº 8.023, de 12 de abril de 1990, nº 8.134, de 27 de dezembro de 1990, Nº 9.249 e Nº 9.250, de 26 de dezembro de 1995, resolve:
 
 Art. 1º O resultado da atividade rural, apurado pelas pessoas físicas, quando positivo, integra a base de cálculo do imposto de renda devido no ano-calendário.
 
@@ -150,7 +150,9 @@ Art. 11. Considera-se resultado da atividade rural a diferença entre os valores
 
 § 2º Do resultado da atividade rural poderá ser excluído o montante de prejuízos compensáveis de exercícios anteriores.
 
-§ 3º Para efeito do disposto nos parágrafos anteriores, o contribuinte deve apresentar a Declaração de Ajuste Anual no modelo completo desde o ano-calendário em que obteve prejuízo até o ano-calendário em que efetuar a compensação.
+§ 3º
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
 
 § 4º A pessoa física fica obrigada à conservação e guarda do livro Caixa e dos documentos fiscais que demonstrem a apuração do prejuízo a compensar.
 
@@ -216,6 +218,34 @@ Art. 23. A escrituração consiste em assentamentos das receitas, despesas de cu
 
 § 4º A escrituração do livro Caixa deve ser realizada até a data prevista para a entrega tempestiva da Declaração de Ajuste Anual.
 
+Art. 23-A. A partir do ano-calendário de 2019 o produtor rural que auferir, durante o ano, receita bruta total da atividade rural superior a R$ 4.800.000,00 (quatro milhões e oitocentos mil reais) deverá entregar, com observância ao disposto no § 4º do art. 23, arquivo digital com a escrituração do Livro Caixa Digital do Produtor Rural (LCDPR), observado o disposto no § 5º.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1903, de 24 de julho de 2019]
+
+§ 1º O leiaute e o manual de preenchimento do LCDPR serão divulgados pela Coordenação-Geral de Programação e Estudos (Copes) por meio de Ato declaratório Executivo (ADE) a ser publicado no Diário Oficial da União (DOU).
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1848, de 28 de novembro de 2018]
+
+§ 2º O LCDPR deverá ser assinado digitalmente, por meio de certificado digital válido, emitido por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), a fim de garantir a autoria do documento digital.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1848, de 28 de novembro de 2018]
+
+§ 3º A entrega do arquivo digital que contém o LCDPR escriturado e assinado em conformidade com o disposto nos §§ 1º e 2º à Secretaria Especial da Receita Federal do Brasil (RFB) deverá ser realizada até o final do prazo de entrega da Declaração do Imposto sobre a Renda da Pessoa Física do respectivo ano-calendário.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1903, de 24 de julho de 2019]
+
+§ 4º O contribuinte que auferir, no ano-calendário, receita bruta total da atividade rural inferior à prevista no caput poderá escriturar e entregar o LCDPR.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1848, de 28 de novembro de 2018]
+
+§ 5º Para o ano-calendário de 2019, excepcionalmente, o limite previsto no caput para obrigatoriedade de entrega do LCDPR será de R$ 7.200.000,00 (sete milhões e duzentos mil reais).
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1903, de 24 de julho de 2019]
+
+Art. 23-B. Estará sujeito às multas previstas no art. 57 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, o produtor rural pessoa física que deixar de apresentar o LCDPR no prazo estabelecido pelo § 3º do art. 23-A ou o apresentar com incorreções ou omissões.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1848, de 28 de novembro de 2018]
+
 Art. 24. A escrituração deve ser efetuada abrangendo todas as unidades rurais exploradas pelo contribuinte, de modo a permitir a apuração dos valores da receita bruta e das despesas de custeio e dos investimentos que integram o resultado da atividade rural.
 
 Art. 25. Nos casos de exploração de uma unidade rural por mais de uma pessoa física (art. 14), a escrituração deve ser efetuada em destaque, no livro Caixa de cada contribuinte, abrangendo a sua participação no resultado da atividade rural, acompanhada da respectiva documentação comprobatória, por meio de cópias, quando for o caso.
@@ -248,6 +278,6 @@ Parágrafo único. É vedada a compensação de resultado positivo no exterior c
 
 Art. 29. Esta Instrução Normativa entra em vigor na data de sua publicação.
 
-Art. 30. Fica formalmente revogada, sem interrupção de sua força normativa, a Instrução Normativa SRF No 17/96, de 4 de abril de 1996.
+Art. 30. Fica formalmente revogada, sem interrupção de sua força normativa, a Instrução Normativa SRF nº 17/96, de 4 de abril de 1996.
 
 EVERARDO MACIEL

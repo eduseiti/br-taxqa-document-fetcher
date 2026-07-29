@@ -32,7 +32,7 @@
   "dataPublicacao": "2005-04-28",
   "dataVigenciaInicio": "2005-04-28",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -199,7 +199,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 3º Fica formalmente revogado, sem a interrupção de sua força normativa, o Ato Declaratório Interpretativo SRF nº 23, de 25 de agosto de 2004.",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 5697,
+          "idSegmento": null,
+          "idAnotacao": 218989,
+          "href": "5697",
+          "texto": "[Ato Declaratório Interpretativo SRF nº 23, de 25/08/2004 - |Dispõe sobre a revisão de crédito tributário ...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -355,6 +371,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5593/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5593/visao/vigente",
+  "_fetched_at": "2026-07-29T19:25:39.677913+00:00"
 }

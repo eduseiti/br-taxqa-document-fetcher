@@ -32,7 +32,7 @@
   "dataPublicacao": "2016-03-15",
   "dataVigenciaInicio": "2016-03-15",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -2532,7 +2532,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 125,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2540,7 +2540,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 3º A solicitação e autorização de que trata o inciso I do caput devem ser efetuadas até a data prevista no art. 33, e o envio da informação pela instituição financeira estrangeira deve ser efetuado até 31 dezembro de 2016.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 78232,
+          "idSegmento": 1674106,
+          "idAnotacao": 227838,
+          "href": "78232",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1665, de 19 de outubro de 2016]",
+          "dataInicioVigencia": "20/10/2016",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2572,7 +2588,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 127,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2580,7 +2596,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Parágrafo único. O declarante poderá antecipar a repatriação total ou parcial dos recursos financeiros constantes da Dercat, desde que realize o pagamento do imposto e da multa de que tratam os incisos II e III do art. 5º no momento em que os recursos se tornarem disponíveis no País.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 76128,
+          "idSegmento": 1650997,
+          "idAnotacao": 227052,
+          "href": "76128",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1654, de 27 de julho de 2016]",
+          "dataInicioVigencia": "29/07/2016",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2632,13 +2664,13 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 130,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "§ 1<strike>º</strike> A DAA de que trata o caput deve ser apresentada até a data prevista no art. 33.",
+      "textoIntegra": "§ 1<strike>º</strike>  A DAA de que trata o caput deve ser apresentada até a data prevista no art. 33.",
       "ancorasOrigem": [],
       "ancorasDestino": [],
       "arquivoBinario": null,
@@ -2652,7 +2684,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 131,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2660,7 +2692,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 1º A DAA de que trata o caput deve ser apresentada até 31 de dezembro de 2016.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 78232,
+          "idSegmento": 1674108,
+          "idAnotacao": 227839,
+          "href": "78232",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1665, de 19 de outubro de 2016]",
+          "dataInicioVigencia": "20/10/2016",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2672,13 +2720,13 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 132,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "§ 2<strike>º</strike> Na coluna discriminação da ficha Bens e Direitos da DAA, além de relacionar, de forma discriminada, as informações sobre os recursos, bens e direitos declarados na Dercat, deverá constar também o número do recibo de entrega desta declaração.",
+      "textoIntegra": "§ 2<strike>º</strike>  Na coluna discriminação da ficha Bens e Direitos da DAA, além de relacionar, de forma discriminada, as informações sobre os recursos, bens e direitos declarados na Dercat, deverá constar também o número do recibo de entrega desta declaração.",
       "ancorasOrigem": [],
       "ancorasDestino": [],
       "arquivoBinario": null,
@@ -2692,7 +2740,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 133,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2700,7 +2748,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 2º Na coluna discriminação da ficha Bens e Direitos da DAA, o declarante deverá relacionar, de forma discriminada, as informações sobre os recursos, bens e direitos declarados na Dercat.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 78232,
+          "idSegmento": 1674109,
+          "idAnotacao": 227840,
+          "href": "78232",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1665, de 19 de outubro de 2016]",
+          "dataInicioVigencia": "20/10/2016",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3032,13 +3096,13 @@
       "idTipoSegmento": 3,
       "idAssunto": 1,
       "ordemSegmentoAto": 150,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "Art. 26. Será excluído do RERCT o contribuinte que apresentar declarações ou documentos falsos:",
+      "textoIntegra": "Art. 26.  Será excluído do RERCT o contribuinte que apresentar declarações ou documentos falsos:",
       "ancorasOrigem": [],
       "ancorasDestino": [],
       "arquivoBinario": null,
@@ -3052,7 +3116,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 151,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3060,7 +3124,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 26. Será excluído do RERCT o contribuinte que apresentar declarações ou documentos falsos:",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926711,
+          "idAnotacao": 240151,
+          "href": "95102",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3072,7 +3152,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 152,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -3092,7 +3172,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 153,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3100,7 +3180,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "I - relativos à titularidade e à condição jurídica dos recursos, bens ou direitos objeto da regularização;",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926712,
+          "idAnotacao": 240152,
+          "href": "95102",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3112,7 +3208,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 154,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -3132,7 +3228,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 155,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3140,7 +3236,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "II - relativos ao § 3º do art. 7º; ou",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926713,
+          "idAnotacao": 240153,
+          "href": "95102",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3152,7 +3264,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 156,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3160,7 +3272,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "III - relativos aos incisos V, VI e VII do caput do art. 7º;",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926714,
+          "idAnotacao": 240154,
+          "href": "95102",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3252,13 +3380,13 @@
       "idTipoSegmento": 3,
       "idAssunto": 1,
       "ordemSegmentoAto": 161,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "Art. 27. O não atendimento de quaisquer condições estabelecidas no art. 5<strike>º</strike>, ou a declaração inverídica prevista nos incisos V, VI e VII do caput do art. 7<strike>º</strike> implicarão a nulidade da adesão ao RERCT e a consequente inaplicabilidade das disposições da Lei n<strike>º</strike> 13.254, de 2016, aos recursos, bens ou direitos declarados.",
+      "textoIntegra": "Art. 27.  O não atendimento de quaisquer condições estabelecidas no art. 5<strike>º</strike>, ou a declaração inverídica prevista nos incisos V, VI e VII do caput do art. 7<strike>º</strike> implicarão a nulidade da adesão ao RERCT e a consequente inaplicabilidade das disposições da Lei n<strike>º</strike> 13.254, de 2016, aos recursos, bens ou direitos declarados.",
       "ancorasOrigem": [],
       "ancorasDestino": [],
       "arquivoBinario": null,
@@ -3272,7 +3400,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 162,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3280,7 +3408,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 27. O não atendimento de quaisquer condições estabelecidas no art. 5º implicará nulidade da adesão ao RERCT e a consequente inaplicabilidade das disposições da Lei nº 13.254, de 2016, aos recursos, bens ou direitos declarados.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926715,
+          "idAnotacao": 240155,
+          "href": "95102",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3318,9 +3462,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "Parágrafo único. O recurso de que trata o caput será decidido em última instância pelo Superintendente da Receita Federal do Brasil com jurisdição sobre o domicílio tributário do sujeito passivo.",
+      "textoIntegra": "Parágrafo único.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 99223,
+          "idSegmento": 1970794,
+          "idAnotacao": 242428,
+          "href": "99223",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 1875, de 14 de março de 2019]",
+          "dataInicioVigencia": "15/03/2019",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3372,7 +3532,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 167,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3380,7 +3540,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Parágrafo único. O despacho decisório de que trata o caput será precedido de intimação ao contribuinte para prestar esclarecimentos.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 78232,
+          "idSegmento": 1674112,
+          "idAnotacao": 240156,
+          "href": "78232",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1665, de 19 de outubro de 2016]",
+          "dataInicioVigencia": "20/10/2016",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3418,9 +3594,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "Parágrafo único. O recurso de que trata o caput será decidido em última instância pelo Superintendente da Receita Federal do Brasil com jurisdição sobre o domicílio tributário do sujeito passivo.",
+      "textoIntegra": "Parágrafo único.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 99223,
+          "idSegmento": 1970795,
+          "idAnotacao": 242429,
+          "href": "99223",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 1875, de 14 de março de 2019]",
+          "dataInicioVigencia": "15/03/2019",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3432,15 +3624,31 @@
       "idTipoSegmento": 9,
       "idAssunto": 999,
       "ordemSegmentoAto": 170,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
       "agendado": false,
       "desinenciaTipoSegmento": true,
-      "textoIntegra": "Se&ccedil;&atilde;o III",
+      "textoIntegra": "Seção III",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926721,
+          "idAnotacao": 240163,
+          "href": "95102",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3452,7 +3660,7 @@
       "idTipoSegmento": 9,
       "idAssunto": 999,
       "ordemSegmentoAto": 171,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3460,7 +3668,23 @@
       "desinenciaTipoSegmento": true,
       "textoIntegra": "Do Procedimento de Revisão dos Valores Declarados",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926722,
+          "idAnotacao": 240164,
+          "href": "95102",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3472,7 +3696,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 1,
       "ordemSegmentoAto": 172,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3480,7 +3704,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 30-A. Constatada incorreção em relação ao valor dos ativos, o Auditor-Fiscal da Receita Federal do Brasil responsável pelo procedimento lançará eventuais diferenças em auto de infração, para exigir o pagamento dos tributos e acréscimos legais incidentes sobre os valores declarados incorretamente, nos termos da legislação do imposto sobre a renda.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926717,
+          "idAnotacao": 240157,
+          "href": "95102",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3492,7 +3732,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 173,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3500,7 +3740,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 1º Somente o pagamento integral dos tributos e acréscimos de que trata o caput no prazo de 30 (trinta) dias da ciência do auto de infração extinguirá a punibilidade dos crimes praticados pelo declarante previstos no § 1º do art. 5º da Lei nº 13.254, de 2016, relacionados aos ativos cujo valor foi declarado incorretamente.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926718,
+          "idAnotacao": 240158,
+          "href": "95102",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3512,7 +3768,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 174,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3520,7 +3776,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 2º É facultado ao sujeito passivo, no prazo de 30 (trinta) dias contados da data da ciência da intimação da exigência, impugnar o lançamento, nos termos do art. 14 do Decreto nº 70.235, de 6 de março de 1972.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926719,
+          "idAnotacao": 240159,
+          "href": "95102",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3532,7 +3804,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 175,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3540,7 +3812,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 3º A impugnação prevista no § 2º não suspende nem interrompe o prazo previsto no § 1º.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926720,
+          "idAnotacao": 240160,
+          "href": "95102",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3720,7 +4008,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -3735,7 +4023,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -3750,7 +4038,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -3765,7 +4053,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     }
   ],
@@ -4000,6 +4288,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/72224/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/72224/visao/vigente",
+  "_fetched_at": "2026-07-29T19:19:23.478649+00:00"
 }

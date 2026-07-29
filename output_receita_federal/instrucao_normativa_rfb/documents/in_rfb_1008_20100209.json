@@ -32,7 +32,7 @@
   "dataPublicacao": "2010-02-10",
   "dataVigenciaInicio": "2010-02-10",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -99,7 +99,38 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 1º Os arts. 2º, 9º, 10, 11 e 47 da Instrução Normativa SRF nº 208, de 27 de setembro de 2002, passam a vigorar com a seguinte redação:",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15079,
+          "idSegmento": 1327963,
+          "idAnotacao": 208567,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |a) até o último dia útil do mês de abril do a...| - Prejuízo]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": false
+        },
+        {
+          "idAto": 15079,
+          "idSegmento": 1327962,
+          "idAnotacao": 208568,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |b) até trinta dias contados da data em que co...| - Prejuízo]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": false
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -159,7 +190,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "V - que se ausente do Brasil em caráter temporário ou se retire em caráter permanente do território nacional sem apresentar a Comunicação de Saída Definitiva do País, de que trata o art. 11-A, durante os primeiros 12 (doze) meses consecutivos de ausência.",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15079,
+          "idSegmento": 478496,
+          "idAnotacao": 208561,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |V - que se ausente do Brasil em caráter tempo...| - Alteração]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -199,7 +246,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "\"Art. 9º A pessoa física residente no Brasil que se retire em caráter permanente do território nacional no curso do ano-calendário deve, observado o disposto no art. 11-A:",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15079,
+          "idSegmento": 478531,
+          "idAnotacao": 208562,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |Art. 9º A pessoa física residente no Brasil q...| - Alteração]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -219,7 +282,53 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "I - apresentar a Declaração de Saída Definitiva do País, relativa ao período em que tenha permanecido na condição de residente no Brasil no ano-calendário da saída, até o último dia útil do mês de abril do ano-calendário subsequente ao da saída definitiva, bem como as declarações correspondentes a anos-calendário anteriores, se obrigatórias e ainda não entregues;",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15079,
+          "idSegmento": 478532,
+          "idAnotacao": 208563,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |I - apresentar a Declaração de Saída Definiti...| - Alteração]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        },
+        {
+          "idAto": 15079,
+          "idSegmento": 1327956,
+          "idAnotacao": 226075,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |a) até o último dia útil do mês de abril do a...| - Prejuízo]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": false
+        },
+        {
+          "idAto": 15079,
+          "idSegmento": 1327955,
+          "idAnotacao": 226076,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |b) até 30 (trinta) dias contados da data da s...| - Prejuízo]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": false
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -299,7 +408,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 2º Caso a pessoa física se retire em caráter permanente do território nacional sem apresentar a Comunicação de Saída Definitiva do País, de que trata o art. 11-A, nem a Declaração de Saída Definitiva do País, de que trata o art. 9º, seus rendimentos serão tributados nos termos previstos no § 1º do art. 11 durante os primeiros 12 (doze) meses, contados a partir da data da saída, e, a partir do 13º (décimo terceiro) mês, conforme o disposto nos arts. 26 a 45.\" (NR)",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15079,
+          "idSegmento": 478549,
+          "idAnotacao": 208564,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |§ 2° Caso a pessoa física se retire em caráte...| - Alteração]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -319,7 +444,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "\"Art. 11. A pessoa física que se ausente do território nacional em caráter temporário e permaneça no exterior por mais de 12 (doze) meses consecutivos deve, observado o disposto no art. 11-A:",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15079,
+          "idSegmento": 478550,
+          "idAnotacao": 208565,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |Art. 11. A pessoa física que se ausentar do t...| - Alteração]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -339,7 +480,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "I - apresentar a Declaração de Saída Definitiva do País, relativa ao período em que tenha permanecido na condição de residente no Brasil no ano-calendário da caracterização da condição de não-residente, até o último dia útil do mês de abril do ano-calendário subsequente ao da caracterização;",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15079,
+          "idSegmento": 478551,
+          "idAnotacao": 208566,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |I - apresentar a Declaração de Saída Definiti...| - Alteração]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -379,7 +536,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "\"Art. 47. O aplicativo da Comunicação de Saída Definitiva do País, o programa gerador da Declaração de Saída Definitiva do País e o formulário da Relação de Servidores de Organismo Internacional Residentes no Brasil, de que tratam os arts. 9º, 11, 11-A e o inciso I do § 2º do art. 21, serão disponibilizados no sítio da Secretaria da Receita Federal do Brasil (RFB), na Internet, no endereço http://www.receita.fazenda.gov.br\" (NR)",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15079,
+          "idSegmento": 115986,
+          "idAnotacao": 208569,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |Art. 47. O programa gerador e o formulário da...| - Alteração]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -419,7 +592,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "\"Art. 11-A. A pessoa física residente no Brasil que se retire do território nacional deve apresentar a Comunicação de Saída Definitiva do País:",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15079,
+          "idSegmento": 1327964,
+          "idAnotacao": 208570,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |§ 2º Os dependentes, inscritos no CPF, que se...| - Inclusão]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -439,7 +628,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "I - a partir da data da saída e até o último dia do mês de fevereiro do ano-calendário subsequente, se esta ocorreu em caráter permanente; ou",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15079,
+          "idSegmento": 1327965,
+          "idAnotacao": 208571,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |§ 1º A Comunicação de que trata o caput não d...| - Inclusão]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -459,7 +664,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "II - a partir da data da caracterização da condição de não-residente e até o último dia do mês de fevereiro do ano-calendário subsequente, se a saída ocorreu em caráter temporário.",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15079,
+          "idSegmento": 1327966,
+          "idAnotacao": 208572,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |II - a partir da data da caracterização da co...| - Inclusão]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -479,7 +700,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 1º A Comunicação de que trata o caput não dispensa a apresentação da Declaração de Saída Definitiva do País de que tratam os arts. 9º e 11.",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15079,
+          "idSegmento": 1327967,
+          "idAnotacao": 208573,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |I - a partir da data da saída e até o último ...| - Inclusão]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -499,7 +736,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 2º Os dependentes, inscritos no CPF, que se retirem do território nacional na mesma data do titular da Comunicação de que trata o caput devem constar desta.\"",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15079,
+          "idSegmento": 1327968,
+          "idAnotacao": 208574,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |Art. 11-A. A pessoa física residente no Brasi...| - Inclusão]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -727,6 +980,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/15973/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/15973/visao/vigente",
+  "_fetched_at": "2026-07-29T19:20:13.722597+00:00"
 }

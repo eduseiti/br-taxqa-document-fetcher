@@ -16,4 +16,20 @@ CARLOS ALBERTO FREITAS BARRETO
 
 ANEXO ÚNICO
 
-Anexo Único
+(Anexo Único da Instrução
+Normativa RFB nº 1.531, de 19 de dezembro de 2014.)
+
+CÓDIGOS DE OCUPAÇÃO
+PRINCIPAL DO CONTRIBUINTE
+
+Código | Ocupação Principal do Contribuinte
+225 | Médico
+226 | Odontólogo
+230 | Fonoaudiólogo
+231 | Fisioterapeuta
+232 | Terapeuta ocupacional
+241 | Advogado
+255 | Psicólogo
+355 | Corretor e administrador de imóveis
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2177, de 29 de fevereiro de 2024]

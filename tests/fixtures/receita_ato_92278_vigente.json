@@ -1,0 +1,143 @@
+{
+ "idAto": 92278,
+ "epigrafe": {
+  "tipoAto": {
+   "idTipoAto": 67,
+   "siglaTipoAto": "Resol.",
+   "nomeTipoAto": "Resolução",
+   "prioridadeTipoAto": 21,
+   "exibirTipoAto": 1
+  },
+  "numeroAto": "140",
+  "dataAto": "2018-05-22",
+  "orgaos": [
+   {
+    "idOrgao": 51,
+    "exibirOrgao": 1,
+    "siglaOrgao": "CGSN",
+    "nomeOrgao": "Comitê Gestor do Simples Nacional",
+    "prioridadeOrgao": 43,
+    "emDestaque": false,
+    "posicaoPesquisa": null,
+    "preferenciaSiglaComum": null
+   }
+  ],
+  "dataAtoPorExtenso": "22 de maio de 2018"
+ },
+ "epigrafeCompleta": "Resolução CGSN nº 140, de 22 de maio de 2018",
+ "epigrafeSimplificada": "Resolução CGSN nº 140, de 22/05/2018",
+ "epigrafesAnteriores": [],
+ "epigrafeUrl": "Resol. CGSN nº 140/2018",
+ "dadosPublicacao": "Publicado(a) no DOU de 24/05/2018, seção 1, página 20",
+ "dataPublicacao": "2018-05-24",
+ "dataVigenciaInicio": "2018-05-24",
+ "exibirVisoes": "1111",
+ "visao": "vigente",
+ "integro": false,
+ "vigente": true,
+ "ehRepublicado": false,
+ "idAtoRepublicador": null,
+ "dataRepublicador": null,
+ "ehVisaoExclusiva": false,
+ "publicado": true,
+ "internet": true,
+ "ementas": [
+  {
+   "mapper": null,
+   "idAto": 92278,
+   "idSegmento": 1891892,
+   "versaoSegmento": 1,
+   "idTipoSegmento": 1,
+   "idAssunto": 1,
+   "ordemSegmentoAto": 1,
+   "omitir": false,
+   "tachado": false,
+   "original": true,
+   "compilado": true,
+   "agendado": false,
+   "desinenciaTipoSegmento": false,
+   "textoIntegra": "Dispõe sobre o Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional).",
+   "ancorasOrigem": [],
+   "ancorasDestino": [],
+   "arquivoBinario": null
+  }
+ ],
+ "outrosSegmentos": [
+  {
+   "mapper": null,
+   "idAto": 92278,
+   "idSegmento": 1891893,
+   "versaoSegmento": 1,
+   "idTipoSegmento": 999,
+   "idAssunto": 1,
+   "ordemSegmentoAto": 2,
+   "omitir": true,
+   "tachado": false,
+   "original": true,
+   "compilado": false,
+   "agendado": false,
+   "desinenciaTipoSegmento": false,
+   "textoIntegra": "O Comitê Gestor do Simples Nacional, no exercício das competências que lhe conferem a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007, e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:\r",
+   "ancorasOrigem": [],
+   "ancorasDestino": [],
+   "arquivoBinario": null
+  },
+  {
+   "mapper": null,
+   "idAto": 92278,
+   "idSegmento": 1892544,
+   "versaoSegmento": 1,
+   "idTipoSegmento": 5,
+   "idAssunto": 1,
+   "ordemSegmentoAto": 742,
+   "omitir": false,
+   "tachado": false,
+   "original": true,
+   "compilado": true,
+   "agendado": false,
+   "desinenciaTipoSegmento": false,
+   "textoIntegra": "§ 1º Relativamente à prestação de serviços sujeita ao ISS, a ME ou EPP optante pelo Simples Nacional utilizará a Nota Fiscal de Serviços, conforme modelo aprovado e autorizado pelo Município, ou Distrito Federal, ou outro documento fiscal autorizado conjuntamente pelo Estado e pelo Município da sua circunscrição fiscal. (Lei Complementar nº 123, de 2006, art. 26, inciso I e § 4º)",
+   "ancorasOrigem": [],
+   "ancorasDestino": [],
+   "arquivoBinario": null
+  },
+  {
+   "mapper": null,
+   "idAto": 92278,
+   "idSegmento": 1892544,
+   "versaoSegmento": 2,
+   "idTipoSegmento": 5,
+   "idAssunto": 1,
+   "ordemSegmentoAto": 743,
+   "omitir": false,
+   "tachado": false,
+   "original": false,
+   "compilado": false,
+   "agendado": true,
+   "desinenciaTipoSegmento": false,
+   "textoIntegra": "",
+   "ancorasOrigem": [],
+   "ancorasDestino": [
+    {
+     "idAto": 150788,
+     "idSegmento": 2695620,
+     "idAnotacao": 296700,
+     "href": "150788",
+     "texto": "[Redação dada pelo(a) Resolução CGSN nº 189, de 23 de abril de 2026]",
+     "dataInicioVigencia": "01/09/2026",
+     "dataRepublicacao": null,
+     "permiteExcluir": true,
+     "permiteAlterarData": true,
+     "ehAgendamento": true,
+     "textoAgendamento": "[Vide modificação prevista para 01/09/2026, nos termos do(a) Resolução CGSN nº 189, de 23 de abril de 2026]",
+     "exibirDataInicioVigencia": true,
+     "permiteAgendamento": true
+    }
+   ],
+   "arquivoBinario": null
+  }
+ ],
+ "ancorasRetificacaoEpigrafe": [],
+ "ancorasNoAto": [],
+ "_view": "vigente"
+}

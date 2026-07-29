@@ -10,6 +10,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "7 candidate(s) found, none matched órgão=PGFN/number=1/date=2014-01-02",
@@ -17,6 +18,11 @@
     "review_reason": "date_mismatch",
     "source_filenames": [
       "Ato Declaratório PGFN Nº 1, de 2 de janeiro de 2014.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   }
 ]

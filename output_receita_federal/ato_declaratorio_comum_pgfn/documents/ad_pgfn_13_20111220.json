@@ -32,7 +32,7 @@
   "dataPublicacao": "2011-12-22",
   "dataVigenciaInicio": "2011-12-22",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -119,7 +119,38 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "II - ficam revogados os Atos Declaratórios PGFN nº 2, de 27 de agosto de 2010, e PGFN nº 11, de 1º de dezembro de 2008.",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 372,
+          "idSegmento": null,
+          "idAnotacao": 227105,
+          "href": "372",
+          "texto": "[Ato Declaratório PGFN nº 2, de 27/08/2010 - |\"Autoriza a dispensa da apresentação de conte...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        },
+        {
+          "idAto": 862,
+          "idSegmento": null,
+          "idAnotacao": 227106,
+          "href": "862",
+          "texto": "[Ato Declaratório PGFN nº 11, de 01/12/2008 - |\"Autoriza a dispensa de apresentação de conte...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -307,6 +338,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/37041/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/37041/visao/vigente",
+  "_fetched_at": "2026-07-29T19:24:59.790116+00:00"
 }

@@ -4,13 +4,16 @@ Dispõe sobre a tributação da renda auferida por pessoas físicas residentes n
 
 O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020 , e tendo em vista o disposto nos arts. 1º a 15 da Lei nº 14.754, de 12 de dezembro de 2023 , resolve:
 
-CAPÍTULO I DISPOSIÇÕES PRELIMINARES
+CAPÍTULO I
+DISPOSIÇÕES PRELIMINARES
 
 Art. 1º Esta Instrução Normativa dispõe sobre a tributação da renda auferida por pessoas físicas residentes no País com depósitos não remunerados no exterior, moeda estrangeira mantida em espécie, aplicações financeiras, entidades controladas e trusts no exterior, e sobre a opção pela atualização do valor dos bens e direitos no exterior, de que tratam os arts. 1º a 15 da Lei nº 14.754, de 12 de dezembro de 2023 .
 
-CAPÍTULO iI DA Tributação da renda por pessoas físicas residentes no País COM DEPÓSITOS NÃO REMUNERADOS, MOEDA ESTRANGEIRA MANTIDA EM ESPÉCIE, aplicações financeiras, entidades controladas e trusts no exterior
+CAPÍTULO iI
+DA Tributação da renda por pessoas físicas residentes no País COM DEPÓSITOS NÃO REMUNERADOS, MOEDA ESTRANGEIRA MANTIDA EM ESPÉCIE, aplicações financeiras, entidades controladas e trusts no exterior
 
-Seção I Disposições gerais
+Seção I
+Disposições gerais
 
 Art. 2º Estão sujeitos à incidência do Imposto sobre a Renda da Pessoa Física - IRPF, pela pessoa física residente no País, os rendimentos de:
 
@@ -28,7 +31,8 @@ II - lucros e dividendos de entidades controladas no exterior.
 
 § 5º Os ganhos de capital percebidos pela pessoa física residente no País na alienação, na baixa ou na liquidação de bens e direitos localizados no exterior que não constituam aplicações financeiras no exterior nos termos desta Instrução Normativa permanecem sujeitos às regras específicas de tributação previstas no art. 21 da Lei nº 8.981, de 20 de janeiro de 1995 , inclusive os ganhos na alienação de moeda estrangeira em espécie e os ganhos de variação cambial do capital aplicado em entidades controladas no exterior de que tratam os arts. 7º e 35.
 
-Seção II Da variação cambial de depósitos não remunerados no exterior
+Seção II
+Da variação cambial de depósitos não remunerados no exterior
 
 Art. 3º A variação cambial de depósitos de moeda estrangeira em conta corrente ou em cartão de débito ou crédito no exterior não ficará sujeita à incidência do IRPF, desde que esses depósitos:
 
@@ -38,7 +42,8 @@ II - sejam mantidos em instituição financeira no exterior reconhecida e autori
 
 Parágrafo único. Também não está sujeita à incidência do IRPF a utilização, inclusive o saque em espécie, dos recursos financeiros do depósito em moeda estrangeira em conta corrente ou em cartão de débito ou crédito no exterior.
 
-Seção III Da variação cambial da moeda estrangeira mantida em espécie
+Seção III
+Da variação cambial da moeda estrangeira mantida em espécie
 
 Art. 4º A variação cambial de moeda estrangeira em espécie não ficará sujeita à incidência do IRPF até o limite de alienação de moeda no ano-calendário equivalente a US$ 5.000,00 (cinco mil dólares americanos).
 
@@ -76,9 +81,11 @@ IV - 22,50% (vinte e dois inteiros e cinco décimos por cento) sobre a parcela d
 
 § 10. O imposto incidente sobre ganhos de capital não é compensável com o IRPF sujeito ao ajuste anual e informado na DAA.
 
-CAPÍTULO III DAS APLICAÇÕES FINANCEIRAS NO EXTERIOR
+CAPÍTULO III
+DAS APLICAÇÕES FINANCEIRAS NO EXTERIOR
 
-Seção I Disposições gerais
+Seção I
+Disposições gerais
 
 Art. 8º Os rendimentos auferidos em aplicações financeiras no exterior pelas pessoas físicas residentes no País serão tributados de acordo com o disposto neste Capítulo.
 
@@ -100,7 +107,8 @@ Art. 10. Os rendimentos de aplicações financeiras no exterior ficarão sujeito
 
 Parágrafo único. Os rendimentos de aplicações financeiras de que trata o caput serão computados na DAA correspondente ao ano-calendário em que forem efetivamente percebidos pela pessoa física, pelo regime de caixa.
 
-Seção II Da compensação de perdas
+Seção II
+Da compensação de perdas
 
 Art. 11. A pessoa física residente no País poderá compensar as perdas realizadas em aplicações financeiras no exterior, quando devidamente comprovadas por documentação hábil e idônea, com rendimentos auferidos em aplicações financeiras no exterior no mesmo período de apuração.
 
@@ -110,7 +118,8 @@ Art. 11. A pessoa física residente no País poderá compensar as perdas realiza
 
 § 3º As perdas poderão ser compensadas uma única vez, pelo seu valor nominal, sem correção ou atualização monetária ou de qualquer natureza.
 
-Seção III Do imposto pago no exterior
+Seção III
+Do imposto pago no exterior
 
 Art. 12. As pessoas físicas que declararem rendimentos de que trata este Capítulo poderão deduzir do IRPF devido o imposto sobre a renda pago no país de origem dos rendimentos, quando:
 
@@ -132,9 +141,11 @@ II - houver reciprocidade de tratamento em relação aos rendimentos produzidos 
 
 § 7º O imposto pago no exterior sobre os rendimentos de que tratam os incisos I e II do caput do art. 2º não poderá ser deduzido do IRPF devido pela pessoa física residente no País sobre os demais rendimentos e ganhos de capital.
 
-CAPÍTULO IV DAS ENTIDADES CONTROLADAS NO EXTERIOR
+CAPÍTULO IV
+DAS ENTIDADES CONTROLADAS NO EXTERIOR
 
-Seção I Disposições gerais
+Seção I
+Disposições gerais
 
 Art. 13. Os lucros e dividendos de entidades controladas no exterior ficarão sujeitos à incidência do IRPF de acordo com o disposto neste Capítulo.
 
@@ -164,9 +175,11 @@ IV - a pessoa física que for sócia da pessoa jurídica da qual a pessoa físic
 
 Art. 16. Para fins do disposto nesta Instrução Normativa, também serão consideradas como entidades controladas as apólices de seguro no exterior cujo principal ou cujos rendimentos forem resgatáveis, de forma conjunta ou separada, pelo segurado ou pelos seus beneficiários, quando for permitido ao investidor definir ou influenciar a estratégia de investimento.
 
-Seção II Do regime de tributação anual dos lucros
+Seção II
+Do regime de tributação anual dos lucros
 
-Subseção I Do enquadramento
+Subseção I
+Do enquadramento
 
 Art. 17. Ficam sujeitos à tributação do IRPF à alíquota de 15% (quinze por cento), na DAA, os lucros apurados pelas entidades no exterior controladas por pessoas físicas residentes no País que se enquadrarem em uma ou mais das seguintes hipóteses:
 
@@ -204,7 +217,8 @@ Art. 20. O percentual de representatividade da renda ativa própria sobre a rend
 
 Parágrafo único. O cálculo do percentual de que trata o caput deverá ser feito para cada controlada, direta ou indireta, no exterior, a cada ano-calendário.
 
-Subseção II Da determinação do lucro
+Subseção II
+Da determinação do lucro
 
 Art. 21. Os lucros das controladas enquadradas nas hipóteses previstas no art. 17 serão apurados, de forma individualizada, em balanço anual da controlada, direta ou indireta, no exterior, levantado no dia 31 de dezembro de cada ano-calendário.
 
@@ -238,7 +252,8 @@ Art. 25. Nas estruturas com controladas diretas e indiretas enquadradas nas hip�
 
 § 5º O ganho de variação cambial do principal aplicado nas controladas no exterior, após a ocorrência da hipótese de que trata o § 4º, será submetido à incidência do IRPF quando houver a disponibilização para a pessoa física residente no País, de acordo com o disposto no art. 33.
 
-Subseção III Da dedução dos prejuízos da controlada no exterior
+Subseção III
+Da dedução dos prejuízos da controlada no exterior
 
 Art. 26. Poderão ser deduzidos do lucro da controlada, direta ou indireta, apurado na forma prevista nos arts. 21 a 25, os prejuízos apurados em balanço, pela própria controlada, desde que sejam atendidas as seguintes condições, de forma cumulativa:
 
@@ -256,7 +271,8 @@ II - a entidade deve estar enquadrada nas hipóteses de que trata o art. 17 no a
 
 § 3º Na dedução dos prejuízos de que trata este artigo, deverá ser observada a proporção da participação da pessoa física nos prejuízos no período em que forem apurados.
 
-Subseção IV Da tributação anual do lucro
+Subseção IV
+Da tributação anual do lucro
 
 Art. 27. Fica sujeita à tributação do IRPF à alíquota de 15% (quinze por cento), na DAA, a parcela anual dos lucros da controlada, direta ou indireta, no exterior, que estiverem enquadradas nas hipóteses previstas no art. 17, em 31 de dezembro do ano-calendário em que forem apurados em balanço, na proporção da participação da pessoa física nesses lucros, independentemente de qualquer deliberação acerca da sua distribuição.
 
@@ -268,7 +284,8 @@ II - incluídos na ficha de Bens e Direitos da DAA, como custo de aquisição de
 
 Art. 28. Para fins do disposto no § 3º do art. 26 e nos arts. 27 e 30, a determinação do percentual da participação da pessoa física nos lucros ou prejuízos da controlada levará em consideração as participações diretas e indiretas.
 
-Subseção V Da disponibilização do lucro previamente tributado
+Subseção V
+Da disponibilização do lucro previamente tributado
 
 Art. 29. Na disponibilização de lucro das controladas previamente tributados na forma prevista no art. 27 para a pessoa física residente no País, incluindo a distribuição de dividendos:
 
@@ -282,7 +299,8 @@ II - os valores disponibilizados deverão reduzir o custo de aquisição do cré
 
 § 3º No caso de distribuição de dividendos baseados em lucros previamente tributados entre controladas enquadradas nas hipóteses previstas no art. 17 sujeitas ao regime de tributação anual dos lucros de que trata esta Seção, o contribuinte deverá transferir o crédito do dividendo a receber de uma controlada para outra na DAA.
 
-Subseção VI Da dedução do imposto de renda pago no exterior e no Brasil
+Subseção VI
+Da dedução do imposto de renda pago no exterior e no Brasil
 
 Art. 30. Na determinação do IRPF devido sobre os lucros das entidades controladas no exterior enquadradas nas hipóteses previstas no art. 17, a pessoa física poderá deduzir, na proporção de sua participação nos lucros, o imposto de renda que:
 
@@ -298,7 +316,8 @@ V - não se enquadrar na vedação prevista no § 4º do art. 12.
 
 Art. 31. No caso de a entidade controlada no exterior auferir rendimentos ou ganhos de capital no Brasil que não tiverem sido excluídos do lucro sujeito ao imposto sobre a renda nos termos do disposto no art. 24, o IRRF pago no País sobre esses rendimentos e ganhos de capital poderá ser deduzido do imposto sobre a renda devido sobre o lucro da entidade controlada no exterior, observado o disposto no art. 30, no que for aplicável.
 
-Subseção VII Dos lucros acumulados até 31 de dezembro de 2023
+Subseção VII
+Dos lucros acumulados até 31 de dezembro de 2023
 
 Art. 32. Os lucros apurados até 31 de dezembro de 2023 pelas entidades controladas no exterior enquadradas nas hipóteses previstas no art. 17 ficarão sujeitos à incidência do IRPF, na DAA, à alíquota de 15% (quinze por cento), na data da sua efetiva disponibilização.
 
@@ -314,7 +333,8 @@ Art. 32. Os lucros apurados até 31 de dezembro de 2023 pelas entidades controla
 
 § 6º A disponibilização dos lucros acumulados por uma controlada indireta sujeita ao regime de tributação anual do lucro de que trata esta Seção para outra controlada que detém a participação e que for submetida, por opção do contribuinte, ao regime da transparência fiscal, na forma prevista no art. 36, será considerada como disponibilização dos lucros para a pessoa física, para fins do IRPF.
 
-Seção III Do regime de tributação dos lucros na data da disponibilização
+Seção III
+Do regime de tributação dos lucros na data da disponibilização
 
 Art. 33. Ficam sujeitos à tributação do IRPF à alíquota de 15% (quinze por cento), na DAA, os lucros das entidades controladas no exterior que não se enquadrarem nas hipóteses previstas no art. 17, na data da sua efetiva disponibilização.
 
@@ -330,7 +350,8 @@ Art. 34. As pessoas físicas residentes no País com entidades controladas no ex
 
 Parágrafo único. Caso seja exercida a opção de que trata o caput, todas as regras aplicáveis às entidades enquadradas nas hipóteses previstas no art. 17 serão aplicadas à entidade que for submetida ao mesmo regime de tributação, incluindo a possiblidade de opção pelo regime de transparência fiscal de que trata o art. 36.
 
-Seção IV Da variação cambial do capital aplicado em entidades controladas
+Seção IV
+Da variação cambial do capital aplicado em entidades controladas
 
 Art. 35. A variação cambial do capital aplicado nas controladas no exterior, enquadradas ou não nas hipóteses previstas no art. 17, comporá o ganho de capital percebido pela pessoa física no momento da alienação, da baixa ou da liquidação do investimento, inclusive por meio de devolução de capital, o qual será tributado de acordo com o disposto no art. 21 da Lei nº 8.981, de 1995 .
 
@@ -338,7 +359,8 @@ Art. 35. A variação cambial do capital aplicado nas controladas no exterior, e
 
 § 2º Caso não haja cancelamento de cota ou de ação na devolução do capital, o custo de aquisição médio deverá ser calculado levando em consideração a proporção que o valor da devolução de capital representará do capital total aplicado na entidade.
 
-Seção V Do regime de transparência fiscal de entidade controlada
+Seção V
+Do regime de transparência fiscal de entidade controlada
 
 Art. 36. Alternativamente ao regime de tributação anual dos lucros de entidades controladas no exterior de que trata a Seção II deste Capítulo, a pessoa física residente no País poderá optar pelo regime de transparência fiscal, no qual a pessoa física declarará os bens, direitos e obrigações detidos pela entidade controlada, direta ou indireta, no exterior, como se fossem detidos diretamente pela pessoa física.
 
@@ -402,7 +424,8 @@ Parágrafo único. O valor da diferença entre o valor de mercado de que trata o
 
 Art. 40. As importâncias pagas ou creditadas pelas controladas sujeitas ao regime da transparência fiscal previsto no art. 36, a título de lucros distribuídos ou decorrentes da baixa, liquidação ou devolução do capital investido que já tiverem sido tributadas no referido regime, não serão tributadas novamente no momento do pagamento ou crédito.
 
-CAPÍTULO V DOS TRUSTS NO EXTERIOR
+CAPÍTULO V
+DOS TRUSTS NO EXTERIOR
 
 Art. 41. Para fins do disposto nesta Instrução Normativa, os bens e direitos objeto de trust no exterior serão considerados da seguinte forma:
 
@@ -458,13 +481,16 @@ VII - carta de desejos (letter of wishes): ato suplementar que pode ser escrito 
 
 Art. 47. O disposto neste Capítulo aplica-se aos demais contratos regidos por lei estrangeira com características similares às do trust, quando não forem enquadrados como entidades controladas.
 
-CAPÍTULO VI DA ATUALIZAÇÃO DO VALOR DE BENS E DIREITOS NO EXTERIOR
+CAPÍTULO VI
+DA ATUALIZAÇÃO DO VALOR DE BENS E DIREITOS NO EXTERIOR
 
-Seção I Dos optantes
+Seção I
+Dos optantes
 
 Art. 48. A pessoa física residente no País poderá optar por atualizar o valor dos bens e direitos no exterior informados em sua DAA para o valor de mercado em 31 de dezembro de 2023, hipótese em que deverá tributar a diferença entre o valor atualizado e o custo de aquisição pelo IRPF, à alíquota definitiva de 8% (oito por cento).
 
-Seção II Dos bens e direitos no exterior sujeitos à opção
+Seção II
+Dos bens e direitos no exterior sujeitos à opção
 
 Art. 49. A opção de que trata o art. 48 se aplica a:
 
@@ -478,7 +504,8 @@ IV - participações em entidades controladas, nos termos do art. 15.
 
 Parágrafo único. O contribuinte poderá optar, inclusive, pela atualização do valor de bens e direitos objeto de trust em relação aos quais a pessoa física seja definida como titular, nos termos desta Instrução Normativa.
 
-Seção III Da atualização para valor de mercado
+Seção III
+Da atualização para valor de mercado
 
 Art. 50. Para fins da tributação de que trata o art. 48, os bens e direitos serão atualizados para seu valor de mercado em 31 de dezembro de 2023, observado:
 
@@ -536,9 +563,11 @@ II - em que a pessoa física não estava obrigada à entrega da DAA relativa ao 
 
 § 2º A vedação de que trata o inciso III do caput não se aplica à hipótese em que a pessoa física decidir alienar, baixar ou liquidar os bens e direitos no exterior, ou distribuir dividendos de entidade controlada, entre 1º de janeiro de 2024 e a data da efetivação da opção pela atualização, na forma do § 3º do art. 52.
 
-Seção IV Da opção
+Seção IV
+Da opção
 
-Subseção I Da apresentação da Abex
+Subseção I
+Da apresentação da Abex
 
 Art. 52. A opção pela atualização de valor dos bens e direitos no exterior a valor de mercado em 31 de dezembro de 2023 dar-se-á pelo atendimento das seguintes condições:
 
@@ -554,7 +583,8 @@ II - pagamento integral do IRPF à alíquota de 8% (oito por cento) de que trata
 
 § 4º Caso o contribuinte calcule e pague o IRPF na forma prevista no § 3º e, posteriormente, não efetue a opção na forma prevista no caput, a diferença entre o IRPF pago e aquele que seria devido, com base no custo de aquisição do bem ou direito antes da atualização, será devido com o acréscimo de juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia - Selic e das multas de ofício de que trata o art. 44 da Lei nº 9.430, de 1996 .
 
-Subseção II Do preenchimento da Abex
+Subseção II
+Do preenchimento da Abex
 
 Art. 53. A Abex deverá ser elaborada mediante acesso ao serviço "apresentação da Declaração de Opção pela Atualização de Bens e Direitos no Exterior (Abex)", disponível no Centro Virtual de Atendimento - e-CAC no site da Secretaria Especial da Receita Federal do Brasil - RFB na Internet, no endereço < http://www.gov.br/receitafederal/pt-br > , de 15 de março a 31 de maio de 2024.
 
@@ -590,7 +620,8 @@ Art. 55. A Abex retificadora terá a mesma natureza da declaração originariame
 
 § 3º Para a elaboração e apresentação da Abex retificadora, deve ser informado o número do processo administrativo por meio do qual a última declaração foi apresentada.
 
-Seção V Do pagamento do imposto
+Seção V
+Do pagamento do imposto
 
 Art. 56. O imposto apurado na Abex deverá ser pago até 31 de maio de 2024.
 
@@ -598,11 +629,13 @@ Art. 56. O imposto apurado na Abex deverá ser pago até 31 de maio de 2024.
 
 § 2º A opção de que trata o art. 48 somente se consumará, tornando-se definitiva, com o pagamento integral do imposto.
 
-CAPÍTULO VII DA CONVERSÃO DA MOEDA ESTRANGEIRA PARA MOEDA NACIONAL
+CAPÍTULO VII
+DA CONVERSÃO DA MOEDA ESTRANGEIRA PARA MOEDA NACIONAL
 
 Art. 57. A cotação a ser utilizada para converter os valores em moeda estrangeira em moeda nacional é a cotação de fechamento da moeda estrangeira divulgada, para venda, pelo BCB, para a data do fato gerador, ressalvadas as disposições específicas previstas nesta Instrução Normativa.
 
-CAPÍTULO VIII DISPOSIÇÕES FINAIS
+CAPÍTULO VIII
+DISPOSIÇÕES FINAIS
 
 Art. 58. Fica revogada a Instrução Normativa SRF nº 118, de 28 de dezembro de 2000.
 

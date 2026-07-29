@@ -10,6 +10,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "3 candidate(s) found, none matched órgão=Cosit/number=16/date=2012-09-27",
@@ -17,6 +18,11 @@
     "review_reason": "date_mismatch",
     "source_filenames": [
       "Solução de Divergência Cosit nº 16, de 27 de setembro de 2012.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   }
 ]

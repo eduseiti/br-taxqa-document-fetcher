@@ -32,7 +32,7 @@
   "dataPublicacao": "2018-03-15",
   "dataVigenciaInicio": "2018-03-15",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -247,6 +247,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/90785/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/90785/visao/vigente",
+  "_fetched_at": "2026-07-29T19:24:52.709290+00:00"
 }

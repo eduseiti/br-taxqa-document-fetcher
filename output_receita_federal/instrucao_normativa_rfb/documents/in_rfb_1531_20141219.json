@@ -32,7 +32,7 @@
   "dataPublicacao": "2014-12-22",
   "dataVigenciaInicio": "2014-12-22",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": false,
   "vigente": true,
   "ehRepublicado": false,
@@ -212,13 +212,13 @@
       "idTipoSegmento": 16,
       "idAssunto": 1,
       "ordemSegmentoAto": 9,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "Anexo Único",
+      "textoIntegra": "Anexo &Uacute;nico",
       "ancorasOrigem": [],
       "ancorasDestino": [],
       "arquivoBinario": {
@@ -302,7 +302,7 @@
       "idTipoSegmento": 16,
       "idAssunto": 999,
       "ordemSegmentoAto": 15,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -310,7 +310,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Tabela.htm",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 136381,
+          "idSegmento": 2501882,
+          "idAnotacao": 284072,
+          "href": "136381",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2177, de 29 de fevereiro de 2024]",
+          "dataInicioVigencia": "01/03/2024",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": {
         "idArquivoBinario": 72886,
         "idTipoArquivo": 4,
@@ -340,7 +356,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -355,7 +371,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -370,7 +386,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     }
   ],
@@ -559,6 +575,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/59598/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/59598/visao/vigente",
+  "_fetched_at": "2026-07-29T19:19:13.559465+00:00"
 }

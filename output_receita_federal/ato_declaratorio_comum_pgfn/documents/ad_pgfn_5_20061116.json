@@ -32,7 +32,7 @@
   "dataPublicacao": "2006-11-17",
   "dataVigenciaInicio": "2006-11-17",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": false,
   "vigente": true,
   "ehRepublicado": false,
@@ -323,6 +323,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/557/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/557/visao/vigente",
+  "_fetched_at": "2026-07-29T19:25:08.621676+00:00"
 }

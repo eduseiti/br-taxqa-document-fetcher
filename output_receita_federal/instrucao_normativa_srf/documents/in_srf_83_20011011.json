@@ -32,7 +32,7 @@
   "dataPublicacao": "2001-10-16",
   "dataVigenciaInicio": "2001-10-16",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": false,
   "vigente": true,
   "ehRepublicado": false,
@@ -1558,9 +1558,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "§ 3º Para efeito do disposto nos parágrafos anteriores, o contribuinte deve apresentar a Declaração de Ajuste Anual no modelo completo desde o ano-calendário em que obteve prejuízo até o ano-calendário em que efetuar a compensação.",
+      "textoIntegra": "§ 3º",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 62637,
+          "idSegmento": 1515266,
+          "idAnotacao": 220382,
+          "href": "62637",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]",
+          "dataInicioVigencia": "01/04/2015",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2232,7 +2248,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 999,
       "ordemSegmentoAto": 110,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2240,7 +2256,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 23-A. A partir do ano-calendário de 2019 o produtor rural que auferir, durante o ano, receita bruta total da atividade rural superior a R$ 4.800.000,00 (quatro milhões e oitocentos mil reais) deverá entregar, com observância ao disposto no § 4º do art. 23, arquivo digital com a escrituração do Livro Caixa Digital do Produtor Rural (LCDPR), observado o disposto no § 5º.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 102488,
+          "idSegmento": 2004186,
+          "idAnotacao": 244360,
+          "href": "102488",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1903, de 24 de julho de 2019]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2252,7 +2284,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 111,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2260,7 +2292,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 1º O leiaute e o manual de preenchimento do LCDPR serão divulgados pela Coordenação-Geral de Programação e Estudos (Copes) por meio de Ato declaratório Executivo (ADE) a ser publicado no Diário Oficial da União (DOU).",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 96894,
+          "idSegmento": 1945489,
+          "idAnotacao": 240937,
+          "href": "96894",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1848, de 28 de novembro de 2018]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2272,7 +2320,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 112,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2280,7 +2328,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 2º O LCDPR deverá ser assinado digitalmente, por meio de certificado digital válido, emitido por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), a fim de garantir a autoria do documento digital.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 96894,
+          "idSegmento": 1945490,
+          "idAnotacao": 240938,
+          "href": "96894",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1848, de 28 de novembro de 2018]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2312,7 +2376,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 114,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2320,7 +2384,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 3º A entrega do arquivo digital que contém o LCDPR escriturado e assinado em conformidade com o disposto nos §§ 1º e 2º à Secretaria Especial da Receita Federal do Brasil (RFB) deverá ser realizada até o final do prazo de entrega da Declaração do Imposto sobre a Renda da Pessoa Física do respectivo ano-calendário.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 102488,
+          "idSegmento": 2004188,
+          "idAnotacao": 244361,
+          "href": "102488",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1903, de 24 de julho de 2019]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2332,7 +2412,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 115,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2340,7 +2420,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 4º O contribuinte que auferir, no ano-calendário, receita bruta total da atividade rural inferior à prevista no caput poderá escriturar e entregar o LCDPR.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 96894,
+          "idSegmento": 1945492,
+          "idAnotacao": 240940,
+          "href": "96894",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1848, de 28 de novembro de 2018]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2352,7 +2448,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 116,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2360,7 +2456,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 5º Para o ano-calendário de 2019, excepcionalmente, o limite previsto no caput para obrigatoriedade de entrega do LCDPR será de R$ 7.200.000,00 (sete milhões e duzentos mil reais).",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 102488,
+          "idSegmento": 2004190,
+          "idAnotacao": 244362,
+          "href": "102488",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1903, de 24 de julho de 2019]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2372,7 +2484,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 117,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2380,7 +2492,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 23-B. Estará sujeito às multas previstas no art. 57 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, o produtor rural pessoa física que deixar de apresentar o LCDPR no prazo estabelecido pelo § 3º do art. 23-A ou o apresentar com incorreções ou omissões.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 96894,
+          "idSegmento": 1945493,
+          "idAnotacao": 240941,
+          "href": "96894",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1848, de 28 de novembro de 2018]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2719,7 +2847,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 30. Fica formalmente revogada, sem interrupção de sua força normativa, a Instrução Normativa SRF No 17/96, de 4 de abril de 1996.",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 13188,
+          "idSegmento": null,
+          "idAnotacao": 214102,
+          "href": "13188",
+          "texto": "[Instrução Normativa SRF nº 17, de 04/04/1996 - |Dispõe sobre a tributação dos resultados da a...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -2760,7 +2904,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -2775,7 +2919,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -2790,7 +2934,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     }
   ],
@@ -3019,6 +3163,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/14387/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/14387/visao/vigente",
+  "_fetched_at": "2026-07-29T19:18:49.624309+00:00"
 }

@@ -32,7 +32,7 @@
   "dataPublicacao": "1999-11-30",
   "dataVigenciaInicio": "1999-11-30",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -267,6 +267,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/2536/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/2536/visao/vigente",
+  "_fetched_at": "2026-07-29T19:25:26.112150+00:00"
 }

@@ -32,7 +32,7 @@
   "dataPublicacao": "1994-03-23",
   "dataVigenciaInicio": "1994-03-23",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -647,6 +647,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/30873/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/30873/visao/vigente",
+  "_fetched_at": "2026-07-29T19:26:50.416718+00:00"
 }

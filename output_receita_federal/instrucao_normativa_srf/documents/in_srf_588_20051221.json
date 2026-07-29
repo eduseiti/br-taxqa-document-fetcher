@@ -32,7 +32,7 @@
   "dataPublicacao": "2005-12-26",
   "dataVigenciaInicio": "2005-12-26",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": false,
   "vigente": true,
   "ehRepublicado": false,
@@ -632,13 +632,13 @@
       "idTipoSegmento": 3,
       "idAssunto": 1,
       "ordemSegmentoAto": 30,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "Art. 11. Sujeitam-se à incidência do imposto de renda na fonte, calculado com base na tabela progressiva mensal, e na Declaração de Ajuste Anual, os benefícios recebidos de entidade de previdência complementar e de sociedade seguradora, quando o beneficiário não for optante pelo regime estabelecido nos arts. 13 e 14.",
+      "textoIntegra": "Art. 11. Sujeitam-se à incidência do imposto de renda na fonte, calculado com base na tabela progressiva mensal, e na Declaração de Ajuste Anual, os benefícios recebidos de entidade de previdência complementar e de sociedade seguradora, quando o beneficiário não for optante pelo regime estabelecido nos arts. 13 e 14.\r",
       "ancorasOrigem": [],
       "ancorasDestino": [],
       "arquivoBinario": null,
@@ -652,7 +652,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 999,
       "ordemSegmentoAto": 31,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -660,7 +660,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 11. Sujeitam-se à incidência do imposto sobre a renda na fonte, calculado com base na tabela progressiva mensal, e na Declaração de Ajuste Anual, os benefícios recebidos de entidade de previdência complementar e de sociedade seguradora, quando os beneficiários não forem optantes pelo regime estabelecido no art. 13.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547643,
+          "idAnotacao": 286224,
+          "href": "139707",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -812,7 +828,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 1,
       "ordemSegmentoAto": 39,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -820,7 +836,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 11-A. Os participantes que ingressaram até 10 de janeiro de 2024 em planos de benefícios de caráter previdenciário estruturados nas modalidades de contribuição definida ou contribuição variável e tenham optado pelo regime de tributação exclusiva referida no art. 13 poderão sujeitar-se ao regime de tributação de que trata o art. 11, mediante nova opção até o momento da obtenção do benefício ou da requisição do primeiro resgate feita a partir de 11 de janeiro de 2024.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547645,
+          "idAnotacao": 286225,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -832,7 +864,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 40,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -840,7 +872,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 1º O disposto no caput aplica-se também aos segurados de planos de seguro de vida com cláusula de cobertura por sobrevivência.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547646,
+          "idAnotacao": 286226,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -852,7 +900,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 41,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -860,7 +908,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 2º O disposto no caput não se aplica a participantes ou beneficiários em gozo de benefício.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547647,
+          "idAnotacao": 286227,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -872,7 +936,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 42,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -880,7 +944,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 3º A opção mencionada no caput será:",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547648,
+          "idAnotacao": 286228,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -892,7 +972,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 43,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -900,7 +980,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "I - exercida individualmente pelos participantes, mediante manifestação expressa perante a entidade de previdência complementar ou sociedade seguradora, devidamente preenchida e assinada, em formato digital ou em papel; e",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547649,
+          "idAnotacao": 286229,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -912,7 +1008,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 44,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -920,7 +1016,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "II - comunicada pela entidade de previdência complementar ou sociedade seguradora à Secretaria Especial da Receita Federal do Brasil (RFB), por intermédio da e-Financeira.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547650,
+          "idAnotacao": 286230,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1132,13 +1244,13 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 55,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "II - de opção pelo regime de tributação exclusiva referida nos arts. 13 e 14.",
+      "textoIntegra": "II - de opção pelo regime de tributação exclusiva referida nos arts. 13 e 14.\r",
       "ancorasOrigem": [],
       "ancorasDestino": [],
       "arquivoBinario": null,
@@ -1152,7 +1264,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 999,
       "ordemSegmentoAto": 56,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1160,7 +1272,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "II - de opção pelo regime de tributação exclusiva referida no art. 13.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547655,
+          "idAnotacao": 286231,
+          "href": "139707",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1392,7 +1520,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 68,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -1412,7 +1540,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 69,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1420,7 +1548,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 2º O imposto sobre a renda retido na forma deste artigo deverá ser recolhido até o último dia útil do 2º (segundo) decêndio do mês subsequente ao da ocorrência dos fatos geradores, utilizando-se o código de arrecadação 5565.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547658,
+          "idAnotacao": 286232,
+          "href": "139707",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1432,7 +1576,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 70,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -1452,7 +1596,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 71,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1460,7 +1604,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 3º Para fins do disposto neste artigo, prazo de acumulação é o tempo decorrido entre o aporte de recursos no plano de benefícios mantido por entidade de previdência complementar, por sociedade seguradora ou no Fapi, e o pagamento relativo ao resgate ou ao benefício, calculado na forma regulamentada em ato conjunto da RFB e do respectivo órgão fiscalizador das entidades de previdência complementar, sociedades seguradoras e Fapi, considerando-se o tempo de permanência, a forma e prazo de recebimento e os valores aportados.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547659,
+          "idAnotacao": 286233,
+          "href": "139707",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1492,7 +1652,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 73,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -1512,7 +1672,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 74,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1520,7 +1680,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 5º A opção de que tratam o caput e o § 1º:",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547661,
+          "idAnotacao": 286234,
+          "href": "139707",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1532,7 +1708,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 999,
       "ordemSegmentoAto": 75,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1540,7 +1716,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "I - até 10 de janeiro de 2024, podia ser exercida até o último dia útil do mês subsequente ao do ingresso nos planos de benefícios operados por entidade de previdência complementar ou por sociedade seguradora, no Fapi ou no plano de seguro de vida com cláusula de cobertura por sobrevivência, de forma irretratável mesmo nas hipóteses de portabilidade de recursos e de transferência de participantes e respectivas reservas, e abrangia todo e qualquer benefício oferecido pelo respectivo plano; e",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547662,
+          "idAnotacao": 286235,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1552,7 +1744,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 999,
       "ordemSegmentoAto": 76,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1560,7 +1752,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "II - a partir de 11 de janeiro de 2024, poderá ser exercida, de forma irretratável, até o momento da obtenção do benefício ou da requisição do primeiro resgate referente aos valores acumulados em planos de benefícios operados por entidade de previdência complementar ou por sociedade seguradora ou em Fapi.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547663,
+          "idAnotacao": 286236,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1578,9 +1786,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "§ 6º Para o participante, segurado ou quotista que houver ingressado no plano de benefícios até o dia 30 de novembro de 2005, a opção de que trata o § 5º deverá ser exercida até o último dia útil do mês de dezembro de 2005, permitida até este prazo, excepcionalmente, a retratação da opção para aqueles que ingressaram no referido plano entre 1º de janeiro e 4 de julho de 2005.",
+      "textoIntegra": "§ 6º",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547684,
+          "idAnotacao": 286252,
+          "href": "139707",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1592,7 +1816,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 78,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -1612,7 +1836,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 79,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1620,7 +1844,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 7º A opção mencionada no inciso I do § 5º era:",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547665,
+          "idAnotacao": 286237,
+          "href": "139707",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1652,7 +1892,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 81,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -1692,7 +1932,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 999,
       "ordemSegmentoAto": 83,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1700,7 +1940,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "II - comunicada pela entidade de previdência complementar, sociedade seguradora ou administrador do Fapi à RFB, na forma estabelecida em ato específico, até o último dia útil do mês de julho do ano-calendário subsequente ao que se der a opção.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547667,
+          "idAnotacao": 286238,
+          "href": "139707",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1712,7 +1968,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 84,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1720,7 +1976,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 7º-A. A opção mencionada no inciso II do § 5º será:",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547668,
+          "idAnotacao": 286239,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1732,7 +2004,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 999,
       "ordemSegmentoAto": 85,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1740,7 +2012,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "I - exercida individualmente pelos participantes, segurados ou quotistas, inclusive assistidos, e beneficiários ou seus representantes legais, mediante:",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547669,
+          "idAnotacao": 286240,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1752,7 +2040,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 999,
       "ordemSegmentoAto": 86,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1760,7 +2048,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "a) Termo de Opção, na forma do Anexo Único; ou",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547670,
+          "idAnotacao": 286241,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1772,7 +2076,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 999,
       "ordemSegmentoAto": 87,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1780,7 +2084,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "b) manifestação perante a entidade de previdência complementar ou sociedade seguradora, devidamente preenchida e assinada, em formato digital ou em papel; e",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547671,
+          "idAnotacao": 286242,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1792,7 +2112,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 999,
       "ordemSegmentoAto": 88,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1800,7 +2120,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "II - comunicada pela entidade de previdência complementar ou sociedade seguradora à RFB, por intermédio da e-Financeira.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547672,
+          "idAnotacao": 286243,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1872,7 +2208,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 92,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1880,7 +2216,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 9º O Termo de Opção de que trata a alínea \"a\" do inciso I do § 7º-A deve ser mantido pela entidade de previdência complementar ou pela sociedade seguradora e disponibilizado ao participante, quotista ou segurado, como recibo.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547674,
+          "idAnotacao": 286244,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1892,7 +2244,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 93,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1900,7 +2252,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 10. Caso os participantes não tenham exercido a opção de que tratam o caput e o § 1º, os assistidos, os beneficiários ou seus representantes legais poderão fazê-lo, individualmente, a partir de 11 de janeiro de 2024, desde que atendidos os requisitos necessários para a obtenção do benefício ou do resgate.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547675,
+          "idAnotacao": 286245,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1918,9 +2286,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "Art. 14. É facultada a opção pelo regime de tributação exclusiva na fonte de que trata o art. 13 aos participantes, inclusive participantes assistidos, que ingressaram até 31 de dezembro de 2004 em planos de benefícios de caráter previdenciário estruturados nas modalidades de contribuição definida ou contribuição variável.",
+      "textoIntegra": "Art. 14.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547685,
+          "idAnotacao": 286253,
+          "href": "139707",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1938,9 +2322,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "§ 1º O disposto neste artigo aplica-se:",
+      "textoIntegra": "§ 1º",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547685,
+          "idAnotacao": 286254,
+          "href": "139707",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1958,9 +2358,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "I - aos quotistas que ingressaram em Fapi até 31 de dezembro de 2004;",
+      "textoIntegra": "I -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547685,
+          "idAnotacao": 286255,
+          "href": "139707",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1978,9 +2394,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "II - aos segurados que ingressaram em planos de seguro de vida com cláusula de cobertura por sobrevivência até 31 de dezembro de 2004.",
+      "textoIntegra": "II -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547685,
+          "idAnotacao": 286256,
+          "href": "139707",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1998,9 +2430,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "§ 2º A opção de que trata este artigo abrange todo e qualquer benefício oferecido pelo respectivo plano e será irretratável, mesmo nas hipóteses de portabilidade de recursos e de transferência de participantes e respectivas reservas, e deve ser:",
+      "textoIntegra": "§ 2º",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547685,
+          "idAnotacao": 286257,
+          "href": "139707",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2018,9 +2466,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "I - formalizada pelo participante, até o último dia útil do mês de dezembro de 2005, mediante Termo de Opção na forma do Anexo Único a esta Instrução Normativa, devidamente preenchido e assinado, a ser apresentado à entidade de previdência complementar, à sociedade seguradora ou ao administrador do Fapi; e",
+      "textoIntegra": "I -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547685,
+          "idAnotacao": 286258,
+          "href": "139707",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2032,7 +2496,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 100,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -2052,15 +2516,46 @@
       "idTipoSegmento": 999,
       "idAssunto": 1,
       "ordemSegmentoAto": 101,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "II - comunicada pela entidade de previdência complementar, sociedade seguradora ou administrador do Fapi à SRF, até o dia 31 de outubro de 2006, na forma definida em ato específico.",
+      "textoIntegra": "II -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15605,
+          "idSegmento": 2185659,
+          "idAnotacao": 257118,
+          "href": "15605",
+          "texto": "[Redação dada pelo(a) Instrução Normativa SRF nº 667, de 27 de julho de 2006]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        },
+        {
+          "idAto": 139707,
+          "idSegmento": 2547685,
+          "idAnotacao": 286259,
+          "href": "139707",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2078,9 +2573,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "§ 3º O Termo de Opção de que trata o inciso I do § 2º deverá ser emitido em duas vias, devendo a entidade de previdência complementar, a sociedade seguradora ou o administrador do Fapi arquivar a primeira via e devolver a segunda via ao interessado, como recibo.",
+      "textoIntegra": "§ 3º",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547685,
+          "idAnotacao": 286260,
+          "href": "139707",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2098,9 +2609,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "§ 4º Para fins do disposto neste artigo, os prazos de acumulação mencionados nos incisos I a VI do art. 13 são contados a partir:",
+      "textoIntegra": "§ 4º",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547685,
+          "idAnotacao": 286261,
+          "href": "139707",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2118,9 +2645,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "I - de 1º de janeiro de 2005, no caso de aportes de recursos realizados até 31 de dezembro de 2004; e",
+      "textoIntegra": "I -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547685,
+          "idAnotacao": 286262,
+          "href": "139707",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2138,9 +2681,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "II - da data do aporte, no caso de aportes de recursos realizados a partir de 1º de janeiro de 2005.",
+      "textoIntegra": "II -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547685,
+          "idAnotacao": 286263,
+          "href": "139707",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2158,9 +2717,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "§ 5º Aplica-se às opções realizadas na forma deste artigo o disposto nos §§ 2º a 4º do art. 13.",
+      "textoIntegra": "§ 5º",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547685,
+          "idAnotacao": 286264,
+          "href": "139707",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2172,7 +2747,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 999,
       "ordemSegmentoAto": 107,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2180,7 +2755,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 14-A. Os valores pagos aos próprios participantes e segurados ou aos assistidos ou beneficiários, a título de benefícios ou resgates, não estão sujeitos a mudanças no regime de tributação.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547676,
+          "idAnotacao": 286246,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2192,7 +2783,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 1,
       "ordemSegmentoAto": 108,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -2212,7 +2803,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 999,
       "ordemSegmentoAto": 109,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2220,7 +2811,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 15. A base de cálculo do imposto sobre a renda sobre valores recebidos a título de benefício ou resgate, de que trata o art. 13, é constituída:",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547677,
+          "idAnotacao": 286247,
+          "href": "139707",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2292,7 +2899,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 1,
       "ordemSegmentoAto": 113,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -2312,7 +2919,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 999,
       "ordemSegmentoAto": 114,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2320,7 +2927,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 16. Na hipótese de pagamento de benefício não programado, oferecido em planos de benefícios de caráter previdenciário estruturados nas modalidades de contribuição definida ou contribuição variável, após a opção do participante pelo regime de tributação de que trata o art. 13, incidirá imposto sobre a renda à alíquota:",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547679,
+          "idAnotacao": 286248,
+          "href": "139707",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2412,7 +3035,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 1,
       "ordemSegmentoAto": 119,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -2432,7 +3055,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 1,
       "ordemSegmentoAto": 120,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2440,7 +3063,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 17. As entidades fechadas de previdência complementar estão isentas do imposto sobre a renda devido pela pessoa jurídica e da contribuição social sobre o lucro líquido.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 39255,
+          "idSegmento": 1260829,
+          "idAnotacao": 197583,
+          "href": "39255",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1315, de 3 de janeiro de 2013]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2452,15 +3091,31 @@
       "idTipoSegmento": 999,
       "idAssunto": 1,
       "ordemSegmentoAto": 121,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "Parágrafo único.  O disposto no caput aplica-se às entidades abertas sem fins lucrativos em relação ao imposto sobre a renda da pessoa jurídica.",
+      "textoIntegra": "Parágrafo único. O disposto no caput aplica-se às entidades abertas sem fins lucrativos em relação ao imposto sobre a renda da pessoa jurídica.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 39255,
+          "idSegmento": 1260830,
+          "idAnotacao": 197584,
+          "href": "39255",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1315, de 3 de janeiro de 2013]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2712,7 +3367,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 999,
       "ordemSegmentoAto": 134,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2720,7 +3375,38 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 22-A. Ato conjunto da Secretaria Especial da Receita Federal do Brasil e do respectivo órgão fiscalizador das entidades de previdência complementar, sociedades seguradoras e Fapi estabelecerá os procedimentos a serem adotados pelo plano originário a fim de disponibilizar ao plano de destino as informações referentes aos prazos de acumulação dos aportes, nos casos de portabilidade de recursos e de transferência de participantes e respectivas reservas entre planos de benefícios.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 139707,
+          "idSegmento": 2547681,
+          "idAnotacao": 286249,
+          "href": "139707",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2209, de 6 de agosto de 2024]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        },
+        {
+          "idAto": 142884,
+          "idSegmento": 2593443,
+          "idAnotacao": 289618,
+          "href": "142884",
+          "texto": "[Regulamentado(a) pelo(a) Instrução Normativa Conjunta RFB / Previc / Susep nº 1, de 4 de fevereiro de 2025]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2759,7 +3445,38 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 24. Ficam formalmente revogados, sem interrupção de sua força normativa, a Instrução Normativa SRF nº 497, de 24 de janeiro de 2005, e o art. 2º da IN SRF nº 544, de 14 de junho de 2005.",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15461,
+          "idSegmento": null,
+          "idAnotacao": 186572,
+          "href": "15461",
+          "texto": "[Instrução Normativa SRF nº 544, de 14/06/2005 - |Dispõe sobre a não incidência da CPMF na hipó...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        },
+        {
+          "idAto": 15410,
+          "idSegmento": null,
+          "idAnotacao": 188991,
+          "href": "15410",
+          "texto": "[Instrução Normativa SRF nº 497, de 24/01/2005 - |Dispõe sobre plano de benefício de caráter pr...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -2910,7 +3627,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -2925,7 +3642,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -2940,7 +3657,22 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
+      "permiteAgendamento": true
+    },
+    {
+      "idAto": 142884,
+      "idSegmento": 2593443,
+      "idAnotacao": 289618,
+      "href": "142884",
+      "texto": "[Regulamentado(a) pelo(a) Instrução Normativa Conjunta RFB / Previc / Susep nº 1, de 4 de fevereiro de 2025]",
+      "dataInicioVigencia": null,
+      "dataRepublicacao": null,
+      "permiteExcluir": false,
+      "permiteAlterarData": true,
+      "ehAgendamento": false,
+      "textoAgendamento": null,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     }
   ],
@@ -3157,6 +3889,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/15513/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/15513/visao/vigente",
+  "_fetched_at": "2026-07-29T19:18:38.839790+00:00"
 }

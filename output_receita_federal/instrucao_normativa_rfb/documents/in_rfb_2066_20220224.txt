@@ -1,10 +1,13 @@
 Instrução Normativa RFB nº 2066, de 24 de fevereiro de 2022
 
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2320, de 6 de abril de 2026]
+
 Dispõe sobre o acesso ao Centro Virtual de Atendimento da Secretaria Especial da Receita Federal do Brasil.
 
 O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020 , e tendo em vista o disposto no art. 16 da Lei Complementar nº 95, de 26 de fevereiro de 1998 , no Decreto nº 8.936, de 19 de dezembro de 2016 , no Decreto nº 9.094, de 17 de julho de 2017 , no Decreto nº 10.139, de 28 de novembro de 2019 , no Decreto nº 10.332, de 28 de abril de 2020 , no Decreto nº 10.543, de 13 de novembro de 2020 , na Instrução Normativa RFB nº 1.994, de 24 de novembro de 2020 , e na Portaria SEDGGME nº 2.154, de 23 de fevereiro de 2021, resolve:
 
-CAPÍTULO I DISPOSIÇÕES PRELIMINARES
+CAPÍTULO I
+DISPOSIÇÕES PRELIMINARES
 
 Art. 1º Esta Instrução Normativa atualiza as normas sobre o acesso ao Centro Virtual de Atendimento (e-CAC) no âmbito da Secretaria Especial da Receita Federal do Brasil (RFB), tendo em vista o disposto no Decreto nº 10.139, de 28 de novembro de 2019 .
 
@@ -20,7 +23,8 @@ III - Identidade Digital Ouro, a definida no inciso III do § 1º do art. 1º da
 
 IV - procuração digital, a procuração emitida por meio eletrônico, a qual permite a uma pessoa física ou jurídica outorgar poderes para que um terceiro acesse os serviços do e-CAC em seu nome, inclusive os que exibem e transacionam informações protegidas por sigilo fiscal.
 
-CAPÍTULO II DO ACESSO AO E-CAC
+CAPÍTULO II
+DO ACESSO AO E-CAC
 
 Art. 3º Observado o disposto no Capítulo IV, o acesso ao e-CAC será realizado mediante autenticação por meio da conta gov.br, com Identidade Digital Prata ou Identidade Digital Ouro.
 
@@ -54,11 +58,16 @@ II - adotar as medidas necessárias para garantir a guarda e o sigilo das suas c
 
 III - informar, imediatamente, usos ou tentativas de uso indevidos da sua conta ao órgão responsável pela administração desta.
 
-CAPÍTULO III DO ACESSO AO E-CAC POR REPRESENTAÇÃO
+CAPÍTULO III
+DO ACESSO AO E-CAC POR REPRESENTAÇÃO
 
 Art. 6º A habilitação para acesso aos serviços disponíveis no e-CAC por meio de procuração digital será realizada pelo titular da conta gov.br na internet, no endereço eletrônico informado no parágrafo único do art. 1º.
 
-Art. 7º Nos casos em que não for possível cadastrar uma conta gov.br, o cidadão poderá emitir a solicitação de procuração digital no endereço eletrônico informado no parágrafo único do art. 1º, que conterá hora oficial de Brasília, data de emissão e código de controle.
+Art. 7º Nos casos em que não for possível cadastrar uma conta gov.br com Identidade Digital Prata ou Ouro, o cidadão poderá emitir a solicitação de procuração digital no endereço eletrônico informado no parágrafo único do art. 1º, que conterá hora oficial de Brasília, data de emissão e código de controle.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2149, de 5 de julho de 2023]
+
+[Vide o(a) Instrução Normativa RFB nº 2149, de 5 de julho de 2023]
 
 § 1º A procuração a que se refere o caput deverá ser impressa e assinada:
 
@@ -66,13 +75,39 @@ I - pelo representante da pessoa jurídica, responsável perante o CNPJ;
 
 II - pelo outorgante, no caso de pessoa física;
 
-III - por procurador constituído por procuração pública específica, com poderes próprios para a realização da outorga a que se refere o inciso I do art. 8º; ou
+III - por procurador constituído por procuração pública com poderes para representar o outorgante perante órgãos públicos federais ou a RFB e, ainda, para substabelecer; ou
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2149, de 5 de julho de 2023]
+
+[Vide o(a) Instrução Normativa RFB nº 2149, de 5 de julho de 2023]
 
 IV - por outros representantes legais não listados nos incisos I a III.
 
 § 2º A procuração a que se refere o caput deverá ser entregue no prazo de 30 (trinta) dias, contado da data de sua emissão:
 
-I - por meio de processo digital aberto no e-CAC, obrigatoriamente, no caso de conter reconhecimento de firma em cartório;
+I - por meio de processo digital aberto no e-CAC, obrigatoriamente, nos casos de conter:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2149, de 5 de julho de 2023]
+
+[Vide o(a) Instrução Normativa RFB nº 2149, de 5 de julho de 2023]
+
+a) reconhecimento de firma por cartório ou pelo Ministério das Relações Exteriores;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2149, de 5 de julho de 2023]
+
+[Vide o(a) Instrução Normativa RFB nº 2149, de 5 de julho de 2023]
+
+b) assinatura eletrônica realizada por contas digitais gov.br, conforme art. 6º do Decreto nº 10.543, de 13 de novembro de 2020 , nas hipóteses previstas nos incisos III e IV do § 1º; ou
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2149, de 5 de julho de 2023]
+
+[Vide o(a) Instrução Normativa RFB nº 2149, de 5 de julho de 2023]
+
+c) assinatura qualificada, nas hipóteses previstas nos incisos III e IV do § 1º, conforme inciso III do art. 4º do Decreto nº 10.543, de 2020 .
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2149, de 5 de julho de 2023]
+
+[Vide o(a) Instrução Normativa RFB nº 2149, de 5 de julho de 2023]
 
 II - em uma unidade de atendimento presencial da RFB, no caso de não conter reconhecimento de firma em cartório; ou
 
@@ -112,7 +147,8 @@ Art. 10. A procuração digital será emitida e cancelada exclusivamente na inte
 
 Parágrafo único. No caso de alteração do ato constitutivo de pessoa jurídica que enseje a revogação de poderes outorgados por meio de procuração digital, o cancelamento desta deverá ser efetuado pelo responsável legal da pessoa jurídica.
 
-CAPÍTULO IV DO PERÍODO DE TRANSIÇÃO
+CAPÍTULO IV
+DO PERÍODO DE TRANSIÇÃO
 
 Art. 11. Durante a transição para o uso exclusivo da conta gov.br, o acesso a serviços do e-CAC poderá:
 
@@ -136,7 +172,8 @@ a) do número de inscrição no CNPJ; e
 
 b) das informações do representante da empresa, responsável perante o CNPJ, relacionadas no inciso I.
 
-CAPÍTULO V DISPOSIÇÕES FINAIS
+CAPÍTULO V
+DISPOSIÇÕES FINAIS
 
 Art. 12. A utilização dos serviços do e-CAC poderá ser condicionada à leitura prévia de mensagens classificadas como importantes, ainda que o acesso seja realizado por seu responsável ou representante legal habilitado para acessar o serviço de Caixa Postal.
 

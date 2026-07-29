@@ -32,7 +32,7 @@
   "dataPublicacao": "2001-10-17",
   "dataVigenciaInicio": "2001-10-17",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": false,
   "vigente": true,
   "ehRepublicado": false,
@@ -492,7 +492,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 1,
       "ordemSegmentoAto": 23,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -532,7 +532,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 1,
       "ordemSegmentoAto": 25,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -540,7 +540,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 6º A Declaração Final de Espólio deve ser apresentada até o último dia útil do mês de abril do ano-calendário subseqüente ao:",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15857,
+          "idSegmento": 1008705,
+          "idAnotacao": 186373,
+          "href": "15857",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -592,7 +608,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 1,
       "ordemSegmentoAto": 28,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -600,7 +616,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "I - da decisão judicial da partilha, sobrepartilha ou adjudicação dos bens inventariados, que tenha transitado em julgado até o último dia do mês de fevereiro do ano-calendário subseqüente ao da decisão judicial;",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15857,
+          "idSegmento": 503575,
+          "idAnotacao": 186375,
+          "href": "15857",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -612,15 +644,46 @@
       "idTipoSegmento": 999,
       "idAssunto": 1,
       "ordemSegmentoAto": 29,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "a) decisão judicial da partilha, sobrepartilha ou adjudicação dos bens inventariados, que tenha transitado em julgado até o último dia do mês de fevereiro do ano-calendário subseqüente ao da decisão judicial;",
+      "textoIntegra": "a) decisão",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15758,
+          "idSegmento": 501566,
+          "idAnotacao": 186354,
+          "href": "15758",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 805, de 28 de dezembro de 2007]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        },
+        {
+          "idAto": 15857,
+          "idSegmento": 126162,
+          "idAnotacao": 186384,
+          "href": "15857",
+          "texto": "[Suprimido(a) - vide Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": false
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -632,15 +695,46 @@
       "idTipoSegmento": 999,
       "idAssunto": 1,
       "ordemSegmentoAto": 30,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "b) lavratura da escritura pública de inventário e partilha;",
+      "textoIntegra": "b) lavratura",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15758,
+          "idSegmento": 501567,
+          "idAnotacao": 186355,
+          "href": "15758",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 805, de 28 de dezembro de 2007]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        },
+        {
+          "idAto": 15857,
+          "idSegmento": 126162,
+          "idAnotacao": 186385,
+          "href": "15857",
+          "texto": "[Suprimido(a) - vide Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": false
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -692,7 +786,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 999,
       "ordemSegmentoAto": 33,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -700,7 +794,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "II - da lavratura da escritura pública de inventário e partilha;",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15857,
+          "idSegmento": 503576,
+          "idAnotacao": 228691,
+          "href": "15857",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -732,7 +842,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 999,
       "ordemSegmentoAto": 35,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -740,7 +850,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "III - do trânsito em julgado, quando este ocorrer a partir de 1º de março do ano-calendário subsequente ao da decisão judicial da partilha, sobrepartilha ou adjudicação dos bens inventariados, observado o disposto no § 8º.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 136488,
+          "idSegmento": 2503476,
+          "idAnotacao": 284168,
+          "href": "136488",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2178, de 5 de março de 2024]",
+          "dataInicioVigencia": "07/03/2024",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -752,7 +878,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 36,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -812,7 +938,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 1,
       "ordemSegmentoAto": 39,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -820,7 +946,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 1º A Declaração Final de Espólio deve ser transmitida pela Internet ou apresentada, em mídia removível, nas unidades da Secretaria da Receita Federal do Brasil.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 16122,
+          "idSegmento": 513364,
+          "idAnotacao": 186398,
+          "href": "16122",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1150, de 29 de abril de 2011]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -832,7 +974,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 40,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -892,7 +1034,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 1,
       "ordemSegmentoAto": 43,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -900,7 +1042,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 2º O contribuinte deverá utilizar o Programa Gerador da Declaração Final de Espólio do ano-calendário correspondente ao que for proferida a decisão judicial ou a lavratura da escritura pública, que estará disponível no sítio da Secretaria da Receita Federal do Brasil (RFB) na Internet no endereço .",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15857,
+          "idSegmento": 503578,
+          "idAnotacao": 186390,
+          "href": "15857",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -918,9 +1076,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "§ 3<strike>º</strike> Se o prazo para a entrega da declaração final encerrar-se antes da data prevista para a entrega da declaração correspondente ao ano-calendário anterior, essas duas declarações devem ser entregues no prazo previsto para a entrega da declaração final.",
+      "textoIntegra": "§ 3º",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15655,
+          "idSegmento": 123773,
+          "idAnotacao": 186352,
+          "href": "15655",
+          "texto": "[Suprimido(a) - vide Instrução Normativa SRF nº 711, de 31 de janeiro de 2007]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": false
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -932,7 +1106,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 45,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -940,7 +1114,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 4º O prazo para a entrega da Declaração de que trata o caput, originalmente fixado em 30 de abril de 2020, fica excepcionalmente prorrogado para 30 de junho de 2020.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 108443,
+          "idSegmento": 2115903,
+          "idAnotacao": 250018,
+          "href": "108443",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1934, de 7 de abril de 2020]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -952,7 +1142,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 46,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -960,7 +1150,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 5º O prazo para a entrega da Declaração de que trata o caput, originalmente fixado para até 30 de abril de 2021, fica excepcionalmente prorrogado para até 31 de maio de 2021.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 116684,
+          "idSegmento": 2243931,
+          "idAnotacao": 263704,
+          "href": "116684",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2020, de 9 de abril de 2021]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -972,7 +1178,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 47,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -980,7 +1186,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 6º O prazo para a apresentação da declaração de que trata o caput, originalmente fixado para até 29 de abril de 2022, fica excepcionalmente prorrogado para até 31 de maio de 2022.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 123534,
+          "idSegmento": 2333243,
+          "idAnotacao": 271016,
+          "href": "123534",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2077, de 4 de abril de 2022]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -992,7 +1214,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 48,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1000,7 +1222,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 7º O prazo para a apresentação da declaração de que trata o caput, originalmente fixado para até 28 de abril de 2023, fica excepcionalmente prorrogado para até 31 de maio de 2023.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 129195,
+          "idSegmento": 2416769,
+          "idAnotacao": 278110,
+          "href": "129195",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2134, de 27 de fevereiro de 2023]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1012,7 +1250,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 49,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1020,7 +1258,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 8º Na hipótese de o trânsito em julgado ocorrer nos meses de janeiro e fevereiro de anos-calendário subsequentes ao ano-calendário imediatamente seguinte ao da decisão judicial da partilha, sobrepartilha ou adjudicação dos bens inventariados, a Declaração Final de Espólio deve ser apresentada até o último dia útil do mês de abril do mesmo ano-calendário do trânsito em julgado.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 136488,
+          "idSegmento": 2503478,
+          "idAnotacao": 284169,
+          "href": "136488",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2178, de 5 de março de 2024]",
+          "dataInicioVigencia": "07/03/2024",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1032,7 +1286,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 50,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1040,7 +1294,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 9º O prazo para a apresentação da declaração de que tratam o caput e o § 8º, originalmente fixado para até 30 de abril de 2024, fica prorrogado para até 31 de maio de 2024.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 136488,
+          "idSegmento": 2503479,
+          "idAnotacao": 284170,
+          "href": "136488",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2178, de 5 de março de 2024]",
+          "dataInicioVigencia": "07/03/2024",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1052,7 +1322,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 51,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1060,7 +1330,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 10. O prazo para a apresentação da declaração de que tratam o caput e o § 8º, originalmente fixado para até 30 de abril de 2025, fica prorrogado para até 30 de maio de 2025.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 143990,
+          "idSegmento": 2607699,
+          "idAnotacao": 291279,
+          "href": "143990",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2263, de 25 de abril de 2025]",
+          "dataInicioVigencia": "29/04/2025",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1072,7 +1358,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 52,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1080,7 +1366,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 11. O prazo para a apresentação da declaração de que tratam o caput e o § 8º, originalmente fixado para até 30 de abril de 2026, fica prorrogado para até 29 de maio de 2026.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 149930,
+          "idSegmento": 2682445,
+          "idAnotacao": 295548,
+          "href": "149930",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 2312, de 13 de março de 2026]",
+          "dataInicioVigencia": "16/03/2026",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1672,7 +1974,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 82,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -1692,7 +1994,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 1,
       "ordemSegmentoAto": 83,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1700,7 +2002,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 4º Na hipótese do § 2º, o inventariante deve apurar o ganho de capital por meio do Programa Demonstrativo de Ganhos de Capital do ano-calendário correspondente ao que for proferida a decisão judicial ou lavratura da escritura pública e importar os respectivos dados para a Declaração Final de Espólio.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15857,
+          "idSegmento": 503579,
+          "idAnotacao": 186395,
+          "href": "15857",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1712,7 +2030,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 84,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -1752,15 +2070,31 @@
       "idTipoSegmento": 999,
       "idAssunto": 1,
       "ordemSegmentoAto": 86,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "§ 5º  O imposto devido sobre ganho de capital de que trata este artigo deve ser pago pelo inventariante até a data prevista para a entrega da Declaração Final de Espólio.",
+      "textoIntegra": "§ 5º O imposto devido sobre ganho de capital de que trata este artigo deve ser pago pelo inventariante até a data prevista para a entrega da Declaração Final de Espólio.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 71679,
+          "idSegmento": 1604073,
+          "idAnotacao": 225536,
+          "href": "71679",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1620, de 19 de fevereiro de 2016]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1812,7 +2146,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 1,
       "ordemSegmentoAto": 89,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1820,7 +2154,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 8º Caso o custo de aquisição utilizado pelo herdeiro no cálculo do ganho de capital, na alienação de bens e direitos recebidos em herança, legado ou meação antes da entrega da Declaração Final de Espólio, seja maior do que o valor atribuído ao respectivo bem nessa declaração, caberá ao herdeiro o recolhimento da diferença do imposto sobre o ganho de capital apurado com base no valor de transferência, com os devidos acréscimos legais.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 15857,
+          "idSegmento": 503581,
+          "idAnotacao": 186397,
+          "href": "15857",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1852,7 +2202,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 1,
       "ordemSegmentoAto": 91,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -1872,7 +2222,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 999,
       "ordemSegmentoAto": 92,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1880,7 +2230,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 11. São sujeitos a sobrepartilha os bens (Código de Processo Civil - CPC, art. 669):",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 115476,
+          "idSegmento": 2230810,
+          "idAnotacao": 262796,
+          "href": "115476",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1912,7 +2278,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 94,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -1932,7 +2298,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 999,
       "ordemSegmentoAto": 95,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1940,7 +2306,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "II - da herança descobertos após a partilha;",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 115476,
+          "idSegmento": 2230812,
+          "idAnotacao": 262797,
+          "href": "115476",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1992,13 +2374,13 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 98,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "Parágrafo único. Nas situações de que tratam os incisos III e IV, a partilha dos demais bens integrantes do espólio, embora implique sua baixa na declaração de bens do espólio, não obriga a entrega da declaração final, que somente é exigida quando do trânsito em julgado da partilha desses bens.",
+      "textoIntegra": "Par&aacute;grafo &uacute;nico. Nas situa&ccedil;&otilde;es de que tratam os incisos III e IV, a partilha dos demais bens integrantes do esp&oacute;lio, embora implique sua baixa na declara&ccedil;&atilde;o de bens do esp&oacute;lio, n&atilde;o obriga a entrega da declara&ccedil;&atilde;o final, que somente &eacute; exigida quando do tr&acirc;nsito em julgado da partilha desses bens.",
       "ancorasOrigem": [],
       "ancorasDestino": [],
       "arquivoBinario": null,
@@ -2012,7 +2394,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 99,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2020,7 +2402,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Parágrafo único. Os demais bens integrantes do espólio devem ser baixados na declaração final de espólio da partilha.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 115476,
+          "idSegmento": 2230814,
+          "idAnotacao": 262798,
+          "href": "115476",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2112,7 +2510,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 1,
       "ordemSegmentoAto": 104,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -2132,7 +2530,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 999,
       "ordemSegmentoAto": 105,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2140,7 +2538,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 13. Relativamente aos bens da sobrepartilha, deve ser observado o disposto nos arts. 5º a 7º e, se a sobrepartilha se referir:",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 115476,
+          "idSegmento": 2230815,
+          "idAnotacao": 262799,
+          "href": "115476",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2152,7 +2566,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 106,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -2172,7 +2586,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 999,
       "ordemSegmentoAto": 107,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2180,7 +2594,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "I - ao mesmo ano-calendário da partilha, devem também ser informados, na declaração final de espólio relativa à partilha, os bens da sobrepartilha e os rendimentos por eles produzidos; ou",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 115476,
+          "idSegmento": 2230816,
+          "idAnotacao": 262800,
+          "href": "115476",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2198,9 +2628,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "a) até a data da decisão judicial da sobrepartilha, se esta ainda ocorrer dentro desse mesmo ano-calendário;",
+      "textoIntegra": "a)",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 115476,
+          "idSegmento": 2230822,
+          "idAnotacao": 262803,
+          "href": "115476",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2218,9 +2664,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "b) em todo o ano-calendário, se a decisão judicial da sobrepartilha ocorrer em ano-calendário posterior, passando essa declaração a ser considerada intermediária;",
+      "textoIntegra": "b)",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 115476,
+          "idSegmento": 2230822,
+          "idAnotacao": 262804,
+          "href": "115476",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2232,7 +2694,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 110,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -2252,7 +2714,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 999,
       "ordemSegmentoAto": 111,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2260,7 +2722,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "II - a ano-calendário posterior ao da partilha, devem ser informados, nas declarações de sobrepartilha intermediárias, se obrigatórias, e final, apenas os bens da sobrepartilha e os rendimentos por eles produzidos.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 115476,
+          "idSegmento": 2230818,
+          "idAnotacao": 262801,
+          "href": "115476",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2278,9 +2756,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "a) caso a decisão judicial da sobrepartilha ocorra no mesmo ano-calendário, na declaração final são informados os bens objeto da partilha e da sobrepartilha e os rendimentos produzidos por todos esses bens até a data da partilha e pelos sobrepartilhados até a data da decisão judicial transitada em julgado da sobrepartilha;",
+      "textoIntegra": "a)",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 115476,
+          "idSegmento": 2230823,
+          "idAnotacao": 262805,
+          "href": "115476",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2298,9 +2792,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "b) se a decisão judicial da sobrepartilha ocorrer em ano-calendário posterior, na declaração intermediária correspondente ao ano-calendário da decisão judicial da partilha, se obrigatória, devem ser informados os bens objeto da partilha e sobrepartilha e os respectivos rendimentos produzidos até 31 de dezembro.",
+      "textoIntegra": "b)",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 115476,
+          "idSegmento": 2230823,
+          "idAnotacao": 262806,
+          "href": "115476",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2358,9 +2868,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "II - posteriormente ao ano em que foi proferida a decisão judicial transitada em julgado da partilha ou adjudicação, devem ser apresentadas as declarações dos exercícios correspondentes, onde são incluídos apenas os bens sobrepartilhados e os rendimentos por eles produzidos.",
+      "textoIntegra": "II -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 115476,
+          "idSegmento": 2230824,
+          "idAnotacao": 262807,
+          "href": "115476",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2372,7 +2898,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 117,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -2392,7 +2918,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 999,
       "ordemSegmentoAto": 118,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2400,7 +2926,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 2º Transitado em julgado a decisão judicial referente à sobrepartilha, deve ser apresentada a declaração final da sobrepartilha.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 115476,
+          "idSegmento": 2230820,
+          "idAnotacao": 262802,
+          "href": "115476",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3501,6 +4043,51 @@
       "textoIntegra": "Art. 28. Ficam formalmente revogadas, sem interrupção de sua força normativa, as Instruções Normativas SRF N<strike>º</strike> 56/89, de 31 de maio de 1989, N<strike>º</strike> 23/96, de 18 de abril de 1996, No 53/98, de 9 de junho de 1998, e N<strike>º</strike> 159/99, de 23 de dezembro de 1999.",
       "ancorasOrigem": [
         {
+          "idAto": 13921,
+          "idSegmento": null,
+          "idAnotacao": 213512,
+          "href": "13921",
+          "texto": "[Instrução Normativa SRF nº 53, de 09/06/1998 - |Dispõe sobre as declarações de rendimentos de...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        },
+        {
+          "idAto": 13345,
+          "idSegmento": null,
+          "idAnotacao": 214099,
+          "href": "13345",
+          "texto": "[Instrução Normativa SRF nº 23, de 18/04/1996 - |Estabelece normas aplicáveis às declarações d...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        },
+        {
+          "idAto": 14995,
+          "idSegmento": null,
+          "idAnotacao": 215244,
+          "href": "14995",
+          "texto": "[Instrução Normativa SRF nº 159, de 23/12/1999 - |Dispõe sobre o prazo de entrega da declaração...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        },
+        {
           "idAto": 105368,
           "idSegmento": null,
           "idAnotacao": 256308,
@@ -3514,6 +4101,21 @@
           "textoAgendamento": null,
           "exibirDataInicioVigencia": false,
           "permiteAgendamento": false
+        },
+        {
+          "idAto": 105368,
+          "idSegmento": null,
+          "idAnotacao": 256309,
+          "href": "105368",
+          "texto": "[Instrução Normativa SRF nº 56, de 31/05/1989 - |Institui procedimentos a serem observados na ...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
         }
       ],
       "ancorasDestino": [],
@@ -3656,7 +4258,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": false
     },
     {
@@ -3671,7 +4273,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -3686,7 +4288,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -3701,7 +4303,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -3716,7 +4318,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -3731,7 +4333,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -3746,7 +4348,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -3761,7 +4363,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -3776,7 +4378,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -3791,7 +4393,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -3806,7 +4408,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -3821,7 +4423,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -3836,7 +4438,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     }
   ],
@@ -4105,6 +4707,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/14359/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/14359/visao/vigente",
+  "_fetched_at": "2026-07-29T19:18:46.575185+00:00"
 }

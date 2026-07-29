@@ -10,6 +10,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "No idAto returned by search",
@@ -17,7 +18,12 @@
     "review_reason": "not_found",
     "source_filenames": [
       "Nota PGFN CRJ nº 1.040 2015.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "nota_pgfn",
@@ -30,6 +36,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "No idAto returned by search",
@@ -37,7 +44,12 @@
     "review_reason": "not_found",
     "source_filenames": [
       "Nota PGFN CRJ nº 1.104 2017.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "nota_pgfn",
@@ -46,10 +58,11 @@
     "canonical_name": "Nota PGFN CRJ nº 981",
     "id_ato": "69651",
     "alternate_id_atos": [],
-    "view": "original",
-    "url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/69651/visao/original",
+    "view": "vigente",
+    "url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/69651/visao/vigente",
     "success": true,
     "json_filename": "nota_pgfn_981_nodate.json",
+    "original_json_filename": "",
     "text_filename": "nota_pgfn_981_nodate.txt",
     "docx_filename": "nota_pgfn_981_nodate.docx",
     "error": null,
@@ -57,6 +70,32 @@
     "review_reason": "matched_without_date",
     "source_filenames": [
       "Nota PGFN CRJ nº 981 2015.txt"
-    ]
+    ],
+    "fetched_at": "2026-07-29T19:27:22.136611+00:00",
+    "exibir_visoes": "1111",
+    "data_vigencia_inicio": "2015-11-04",
+    "act_revoked": false,
+    "render_stats": {
+      "segments_rendered": 2,
+      "segments_omitted": 0,
+      "segments_struck_dropped": 0,
+      "annotations": 0,
+      "attachments": 1,
+      "attachment_tables": 0,
+      "attachments_failed": 0,
+      "attachment_details": [
+        {
+          "id_arquivo": 38374,
+          "kind": "pdf",
+          "name": "Nota PGFN CRJ nº 981-2015.pdf",
+          "size": 627884,
+          "saved_as": "nota_pgfn_981_nodate__38374_Nota_PGFN_CRJ_nº_981-2015.pdf",
+          "n_tables": 0,
+          "converted": true,
+          "source": "cache",
+          "error": null
+        }
+      ]
+    }
   }
 ]

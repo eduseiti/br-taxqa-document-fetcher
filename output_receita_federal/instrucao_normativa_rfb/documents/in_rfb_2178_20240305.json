@@ -32,7 +32,7 @@
   "dataPublicacao": "2024-03-07",
   "dataVigenciaInicio": "2024-03-07",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -3379,7 +3379,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "III - do trânsito em julgado, quando este ocorrer a partir de 1º de março do ano-calendário subsequente ao da decisão judicial da partilha, sobrepartilha ou adjudicação dos bens inventariados, observado o disposto no § 8º.",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 14359,
+          "idSegmento": 1008710,
+          "idAnotacao": 284168,
+          "href": "14359",
+          "texto": "[Instrução Normativa SRF nº 81, de 11/10/2001 - |III - do trânsito em julgado, quando este oco...| - Alteração]",
+          "dataInicioVigencia": "07/03/2024",
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -3419,7 +3435,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 8º Na hipótese de o trânsito em julgado ocorrer nos meses de janeiro e fevereiro de anos-calendário subsequentes ao ano-calendário imediatamente seguinte ao da decisão judicial da partilha, sobrepartilha ou adjudicação dos bens inventariados, a Declaração Final de Espólio deve ser apresentada até o último dia útil do mês de abril do mesmo ano-calendário do trânsito em julgado.",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 14359,
+          "idSegmento": 2503779,
+          "idAnotacao": 284169,
+          "href": "14359",
+          "texto": "[Instrução Normativa SRF nº 81, de 11/10/2001 - |§ 8º Na hipótese de o trânsito em julgado oco...| - Inclusão]",
+          "dataInicioVigencia": "07/03/2024",
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -3439,7 +3471,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 9º O prazo para a apresentação da declaração de que tratam o caput e o § 8º, originalmente fixado para até 30 de abril de 2024, fica prorrogado para até 31 de maio de 2024.\" (NR)",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 14359,
+          "idSegmento": 2503780,
+          "idAnotacao": 284170,
+          "href": "14359",
+          "texto": "[Instrução Normativa SRF nº 81, de 11/10/2001 - |§ 9º O prazo para a apresentação da declaraçã...| - Inclusão]",
+          "dataInicioVigencia": "07/03/2024",
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -3519,7 +3567,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 15. O prazo para a apresentação da declaração e para o recolhimento do imposto e dos demais créditos tributários de que tratam, respectivamente, os incisos I e II do caput, originalmente fixado para até 30 de abril de 2024, fica prorrogado para até 31 de maio de 2024.\" (NR)",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15079,
+          "idSegmento": 2503781,
+          "idAnotacao": 284171,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |§ 15. O prazo para a apresentação da declaraç...| - Inclusão]",
+          "dataInicioVigencia": "07/03/2024",
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -3579,7 +3643,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "§ 7º O prazo para a apresentação da declaração e para o recolhimento do imposto e dos demais créditos tributários de que tratam, respectivamente, os incisos I e II do caput, originalmente fixado para até 30 de abril de 2024, fica prorrogado para até 31 de maio de 2024.\" (NR)",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15079,
+          "idSegmento": 2503782,
+          "idAnotacao": 284172,
+          "href": "15079",
+          "texto": "[Instrução Normativa SRF nº 208, de 27/09/2002 - |§ 7º O prazo para a apresentação da declaraçã...| - Inclusão]",
+          "dataInicioVigencia": "07/03/2024",
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -3833,6 +3913,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/136488/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/136488/visao/vigente",
+  "_fetched_at": "2026-07-29T19:20:06.908761+00:00"
 }

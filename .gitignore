@@ -185,3 +185,5 @@ selenium-debug.log
 
 # Claude Code specific
 .claude/
+# Attachment download cache (raw annex bytes; re-fetchable from the portal)
+.attachment_cache/

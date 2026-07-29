@@ -32,7 +32,7 @@
   "dataPublicacao": "2014-01-09",
   "dataVigenciaInicio": "2014-01-09",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": false,
   "vigente": true,
   "ehRepublicado": false,
@@ -102,13 +102,13 @@
       "idTipoSegmento": 1000,
       "idAssunto": 999,
       "ordemSegmentoAto": 3,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "FERNANDO MOMBELLI Coordenador-Geral",
+      "textoIntegra": "FERNANDO MOMBELLI\rCoordenador-Geral\r",
       "ancorasOrigem": [],
       "ancorasDestino": [],
       "arquivoBinario": null,
@@ -122,13 +122,13 @@
       "idTipoSegmento": 1000,
       "idAssunto": 999,
       "ordemSegmentoAto": 4,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "CLÁUDIA LÚCIA PIMENTEL MARTINS DA SILVA\rCoordenadora-Geral da Cosit Substituta\r",
+      "textoIntegra": "CLÁUDIA LÚCIA PIMENTEL MARTINS DA SILVA Coordenadora-Geral da Cosit Substituta",
       "ancorasOrigem": [],
       "ancorasDestino": [],
       "arquivoBinario": null,
@@ -150,7 +150,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": false
     }
   ],
@@ -241,6 +241,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/49036/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/49036/visao/vigente",
+  "_fetched_at": "2026-07-29T19:23:44.223699+00:00"
 }

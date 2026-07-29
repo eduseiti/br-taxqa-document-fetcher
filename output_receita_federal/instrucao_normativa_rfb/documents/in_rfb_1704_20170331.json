@@ -32,7 +32,7 @@
   "dataPublicacao": "2017-04-03",
   "dataVigenciaInicio": "2017-04-03",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -3152,7 +3152,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 1,
       "ordemSegmentoAto": 156,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -3172,7 +3172,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 157,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3180,7 +3180,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 26. Será excluído do RERCT o contribuinte que apresentar declarações ou documentos falsos:",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926724,
+          "idAnotacao": 240165,
+          "href": "95102",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3192,7 +3208,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 158,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -3212,7 +3228,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 159,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3220,7 +3236,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "I - relativos à titularidade e à condição jurídica dos recursos, bens ou direitos objeto de regularização;",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926725,
+          "idAnotacao": 240166,
+          "href": "95102",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3232,7 +3264,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 160,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -3252,7 +3284,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 161,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3260,7 +3292,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "II - relativos ao § 3º do art. 7º; ou",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926726,
+          "idAnotacao": 240167,
+          "href": "95102",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3272,7 +3320,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 162,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3280,7 +3328,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "III - relativos aos incisos V, VI e VII do caput do art. 7º.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926727,
+          "idAnotacao": 240168,
+          "href": "95102",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3372,7 +3436,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 1,
       "ordemSegmentoAto": 167,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -3392,7 +3456,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 999,
       "ordemSegmentoAto": 169,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -3400,7 +3464,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 27. O não atendimento de quaisquer condições estabelecidas no art. 5º implicará nulidade da adesão ao RERCT e a consequente inaplicabilidade das disposições da Lei nº 13.254, de 2016, aos recursos, bens ou direitos declarados.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926729,
+          "idAnotacao": 240169,
+          "href": "95102",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3418,9 +3498,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "Parágrafo único. O despacho decisório de nulidade será lavrado pelo Auditor-Fiscal da Receita Federal do Brasil competente para o feito.",
+      "textoIntegra": "Parágrafo único.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 95102,
+          "idSegmento": 1926729,
+          "idAnotacao": 240170,
+          "href": "95102",
+          "texto": "[Suprimido(a) - vide Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]",
+          "dataInicioVigencia": "24/09/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": false
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3458,9 +3554,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "Parágrafo único. O recurso de que trata o caput será decidido em última instância pelo Superintendente da Receita Federal do Brasil com jurisdição sobre o domicílio tributário do sujeito passivo.",
+      "textoIntegra": "Parágrafo único.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 99223,
+          "idSegmento": 1970797,
+          "idAnotacao": 242430,
+          "href": "99223",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 1875, de 14 de março de 2019]",
+          "dataInicioVigencia": "15/03/2019",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3558,9 +3670,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "Parágrafo único. O recurso de que trata o caput será decidido em última instância pelo Superintendente da Receita Federal do Brasil com jurisdição sobre o domicílio tributário do sujeito passivo.",
+      "textoIntegra": "Parágrafo único.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 99223,
+          "idSegmento": 1970798,
+          "idAnotacao": 242431,
+          "href": "99223",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 1875, de 14 de março de 2019]",
+          "dataInicioVigencia": "15/03/2019",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -3860,7 +3988,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": false
     },
     {
@@ -3875,7 +4003,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     }
   ],
@@ -4110,6 +4238,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/81745/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/81745/visao/vigente",
+  "_fetched_at": "2026-07-29T19:19:26.969596+00:00"
 }

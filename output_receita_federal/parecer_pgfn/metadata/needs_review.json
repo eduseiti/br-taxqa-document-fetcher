@@ -10,6 +10,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "No idAto returned by search",
@@ -17,7 +18,12 @@
     "review_reason": "not_found",
     "source_filenames": [
       "Parecer PGFN nº 1.888 2008.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "parecer_pgfn",
@@ -30,6 +36,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "No idAto returned by search",
@@ -37,7 +44,12 @@
     "review_reason": "not_found",
     "source_filenames": [
       "Parecer PGFN nº 2118 2011.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "parecer_pgfn",
@@ -50,6 +62,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "No idAto returned by search",
@@ -57,7 +70,12 @@
     "review_reason": "not_found",
     "source_filenames": [
       "Parecer PGFN nº 2683 2008.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "parecer_pgfn",
@@ -70,6 +88,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "No idAto returned by search",
@@ -77,6 +96,11 @@
     "review_reason": "not_found",
     "source_filenames": [
       "Parecer PGFN nº 701 2016.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   }
 ]

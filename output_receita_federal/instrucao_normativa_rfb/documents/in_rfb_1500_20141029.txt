@@ -6,7 +6,8 @@ O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe con
 
 Art. 1º Esta Instrução Normativa estabelece normas gerais de tributação relativas ao Imposto sobre a Renda das Pessoas Físicas (IRPF).
 
-CAPÍTULO I DOS CONTRIBUINTES
+CAPÍTULO I
+DOS CONTRIBUINTES
 
 Art. 2º São contribuintes do imposto sobre a renda as pessoas físicas residentes no Brasil titulares de disponibilidade econômica ou jurídica de renda, assim entendido o produto do capital, do trabalho ou da combinação de ambos, e de proventos de qualquer natureza.
 
@@ -16,7 +17,8 @@ I - que perceberem rendimentos de bens de que tenham a posse como se lhes perten
 
 II - não residentes no Brasil que recebam rendimentos de fontes situadas no Brasil.
 
-CAPÍTULO II DOS RENDIMENTOS TRIBUTÁVEIS
+CAPÍTULO II
+DOS RENDIMENTOS TRIBUTÁVEIS
 
 Art. 3º Constituem rendimentos tributáveis todo o produto do capital, do trabalho ou da combinação de ambos, os alimentos e pensões percebidos em dinheiro e, ainda, os proventos de qualquer natureza, assim também entendidos os acréscimos patrimoniais não correspondentes aos rendimentos declarados.
 
@@ -34,9 +36,11 @@ II - na propriedade em comunhão decorrente de sociedade conjugal, inclusive no 
 
 Parágrafo único. No caso a que se refere o inciso II do caput, os rendimentos são, opcionalmente, tributados pelo total, em nome de um dos cônjuges, sem prejuízo do disposto no § 7º do art. 80.
 
-CAPÍTULO III DOS RENDIMENTOS ISENTOS OU NÃO TRIBUTÁVEIS
+CAPÍTULO III
+DOS RENDIMENTOS ISENTOS OU NÃO TRIBUTÁVEIS
 
-Seção I Dos Rendimentos Originários do Trabalho e Assemelhados
+Seção I
+Dos Rendimentos Originários do Trabalho e Assemelhados
 
 Art. 5º São isentos ou não se sujeitam ao imposto sobre a renda, os seguintes rendimentos originários do trabalho e assemelhados:
 
@@ -64,7 +68,7 @@ XI - contribuições pagas pelos empregadores relativas a programas de previdên
 
 XII - contribuições pagas pelos empregadores relativas ao Fundo de Aposentadoria Programada Individual (Fapi), destinadas a seus empregados e administradores, a que se refere a Lei nº 9.477, de 24 de julho de 1997;
 
-XIII - incentivo pago em pecúnia ao servidor licenciado, nos termos do art. 18 da Medida Provisória nº 2.174-28, de 24 de agosto de 2001, observado o disposto no art. 26 e no inciso II do art. 27 da Medida Provisória nº 632, de 24 de dezembro de 2013;
+XIII - incentivo pago em pecúnia ao servidor licenciado, nos termos do art. 18 da Medida Provisória nº 2.174-28, de 24 de agosto de 2001, observado o disposto no art. 25 e no inciso II do art. 44 da Lei nº 12.998, de 18 de junho de 2014;
 
 XIV - montante dos depósitos, juros, correção monetária e quotas-partes creditados em contas individuais pelo Programa de Integração Social (PIS) e pelo Programa de Formação do Patrimônio do Servidor Público (PASEP);
 
@@ -78,21 +82,32 @@ XVIII - até 40% (quarenta por cento) dos rendimentos de transporte de passageir
 
 XIX - até 90% (noventa por cento) do rendimento bruto auferido pelos garimpeiros na venda a empresas legalmente habilitadas de metais preciosos, pedras preciosas e semipreciosas por eles extraídos.
 
-Seção II Dos Rendimentos Pagos por Previdências
+Seção II
+Dos Rendimentos Pagos por Previdências
 
 Art. 6º São isentos ou não se sujeitam ao imposto sobre a renda, os seguintes rendimentos originários pagos por previdências:
 
-I - os provenientes de aposentadoria e pensão, de transferência para a reserva remunerada ou de reforma pagos pela Previdência Social da União, dos estados, do Distrito Federal e dos municípios, por qualquer pessoa jurídica de direito público interno ou por entidade de previdência complementar, a partir do mês em que o contribuinte completar 65 (sessenta e cinco) anos de idade, até o valor mensal constante das tabelas do Anexo I a esta Instrução Normativa, observado o disposto nos §§ 1º a 3º, aplicando-se as tabelas progressivas do Anexo II a esta Instrução Normativa sobre o valor excedente;
+I - os provenientes de aposentadoria e pensão, de transferência para a reserva remunerada ou de reforma pagos pela Previdência Social da União, dos estados, do Distrito Federal e dos municípios, por qualquer pessoa jurídica de direito público interno ou por entidade de previdência complementar, a partir do mês em que o contribuinte completar sessenta e cinco anos de idade, até o valor mensal previsto na tabela constante do Anexo I, observado o disposto nos §§ 1º a 3º, aplicando-se, sobre o valor excedente, as tabelas progressivas constantes do Anexo II, observada a tabela de redução constante do Anexo X;
 
-II - proventos de aposentadoria ou reforma motivada por acidente em serviço e os percebidos pelos portadores de moléstia profissional, tuberculose ativa, alienação mental, esclerose múltipla, neoplasia maligna, cegueira, hanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia grave, estados avançados de doença de Paget (osteíte deformante), contaminação por radiação, síndrome de imunodeficiência adquirida (Aids), e fibrose cística (mucoviscidose), comprovada mediante laudo pericial emitido por serviço médico oficial, da União, dos estados, do Distrito Federal e dos municípios, devendo ser fixado o prazo de validade do laudo pericial no caso de moléstias passíveis de controle, mesmo que a doença tenha sido contraída depois da aposentadoria ou reforma, observado o disposto no § 4º;
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
-III - valores recebidos a título de pensão, quando o beneficiário desse rendimento for portador de doença relacionada no inciso II do caput, exceto a decorrente de moléstia profissional, comprovada mediante laudo pericial emitido por serviço médico oficial, da União, dos estados, do Distrito Federal e dos municípios, devendo ser fixado o prazo de validade do laudo pericial no caso de moléstias passíveis de controle, mesmo que a doença tenha sido contraída depois da concessão da pensão, observado o disposto no § 4º;
+II – proventos de aposentadoria ou reforma motivada por acidente em serviço e os percebidos por pessoas físicas com moléstia profissional, tuberculose ativa, alienação mental, esclerose múltipla, neoplasia maligna, cegueira, hanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia grave, estados avançados de doença de Paget (osteíte deformante), contaminação por radiação, síndrome de imunodeficiência adquirida (Aids), e fibrose cística (mucoviscidose), comprovada mediante laudo pericial emitido por serviço médico oficial, da União, dos estados, do Distrito Federal e dos municípios, devendo ser fixado o prazo de validade do laudo pericial no caso de moléstias passíveis de controle, mesmo que a doença tenha sido contraída depois da aposentadoria ou reforma, observado o disposto no § 4º;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+III - valores recebidos a título de pensão, quando o beneficiário desse rendimento estiver acometido de doença relacionada no inciso II do caput, exceto a decorrente de moléstia profissional, comprovada mediante laudo pericial emitido por serviço médico oficial, da União, dos estados, do Distrito Federal e dos municípios, devendo ser fixado o prazo de validade do laudo pericial no caso de moléstias passíveis de controle, mesmo que a doença tenha sido contraída depois da concessão da pensão, observado o disposto no § 4º;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 IV - pensões e proventos recebidos em decorrência de reforma ou falecimento de ex-combatente da Força Expedicionária Brasileira (FEB), de acordo com o Decreto-Lei nº 8.794, de 23 de janeiro de 1946, o Decreto-Lei nº 8.795, de 23 de janeiro de 1946, a Lei nº 2.579, de 23 de agosto de 1955, o art. 30 da Lei nº 4.242, de 17 de julho de 1963, observado o disposto nos arts. 17 e 25 da Lei nº 8.059, de 4 de julho de 1990;
 
-V - importâncias recebidas por deficiente mental a título de pensão, pecúlio, montepio e auxílio, quando decorrentes de prestações do regime de previdência social ou de entidades de previdência complementar, observado o disposto no § 5º;
+V - importâncias recebidas por deficiente mental a título de pensão, pecúlio, montepio e auxílio, quando decorrentes de prestações do regime de previdência social ou de entidades de previdência complementar, observado o disposto no § 6º;
 
-VI - pensão especial recebida em decorrência da deficiência física conhecida como “Síndrome da Talidomida”, quando paga a seu portador;
+[Redação dada pelo(a) Instrução Normativa RFB nº 1869, de 25 de janeiro de 2019]
+
+VI - pensão especial recebida por pessoa física com deficiência física conhecida como “Síndrome da Talidomida”, quando dela decorrente;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 VII - pecúlio recebido pelos aposentados que tenham voltado a trabalhar até 15 de abril de 1994, em atividade sujeita ao regime previdenciário, pago pelo Instituto Nacional do Seguro Social (INSS) ao segurado ou a seus dependentes, após a sua morte, nos termos do art. 1º da Lei nº 6.243, de 24 de setembro de 1975;
 
@@ -102,9 +117,17 @@ IX - valor de resgate de contribuições de previdência complementar, cujo ônu
 
 X - valores dos resgates na carteira dos Fapi, para mudança das aplicações entre Fundos instituídos pela Lei nº 9.477, de 1997, ou para a aquisição de renda junto às instituições privadas de previdência e seguradoras que operam com esse produto;
 
-XI - rendimentos percebidos pelas pessoas físicas decorrentes de seguro-desemprego, auxílio-natalidade, auxílio-doença, auxílio-funeral e auxílio-acidente, pagos pela previdência oficial da União, dos estados, do Distrito Federal e dos municípios e pelas entidades de previdência complementar;
+XI - rendimentos percebidos pelas pessoas físicas decorrentes de seguro-desemprego, auxílio-natalidade, auxílio-doença, auxílio-funeral e auxílio-acidente, pagos pela previdência oficial da União, dos estados, do Distrito Federal e dos municípios e pelas entidades de previdência complementar, observado o disposto no § 7º;
 
-XII - pecúlio recebido em prestação única de entidades de previdência complementar, quando em decorrência de morte ou invalidez permanente do participante.
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+XII - pecúlio recebido em prestação única de entidades de previdência complementar, quando em decorrência de morte ou invalidez permanente do participante; e
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+XIII - a pensão especial, mensal e vitalícia, paga a pessoa com deficiência permanente decorrente de síndrome congênita associada à infecção pelo vírus Zika, de valor equivalente ao maior salário de benefício do Regime Geral de Previdência Social - RGPS de que trata o art. 2º da Lei nº 15.156, de 1º de julho de 2025.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 § 1º No caso a que se refere o inciso I do caput, quando o contribuinte auferir rendimentos provenientes de uma ou mais aposentadorias, pensões, transferência para a reserva remunerada ou reforma, a parcela isenta deve ser considerada em relação à soma dos rendimentos, observados os limites mensais.
 
@@ -112,7 +135,9 @@ XII - pecúlio recebido em prestação única de entidades de previdência compl
 
 § 3º A isenção de que trata o inciso I do caput, desde que observadas as demais disposições legais e normativas pertinentes à matéria, aplica-se aos rendimentos da espécie pagos por instituição equivalente a pessoa jurídica de direito público ou entidade de previdência complementar domiciliada em país que tenha com o Brasil Tratado ou Convenção internacional, o qual possua cláusula que estabeleça não discriminação no tratamento tributário entre nacionais de cada Estado Contratante que se encontrem em uma mesma situação, observados os limites e condições nele previstos.
 
-§ 4º As isenções a que se referem os incisos II e III do caput, desde que reconhecidas por laudo pericial emitido por serviço médico oficial da União, dos estados, do Distrito Federal ou dos municípios, aplicam-se:
+§ 4º As isenções a que se referem os incisos II e III do caput, desde que reconhecidas por laudo pericial emitido por serviço médico oficial da União, dos estados, do Distrito Federal ou dos municípios, observado o disposto no § 7º do art. 62, aplicam-se:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1869, de 25 de janeiro de 2019]
 
 I - aos rendimentos recebidos a partir:
 
@@ -122,19 +147,29 @@ b) do mês da emissão do laudo pericial, se a moléstia for contraída depois d
 
 c) da data, identificada no laudo pericial, em que a moléstia foi contraída, desde que correspondam a proventos de aposentadoria, reforma ou pensão;
 
-II - aos rendimentos recebidos acumuladamente por portador de moléstia grave, desde que correspondam a proventos de aposentadoria, reforma ou pensão, ainda que se refiram a período anterior à data em que foi contraída a moléstia grave;
+II - aos rendimentos recebidos acumuladamente por pessoa física com moléstia grave, desde que correspondam a proventos de aposentadoria, reforma ou pensão, ainda que se refiram a período anterior à data em que foi contraída a moléstia grave; e
 
-III - à complementação de aposentadoria, reforma ou pensão recebida por portador de moléstia grave.
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+III - à complementação de aposentadoria, reforma ou pensão recebida por pessoa física com moléstia grave.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 § 5º O laudo pericial a que se refere o § 4º deve conter, no mínimo, as seguintes informações:
 
 I - o órgão emissor;
 
-II - a qualificação do portador da moléstia;
+II - a qualificação da pessoa física com moléstia grave;
 
-III - o diagnóstico da moléstia (descrição; CID-10; elementos que o fundamentaram; a data em que a pessoa física é considerada portadora da moléstia grave, nos casos de constatação da existência da doença em período anterior à emissão do laudo);
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
-IV - caso a moléstia seja passível de controle, o prazo de validade do laudo pericial ao fim do qual o portador de moléstia grave provavelmente esteja assintomático; e
+III - o diagnóstico da moléstia (descrição; CID-10; elementos que o fundamentaram; a data em que a pessoa física é considerada com moléstia grave, nos casos de constatação da existência da doença em período anterior à emissão do laudo);
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+IV - caso a moléstia seja passível de controle, o prazo de validade do laudo pericial ao fim do qual a pessoa física com moléstia grave provavelmente esteja assintomática; e
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 V - o nome completo, a assinatura, o nº de inscrição no Conselho Regional de Medicina (CRM), o nº de registro no órgão público e a qualificação do(s) profissional(is) do serviço médico oficial responsável(is) pela emissão do laudo pericial.
 
@@ -144,9 +179,16 @@ I - considera-se deficiente mental a pessoa que, independentemente da idade, apr
 
 II - a isenção não se comunica aos rendimentos de deficientes mentais originários de outras fontes de receita, ainda que sob a mesma denominação dos benefícios referidos no inciso I.
 
-Seção III Dos Rendimentos Decorrentes de Indenizações e Assemelhados
+§ 7º Para fins do disposto no inciso XI do caput, o rendimento decorrente de auxílio-doença, de natureza previdenciária, não se confunde com o decorrente de licença para tratamento de saúde, de natureza salarial, sobre o qual incide o IRPF.
 
-Art. 7º São isentos ou não se sujeitam ao imposto sobre a renda, os seguintes rendimentos originários pagos por previdências:
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+Seção III
+Dos Rendimentos Decorrentes de Indenizações e Assemelhados
+
+Art. 7º São isentos ou não se sujeitam ao imposto sobre a renda, os seguintes rendimentos decorrentes de indenizações e assemelhados:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
 
 I - indenização por acidente de trabalho;
 
@@ -164,15 +206,26 @@ VII - reparação econômica, de caráter indenizatório, em prestação única 
 
 VIII - indenização reparatória por danos físicos, invalidez ou morte, ou por bem material danificado ou destruído, em decorrência de acidente, até o limite fixado em condenação judicial, exceto no caso de pagamento de prestações continuadas;
 
-IX - valores recebidos em decorrência da deficiência física conhecida como “Síndrome da Talidomida”, quando pagos ao seu portador;
+IX - valores recebidos por pessoa física com deficiência física conhecida como "Síndrome da Talidomida", quando dela decorrente;
 
-X - indenização por dano moral concedida às pessoas com deficiência física decorrente do uso da talidomida, que consiste no pagamento de valor único igual a R$ 50.000,00 (cinquenta mil reais), multiplicado pelo número dos pontos indicadores da natureza e do grau da dependência resultante da deformidade física, conforme § 1º do art. 1º da Lei nº 7.070, de 1982.
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
-Seção IV Dos Rendimentos de Participações Societárias
+X - indenização por dano moral concedida às pessoas com deficiência física decorrente do uso da talidomida, que consiste no pagamento de valor único igual a R$ 50.000,00 (cinquenta mil reais), multiplicado pelo número dos pontos indicadores da natureza e do grau da dependência resultante da deformidade física, conforme o disposto no art. 1º, § 1º, da Lei nº 7.070, de 20 de dezembro de 1982; e
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+XI - indenização por dano moral concedida à pessoa com deficiência permanente decorrente de síndrome congênita associada à infecção pelo vírus Zika, que consiste em pagamento de parcela única no valor de R$ 50.000,00 (cinquenta mil reais), atualizado de 2 de julho de 2025 até a data do pagamento pela variação do Índice Nacional de Preços ao Consumidor - INPC, calculado pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE, nos termos do art. 1º da Lei nº 15.156, de 1º de julho de 2025.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Seção IV
+Dos Rendimentos de Participações Societárias
 
 Art. 8º São isentos ou não se sujeitam ao imposto sobre a renda, os seguintes rendimentos de participações societárias:
 
-I - lucros ou dividendos calculados com base nos resultados apurados em 1993 e os apurados a partir do mês de janeiro de 1996, pagos ou creditados pelas pessoas jurídicas tributadas com base no lucro real, presumido ou arbitrado;
+I - lucros ou dividendos calculados com base nos resultados apurados em 1993 e os apurados a partir do mês de janeiro de 1996, pagos ou creditados pelas pessoas jurídicas, observado o disposto nos arts. 6º-A e 16-A da Lei nº 9.250, de 26 de dezembro de 1995;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 II - valores efetivamente pagos ou distribuídos ao titular ou sócio da microempresa ou empresa de pequeno porte optante pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional), salvo os que corresponderem a pró-labore, aluguéis ou serviços prestados;
 
@@ -196,7 +249,8 @@ I - o lucro a ser incorporado ao capital deverá ser apurado em balanço transcr
 
 II - devem ser observados os requisitos dispostos no art. 3º da Lei nº 8.849, de 28 de janeiro de 1994.
 
-Seção V Dos Rendimentos Obtidos no Mercado Financeiro e Assemelhados
+Seção V
+Dos Rendimentos Obtidos no Mercado Financeiro e Assemelhados
 
 Art. 9º São isentos ou não se sujeitam ao imposto sobre a renda, os seguintes rendimentos obtidos no mercado financeiro e assemelhados:
 
@@ -216,7 +270,9 @@ VII - remuneração produzida pela Cédula de Produto Rural (CPR), com liquidaç
 
 VIII - dividendo anual mínimo decorrente de quotas do Fundo Nacional de Desenvolvimento (FND);
 
-IX - acréscimo patrimonial decorrente da variação cambial de depósitos mantidos em instituições financeiras no exterior, pelo valor do saldo desses depósitos em moeda estrangeira convertido em reais pela cotação cambial de compra em 31 de dezembro do ano-calendário.
+IX -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 § 1º A isenção de que trata o inciso IV do caput:
 
@@ -226,7 +282,8 @@ II - não será concedida ao quotista pessoa física titular de quotas que repre
 
 § 2º No caso de cônjuges ou companheiros que operem em bolsa de valores, o limite previsto no inciso V do caput poderá ser utilizado por ambos, os quais, no decorrer do ano-calendário, devem apurar e tributar separadamente os ganhos líquidos auferidos por cônjuge, não sendo permitida apuração e tributação mensal em conjunto.
 
-Seção VI Dos Rendimentos Obtidos na Alienação de Bens e Direitos
+Seção VI
+Dos Rendimentos Obtidos na Alienação de Bens e Direitos
 
 Art. 10. São isentos ou não se sujeitam ao imposto sobre a renda, os seguintes rendimentos obtidos na alienação de bens e direitos:
 
@@ -236,19 +293,33 @@ a) R$ 20.000,00 (vinte mil reais), no caso de alienação de ações negociadas 
 
 b) R$ 35.000,00 (trinta e cinco mil reais), nos demais casos;
 
-II - ganho de capital auferido na alienação do único imóvel que o titular possua, cujo valor de alienação seja de até R$ 440.000,00 (quatrocentos e quarenta mil reais), desde que não tenha sido realizada qualquer outra alienação nos últimos 5 (cinco) anos, observado o disposto no inciso I do § 1º;
+II - ganho de capital auferido na alienação do único imóvel que o titular possua, cujo valor de alienação seja de até R$ 440.000,00 (quatrocentos e quarenta mil reais), desde que não tenha sido realizada qualquer outra alienação nos últimos 5 (cinco) anos, observado o disposto no inciso I do § 1º e nos §§ 3º e 6º;
 
-III - ganho de capital auferido por pessoa física residente no País na venda de imóveis residenciais, desde que o alienante, no prazo de 180 (cento e oitenta) dias contado da celebração do contrato, aplique o produto da venda na aquisição de imóveis residenciais localizados no País, observado o disposto no § 3º;
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+III - ganho de capital auferido por pessoa física residente no País na venda de imóveis residenciais, desde que o alienante, no prazo de 180 (cento e oitenta) dias contado da celebração do contrato, aplique o produto da venda na aquisição de imóveis residenciais localizados no País, observado o disposto no § 4º;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 IV - valor correspondente ao percentual anual fixo de redução do ganho de capital na alienação de bem imóvel adquirido até 31 de dezembro de 1988;
 
 V - valor correspondente à redução do ganho de capital na alienação, a qualquer título, de bens imóveis realizada por pessoa física residente no País, resultante da aplicação dos fatores de redução (FR1 e FR2) de que trata a Instrução Normativa SRF nº 599, de 28 de dezembro de 2005;
 
-VI - ganho de capital auferido na alienação de bens localizados no exterior ou representativos de direitos no exterior, e na liquidação ou resgate de aplicações financeiras, adquiridos, a qualquer título, pela pessoa física, na condição de não residente;
+VI -
 
-VII - variação cambial decorrente das alienações de bens e direitos adquiridos e aplicações financeiras realizadas com rendimentos auferidos originariamente em moeda estrangeira;
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
-VIII - ganho de capital auferido na alienação de moeda estrangeira mantida em espécie, cujo total de alienações, no ano-calendário, seja igual ou inferior ao equivalente a US$ 5.000,00 (cinco mil dólares dos Estados Unidos da América).
+VII -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+VIII - variação cambial de moeda estrangeira em espécie até o limite de alienação de moeda no ano-calendário equivalente a US$ 5.000,00 (cinco mil dólares dos Estados Unidos da América); e
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+IX - variação cambial de depósitos de moeda estrangeira em conta corrente ou em cartão de débito ou crédito no exterior, desde que esses depósitos não sejam remunerados e sejam mantidos em instituição financeira no exterior reconhecida e autorizada a funcionar pela autoridade monetária do país em que estiver situada, nos termos do art. 3º da Instrução Normativa RFB nº 2.180, de 11 de março de 2024.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 § 1º O limite a que se refere o inciso I do caput será considerado em relação:
 
@@ -266,9 +337,28 @@ I - à parte de cada condômino, no caso de bens em condomínio; e
 
 II - ao imóvel havido em comunhão, no caso de sociedade conjugal.
 
-§ 4º Para efeitos da apuração do limite de que trata o inciso VIII do caput, a conversão para dólares dos Estados Unidos da América será feita na data de cada alienação.
+§ 4º A inobservância das condições previstas no inciso III do caput implicará exigência do imposto com base no ganho de capital acrescido de:
 
-Seção VII Dos Demais Rendimentos
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+I - juros de mora, calculados a partir do 2º (segundo) mês subsequente ao do recebimento do valor ou de parcela de valor do imóvel vendido; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+II - multa, de mora ou de ofício, calculada a partir do 2º (segundo) mês seguinte ao do recebimento do valor ou de parcela do valor do imóvel vendido, se o imposto não for pago no prazo de até 210 (duzentos e dez) dias, contado da data da celebração do contrato.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+§ 5º Para efeitos da apuração do limite de que trata o inciso VIII do caput, a conversão para dólares dos Estados Unidos da América será feita na data de cada alienação.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+§ 6º Para fins do disposto no inciso II do caput, na hipótese de o bem ter sido adquirido por cônjuges casados obrigatoriamente sob o regime de separação de bens, esses requisitos devem ser verificados individualmente, por cônjuge, observada a parcela do preço que lhe couber.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+Seção VII
+Dos Demais Rendimentos
 
 Art. 11. São isentos ou não se sujeitam ao imposto sobre a renda, os seguintes rendimentos:
 
@@ -288,9 +378,13 @@ VII - diferença a maior entre o valor de mercado de bens e direitos recebidos e
 
 VIII - valores pagos em espécie pelos estados, Distrito Federal e municípios, relativos ao Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) e ao Imposto sobre Serviços de Qualquer Natureza (ISS), no âmbito de programas de concessão de crédito voltados ao estímulo à solicitação de documento fiscal na aquisição de mercadorias e serviços;
 
-IX - prêmio em dinheiro obtido em loterias até o limite do valor da 1ª (primeira) faixa da tabela de incidência mensal do IRPF;
+IX - prêmio em dinheiro obtido em loterias até o limite do valor da primeira faixa da tabela de incidência mensal do IRPF;
 
-X - os valores pagos, creditados, entregues, empregados ou remetidos para pessoa física ou jurídica residente ou domiciliada no exterior, destinados à cobertura de gastos pessoais, no exterior, de pessoas físicas residentes no País, em viagens de turismo, negócios, serviço, treinamento ou missões oficiais, observado o disposto na Instrução Normativa RFB nº 1.214, de 12 de dezembro de 2011;
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+X - as remessas destinadas ao exterior para fins educacionais, científicos ou culturais, inclusive para pagamento de taxas escolares, de taxas de inscrição em congressos, conclaves, seminários ou assemelhados e de taxas de exame de proficiência, bem como as remessas efetuadas por pessoas físicas residentes no País para cobertura de despesas médico-hospitalares com tratamento de saúde, no exterior, do remetente ou de seus dependentes;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 XI - o valor recebido a título de vale-cultura;
 
@@ -298,13 +392,33 @@ XII - os valores percebidos a título de bolsa, no âmbito do Programa Mais Méd
 
 XIII - os valores percebidos a título de bolsa, no âmbito do Programa de Bolsas para a Educação pelo Trabalho, previstos na Lei nº 11.129, de 30 de junho de 2005;
 
-XIV – os rendimentos recebidos pelos condomínios residenciais constituídos nos termos da Lei nº 4.591, de 16 de dezembro de 1964, limitado a R$ 24.000,00 (vinte e quatro mil reais) por ano-calendário, e desde que sejam revertidos em benefício do condomínio para cobertura de despesas de custeio e de despesas extraordinárias, estejam previstos e autorizados na convenção condominial, não sejam distribuídos aos condôminos e decorram:
+XIV - os rendimentos recebidos pelos condomínios residenciais constituídos nos termos da Lei nº 4.591, de 16 de dezembro de 1964, limitado a R$ 24.000,00 (vinte e quatro mil reais) por ano-calendário, e desde que sejam revertidos em benefício do condomínio para cobertura de despesas de custeio e de despesas extraordinárias, estejam previstos e autorizados na convenção condominial, não sejam distribuídos aos condôminos e decorram:
 
-I – de uso, aluguel ou locação de partes comuns do condomínio;
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
-II – de multas e penalidades aplicadas em decorrência de inobservância das regras previstas na convenção condominial; ou
+a) de uso, aluguel ou locação de partes comuns do condomínio;
 
-III – de alienação de ativos detidos pelo condomínio.
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+b) de multas e penalidades aplicadas em decorrência de inobservância das regras previstas na convenção condominial; ou
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+c) de alienação de ativos detidos pelo condomínio.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+XV - os juros de mora devidos pelo atraso no pagamento de remuneração por exercício de emprego cargo ou função;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+XVI - o rendimento recebido a título de pensão alimentícia em face das normas de Direito de Família, decorrente de decisão judicial, inclusive a prestação de alimentos provisionais, de acordo homologado judicialmente ou de escritura pública a que se refere o art. 733 da Lei nº 13.105, de 16 de março de 2015 - Código de Processo Civil; e
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+XVII - valor recebido a título de pagamento por serviços ambientais, definido no art. 2º, caput, inciso IV, da Lei nº 14.119, de 13 de janeiro de 2021, para contrato firmado pelo poder público ou por particulares, desde que, em relação a este último, seja registrado no Cadastro Nacional de Pagamento por Serviços Ambientais - CNPSA, sujeitando-se o contribuinte às ações fiscalizatórias cabíveis.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 § 1º Para fins do disposto no inciso I do caput, não caracterizam contraprestação de serviços nem vantagem para o doador as bolsas de estudo recebidas pelos médicos-residentes, bem como as bolsas recebidas pelos servidores das redes públicas de educação profissional, científica e tecnológica que participem das atividades do Programa Nacional de Acesso ao Ensino Técnico e ao Emprego (Pronatec), nos termos do § 1º do art. 9º da Lei nº 12.513, de 26 de outubro de 2011.
 
@@ -314,13 +428,20 @@ III – de alienação de ativos detidos pelo condomínio.
 
 § 4º Aplica-se a isenção de que trata o inciso X do caput aos fatos geradores que ocorrerem entre 1º de janeiro de 2011 e 31 de dezembro de 2015.
 
-CAPÍTULO IV DOS RENDIMENTOS TRIBUTADOS EXCLUSIVAMENTE NA FONTE
+§ 5º A bolsa de estímulo à inovação concedida nos termos do art. 9º da Lei nº 10.973, de 2 de dezembro de 2004, caracteriza-se como doação, não configura vínculo empregatício, não caracteriza contraprestação de serviços nem vantagem para o doador.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+CAPÍTULO IV
+DOS RENDIMENTOS TRIBUTADOS EXCLUSIVAMENTE NA FONTE
 
 Art. 12. Consideram-se rendimentos tributados exclusivamente na fonte os não sujeitos a antecipação para fins de ajuste anual, cuja retenção e recolhimento tenham sido efetuados pela fonte pagadora.
 
-Seção I Da Gratificação Natalina (13º salário)
+Seção I
+Da Gratificação Natalina (13º salário)
 
-Subseção I Da Regra Geral
+Subseção I
+Da Regra Geral
 
 Art. 13. O rendimento pago a título de Gratificação Natalina, para efeitos de apuração do IRRF, tem o seguinte tratamento:
 
@@ -330,7 +451,13 @@ II - a tributação ocorre exclusivamente na fonte e separadamente dos demais re
 
 III - não há retenção na fonte pelo pagamento de sua antecipação;
 
-IV - na apuração de sua base de cálculo deve ser considerado o valor total desse rendimento, inclusive antecipações, sendo permitidas as deduções previstas no art. 56, desde que a ele correspondente.
+IV - na apuração de sua base de cálculo deve ser considerado o valor total desse rendimento, inclusive antecipações, sendo permitidas as deduções previstas no art. 52, desde que a ele correspondente; e
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+V - deve ser observado o disposto no art. 65-A.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 § 1º Considera-se mês de quitação o mês de dezembro, o da rescisão do contrato de trabalho, ou o do pagamento acumulado a título de Gratificação Natalina.
 
@@ -350,7 +477,12 @@ II - pode ser excluída a parcela isenta dos rendimentos provenientes de aposent
 
 § 7º Na hipótese de Gratificação Natalina paga mediante precatório ou requisição de pequeno valor, em cumprimento de decisão da Justiça Federal, nos termos do art. 27 da Lei nº 10.833, de 29 de dezembro de 2003, aplica-se o disposto no art. 25.
 
-Subseção II Do Maior de 65 anos
+§ 8º Alternativamente às deduções a que se refere o inciso IV do caput, a fonte pagadora utilizará desconto simplificado mensal, correspondente a 25% (vinte e cinco por cento) do valor máximo da faixa com alíquota de 0% (zero por cento) da tabela progressiva mensal, caso seja mais benéfico ao contribuinte, dispensadas a comprovação da despesa e a indicação de sua espécie.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+Subseção II
+Do Maior de 65 anos
 
 Art. 14. Na hipótese de recebimento, por beneficiário maior de 65 (sessenta e cinco) anos, de rendimentos de aposentadoria, pensão, transferência para a reserva remunerada ou reforma, de mais de uma fonte pagadora, deverá ser observado relativamente à Gratificação Natalina paga por fonte, o seguinte:
 
@@ -358,15 +490,18 @@ I - pode ser excluída a parcela isenta a que se refere o inciso II do § 6º do
 
 II - a parcela isenta da Gratificação Natalina paga por fonte deve ser informada como outros rendimentos isentos e não tributáveis na DAA.
 
-Subseção III Da Previdência Complementar
+Subseção III
+Da Previdência Complementar
 
 Art. 15. O abono anual pago pelas entidades fechadas de previdência complementar, quando ele tenha a característica de previdência complementar, segue regra idêntica àquela aplicável ao Regime Geral da Previdência Social no que se refere à incidência do imposto sobre a renda relativa ao rendimento da Gratificação Natalina.
 
-Subseção IV Do Governo Estrangeiro
+Subseção IV
+Do Governo Estrangeiro
 
 Art. 16. A Gratificação Natalina recebida de órgãos de governo estrangeiro no País por residente no Brasil é tributada em conjunto com os demais rendimentos recebidos no mês pelo beneficiário, sujeitos ao recolhimento mensal obrigatório (carnê-leão), no mês do recebimento e na DAA.
 
-Seção II Da Participação nos Lucros ou Resultados das Empresas
+Seção II
+Da Participação nos Lucros ou Resultados das Empresas
 
 Art. 17. São tributadas exclusivamente na fonte as importâncias recebidas pelos trabalhadores a título de Participação nos Lucros ou Resultados (PLR) das empresas.
 
@@ -384,9 +519,12 @@ Art. 17. São tributadas exclusivamente na fonte as importâncias recebidas pelo
 
 § 7º Aplica-se o disposto no § 6º, independentemente de o beneficiário ser considerado dependente para fins do disposto no art. 90.
 
-Seção III Do Transportador Autônomo Pessoa Física Residente na República do Paraguai
+Seção III
+Do Transportador Autônomo Pessoa Física Residente na República do Paraguai
 
-Art. 18. Os valores pagos, creditados, entregues, empregados ou remetidos por contratante pessoa jurídica domiciliada no País, autorizada a operar transporte rodoviário internacional de carga, a beneficiário transportador autônomo pessoa física residente na República do Paraguai, considerado como sociedade unipessoal naquele País, quando decorrentes da prestação de serviços de transporte rodoviário internacional de carga, estão sujeitos à incidência do IRRF, calculado mediante a utilização das tabelas de que trata o Anexo II a esta Instrução Normativa.
+Art. 18. Os valores pagos, creditados, entregues, empregados ou remetidos por contratante pessoa jurídica domiciliada no País, autorizada a prestar serviço de transporte rodoviário internacional de carga, a beneficiário transportador autônomo pessoa física residente na República do Paraguai, considerado como sociedade unipessoal naquele País, quando decorrentes da prestação de serviços de transporte rodoviário internacional de carga, estão sujeitos à incidência do IRRF, calculado mediante a utilização das tabelas progressivas constantes do Anexo II, observada a tabela de redução constante do Anexo X.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 § 1º O imposto incidirá sobre 10% (dez por cento) do rendimento bruto decorrente do transporte rodoviário internacional de carga.
 
@@ -394,7 +532,8 @@ Art. 18. Os valores pagos, creditados, entregues, empregados ou remetidos por co
 
 § 3º O imposto sobre a renda apurado nos termos desta Seção deve ser recolhido até o último dia útil do 1º (primeiro) decêndio do mês subsequente ao da ocorrência dos fatos geradores, mediante a utilização do código de receita 0610.
 
-Seção IV Dos Demais Rendimentos
+Seção IV
+Dos Demais Rendimentos
 
 Art. 19. São também tributados exclusivamente na fonte:
 
@@ -416,7 +555,9 @@ VIII - os lucros e dividendos recebidos de pessoa jurídica correspondentes ao p
 
 IX - os lucros e dividendos recebidos de pessoa jurídica correspondentes aos anos-calendário de 1994 e 1995, quando o beneficiário optar pela tributação exclusiva na fonte;
 
-X - as importâncias recebidas de pessoa jurídica a título de juros que não tenham tributação específica, bem como os juros pagos pelas cooperativas a seus associados como remuneração do capital social;
+X - as importâncias recebidas de pessoa jurídica a título de juros não tenham tributação específica;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1869, de 25 de janeiro de 2019]
 
 XI - prêmios distribuídos por meio de concursos e sorteios em geral, sob a forma de bens e serviços, e os pagos em dinheiro, exceto vale-brinde;
 
@@ -428,7 +569,9 @@ XIV - juros pagos ou creditados individualmente a titular, sócio ou acionista, 
 
 XV - rendimentos decorrentes dos pagamentos efetuados pelas pessoas jurídicas a beneficiário não identificado, inclusive recursos entregues a terceiros ou a sócios, acionistas ou titular, contabilizados ou não, quando não for comprovada a operação ou sua causa;
 
-XVI - rendimentos recebidos no Brasil por não residentes, exceto os ganhos a que se referem os incisos I, VI, VII e VIII do caput do art. 22;
+XVI - rendimentos recebidos no Brasil por não residentes, exceto os ganhos a que se referem os incisos I, VI, VII e VIII do caput do art. 21;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
 
 XVII - pagamentos efetuados pelas pessoas jurídicas a título de remuneração indireta a beneficiário não identificado;
 
@@ -440,9 +583,64 @@ XX - rendimentos líquidos pagos ou creditados decorrentes da aquisição de tí
 
 XXI - Rendimentos Recebidos Acumuladamente (RRA) de que trata a Subseção I da Seção I do Capítulo VII;
 
-XXII - valores pagos aos participantes ou assistidos de planos de benefícios de caráter previdenciário, estruturados nas modalidades de contribuição definida ou contribuição variável, das entidades de previdência complementar e das sociedades seguradoras, a título de benefícios ou resgates de valores acumulados que tenham optado pelo regime de tributação de que trata o art. 1º da Lei nº 11.053, de 29 de dezembro de 2004.
+XXII - valores pagos aos participantes ou assistidos de planos de benefícios de caráter previdenciário, estruturados nas modalidades de contribuição definida ou contribuição variável, das entidades de previdência complementar e das sociedades seguradoras, a título de benefícios ou resgates de valores acumulados que tenham optado pelo regime de tributação de que trata o art. 1º da Lei nº 11.053, de 29 de dezembro de 2004;
 
-CAPÍTULO V DOS RENDIMENTOS SUJEITOS À TRIBUTAÇÃO DEFINITIVA
+[Redação dada pelo(a) Instrução Normativa RFB nº 2191, de 6 de maio de 2024]
+
+XXIII - prêmios em dinheiro obtidos em loterias, inclusive as instantâneas, mesmo as de finalidade assistencial, ainda que exploradas diretamente pelo Estado; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2191, de 6 de maio de 2024]
+
+XXIV -
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2191, de 6 de maio de 2024]
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Parágrafo único. Os rendimentos pagos, creditados, entregues, empregados ou remetidos a residentes no exterior se submetem à incidência do IRRF de forma exclusiva:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+I - à alíquota de 25% (vinte e cinco por cento), se oriundos do trabalho, com ou sem vínculo empregatício, e os da prestação de serviços; e
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+II - com a aplicação das tabelas progressivas constantes do Anexo II, observada a tabela de redução constante do Anexo X, se oriundos de aposentadoria e de pensão (Parecer SEI 453/2025/MF e Parecer SEI 3465/2025/MF).
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+III -
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2191, de 6 de maio de 2024]
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+a)
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2191, de 6 de maio de 2024]
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+b)
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2191, de 6 de maio de 2024]
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+c)
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2191, de 6 de maio de 2024]
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+IV -
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2191, de 6 de maio de 2024]
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+CAPÍTULO V
+DOS RENDIMENTOS SUJEITOS À TRIBUTAÇÃO DEFINITIVA
 
 Art. 20. Consideram-se rendimentos sujeitos à tributação definitiva os não sujeitos a antecipação para fins de ajuste anual, cujo recolhimento tenha sido efetuado pelo próprio sujeito passivo.
 
@@ -450,9 +648,13 @@ Art. 21. Estão sujeitos à tributação definitiva:
 
 I - ganhos de capital auferidos na alienação de bens e direitos;
 
-II - ganhos de capital decorrentes da alienação de bens e direitos e da liquidação e resgate de aplicações financeiras, adquiridos em moeda estrangeira;
+II -
 
-III - ganhos de capital decorrentes da alienação de moeda estrangeira mantida em espécie;
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+III - ganhos de capital decorrentes da alienação de moeda estrangeira mantida em espécie, observado o disposto na Instrução Normativa RFB nº 2.180, de 11 de março de 2024;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 IV - ganhos de capital referentes à diferença a maior entre o valor da integralização e o constante da declaração de bens, na transferência de bens e direitos da pessoa física a pessoa jurídica a título de integralização de capital;
 
@@ -460,17 +662,95 @@ V - ganhos de capital apurados na transferência de propriedade de bens e direit
 
 VI - ganhos líquidos auferidos nas operações realizadas em bolsas de valores, de mercadorias, de futuros e assemelhadas;
 
-VII - ganhos líquidos auferidos na alienação de ouro, ativo financeiro; e
+VII - ganhos líquidos auferidos na alienação de ouro, ativo financeiro;
 
-VIII - ganhos líquidos auferidos em operações realizadas nos mercados de liquidação futura, fora de bolsa.
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
-Parágrafo único. Estão também sujeitos à tributação definitiva os ganhos de capital e os ganhos líquidos referidos nos incisos I, VI, VII e VIII do caput quando recebidos por pessoas não residentes no País.
+VIII - ganhos líquidos auferidos em operações realizadas nos mercados de liquidação futura, fora de bolsa; e
 
-CAPÍTULO VI DOS RENDIMENTOS TRIBUTADOS NA FONTE A TÍTULO DE ANTECIPAÇÃO
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
-Seção I Da Tributação por Antecipação
+IX - prêmios líquidos obtidos em apostas na loteria de apostas de quota fixa e no fantasy sport de que trata o art. 31 da Lei nº 14.790, de 29 de dezembro de 2023.
 
-Art. 22. Estão sujeitos à incidência do IRRF, calculado mediante a utilização das tabelas progressivas constantes do Anexo II a esta Instrução Normativa, observado o disposto no art. 65, a título de antecipação do devido na DAA, os rendimentos do trabalho assalariado pagos por pessoa física ou jurídica e os demais rendimentos pagos por pessoa jurídica a pessoa física, tais como:
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Parágrafo único. Estão também sujeitos à tributação definitiva os ganhos de capital e os ganhos líquidos referidos nos incisos I, VI, VII, VIII e IX do caput quando recebidos por pessoas não residentes no País.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Art. 21-A. Para fins da tributação dos prêmios líquidos a que se refere o art. 21, caput, inciso IX, o contribuinte deverá anualmente, em relação aos resultados auferidos no ano anterior:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+I - apurar, em relação a todos os agentes operadores, o resultado líquido das apostas, mediante a soma dos ganhos e a subtração das perdas, calculado de forma separada para cada uma das seguintes naturezas de aposta:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+a) eventos reais de temática esportiva;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+b) eventos virtuais de jogos on-line; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+c) fantasy sport;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+II - calcular o prêmio líquido, que será o resultado da soma dos resultados positivos apurados de forma separada para cada natureza prevista no inciso I;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+III - apurar, no mês de março o imposto incidente sobre o valor do prêmio líquido calculado nos termos do inciso II que exceder o valor da primeira faixa da tabela de incidência anual do IRPF, constante do Anexo VII a esta Instrução Normativa, mediante aplicação da alíquota de 15% (quinze por cento); e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+IV - efetuar o pagamento do imposto apurado nos termos do inciso III até o último dia útil do mês de abril.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Parágrafo único. A apuração a que se refere o inciso III do caput será efetuada por meio de aplicação a ser disponibilizada no site da Secretaria Especial da Receita Federal do Brasil na internet.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Art. 21-B. Os agentes operadores deverão disponibilizar, por meio de seu canal eletrônico, aos apostadores o Comprovante de Resultados em Apostas em Loterias de Quota Fixa - ComprovaBet até o último dia útil do mês de fevereiro do ano seguinte ao do recebimento dos prêmios ou ao que tenha incorrido em perdas, com as seguintes informações:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+I - nome e número de inscrição no Cadastro Nacional da Pessoa Jurídica - CNPJ do agente operador;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+II - nome e número de inscrição no Cadastro de Pessoas Físicas - CPF do apostador;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+III - o resultado total obtido pelo apostador, em reais, mediante a soma dos ganhos e a subtração das perdas calculados de forma separada para cada natureza de aposta prevista no art. 21-A, caput, inciso I, auferido no ano, compreendendo a soma dos resultados obtidos em todas as marcas comerciais do agente operador, com indicação do nome de cada marca comercial em que o apostador efetuou apostas;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+IV - indicação do saldo, em reais, da conta gráfica do apostador no agente operador em 31 de dezembro do ano anterior ao da realização das apostas e em 31 de dezembro do ano da realização das apostas, compreendendo o valor total dos saldos das contas gráficas em todas as marcas comerciais do agente operador utilizadas pelo apostador; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+V - o texto constante do Anexo XI.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Parágrafo único. O descumprimento da obrigação acessória prevista no caput sujeitará os agentes operadores às sanções previstas no art. 19 da Lei nº 8.383, de 30 de dezembro de 1991.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+CAPÍTULO VI
+DOS RENDIMENTOS TRIBUTADOS NA FONTE A TÍTULO DE ANTECIPAÇÃO
+
+Seção I
+Da Tributação por Antecipação
+
+Art. 22. Estão sujeitos à incidência do IRRF, calculado mediante a utilização das tabelas progressivas constantes do Anexo II, observados a tabela de redução constante do Anexo X e o disposto no art. 65, a título de antecipação do devido na DAA, os rendimentos do trabalho assalariado pagos por pessoa física ou jurídica e os demais rendimentos pagos por pessoa jurídica a pessoa física, tais como:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 I - rendimentos de trabalho sem vínculo empregatício, proventos de aposentadoria, de reserva e de reforma e pensões civis e militares;
 
@@ -492,9 +772,13 @@ IX - despesas ou encargos, cujo ônus seja do empregado, pagos pelo empregador e
 
 X - juros e indenizações por lucros cessantes, decorrentes de sentença judicial;
 
-XI - salário-educação e auxílio pré-escolar;
+XI - salário-educação;
 
-XII - multas e vantagens por rescisão de contrato;
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+XII - multas e quaisquer outras vantagens pagas ou creditadas por pessoa jurídica em virtude de infração a cláusula de contrato, sem gerar a sua rescisão, observado o disposto no art. 22-A;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 XIII - rendimentos efetivamente pagos a sócios ou titular de microempresa ou de empresa de pequeno porte optantes pelo Simples Nacional, correspondentes a pró-labore, aluguéis ou serviços prestados;
 
@@ -504,7 +788,13 @@ XV - 10% (dez por cento), no mínimo, dos rendimentos recebidos pelos garimpeiro
 
 XVI - valor do resgate de partes beneficiárias ou de fundador e de outros títulos semelhantes, bem como rendimentos provenientes desses títulos;
 
-XVII - lucros efetivamente pagos a sócios, acionistas ou titular de empresa individual, tributados pelo regime do lucro presumido, e escriturados no livro Caixa ou nos livros de escrituração contábil, que ultrapassarem o valor do lucro presumido deduzido dos impostos e contribuições correspondentes ou o valor do lucro contábil e dos lucros acumulados ou reservas de lucros de períodos-base anteriores.
+XVII - lucros efetivamente pagos a sócios, acionistas ou titular de empresa individual, tributados pelo regime do lucro presumido, e escriturados no livro Caixa ou nos livros de escrituração contábil, que ultrapassarem o valor do lucro presumido deduzido dos impostos e contribuições correspondentes ou o valor do lucro contábil e dos lucros acumulados ou reservas de lucros de períodos-base anteriores;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1869, de 25 de janeiro de 2019]
+
+XVIII - os juros pagos pelas cooperativas a seus associados como remuneração do capital social.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1869, de 25 de janeiro de 2019]
 
 § 1º Considera-se fonte pagadora a pessoa física ou a pessoa jurídica que pagar ou creditar rendimentos.
 
@@ -512,9 +802,42 @@ XVII - lucros efetivamente pagos a sócios, acionistas ou titular de empresa ind
 
 § 3º Incluem-se entre os rendimentos do trabalho os recebidos a título de Vantagem Pecuniária Individual, instituída pela Lei nº 10.698, de 2 de julho de 2003, e de Abono de Permanência, a que se referem o § 19 do art. 40 da Constituição Federal, o § 5º do art. 2º e o § 1º do art. 3º da Emenda Constitucional nº 41, de 19 de dezembro de 2003, e o art. 7º da Lei nº 10.887, de 18 de junho de 2004.
 
+Art. 22-A. A multa ou qualquer outra vantagem paga ou creditada por pessoa jurídica, ainda que a título de indenização, a beneficiária pessoa física, inclusive isenta, em virtude de rescisão de contrato, sujeita-se à incidência do IRRF à alíquota de 15% (quinze por cento), sendo o imposto considerado como antecipação do devido em cada período de apuração.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
 Art. 23. Estão sujeitos à incidência do IRRF, à alíquota de 15% (quinze por cento), a título de antecipação do devido na DAA, os resgates, parciais ou totais, de recursos acumulados relativos a participantes dos planos de benefícios de caráter previdenciário, estruturados nas modalidades de contribuição definida ou contribuição variável, das entidades de previdência complementar e das sociedades seguradoras, que não tenham efetuado a opção de que trata o art. 1º da Lei nº 11.053, de 2004.
 
-Seção II Da Tributação na Decisão Judicial
+Art. 23-A. A partir do mês de janeiro do ano-calendário de 2026, o pagamento, o creditamento, o emprego ou a entrega de lucros e dividendos por uma mesma pessoa jurídica a uma mesma pessoa física residente no Brasil em montante superior a R$ 50.000,00 (cinquenta mil reais) em um mesmo mês fica sujeito à retenção na fonte do imposto à alíquota de 10% (dez por cento) sobre o total do valor pago, creditado, empregado ou entregue.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+§ 1º São vedadas quaisquer deduções da base de cálculo a que se refere o caput.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+§ 2º Caso haja mais de um pagamento, crédito, emprego ou entrega de lucros e dividendos no mesmo mês, realizado por uma mesma pessoa jurídica a uma mesma pessoa física residente no Brasil, o valor retido na fonte referente ao imposto deve ser recalculado de modo a considerar o total dos valores pagos, creditados, empregados ou entregues no mês.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+§ 3º Não se sujeitam ao imposto de que trata este artigo os lucros e dividendos:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+I - relativos a resultados apurados até o ano-calendário de 2025;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+II - cuja distribuição tenha sido aprovada até 31 de dezembro de 2025; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+III - exigíveis nos termos da legislação civil ou empresarial, desde que seu pagamento, crédito, emprego ou entrega ocorra nos termos originalmente previstos no ato de aprovação.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Seção II
+Da Tributação na Decisão Judicial
 
 Art. 24. O imposto sobre a renda incidente sobre os rendimentos pagos em cumprimento de decisão judicial deve ser retido pela pessoa física ou jurídica obrigada ao pagamento no momento em que, por qualquer forma, o rendimento se torne disponível para o beneficiário.
 
@@ -530,21 +853,37 @@ III - remuneração pela prestação de serviços de engenheiro, médico, contad
 
 § 3º O imposto incidirá sobre o total dos rendimentos pagos, inclusive juros, atualização monetária e o rendimento abonado pela instituição financeira depositária, no caso de o pagamento ser efetuado mediante levantamento do depósito judicial.
 
-§ 4º As importâncias descontadas em folha a título de pensão alimentícia em face das normas do direito de família, quando em cumprimento de decisão judicial ou acordo homologado judicialmente, inclusive a prestação de alimentos provisionais, não estão sujeitas à retenção na fonte, devendo o beneficiário da pensão efetuar o recolhimento mensal (carnê-leão), se for o caso.
+§ 4º
 
-§ 5º Aplica-se o disposto no § 4º, independentemente de o beneficiário ser considerado dependente para fins do disposto no art. 90.
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
-Subseção I Dos Rendimentos Decorrentes de Decisão da Justiça Federal
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+§ 5º
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+§ 6º Não se sujeitam à incidência do imposto sobre a renda os juros de mora devidos pelo atraso no pagamento de remuneração por exercício de emprego cargo ou função.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+Subseção I
+Dos Rendimentos Decorrentes de Decisão da Justiça Federal
 
 Art. 25. No caso de rendimentos pagos, em cumprimento de decisão da Justiça Federal, mediante precatório ou requisição de pequeno valor, o IRRF deve ser retido pela instituição financeira responsável pelo pagamento e incide à alíquota de 3% (três por cento) sobre o montante pago, sem quaisquer deduções, no momento do pagamento ao beneficiário ou seu representante legal, ressalvado o disposto no Capítulo VII.
 
-§ 1º Fica dispensada a retenção do imposto quando o beneficiário declarar à instituição financeira responsável pelo pagamento que os rendimentos recebidos são isentos ou não tributáveis.
+§ 1º Fica dispensada a retenção do imposto caso o beneficiário declare à instituição financeira responsável pelo pagamento que os rendimentos recebidos são isentos ou não tributáveis, declaração essa que poderá ser prestada por meio eletrônico próprio da Justiça Federal.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
 
 § 2º O IRRF de acordo com o caput será considerado antecipação do imposto apurado na DAA.
 
-Subseção II Dos Rendimentos Decorrentes de Decisão da Justiça do Trabalho
+Subseção II
+Dos Rendimentos Decorrentes de Decisão da Justiça do Trabalho
 
-Art. 26. Os rendimentos pagos em cumprimento de decisões da Justiça do Trabalho estão sujeitos ao IRRF com base na tabela progressiva constante do Anexo II a esta Instrução Normativa, observado o disposto no Capítulo VII.
+Art. 26. Os rendimentos pagos em cumprimento de decisões da Justiça do Trabalho estão sujeitos ao IRRF com base nas tabelas progressivas constantes do Anexo II, observados a tabela de redução constante do Anexo X e o disposto no Capítulo VII.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 § 1º Cabe à fonte pagadora, no prazo de 15 (quinze) dias da data da retenção, comprovar, nos respectivos autos, o recolhimento do IRRF incidente sobre os rendimentos pagos.
 
@@ -552,11 +891,13 @@ Art. 26. Os rendimentos pagos em cumprimento de decisões da Justiça do Trabalh
 
 § 3º A não indicação pela fonte pagadora da natureza jurídica das parcelas objeto de acordo homologado perante a Justiça do Trabalho acarreta a incidência do IRRF sobre o valor total da avença.
 
-Subseção III Dos Rendimentos Decorrentes de Decisões da Justiça Estadual e do Distrito Federal
+Subseção III
+Dos Rendimentos Decorrentes de Decisões da Justiça Estadual e do Distrito Federal
 
 Art. 27. Na hipótese de rendimentos pagos, em cumprimento de decisão da Justiça Estadual e do Distrito Federal, o IRRF deve ser apurado e recolhido conforme a natureza do rendimento, utilizando o código de receita próprio, ressalvado o disposto no Capítulo VII.
 
-Seção III Dos Servidores no Exterior a Serviço do País
+Seção III
+Dos Servidores no Exterior a Serviço do País
 
 Art. 28. Os rendimentos do trabalho assalariado recebidos, em moeda estrangeira, por residentes no Brasil, de autarquias ou repartições do Governo brasileiro situadas no exterior, estão sujeitos ao IRRF, mediante utilização da tabela progressiva de que trata o art. 65.
 
@@ -566,7 +907,8 @@ Art. 28. Os rendimentos do trabalho assalariado recebidos, em moeda estrangeira,
 
 § 3º Na determinação da base de cálculo mensal e na declaração de rendimentos são tributados em 25% (vinte e cinco por cento) do total dos rendimentos referidos neste artigo.
 
-Seção IV Das Férias
+Seção IV
+Das Férias
 
 Art. 29. No caso de pagamento de férias, inclusive as pagas em dobro, observado o disposto nos incisos V, VII, VIII, IX e X do caput e § 1º do art. 62, a base de cálculo corresponde ao salário relativo ao mês de férias, acrescido, conforme o caso, de 1/3 (um terço) do seu valor.
 
@@ -578,13 +920,21 @@ Art. 29. No caso de pagamento de férias, inclusive as pagas em dobro, observado
 
 § 4º Na DAA, as férias devem ser tributadas em conjunto com os demais rendimentos.
 
-Seção V Do Aluguel de Imóvel Pago por Pessoa Física
+§ 5º Alternativamente às deduções a que se refere o § 3º, a fonte pagadora utilizará desconto simplificado mensal, correspondente a 25% (vinte e cinco por cento) do valor máximo da faixa com alíquota de 0% (zero por cento) da tabela progressiva mensal, caso seja mais benéfico ao contribuinte, dispensadas a comprovação da despesa e a indicação de sua espécie.
 
-Art. 30. Para determinação da base de cálculo sujeita ao recolhimento mensal de que trata o Capítulo IX, no caso de rendimentos de aluguéis de imóveis pagos por pessoa física, devem ser observadas as mesmas disposições previstas nos arts. 31 a 35.
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+Seção V
+Do Aluguel de Imóvel Pago por Pessoa Física
+
+Art. 30. Para determinação da base de cálculo sujeita ao recolhimento mensal obrigatório (carnê-leão) de que trata o Capítulo IX, no caso de rendimentos de aluguéis de imóveis pagos por pessoa física, devem ser observadas as mesmas disposições previstas nos arts. 31 a 35.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 Parágrafo único. Ressalvado o disposto no inciso II do caput do art. 11, o valor locativo do imóvel cedido gratuitamente (comodato) será tributado na DAA.
 
-Seção VI Do Aluguel de Imóvel Pago por Pessoa Jurídica
+Seção VI
+Do Aluguel de Imóvel Pago por Pessoa Jurídica
 
 Art. 31. No caso de aluguéis de imóveis pagos por pessoa jurídica, não integrarão a base de cálculo para efeito de incidência do imposto sobre a renda:
 
@@ -608,25 +958,52 @@ Art. 34. Os rendimentos de aluguéis de imóveis depositados em juízo são trib
 
 Art. 35. É obrigatória a emissão de recibo ou documento equivalente pelo locador ou administrador do bem, quando do recebimento de rendimentos da locação de bens imóveis.
 
-CAPÍTULO VII DOS RENDIMENTOS RECEBIDOS ACUMULADAMENTE
+CAPÍTULO VII
+DOS RENDIMENTOS RECEBIDOS ACUMULADAMENTE
 
-Seção I Dos RRA Relativos a Anos-Calendário Anteriores ao do Recebimento
+Seção I
+Dos RRA Relativos a Anos-Calendário Anteriores ao do Recebimento
 
-Subseção I Dos RRA Decorrentes de Aposentadoria, Pensão, Transferência para a Reserva Remunerada ou Reforma, Pagos pela Previdência Social da União, dos Estados, do Distrito Federal e dos Municípios, e os Provenientes do Trabalho
+Subseção I
+Dos RRA Submetidos à Incidência do Imposto sobre a Renda com Base na Tabela Progressiva Correspondentes a Anos-calendário Anteriores ao do Recebimento
 
-Art. 36. Os RRA, a partir de 28 de julho de 2010, relativos a anos-calendário anteriores ao do recebimento, serão tributados exclusivamente na fonte, no mês do recebimento ou crédito, em separado dos demais rendimentos recebidos no mês, quando decorrentes de:
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
 
-I - aposentadoria, pensão, transferência para a reserva remunerada ou reforma, pagos pela Previdência Social da União, dos estados, do Distrito Federal e dos municípios; e
+Art. 36. Os RRA, a partir de 11 de março de 2015, submetidos à incidência do imposto sobre a renda com base na tabela progressiva, quando correspondentes a anos-calendário anteriores ao do recebimento, serão tributados exclusivamente na fonte, no mês do recebimento ou crédito, em separado dos demais rendimentos recebidos no mês.
 
-II - rendimentos do trabalho.
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+I -
+
+[Suprimido(a) - vide Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+II -
+
+[Suprimido(a) - vide Instrução Normativa RFB nº 1558, de 31 de março de 2015]
 
 § 1º Aplica-se o disposto no caput, inclusive, aos rendimentos decorrentes de decisões das Justiças do Trabalho, Federal, Estaduais e do Distrito Federal.
 
 § 2º Os rendimentos a que se refere o caput abrangem o décimo terceiro salário e quaisquer acréscimos e juros deles decorrentes.
 
-§ 3º O disposto no caput não se aplica aos rendimentos pagos pelas entidades de previdência complementar.
+§ 3º O disposto no caput aplica-se desde 28 de julho de 2010 aos rendimentos decorrentes:
 
-Art. 37. O imposto será retido, pela pessoa física ou jurídica obrigada ao pagamento ou pela instituição financeira depositária do crédito, e calculado sobre o montante dos rendimentos pagos, mediante a utilização de tabela progressiva resultante da multiplicação da quantidade de meses a que se referem os rendimentos pelos valores constantes da tabela progressiva mensal correspondente ao mês do recebimento ou crédito.
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+I - de aposentadoria, pensão, transferência para a reserva remunerada ou reforma, pagos pela Previdência Social da União, dos estados, do Distrito Federal e dos municípios; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+II - do trabalho.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+§ 4º Não se sujeitam à incidência do imposto sobre a renda os juros de mora devidos pelo atraso no pagamento de remuneração por exercício de emprego cargo ou função.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+Art. 37. O imposto será retido, pela pessoa física ou jurídica obrigada ao pagamento ou pela instituição financeira depositária do crédito, e calculado sobre o montante dos rendimentos pagos, mediante a utilização de tabela progressiva resultante da multiplicação da quantidade de meses a que se referem os rendimentos pelos valores constantes da tabela progressiva mensal correspondente ao mês do recebimento ou crédito, observada a tabela de redução constante do Anexo X.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 § 1º O décimo terceiro salário, quando houver, representará em relação ao disposto no caput a 1 (um) mês.
 
@@ -706,23 +1083,46 @@ III - não deverá recalcular o IRRF.
 
 § 4º O disposto neste artigo aplica-se inclusive para as DAA referentes aos anos-calendário de 2010 e de 2011.
 
-Subseção II Dos Demais RRA
+Subseção II
+Dos Demais RRA
 
-Art. 43. Os RRA que não decorram do previsto nos incisos I e II do caput do art. 36 estarão sujeitos:
+Art. 43. Os RRA que não decorram do previsto no art. 36 estarão sujeitos:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
 
 I - quando pagos em cumprimento de decisão judicial:
 
-a) da Justiça Federal, mediante precatório ou requisição de pequeno valor, à regra de que trata o art. 27 da Lei nº 10.833, de 2003; e
+a) da Justiça Federal, mediante precatório ou requisição de pequeno valor, ao disposto no art. 25; e
 
-b) da Justiça do Trabalho, ao que dispõe o art. 28 da Lei nº 10.833, de 2003; e
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+b) da Justiça do Trabalho, ao disposto no art. 26; e
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
 
 II - nas demais hipóteses, ao disposto no art. 12 da Lei nº 7.713, de 1988.
 
-Seção II Dos RRA Relativos ao Ano-Calendário do Recebimento
+Seção II
+Dos RRA Relativos ao Ano-Calendário do Recebimento
 
-Art. 44. Os RRA relativos ao ano-calendário de recebimento estarão sujeitos à regra de que tratam os incisos I e II do art. 43.
+Art. 44. Os RRA relativos ao ano-calendário de recebimento estarão sujeitos à regra de que trata o art. 12-B da Lei nº 7.713, de 22 de dezembro de 1988.
 
-Seção III Das Disposições Gerais Relativas aos RRA
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+Parágrafo único. Caso os RRA sejam pagos em cumprimento de decisão judicial:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+I – da Justiça Federal, mediante precatório ou requisição de pequeno valor, aplica-se o disposto no art. 25; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+II – da Justiça do Trabalho, aplica-se o disposto no art. 26.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+Seção III
+Das Disposições Gerais Relativas aos RRA
 
 Art. 45. Para efeitos de apuração do imposto de que trata o art. 37, no caso de parcelas de RRA pagas:
 
@@ -762,11 +1162,17 @@ Art. 49. Na hipótese de RRA a título complementar, o imposto a ser retido ser�
 
 § 3º O disposto no caput será aplicado ainda que os RRA a título complementar tenham ocorrido em parcelas.
 
-§ 4º Em relação aos RRA a título complementar, a opção de que trata o art. 42:
+§ 4º Em relação aos RRA a título complementar, a opção de que trata o art. 41:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 I - poderá ser exercida de forma independente, quando os valores dos RRA, ou da última parcela destes, tenham sido efetuados em anos-calendário anteriores ao recebimento do valor complementar;
 
 II - será a mesma adotada relativamente aos valores dos RRA, ou da última parcela, quando o recebimento destes tenha sido efetuado no mesmo ano-calendário do recebimento do valor complementar.
+
+Art. 49-A. As despesas a que se referem os arts. 38 e 39 que tenham sido excluídas da base de cálculo do imposto sobre a renda incidente sobre RRA em montante maior do que o devido, na hipótese de devolução deste ao contribuinte, sua tributação será, no momento do recebimento, sob a forma de RRA, aplicando-se o disposto no art. 49.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 Art. 50. Nos anos-calendário de 2012 e 2013, no caso de rendimentos pagos, em cumprimento de decisão da Justiças Federal, a pessoa física beneficiária dos RRA poderá apresentar à pessoa responsável pela retenção a que se refere o art. 37 declaração, na forma do Anexo V a esta Instrução Normativa, assinada pelo beneficiário ou por seu representante legal, quando não identificadas as informações relativas à quantidade de meses a que se refere o art. 37, bem como as exclusões e deduções de que tratam os arts. 39 e 40, necessários ao cálculo do IRRF.
 
@@ -794,7 +1200,8 @@ II - não poderá ser alterada, ressalvada a hipótese em que sua modificação 
 
 III - deverá abranger a totalidade dos RRA, respectivamente, de cada um dos anos-calendário referidos.
 
-CAPÍTULO VIII DA BASE DE CÁLCULO MENSAL
+CAPÍTULO VIII
+DA BASE DE CÁLCULO MENSAL
 
 Art. 52. A base de cálculo sujeita à incidência mensal do IRRF é determinada mediante a dedução das seguintes parcelas do rendimento tributável:
 
@@ -806,7 +1213,9 @@ III - as contribuições para a Previdência Social da União, dos estados, do D
 
 IV - as contribuições para as entidades de previdência complementar domiciliadas no Brasil e as contribuições para os Fapi, cujo ônus tenha sido do contribuinte, destinadas a custear benefícios complementares assemelhados aos da Previdência Social, no caso de trabalhador com vínculo empregatício ou de administradores;
 
-V - as contribuições para as entidades de previdência complementar de que trata a Lei nº 12.618, de 30 de abril de 2012; e
+V - as contribuições para entidade fechadas de previdência complementar de que trata o § 15 do art. 40 da Constituição Federal, cujo ônus tenha sido do contribuinte, destinadas a custear benefícios complementares assemelhados aos da Previdência Social; e
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
 
 VI - a quantia, correspondente à parcela isenta dos rendimentos provenientes de aposentadoria e pensão, transferência para a reserva remunerada ou reforma, pagos pela Previdência Social da União, dos estados, do Distrito Federal e dos municípios, por qualquer pessoa jurídica de direito público interno ou por entidade de previdência complementar, a partir do mês em que o contribuinte completar 65 (sessenta e cinco) anos de idade, até o valor mensal constante da tabela do Anexo I a esta Instrução Normativa.
 
@@ -814,9 +1223,19 @@ VI - a quantia, correspondente à parcela isenta dos rendimentos provenientes de
 
 § 2º Aplica-se o disposto no inciso I do caput, independentemente de o beneficiário ser considerado dependente para fins do disposto no art. 90.
 
-CAPÍTULO IX DO RECOLHIMENTO MENSAL (“CARNÊ-LEÃO”)
+§ 3º Alternativamente às deduções previstas no caput, o a fonte pagadora utilizará desconto simplificado mensal, correspondente a 25% (vinte e cinco por cento) do valor máximo da faixa com alíquota de 0% (zero por cento) da tabela progressiva mensal, caso seja mais benéfico ao contribuinte, dispensadas a comprovação da despesa e a indicação de sua espécie.
 
-Seção I Da Sujeição ao Recolhimento Mensal
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+CAPÍTULO IX
+DO RECOLHIMENTO MENSAL OBRIGATÓRIO (“CARNÊ-LEÃO”)
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+Seção I
+Da Sujeição ao Recolhimento Mensal Obrigatório
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 Art. 53. Está sujeita ao pagamento mensal do imposto a pessoa física residente no País que recebe:
 
@@ -826,13 +1245,17 @@ II - rendimentos ou quaisquer outros valores de fontes do exterior, tais como tr
 
 III - emolumentos e custas dos serventuários da Justiça, como tabeliães, notários, oficiais públicos e outros, independentemente de a fonte pagadora ser pessoa física ou jurídica, exceto quando forem remunerados exclusivamente pelos cofres públicos;
 
-IV - importância paga em dinheiro, a título de pensão alimentícia em face das normas do Direito de Família, quando em cumprimento de decisão judicial, inclusive a prestação de alimentos provisionais, acordo homologado judicialmente, ou de separação consensual ou divórcio consensual realizado por escritura pública;
+IV -
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
 
 V - rendimentos em função de prestação de serviços a embaixadas, repartições consulares, missões diplomáticas ou técnicas ou a organismos internacionais de que o Brasil faça parte.
 
 § 1º Os rendimentos em moeda estrangeira devem ser convertidos em dólar dos Estados Unidos da América, pelo valor fixado pela autoridade monetária do país de origem dos rendimentos na data do recebimento e, em seguida, em reais mediante utilização do valor do dólar fixado para compra pelo Banco Central do Brasil para o último dia útil da 1ª (primeira) quinzena do mês anterior ao do recebimento do rendimento.
 
-§ 2º Os rendimentos sujeitos ao recolhimento mensal recebidos por pessoas consideradas dependentes do contribuinte são submetidos à tributação como rendimentos próprios.
+§ 2º Os rendimentos sujeitos ao recolhimento mensal obrigatório (carnê-leão) recebidos por pessoas consideradas dependentes do contribuinte são submetidos à tributação como rendimentos próprios.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 § 3º No caso de serviços de transporte, o rendimento tributável corresponde:
 
@@ -846,13 +1269,20 @@ II - a 60% (sessenta por cento), no mínimo, do rendimento decorrente de transpo
 
 § 6º Aplica-se o disposto no inciso IV do caput, independentemente de o beneficiário ser considerado dependente para fins do disposto no art. 90.
 
-Art. 54. Os rendimentos sujeitos a recolhimento mensal (carnê-leão) devem integrar a base de cálculo do imposto na DAA, sendo o imposto pago considerado antecipação do apurado nessa declaração.
+Art. 54. Os rendimentos sujeitos ao recolhimento mensal obrigatório (carnê-leão) devem integrar a base de cálculo do imposto na DAA, sendo o imposto pago considerado antecipação do apurado nessa declaração.
 
-Seção II Da Base de Cálculo do Recolhimento Mensal
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
-Art. 55. O recolhimento mensal obrigatório, relativo aos rendimentos recebidos no ano-calendário de pessoas físicas ou de fontes situadas no exterior, será calculado com base nos valores das tabelas progressivas mensais constantes do Anexo II a esta Instrução Normativa.
+Seção II
+Da Base de Cálculo do Recolhimento Mensal
 
-Art. 56. Para a determinação da base de cálculo do recolhimento mensal pode-se deduzir do rendimento tributável:
+Art. 55. O recolhimento mensal obrigatório (carnê-leão), relativo aos rendimentos recebidos no ano-calendário de pessoas físicas ou de fontes situadas no exterior, será calculado com base nos valores das tabelas progressivas mensais constantes do Anexo II, observada a tabela de redução constante do Anexo X.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Art. 56. Para a determinação da base de cálculo do recolhimento mensal obrigatório (carnê-leão), pode-se deduzir do rendimento tributável:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 I - as parcelas previstas nos incisos I a V do caput do art. 52; e
 
@@ -862,7 +1292,12 @@ II - as despesas escrituradas em livro Caixa, observado o disposto no art. 104.
 
 § 2º As deduções referentes aos pagamentos efetuados em moeda estrangeira são convertidas em dólar dos Estados Unidos da América, pelo seu valor fixado pela autoridade monetária do país no qual as despesas foram realizadas, na data do pagamento e, em seguida, em reais mediante utilização do valor do dólar dos Estados Unidos da América, fixado para venda pelo Banco Central do Brasil para o último dia útil da 1ª (primeira) quinzena do mês anterior ao do pagamento.
 
-Subseção Única Da Dedução de Despesas com Informatização pelos Titulares de Serviços de Registros Públicos
+§ 3º Alternativamente às deduções previstas no caput, o contribuinte utilizará desconto simplificado mensal, correspondente a 25% (vinte e cinco por cento) do valor máximo da faixa com alíquota de 0% (zero por cento) da tabela progressiva mensal, caso lhe seja mais benéfico, dispensadas a comprovação da despesa e a indicação de sua espécie.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+Subseção Única
+Da Dedução de Despesas com Informatização pelos Titulares de Serviços de Registros Públicos
 
 Art. 57. Na determinação da base de cálculo sujeita à incidência mensal do imposto, até o exercício de 2014, ano-calendário de 2013, os titulares de serviços de registros públicos, para fins de implementação dos serviços, previstos na Lei nº 6.015, de 31 de dezembro de 1973, em meio eletrônico, poderão deduzir os investimentos e demais gastos efetuados com informatização, que compreende a aquisição de hardware, aquisição e desenvolvimento de software e a instalação de redes.
 
@@ -872,7 +1307,8 @@ Art. 57. Na determinação da base de cálculo sujeita à incidência mensal do 
 
 § 3º O excesso de deduções apurado no mês pode ser compensado nos meses seguintes, até dezembro, não podendo ser transposto para o ano seguinte.
 
-CAPÍTULO X DAS NORMAS DE RETENÇÃO NA FONTE
+CAPÍTULO X
+DAS NORMAS DE RETENÇÃO NA FONTE
 
 Art. 58. O imposto deve ser retido por ocasião de cada pagamento e, se houver mais de um pagamento pela mesma fonte pagadora, aplica-se a alíquota correspondente à soma dos rendimentos pagos à pessoa física, no mês, a qualquer título, compensando-se o imposto retido anteriormente.
 
@@ -884,9 +1320,12 @@ Art. 59. O recolhimento do IRRF sobre quaisquer rendimentos deve ser efetuado, d
 
 § 3º As filiais deverão adotar mecanismos de controle para efetuarem a retenção do IRRF pelo valor total dos rendimentos efetivamente recebidos pelo empregado no mesmo mês, informando, tempestivamente, à matriz os referidos valores pagos e retidos, para que a matriz proceda ao recolhimento do imposto, no prazo legal.
 
-CAPÍTULO XI DA DISPENSA DA RETENÇÃO
+CAPÍTULO XI
+DA DISPENSA DA RETENÇÃO
 
-Art. 60. O reembolso total ou parcial, efetuado pela fonte pagadora em folha de salários, de parcelas mensais pagas por pessoas físicas a título de participação em empresas domiciliadas no País destinadas a coberturas de despesas médicas, odontológicas, de hospitalização e a entidades que assegurem direito de atendimento ou ressarcimento de despesas da mesma natureza, não constitui rendimento tributável, para fins do cálculo do IRRF, devendo ser observado o disposto no inciso II do § 3º do art. 94.
+Art. 60. O reembolso total ou parcial, efetuado pela fonte pagadora em folha de salários, de parcelas mensais referentes a pagamentos feitos por pessoas físicas a empresas domiciliadas no País, destinados a coberturas de despesas médicas, odontológicas ou de hospitalização, e a entidades que assegurem direito de atendimento ou ressarcimento de despesas da mesma natureza, não constitui rendimento tributável, para fins de cálculo do IRPF, devendo ser, entretanto, observado o disposto no inciso II do § 3º do art. 94.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 Art. 61. É dispensada a retenção de imposto, de valor igual ou inferior a R$ 10,00 (dez reais), incidente na fonte sobre rendimentos que devam integrar a base de cálculo do imposto devido na DAA, observado o disposto no § 3º do art. 105.
 
@@ -910,7 +1349,9 @@ VIII - férias proporcionais convertidas em pecúnia (Ato Declaratório PGFN nº
 
 IX - abono pecuniário de férias de que trata o art. 143 da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (Ato Declaratório PGFN nº 6, de 16 de novembro de 2006);
 
-X - férias em dobro ao empregado na rescisão contratual (Ato Declaratório PGFN nº 14, de 2 de dezembro de 2008);
+X - férias em dobro pagas ao empregado na rescisão contratual (Ato Declaratório PGFN nº 14, de 1 de dezembro de 2008);
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 XI - adicional de 1/3 (um terço) previsto no inciso XVII do art. 7º da Constituição Federal, quando agregado a pagamento de férias - simples ou proporcionais - vencidas e não gozadas, convertidas em pecúnia, em razão de rescisão do contrato de trabalho (Ato Declaratório PGFN nº 6, de 1º de dezembro de 2008);
 
@@ -918,7 +1359,21 @@ XII - auxílio-condução, quando pago a oficiais de justiça para recompor as p
 
 XIII - parcela indenizatória devida aos parlamentares em face de convocação para sessão legislativa extraordinária (Ato Declaratório PGFN nº 3, de 18 de setembro de 2008);
 
-XIV - verbas recebidas a título de auxílio-creche (Ato Declaratório PGFN nº 2, de 27 de agosto de 2010).
+XIV - verbas recebidas a título de auxílio-creche e auxílio pré-escolar pelos trabalhadores até o limite de 5 (cinco) anos de idade de seus filhos (Parecer PGFN/CRJ/Nº 2.118, de 10 de novembro de 2011, aprovado por Despacho do Ministro de Estado da Fazenda publicado no Diário Oficial da União de 15 de dezembro de 2011, e Ato Declaratório PGFN nº 13, de 20 de dezembro de 2011);
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+XV - verbas recebidas a título de reembolso-babá (Ato Declaratório PGFN nº 1, de 2 de janeiro de 2014);
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+XVI - verbas recebidas a título de dano moral (Ato Declaratório PGFN nº 9, de 2011; Parecer PGFN/CRJ/Nº 2.123, de 2011); e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+XVII - valores recebidos a título de aposentadoria, reforma ou pensão, quando o beneficiário for portador do gênero patológico “cegueira”, seja ela binocular ou monocular, desde que devidamente caracterizada por definição médica (Ato Declaratório Executivo PGFN nº 3, de 30 de março de 2016).
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 § 1º O disposto no caput aplica-se aos valores convertidos em pecúnia de férias integrais ou proporcionais, e de seu terço constitucional, no momento da extinção do contrato de trabalho, seja por rescisão, aposentadoria ou exoneração, por necessidade do serviço ou por conveniência do servidor ou empregado.
 
@@ -930,23 +1385,74 @@ I – aos rendimentos recebidos por técnicos a serviço das Organização das N
 
 II – aos juros de mora decorrentes do recebimento:
 
-a) em atraso de verbas trabalhistas, independentemente da natureza destas (se remuneratórias ou indenizatórias), pagas no contexto da rescisão do contrato de trabalho, em reclamatória trabalhista ou não; e
+a) em atraso de verbas trabalhistas, independentemente da natureza destas (se remuneratórias ou indenizatórias), pagas no contexto da rescisão do contrato de trabalho, em reclamatória trabalhista ou não, observado o disposto no § 8º; e
 
-b) de verbas que não acarretam acréscimo patrimonial ou que são isentas ou não tributadas (em razão da regra de que o acessório segue o principal)
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+b) de verbas que não acarretam acréscimo patrimonial ou que são isentas ou não tributadas (em razão da regra de que o acessório segue o principal); e
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+III - às verbas auferidas a título de indenização advinda por desapropriação, seja por utilidade pública ou por interesse social (Nota PGFN nº 1.114, de 14 de junho de 2012, item 69 de seu anexo).
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 § 4º O disposto no inciso I do § 3º aplica-se tanto aos funcionários da ONU quanto aos que a ela prestem serviço, na condição de peritos de assistência técnica, condição esta que deriva de um contrato temporário com período pré-fixado ou por meio de empreitada a ser realizada (apresentação de projeto ou consultoria), equiparados em razão da aprovação, via decreto legislativo, do Acordo Básico de Assistência Técnica firmado entre o Brasil, a ONU e suas agências.
 
-§ 5º Não se aplica o disposto no inciso II do § 4º, ou seja, incidirá IRRF sobre os juros de mora decorrente, nos seguintes casos:
+§ 5º
 
-I – do pagamento em atraso de verbas trabalhistas que sofram a incidência do IRPF quando não há rescisão do contrato de trabalho, em reclamatória trabalhista ou não;
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
-II – do recebimento em atraso de benefício previdenciário que atrai a incidência de IRPF;
+I –
 
-III – do recebimento em atraso de verbas remuneratórias ou que acarretem acréscimo patrimonial; e
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
-IV – do recebimento em atraso pelo servidor público de verbas que atraem a incidência do IRPF.
+II –
 
-CAPÍTULO XII DOS ADIANTAMENTOS
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+III –
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+IV –
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+§ 6º O valor pago a título de auxílio-creche de que trata o inciso XIV do caput não pode ser deduzido da base de cálculo do imposto na DAA.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+§ 7º O disposto no caput aplica-se sobre os proventos de aposentadoria, pensão ou reforma percebidos por pessoa física com moléstia grave, nos termos dos incisos II e III do art. 6º, independentemente da comprovação da contemporaneidade dos sintomas ou da recidiva da enfermidade (Parecer PGFN/CRJ nº 701, de 2016, e Ato Declaratório PGFN nº 5, de 3 de maio de 2016).
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+§ 8º O disposto na alínea “a” do inciso II do § 3º está direcionado apenas ao contexto da perda de emprego, não se destinando à extinção do contrato de trabalho decorrente de pedidos de demissão por iniciativa unilateral do empregado e abrange os juros referentes às verbas rescisórias em sentido amplo, desde que devidas por imposição prevista em lei, convenção ou acordo coletivo, abarcando, assim, além dos juros referentes às verbas rescisórias em sentido estrito, também as demais verbas trabalhistas devidas ao trabalhador, não adimplidas no curso do contrato do trabalho, e que deveriam ser quitadas no momento da homologação da rescisão do contrato de trabalho.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+§ 9º Não se sujeitam à incidência do imposto sobre a renda os juros de mora devidos pelo atraso no pagamento de remuneração por exercício de emprego cargo ou função.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+§ 10. Não incide imposto sobre a renda sobre:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+I - o valor pago em compensação ou substituição a direito não gozado, como aquele pago em decorrência de folgas não gozadas (Parecer SEI nº 415/2024/MF);
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+II - o valor pago ao ex-empregado estável demitido ilegalmente, nos termos do art. 6º, caput, inciso V, da Lei nº 7.713, de 22 de dezembro de 1988, correspondente apenas aos salários a que o empregado teria direito no período da estabilidade, conforme valores estabelecidos na lei trabalhista, no dissídio coletivo ou nas convenções trabalhistas homologados pela Justiça do Trabalho, sendo ônus do contribuinte comprovar a demissão sem justa causa ocorrida no período de sua estabilidade provisória (Parecer SEI nº 3.260/2024/MF); e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+III - o resgate de contribuições vertidas a plano de aposentadoria privada complementar por pessoas com as moléstias graves relacionadas no art. 6º, caput, inciso II, observando-se que a dispensa alcança, também, os resgates de valores vertidos a título de plano Vida Gerador de Benefício Livre - VGBL (Parecer SEI nº 212/2025-MF).
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+CAPÍTULO XII
+DOS ADIANTAMENTOS
 
 Art. 63. O adiantamento de rendimentos correspondentes a determinado mês não está sujeito à retenção, desde que os rendimentos sejam integralmente pagos no próprio mês a que se referirem, momento em que são efetuados o cálculo e a retenção do imposto sobre o total dos rendimentos pagos no mês.
 
@@ -954,11 +1460,15 @@ Art. 63. O adiantamento de rendimentos correspondentes a determinado mês não e
 
 § 2º Para efeitos de incidência do imposto, são considerados adiantamentos quaisquer valores fornecidos ao beneficiário, mesmo a título de empréstimo, quando não haja, cumulativamente, previsão de cobrança de encargos financeiros, forma e prazo de pagamento.
 
-CAPÍTULO XIII DO REAJUSTAMENTO DA BASE DE CÁLCULO
+CAPÍTULO XIII
+DO REAJUSTAMENTO DA BASE DE CÁLCULO
 
 Art. 64. Quando a fonte pagadora assumir o ônus do imposto devido pelo beneficiário, a importância paga, creditada, empregada, remetida ou entregue, é considerada líquida, cabendo o reajustamento do respectivo rendimento bruto, sobre o qual recai o imposto.
 
 § 1º Para reajustamento da base de cálculo aplica-se a seguinte fórmula:
+
+RR = | __RP - D__ | 
+1 - (T/100)
 
 Sendo:
 
@@ -982,39 +1492,77 @@ I - aos prêmios distribuídos sob a forma de bens e serviços, por meio de conc
 
 II - ao valor dos juros remetidos para o exterior, devidos em razão da compra de bens a prazo, ainda quando o beneficiário dos rendimentos for o próprio vendedor.
 
-CAPÍTULO XIV DA TABELA PROGRESSIVA MENSAL
+CAPÍTULO XIV
+DA TABELA PROGRESSIVA MENSAL
 
-Seção I Do Cálculo do Imposto na Fonte e do Recolhimento Mensal
+Seção I
+Do Cálculo do Imposto na Fonte e do Recolhimento Mensal
 
-Art. 65. O imposto sobre a renda mensal é calculado mediante a utilização das tabelas progressivas constantes do Anexo II a esta Instrução Normativa.
+Art. 65. O imposto sobre a renda mensal é calculado mediante a utilização das tabelas progressivas constantes do Anexo II, observado o disposto no art. 65-A.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 § 1º O imposto de que trata este artigo é calculado sobre os rendimentos efetivamente recebidos em cada mês.
 
-§ 2º O contribuinte que houver recebido rendimentos de fonte situada no exterior, incluídos na base de cálculo do recolhimento mensal, pode compensar o imposto pago nos países com os quais o Brasil possui acordos, convenções ou tratados internacionais ou naqueles em que haja reciprocidade de tratamento em relação aos rendimentos produzidos no Brasil, desde que não sujeitos à restituição ou compensação no país de origem, observado o seguinte:
+§ 2º O contribuinte que houver recebido rendimentos de fonte situada no exterior, incluídos na base de cálculo do recolhimento mensal obrigatório (carnê-leão), pode compensar o imposto pago nos países com os quais o Brasil possui acordos, convenções ou tratados internacionais ou naqueles em que haja reciprocidade de tratamento em relação aos rendimentos produzidos no Brasil, desde que não sujeitos à restituição ou compensação no país de origem, observado o seguinte:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 I - o valor compensado não pode exceder a diferença entre o imposto calculado sem a inclusão dos rendimentos de fontes no exterior e o imposto devido com a inclusão dos mesmos rendimentos;
 
 II - os rendimentos em moeda estrangeira e o imposto pago no exterior são convertidos em dólar dos Estados Unidos da América, pelo valor fixado pela autoridade monetária do país de origem dos rendimentos na data do recebimento ou pagamento e, em seguida, em reais mediante utilização do valor do dólar fixado para compra pelo Banco Central do Brasil para o último dia útil da 1ª (primeira) quinzena do mês anterior ao do recebimento do rendimento.
 
-Seção II Do Prazo para Recolhimento Mensal
+Seção I-A
+Da redução mensal do imposto
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Art. 65-A. Ao imposto apurado na forma do art. 65, a partir do mês de janeiro de 2026, será concedida uma redução conforme a tabela de que trata o Anexo X.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+§ 1º O valor da redução de que trata o caput fica limitado ao valor do imposto determinado de acordo com as tabelas progressivas constantes do Anexo II, observado o disposto no art. 52.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+§ 2º Não será concedida a redução do imposto de que trata este artigo aos contribuintes que tiverem rendimentos tributáveis sujeitos à incidência mensal superior a R$ 7.350,00 (sete mil, trezentos e cinquenta reais).
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+§ 3º Aplica-se a redução do imposto de que trata este artigo ao cálculo do imposto incidente exclusivamente na fonte no pagamento da gratificação natalina de que trata a Seção I do Capítulo IV.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Seção II
+Do Prazo para o Recolhimento Mensal Obrigatório
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 Art. 66. O imposto apurado na forma do art. 65 deverá ser pago até o último dia útil do mês subsequente àquele em que os rendimentos ou ganhos forem percebidos.
 
-CAPÍTULO XV DO RECOLHIMENTO COMPLEMENTAR
+CAPÍTULO XV
+DO RECOLHIMENTO COMPLEMENTAR
 
 Art. 67. É facultado ao contribuinte antecipar o imposto devido na DAA mediante o recolhimento complementar do imposto.
 
 § 1º O recolhimento deve ser efetuado, no curso do ano-calendário, até o último dia útil do mês de dezembro.
 
-§ 2º O imposto complementar pode ser retido, mensalmente, por uma das fontes pagadoras, pessoa jurídica, desde que haja concordância da pessoa física beneficiária, caso em que a pessoa jurídica é solidariamente responsável com o contribuinte pelo pagamento do imposto correspondente à obrigação assumida.
+§ 2º O imposto complementar pode ser retido, mensalmente, por uma das fontes pagadoras, pessoa jurídica, desde que haja concordância da pessoa física beneficiária.
 
-Seção I Da Incidência da Base de Cálculo
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+Seção I
+Da Base de Cálculo
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 Art. 68. Para efeitos do disposto no art. 67, a base de cálculo é a diferença entre a soma dos seguintes valores:
 
 I - de todos os rendimentos recebidos no curso do ano-calendário sujeitos à tributação na DAA, inclusive o resultado positivo da atividade rural;
 
-II - das deduções utilizadas na base de cálculo mensal ou pagas até o mês do recolhimento mensal, correspondentes às:
+II - das deduções utilizadas na base de cálculo mensal ou pagas até o mês do recolhimento mensal obrigatório (carnê-leão), correspondentes às:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 a) deduções previstas nos incisos I a V do art. 52;
 
@@ -1028,23 +1576,29 @@ d) despesas escrituradas em livro Caixa.
 
 § 2º As deduções previstas no inciso II do caput poderão ser substituídas pelo desconto simplificado de que trata o art. 71.
 
-Seção II Da Complementação do Imposto
+Seção II
+Da Complementação do Imposto
 
 Art. 69. Apurada a base de cálculo conforme disposto no art. 68, a complementação do imposto é determinada mediante a utilização da tabela progressiva anual.
 
-§ 1º O recolhimento complementar a ser pago em determinado mês é a diferença entre o valor do imposto calculado na forma prevista neste artigo e a soma dos valores do imposto retido na fonte ou pago pelo contribuinte a título de recolhimento mensal, ou do recolhimento complementar efetuado em meses anteriores, se for o caso, e do imposto pago no exterior, incidentes sobre os rendimentos computados na base de cálculo, deduzidos os incentivos de que tratam os incisos I a VIII do caput do art. 80, observados os limites previstos nos §§ 1º a 3º desse mesmo artigo.
+§ 1º O recolhimento complementar a ser pago em determinado mês é a diferença entre o valor do imposto calculado na forma prevista neste artigo e a soma dos valores do imposto retido na fonte ou pago pelo contribuinte a título de recolhimento mensal obrigatório (carnê-leão), ou do recolhimento complementar efetuado em meses anteriores, se for o caso, e do imposto pago no exterior, incidentes sobre os rendimentos computados na base de cálculo, deduzidos os incentivos de que tratam os incisos I a VIII do caput do art. 80, observados os limites previstos nos §§ 1º a 3º desse mesmo artigo.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 § 2º No caso de compensação de imposto pago no exterior deve ser observado o disposto no § 2º do art. 65.
 
-CAPÍTULO XVI DA DECLARAÇÃO DE AJUSTE ANUAL
+CAPÍTULO XVI
+DA DECLARAÇÃO DE AJUSTE ANUAL
 
-Seção I Da Regra Geral
+Seção I
+Da Regra Geral
 
 Art. 70. As pessoas físicas devem apresentar anualmente DAA destinada a apurar o saldo do imposto a pagar ou a ser restituído, observados forma, prazo e condições estabelecidos pela Secretaria da Receita Federal do Brasil.
 
 Parágrafo único. Quando motivos de força maior, devidamente justificados perante o chefe da repartição lançadora, impossibilitarem a entrega tempestiva da declaração, pode ser concedida, mediante requerimento, uma só prorrogação de até 60 (sessenta) dias, sem prejuízo do pagamento do imposto nos prazos regulares.
 
-Seção II Do Desconto Simplificado
+Seção II
+Do Desconto Simplificado
 
 Art. 71. O contribuinte poderá optar por desconto simplificado, que substituirá todas as deduções admitidas na legislação, correspondente à dedução de 20% (vinte por cento) do valor dos rendimentos tributáveis na DAA, independentemente do montante desses rendimentos, dispensadas a comprovação da despesa e a indicação de sua espécie.
 
@@ -1056,7 +1610,8 @@ II - a impossibilidade de utilizar as deduções do imposto apurado relacionadas
 
 § 2º O valor utilizado a título de desconto simplificado não justifica variação patrimonial.
 
-Seção III Da Apuração da Base de Cálculo do Ajuste Anual
+Seção III
+Da Apuração da Base de Cálculo do Ajuste Anual
 
 Art. 72. A base de cálculo do imposto, na DAA, é a diferença entre as somas:
 
@@ -1074,15 +1629,19 @@ d) despesas médicas; e
 
 e) despesas escrituradas em livro Caixa.
 
-§ 1º A dedução a que se refere o inciso IV do caput do art. 52 fica limitada a 12% (doze por cento) do total dos rendimentos computados na determinação da base de cálculo do imposto devido na declaração de rendimentos, observado o disposto no art. 87.
+§ 1º As deduções a que se referem os incisos IV e V do caput do art. 52 ficam limitadas a 12% (doze por cento) do total de rendimentos computados na determinação da base de cálculo do imposto devido na declaração de rendimentos, observado o disposto no art. 87.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
 
 § 2º Os rendimentos tributáveis recebidos pelos dependentes incluídos na declaração devem ser somados aos rendimentos do contribuinte para efeito de tributação.
 
-Seção IV Da Atividade Rural
+Seção IV
+Da Atividade Rural
 
 Art. 73. O resultado positivo da atividade rural, apurado de acordo com a Lei nº 8.023, de 12 de abril de 1990, integra a base de cálculo do imposto na declaração de rendimentos.
 
-Seção V Dos Bens e Direitos
+Seção V
+Dos Bens e Direitos
 
 Art. 74. Como parte integrante da DAA, a pessoa física deve apresentar relação pormenorizada dos bens móveis e imóveis e direitos que, no País ou no exterior, constituam o seu patrimônio e o de seus dependentes, em 31 de dezembro do ano-calendário, bem como os bens e direitos adquiridos e alienados nesse período.
 
@@ -1098,7 +1657,9 @@ IV - os investimentos em participações societárias, em ações negociadas ou 
 
 § 2º Para efeitos do disposto no inciso IV do § 1º, considera-se valor unitário, no caso de participações societárias, o conjunto das ações ou quotas de uma mesma empresa.
 
-§ 3º Os bens e direitos são declarados discriminadamente pelos valores de aquisição constantes nos respectivos instrumentos de transferência de propriedade ou da respectiva nota fiscal, exceto os bens adquiridos em prestações ou financiados, os quais devem ser declarados pelos valores efetivamente pagos.
+§ 3º Os bens e direitos, inclusive os existentes no exterior, são declarados discriminadamente pelos valores de aquisição constantes nos respectivos instrumentos de transferência de propriedade ou da respectiva nota fiscal, exceto os bens adquiridos em prestações ou financiados, os quais devem ser declarados pelos valores efetivamente pagos.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 § 4º Os bens e direitos existentes no exterior devem ser declarados pelos valores de aquisição constantes dos respectivos instrumentos de transferência de propriedade, convertidos em reais da seguinte forma:
 
@@ -1106,9 +1667,13 @@ I - se adquiridos até 31 de dezembro de 1999, pela cotação cambial de venda, 
 
 II - se adquiridos a partir de 1º de janeiro de 2000, convertidos em dólares dos Estados Unidos da América pelo valor fixado pela autoridade monetária do país emissor da moeda para a data da aquisição e, em seguida, em reais pela cotação do dólar fixada, para venda, pelo Banco Central do Brasil, para o dia da transmissão da propriedade.
 
-§ 5º Os saldos dos depósitos mantidos em instituições financeiras no exterior são convertidos para reais pela cotação fixada, para compra, pelo Banco Central do Brasil, para 31 de dezembro do ano-calendário.
+§ 5º
 
-§ 6º Para efeitos do disposto no inciso I do § 4º e no § 5º, quando a moeda utilizada não tiver cotação no Brasil, o valor é convertido conforme o disposto no inciso II do § 4º.
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+§ 6º Para fins do disposto no inciso I do § 4º, quando a moeda utilizada não tiver cotação no Brasil, o valor é convertido conforme o disposto no inciso II do § 4º.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 § 7º O estoque de moeda estrangeira em poder do contribuinte em 31 de dezembro de 1999 é informado em reais pelo resultado da multiplicação da quantidade em estoque pela cotação fixada, para venda, pelo Banco Central do Brasil, para essa data.
 
@@ -1116,23 +1681,39 @@ II - se adquiridos a partir de 1º de janeiro de 2000, convertidos em dólares d
 
 § 9º Os bens ou direitos do ativo da pessoa jurídica que forem recebidos pelo titular, sócio ou acionista a título de devolução de sua participação no capital são informados pelo valor contábil ou de mercado, conforme avaliado pela pessoa jurídica.
 
-Seção VI Das Dívidas e Ônus Reais
+§ 10. Na hipótese de adesão ao Regime Especial de Regularização Cambial e Tributária (RERCT) de que trata a Lei nº 13.254, de 13 de janeiro de 2016, também deverão ser informados na DAA relativa ao ano-calendário de 2014 e posteriores, os recursos, bens e direitos de qualquer natureza constantes na declaração única para adesão ao referido regime.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+§ 11. Os rendimentos, frutos e acessórios do aproveitamento, no exterior ou no País, dos recursos, bens ou direitos de qualquer natureza regularizados por meio do RERCT, obtidos no ano-calendário de 2015, deverão ser incluídos na DAA referentes ao ano-calendário de adesão e posteriores, aplicando-se o disposto no art. 138 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), se as retificações necessárias forem feitas até o último dia do prazo para adesão ao RERCT.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+§ 12. Em função da reabertura do prazo para adesão ao RERCT, conforme previsto no art. 2º da Lei nº 13.428, de 30 de março de 2017, a pessoa física optante deverá apresentar à RFB a DAA do exercício de 2017, ano-calendário de 2016, em cuja ficha Bens e Direitos deverão constar as informações sobre os recursos, bens e direitos declarados na Dercat, observadas as regras previstas na Instrução Normativa RFB nº 1.704, de 31 de março de 2017.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+Seção VI
+Das Dívidas e Ônus Reais
 
 Art. 75. Os ônus reais e obrigações da pessoa física e de seus dependentes, em 31 de dezembro do ano-calendário, devem ser consignados quando o valor for superior a R$ 5.000,00 (cinco mil reais).
 
 Parágrafo único. As dívidas e ônus reais assumidos em instituições financeiras no exterior são convertidos para reais pela cotação fixada, para compra, pelo Banco Central do Brasil, para 31 de dezembro do ano-calendário.
 
-Seção VII Da Cessão Gratuita de Imóvel
+Seção VII
+Da Cessão Gratuita de Imóvel
 
 Art. 76. Ressalvado o disposto no inciso II do caput do art. 11, considera-se rendimento tributável, na DAA, o valor locativo de imóvel cedido gratuitamente.
 
 Parágrafo único. O rendimento tributável é equivalente a 10% (dez por cento) do valor venal do imóvel cedido, podendo ser adotado o constante na guia do Imposto Predial e Territorial Urbano (IPTU) correspondente ao ano-calendário da DAA.
 
-Seção VIII Do Acréscimo Patrimonial
+Seção VIII
+Do Acréscimo Patrimonial
 
 Art. 77. Constitui rendimento tributável na DAA o valor correspondente ao acréscimo patrimonial, apurado mensalmente, não justificado pelos rendimentos tributáveis, não tributáveis, isentos, tributados exclusivamente na fonte ou de tributação definitiva.
 
-Seção IX Dos Ganhos de Capital e Ganhos Líquidos
+Seção IX
+Dos Ganhos de Capital e Ganhos Líquidos
 
 Art. 78. Não integram a base de cálculo os ganhos de capital na alienação de bens e direitos e os ganhos líquidos auferidos nas operações realizadas em bolsas de valores, de mercadorias, de futuros e assemelhadas, nos mercados de liquidação futura fora de bolsas e na alienação de ouro, ativo financeiro.
 
@@ -1144,47 +1725,152 @@ II - compensado com o imposto incidente sobre ganhos líquidos apurados nos mese
 
 III - compensado com o imposto devido sobre o ganho de capital na alienação de ações.
 
-Seção X Da Apuração Anual do Imposto
+Seção IX-A
+Dos ganhos em aplicações financeiras no exterior e de lucros e dividendos de entidades controladas no exterior
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Art. 78-A. Os rendimentos do capital aplicado no exterior, nas modalidades de aplicações financeiras e de lucros e dividendos de entidades controladas, deverão ser declarados pela pessoa física residente no País diretamente na DAA de forma separada dos demais rendimentos e dos ganhos de capital, conforme previsto no art. 2º da Instrução Normativa RFB nº 2.180, de 11 de março de 2024.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Seção X
+Da Apuração Anual do Imposto
 
 Art. 79. O imposto sobre a renda na DAA será calculado de acordo com a respectiva tabela progressiva anual, correspondente à soma das tabelas progressivas mensais vigentes nos meses de cada ano-calendário, constante do Anexo VII a esta Instrução Normativa.
 
-Seção XI Das Deduções do Imposto Apurado
+Seção XI
+Das Deduções do Imposto Apurado
 
 Art. 80. Do imposto apurado na forma prevista no art. 79 podem ser deduzidos:
 
 I - as doações efetuadas aos Fundos dos Direitos da Criança e do Adolescente nacional, distrital, estaduais ou municipais;
 
-II - as contribuições feitas aos Fundos controlados pelos Conselhos Municipais, Estaduais e Nacional do Idoso, a partir do ano-calendário de 2011, exercício de 2012;
+II - as contribuições feitas aos Fundos Controlados pelo Conselhos Municipais, Estaduais e Nacional da Pessoa Idosa, a partir do ano-calendário de 2011, exercício de 2012;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
 
 III - as contribuições efetivamente realizadas em favor de projetos culturais, aprovados na forma da regulamentação do Programa Nacional de Apoio à Cultura (Pronac), instituído pelo art. 1º da Lei nº 8.313, de 23 de dezembro de 1991;
 
-IV - os investimentos e patrocínios feitos a título de incentivo às atividades audiovisuais aprovadas pela Agência Nacional do Cinema (Ancine);
+IV – as quantias referentes:
 
-V - os valores despendidos a título de patrocínio ou doação, no apoio direto a projetos desportivos e paradesportivos previamente aprovados pelo Ministério do Esporte (ME), até o exercício de 2016, ano-calendário de 2015;
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
-VI - a contribuição patronal paga à Previdência Social pelo empregador doméstico incidente sobre o valor da remuneração do empregado, até o exercício de 2015, ano-calendário de 2014;
+a) a investimentos feitos na produção de obras audiovisuais cinematográficas brasileiras de produção independente, mediante a aquisição de quotas representativas de direitos de comercialização sobre as referidas obras, desde que esses investimentos sejam realizados no mercado de capitais, em ativos previstos em lei e autorizados pela Comissão de Valores Mobiliários, e os projetos de produção tenham sido previamente aprovados pela Agência Nacional do Cinema - Ancine, até o exercício de 2030, ano-calendário de 2029;
 
-VII - os valores correspondentes às doações e aos patrocínios diretamente efetuados em prol de ações e serviços relativos ao Programa Nacional de Apoio à Atenção Oncológica (Pronon), até o exercício de 2016, ano-calendário de 2015;
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
-VIII - os valores correspondentes às doações e aos patrocínios diretamente efetuados em prol de ações e serviços relativos ao Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência (Pronas/PCD), até o exercício de 2016, ano-calendário de 2015;
+b) ao patrocínio à produção de obras cinematográficas brasileiras de produção independente cujos projetos tenham sido previamente aprovados pela Ancine, até o exercício de 2030, ano-calendário de 2029; e
 
-IX - o imposto retido na fonte ou o pago (recolhimento mensal e recolhimento complementar) correspondente aos rendimentos incluídos na base de cálculo;
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+c) à aquisição de cotas dos Fundos de Financiamento da Indústria Cinematográfica Nacional - Funcines, até o exercício de 2030, ano-calendário de 2029;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+V - os valores despendidos a título de patrocínio ou doação no apoio direto a projetos desportivos e paradesportivos previamente aprovados pelo Ministério do Esporte;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+VI - a contribuição patronal paga à Previdência Social pelo empregador doméstico incidente sobre o valor da remuneração do empregado, até o exercício de 2019, ano-calendário de 2018;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+VII - os valores correspondentes às doações e aos patrocínios diretamente efetuados em prol de ações e serviços relativos ao Programa Nacional de Apoio à Atenção Oncológica (Pronon):
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+a) até o exercício de 2021, ano-calendário de 2020; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+b) a partir de 4 de maio do ano-calendário de 2023, relativo ao exercício de 2024, até o exercício de 2026, ano-calendário de 2025;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+VIII - os valores correspondentes às doações e aos patrocínios diretamente efetuados em prol de ações e serviços relativos ao Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência (Pronas/PCD):
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+a) até o exercício de 2021, ano-calendário de 2020; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+b) a partir de 4 de maio do ano-calendário de 2023, relativo ao exercício de 2024, até o exercício de 2026, ano-calendário de 2025;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+IX - o imposto retido na fonte ou o pago (recolhimento mensal obrigatório e recolhimento complementar) correspondente aos rendimentos incluídos na base de cálculo;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 X - o imposto pago no exterior conforme previsto no art. 81;
 
 XI - o valor do IRRF incidente sobre ganhos líquidos, observado o disposto no art. 78;
 
-XII - o valor do imposto retido na fonte sobre os rendimentos recebidos acumuladamente de que trata o Capítulo VII.
+XII - o valor do imposto retido na fonte sobre os rendimentos recebidos acumuladamente de que trata o Capítulo VII; e
 
-§ 1º A soma das deduções referidas nos incisos I a V do caput não pode reduzir o imposto apurado em mais de 6% (seis por cento), não sendo aplicável limite específico individualmente.
+[Redação dada pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+XIII - a quantia efetivamente despendida no apoio direto a projetos previamente aprovados pelo Ministério do Meio Ambiente e Mudança do Clima, com o objetivo de incentivar as indústrias e as entidades dedicadas à reutilização, ao tratamento e à reciclagem de resíduos sólidos produzidos no território nacional, a partir do exercício de 2024, ano-calendário de 2023, e até o exercício de 2028, ano-calendário de 2027, direcionados a:
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+a) capacitação, formação e assessoria técnica, inclusive para a promoção de intercâmbios, nacionais e internacionais, para as áreas escolar, acadêmica, ou empresarial, associações comunitárias e organizações sociais que explicitem como seu objeto a promoção, o desenvolvimento, a execução ou o fomento de atividades de reciclagem ou de reuso de materiais;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+b) incubação de microempresas, de pequenas empresas, de cooperativas e de empreendimentos sociais solidários que atuem em atividades de reciclagem;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+c) pesquisas e estudos para subsidiar ações que envolvam a responsabilidade compartilhada pelo ciclo de vida dos produtos;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+d) implantação e adaptação de infraestrutura física de microempresas, de pequenas empresas, de indústrias, de cooperativas e de associações de catadores de materiais reutilizáveis e recicláveis;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+e) aquisição de equipamentos e de veículos para a coleta seletiva, a reutilização, o beneficiamento, o tratamento e a reciclagem de materiais pelas indústrias, pelas microempresas, pelas pequenas empresas, pelas cooperativas e pelas associações de catadores de materiais reutilizáveis e recicláveis;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+f) organização de redes de comercialização e de cadeias produtivas, e apoio a essas redes, integradas por microempresas, pequenas empresas, cooperativas e associações de catadores de materiais reutilizáveis e recicláveis;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+g) fortalecimento da participação dos catadores de materiais reutilizáveis e recicláveis nas cadeias de reciclagem; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+h) desenvolvimento de novas tecnologias para agregar valor ao trabalho de coleta de materiais reutilizáveis e recicláveis.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+§ 1º A soma das deduções referidas nos incisos I a IV e XIII do caput não pode reduzir o imposto apurado na DAA em mais de 6% (seis por cento), não sendo aplicável limite específico individualmente.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+§ 1º-A. A soma das deduções referidas nos incisos I a V do caput não pode reduzir o imposto apurado na DAA em mais de 7% (sete por cento), não sendo aplicável limite específico individualmente.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+§ 1º-B. A soma das deduções referidas nos incisos I a IV do caput não pode reduzir o imposto apurado na DAA em mais de 6% (seis por cento), não sendo aplicável limite específico individualmente.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 § 2º As deduções de que trata o inciso I do caput, caso efetuadas diretamente na DAA, não poderão exceder a 3% (três por cento) do valor do imposto sobre a renda devido, nela apurado.
 
 § 3º A dedução de que trata o § 2º está sujeita, também, ao limite referido no § 1º.
 
-§ 4º A dedução de que trata o inciso VI do caput está limitada ao valor do imposto apurado na DAA, deduzidos os valores de que tratam os incisos I a V, IX e X do caput.
+§ 4º A dedução de que trata o inciso VI do caput está limitada ao valor do imposto apurado na DAA, deduzidos os valores de que tratam os incisos I a V, VII e VIII do caput.
 
-§ 5º As deduções previstas nos incisos VII e VIII do caput estão cada uma delas limitada a 1% (um por cento) do imposto sobre a renda devido apurado na DAA, mas não estão sujeitas ao limite global de 6% (seis por cento) de que trata o § 1º.
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+§ 5º As deduções previstas nos incisos VII e VIII do caput estão limitadas, cada uma delas, a 1% (um por cento) do imposto sobre a renda devido apurado na DAA, mas não estão sujeitas aos limites globais de 6% (seis por cento) e 7% (sete por cento) previstos, respectivamente, nos §§ 1º e 1º-A.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
 
 § 6º O IRRF de que trata o inciso IX do caput somente poderá ser compensado na DAA, se o contribuinte possuir comprovante de retenção emitido em seu nome pela fonte pagadora dos rendimentos, observados forma, prazo e condições estabelecidos pela Secretaria da Receita Federal do Brasil.
 
@@ -1192,7 +1878,8 @@ XII - o valor do imposto retido na fonte sobre os rendimentos recebidos acumulad
 
 § 8º O montante determinado na forma deste artigo constitui, se positivo, saldo de imposto a pagar e, se negativo, valor a ser restituído.
 
-Seção XII Do Imposto Pago no Exterior
+Seção XII
+Do Imposto Pago no Exterior
 
 Art. 81. Havendo acordo, tratado ou convenção para evitar a dupla tributação de renda entre o Brasil e o país de origem dos rendimentos sujeitos à tributação no Brasil, ou reciprocidade de tratamento, o imposto sobre a renda cobrado pelo país de origem pode ser compensado, por ocasião da apuração do imposto devido na DAA, desde que não passível de restituição ou compensação naquele país.
 
@@ -1200,7 +1887,8 @@ Art. 81. Havendo acordo, tratado ou convenção para evitar a dupla tributação
 
 § 2º A compensação não pode exceder a diferença entre o valor do imposto calculado antes e depois da inclusão dos rendimentos produzidos no exterior.
 
-Seção XIII Da Retificação da DAA
+Seção XIII
+Da Retificação da DAA
 
 Art. 82. Eventuais erros ou omissão de informações verificados na DAA, depois de sua apresentação, devem ser retificados pelo contribuinte por meio de declaração retificadora, desde que não esteja sob procedimento de ofício, independentemente de autorização administrativa.
 
@@ -1212,11 +1900,17 @@ II - será processada, inclusive para fins de restituição, em função da data
 
 Art. 83. Depois do prazo previsto para a entrega da declaração, não será admitido retificação que tenha por objetivo alteração na forma de tributação, bem como a retificação de declaração que venha alterar matéria tributável objeto de lançamento regularmente cientificado ao sujeito passivo.
 
+Art. 83-A. Nas hipóteses de redução de débitos já inscritos em Dívida Ativa da União bem como de redução de débitos objeto de pedido de parcelamento deferido, admitir-se-á a retificação da declaração tão somente após autorização administrativa, desde que haja prova inequívoca da ocorrência de erro no preenchimento da declaração, e enquanto não extinto o crédito tributário.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
 Art. 84. Quando a retificação da declaração resultar em aumento do imposto declarado, será observado o seguinte procedimento:
 
 I - calcula-se o novo valor de cada quota, mantendo-se o número de quotas em que o imposto foi parcelado na declaração retificada; e
 
-II - sobre a diferença correspondente a cada quota vencida incidem acréscimos legais calculados de acordo com o art. 107.
+II - sobre a diferença correspondente a cada quota vencida incidem acréscimos legais calculados de acordo com o art. 106.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1869, de 25 de janeiro de 2019]
 
 Art. 85. Na hipótese de a retificação da declaração resultar em redução do imposto a pagar declarado, será observado o seguinte procedimento:
 
@@ -1226,9 +1920,11 @@ II - os valores pagos a maior relativos às quotas vencidas, bem como os acrésc
 
 Parágrafo único. Sobre o montante a ser compensado ou restituído incidem juros equivalentes à taxa referencial do Sistema Especial de Liquidação e Custódia (Selic), tendo como termo inicial o mês subsequente ao do pagamento a maior, e como termo final o mês anterior ao da restituição ou da compensação, adicionado de 1% (um por cento) no mês da restituição ou compensação.
 
-CAPÍTULO XVII DAS NORMAS RELATIVAS ÀS DEDUÇÕES DA BASE DE CÁLCULO
+CAPÍTULO XVII
+DAS NORMAS RELATIVAS ÀS DEDUÇÕES DA BASE DE CÁLCULO
 
-Seção I Da Contribuição Previdenciária
+Seção I
+Da Contribuição Previdenciária
 
 Art. 86. São admitidas, a título de dedução, as contribuições:
 
@@ -1236,7 +1932,9 @@ I - para a Previdência Social da União, dos estados, do Distrito Federal e dos
 
 II - para as entidades de previdência complementar domiciliadas no Brasil e as contribuições para o Fapi, cujo ônus tenha sido do contribuinte, destinadas a custear benefícios complementares assemelhados aos da Previdência Social;
 
-III - para as entidades de previdência complementar de que trata a Lei nº 12.618, de 2012.
+III - para as entidades de previdência complementar de que trata o § 15 do art. 40 da Constituição Federal, cujo ônus tenha sido do contribuinte, destinadas a custear benefícios complementares assemelhados aos da Previdência Social.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
 
 § 1º A dedução mensal das contribuições para as entidades de previdência complementar aplica-se, exclusivamente, à base de cálculo relativa a rendimentos do trabalho com vínculo empregatício, bem como de administradores, de aposentados, de pensionistas, quando a fonte pagadora for responsável pelo desconto e respectivo pagamento das contribuições previdenciárias.
 
@@ -1244,17 +1942,32 @@ III - para as entidades de previdência complementar de que trata a Lei nº 12.6
 
 § 3º Às contribuições não deduzidas na forma dos §§ 1º e 2º, é assegurada a dedução dos valores pagos a esse título na DAA.
 
-Art. 87. As contribuições de que trata o inciso II do caput do art. 86 ficam condicionadas ao recolhimento, também, de contribuições para o regime geral de previdência social ou, quando for o caso, para o regime próprio de previdência social dos servidores titulares de cargo efetivo da União, dos estados, do Distrito Federal ou dos municípios, observada a contribuição mínima, e limitadas a 12% (doze por cento) do total dos rendimentos computados na determinação da base de cálculo do imposto devido na DAA.
+Art. 87. As contribuições de que tratam os incisos II e III do caput do art. 86 ficam condicionadas ao recolhimento, também, de contribuições para o regime geral de previdência social ou, quando for o caso, para o regime próprio de previdência social dos servidores titulares de cargo efetivo da União, dos estados, do Distrito Federal ou dos municípios, observada a contribuição mínima, e limitadas a 12% (doze por cento) do total dos rendimentos computados na determinação da base de cálculo do imposto devido na DAA.
 
-Parágrafo único. Excetuam-se da condição de que trata o caput os beneficiários de aposentadoria ou pensão concedidas por regime próprio de previdência ou pelo regime geral de previdência social, mantido, entretanto, o limite de 12% (doze por cento) do total dos rendimentos computados na determinação da base de cálculo do imposto devido na DAA.
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+§ 1º Excetuam-se da condição de que trata o caput os beneficiários de aposentadoria ou pensão concedidas por regime próprio de previdência ou pelo regime geral de previdência social, mantido, entretanto, o limite de 12% (doze por cento) do total dos rendimentos computados na determinação da base de cálculo do imposto devido na DAA.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+§ 2º A dedução a que se refere o inciso III do art. 86, desde que limitada à alíquota de contribuição do ente público patrocinador, não se sujeita ao limite previsto no caput.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+§ 3º Os valores de contribuição excedentes ao disposto no § 2º poderão ser deduzidos desde que seja observado o limite conjunto de dedução previsto no caput.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
 
 Art. 88. A partir do ano-calendário de 2001, as contribuições de que trata o inciso II do caput do art. 86, cujo titular ou quotista seja dependente, conforme o disposto no art. 91, e incluído na declaração, podem ser deduzidas desde que observadas as condições e o limite global referidos no art. 87.
 
-Parágrafo único. Na hipótese de dependente com mais de 16 (dezesseis) anos, a dedução a que se refere o caput fica condicionada, ainda, ao recolhimento, em seu nome, de contribuições para o regime geral de previdência social, observada a contribuição mínima, ou, quando for o caso, para o regime próprio de previdência social dos servidores titulares de cargo efetivo da União, dos estados, do Distrito Federal ou dos municípios.
+Parágrafo único. Na hipótese de dependente com idade igual ou superior a dezesseis anos, a dedução a que se refere o caput fica condicionada, ainda, ao recolhimento, em seu nome, de contribuições para o regime geral de previdência social, observada a contribuição mínima, ou, quando for o caso, para o regime próprio de previdência social dos servidores titulares de cargo efetivo da União, dos estados, do Distrito Federal ou dos municípios.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
 Art. 89. Os prêmios de seguro de vida com cláusula de cobertura por sobrevivência são indedutíveis para fins de determinação da base de cálculo do imposto devido na DAA.
 
-Seção II Dos Dependentes
+Seção II
+Dos Dependentes
 
 Art. 90. Podem ser considerados dependentes:
 
@@ -1272,11 +1985,31 @@ VI - os pais, os avós ou os bisavós, desde que não aufiram rendimentos, tribu
 
 VII - o absolutamente incapaz, do qual o contribuinte seja tutor ou curador.
 
-§ 1º As pessoas elencadas nos incisos III e V do caput podem ser consideradas dependentes quando maiores até 24 (vinte e quatro) anos de idade, se estiverem cursando estabelecimento de ensino superior ou escola técnica de 2º (segundo) grau.
+§ 1º Podem ser consideradas dependentes, nos termos dos incisos III e V do caput, as seguintes pessoas:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+I - que estejam cursando estabelecimento de ensino superior ou escola técnica de 2º (segundo) grau, quando maiores até 24 (vinte e quatro) anos; ou
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+II - com deficiência, de qualquer idade, e capacitadas para o trabalho, desde que o valor de sua remuneração não exceda a soma das deduções da base de cálculo.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
 
 § 2º Os dependentes comuns podem, opcionalmente, ser considerados por qualquer um dos cônjuges.
 
-§ 3º No caso de filhos de pais separados, o contribuinte pode considerar, como dependentes, os que ficarem sob sua guarda em cumprimento de decisão judicial ou acordo homologado judicialmente.
+§ 3º No caso de filhos de pais separados:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+I - o contribuinte pode considerar, como dependentes, os que ficarem sob sua guarda em cumprimento de decisão judicial ou acordo homologado judicialmente; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+II - havendo guarda compartilhada, cada filho(a) pode ser considerado como dependente de apenas um dos pais.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 § 4º O responsável pelo pagamento a título de pensão alimentícia em face das normas do Direito de Família, quando em cumprimento de decisão judicial, inclusive a prestação de alimentos provisionais, de acordo homologado judicialmente, ou de escritura pública, não pode efetuar a dedução do valor correspondente a dependente, exceto na hipótese de mudança na relação de dependência no decorrer do ano-calendário.
 
@@ -1288,7 +2021,8 @@ VII - o absolutamente incapaz, do qual o contribuinte seja tutor ou curador.
 
 § 8º Para fins do disposto no inciso II do caput, considera-se também dependente o companheiro ou companheira de união homoafetiva.
 
-Seção III Das Despesas com Instrução
+Seção III
+Das Despesas com Instrução
 
 Art. 91. Na determinação da base de cálculo do imposto devido na DAA podem ser deduzidos, a título de despesas com instrução do contribuinte e de seus dependentes incluídos na declaração, os pagamentos efetuados a instituições de ensino até o limite anual individual constante da tabela do Anexo VIII a esta Instrução Normativa.
 
@@ -1306,7 +2040,7 @@ V - à educação profissional, compreendendo o ensino técnico e o tecnológico
 
 § 2º É vedado o aproveitamento de valor de despesas superior ao limite individual de uma pessoa física para outra, ainda que integrantes de uma mesma declaração.
 
-§ 3º As despesas de educação dos alimentandos, quando realizadas pelo alimentante em virtude de cumprimento de decisão judicial, de acordo homologado judicialmente ou de escritura pública, poderão ser deduzidas pelo alimentante na determinação da base de cálculo do imposto sobre a renda na declaração, observado o limite previsto no art. 23.
+§ 3º As despesas de educação dos alimentandos, quando realizadas pelo alimentante em virtude de cumprimento de decisão judicial, de acordo homologado judicialmente ou de escritura pública, poderão ser deduzidas pelo alimentante na determinação da base de cálculo do imposto sobre a renda na declaração, observado o limite a que se refere o caput.
 
 § 4º As despesas relativas a cursos de especialização são passíveis de dedução somente quando comprovadamente realizadas com cursos inerentes à formação profissional daquele com quem foram efetuadas.
 
@@ -1344,7 +2078,8 @@ Art. 93. As quantias remetidas ao exterior, para pagamento de despesas com matr�
 
 § 2º O imposto eventualmente retido sobre a remessa, no caso a que se refere o § 1º, não pode ser compensado na declaração de rendimentos.
 
-Seção IV Das Despesas Médicas
+Seção IV
+Das Despesas Médicas
 
 Art. 94. Na DAA podem ser deduzidos os pagamentos efetuados, no ano-calendário, a médicos, dentistas, psicólogos, fisioterapeutas, fonoaudiólogos, terapeutas ocupacionais e hospitais, bem como as despesas com exames laboratoriais, serviços radiológicos, aparelhos ortopédicos e próteses ortopédicas e dentárias.
 
@@ -1356,7 +2091,9 @@ Art. 94. Na DAA podem ser deduzidos os pagamentos efetuados, no ano-calendário,
 
 I - entidades de qualquer espécie ou cobertas por contrato de seguro;
 
-II - fonte pagadora em folha de salários, de parcelas mensais pagas por pessoas físicas a título de participação em empresas e entidades de que trata o § 1º.
+II - fonte pagadora em folha de salários, referentes a pagamentos efetuados por pessoas físicas a entidades de que trata o § 1º.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 § 4º Na hipótese de ressarcimento parcial, considera-se como dedução apenas o montante não ressarcido.
 
@@ -1396,7 +2133,17 @@ IV - aparelho ortodôntico, inclusive a sua manutenção.
 
 § 13. Não são dedutíveis, a título de despesas médicas, os valores pagos na prestação dos serviços de coleta, seleção e armazenagem de células-tronco oriundas de cordão umbilical, uma vez que não se referem a tratamento de doenças ou recuperação da saúde física e mental das pessoas.
 
-Art. 95. Consideram-se despesas médicas ou de hospitalização as despesas com instrução de portador de deficiência física ou mental, condicionadas, cumulativamente à:
+§ 14. São indedutíveis as despesas médicas pagas em determinado ano-calendário quando incorridas em ano-calendário anterior e referentes a dependente tributário relacionado apenas na DAA do ano-calendário em que se deu a despesa.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+§ 15. Os pagamentos efetuados a médicos e a hospitais, assim como as despesas com exames laboratoriais, realizados no âmbito de procedimento de reprodução assistida por fertilização in vitro, devidamente comprovados, são dedutíveis somente na DAA do paciente que recebeu o tratamento médico.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+Art. 95. Consideram-se despesas médicas ou de hospitalização as despesas com instrução de pessoa física com deficiência física ou mental, condicionadas cumulativamente à:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 I - existência de laudo médico, atestando o estado de deficiência;
 
@@ -1420,6 +2167,10 @@ IV - assinatura do prestador do serviço.
 
 § 3º Todas as despesas deduzidas estarão sujeitas a comprovação ou justificação do pagamento ou da prestação dos serviços, a juízo da autoridade lançadora ou julgadora.
 
+§ 4º A ausência de endereço em recibo médico é razão para ensejar a não aceitação desse documento como meio de prova de despesa médica, porém não impede que outras provas sejam utilizadas, a exemplo da consulta aos sistemas informatizados da RFB.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
 Art. 98. São admitidos os pagamentos realizados no exterior, exceto os previstos no § 1º do art. 94, convertidos em reais conforme o disposto no § 2º do art. 56.
 
 Art. 99. As despesas médicas dos alimentandos, quando realizadas pelo alimentante, em virtude de cumprimento de decisão judicial, ou de acordo homologado judicialmente ou de escritura pública, poderão ser deduzidas pelo alimentante na determinação da base de cálculo do imposto sobre a renda na declaração.
@@ -1430,7 +2181,8 @@ Art. 100. Na hipótese de apresentação de declaração em separado, são dedut
 
 § 2º Se o terceiro não for integrante da entidade familiar, há que se comprovar a transferência de recursos, para este, de alguém que faça parte da entidade familiar.
 
-Seção V Da Pensão Alimentícia
+Seção V
+Da Pensão Alimentícia
 
 Art. 101. Podem ser deduzidas as importâncias pagas em dinheiro a título de pensão alimentícia em face das normas do direito de família, quando em cumprimento de decisão judicial, inclusive a prestação de alimentos provisionais, acordo homologado judicialmente, ou de escritura pública.
 
@@ -1444,11 +2196,16 @@ Art. 102. Quando a fonte pagadora não for responsável pelo desconto da pensão
 
 § 1º O valor da pensão alimentícia não utilizado como dedução, no próprio mês de seu pagamento, poderá ser deduzido no mês subsequente.
 
-§ 2º Em relação às despesas de educação e médicas dos alimentandos, pagas pelo alimentante, deve-se observar o disposto no § 1º do art. 91 e no art. 99.
+§ 2º Em relação às despesas de educação e médicas dos alimentandos, pagas pelo alimentante, deve-se observar o disposto no § 3º do art. 91 e no art. 99.
 
-Art. 103. Está sujeita ao pagamento mensal do imposto a pessoa física que receber importância paga em dinheiro, a título de pensão alimentícia, nos termos do inciso IV do caput do art. 53.
+[Redação dada pelo(a) Instrução Normativa RFB nº 1869, de 25 de janeiro de 2019]
 
-Seção VI Das Despesas Escrituradas no Livro Caixa
+Art. 103.
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2141, de 22 de maio de 2023]
+
+Seção VI
+Das Despesas Escrituradas no Livro Caixa
 
 Art. 104. O contribuinte que receber rendimentos do trabalho não assalariado, inclusive os titulares dos serviços notariais e de registro e os leiloeiros, poderão deduzir, da receita decorrente do exercício da respectiva atividade:
 
@@ -1456,7 +2213,13 @@ I - a remuneração paga a terceiros, desde que com vínculo empregatício, e os
 
 II - os emolumentos pagos a terceiros, assim considerados os valores referentes à retribuição pela execução, pelos serventuários públicos, de atos cartorários, judiciais e extrajudiciais;
 
-III - as despesas de custeio pagas, necessárias à percepção da receita e à manutenção da fonte produtora.
+III - as despesas de custeio pagas, necessárias à percepção da receita e à manutenção da fonte produtora; e
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+IV - as importâncias pagas, devidas aos empregados em decorrência das relações de trabalho, ainda que não integrem a remuneração destes, caso configurem despesas necessárias à percepção da receita e à manutenção da fonte produtora, observado o disposto no § 5º.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 § 1º O disposto neste artigo não se aplica:
 
@@ -1474,9 +2237,23 @@ IV - ao rendimento bruto percebido por garimpeiros na venda, a empresas legalmen
 
 § 4º O livro Caixa independe de registro.
 
-CAPÍTULO XVIII DO PAGAMENTO E RECOLHIMENTO DO IMPOSTO
+§ 5º Na hipótese de convenções e acordos coletivos de trabalho, todas as prestações neles previstas e devidas ao empregado constituem obrigações do empregador e, portanto, despesas necessárias à percepção da receita e à manutenção da fonte produtora.
 
-Seção I Dos Prazos e Condições
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+§ 6º As despesas com vale-refeição, vale-alimentação e planos de saúde destinados indistintamente a todos os empregados, comprovadas mediante documentação idônea e escrituradas em livro Caixa, podem ser deduzidas dos rendimentos percebidos pelos titulares de serviços notariais e de registro para efeito de apuração do imposto sobre a renda mensal e na DAA.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+§ 7º Os gastos com a contratação de serviço de carro-forte para transporte de numerários podem ser enquadrados como despesa de custeio, relativamente aos serviços notariais e de registro, sendo possível sua dedução na apuração do IRPF dos titulares desses serviços, desde que escriturados em livro Caixa e comprovados por meios hábeis e idôneos.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+CAPÍTULO XVIII
+DO PAGAMENTO E RECOLHIMENTO DO IMPOSTO
+
+Seção I
+Dos Prazos e Condições
 
 Art. 105. O pagamento ou recolhimento do imposto deve ser efetuado nos seguintes prazos e condições:
 
@@ -1502,7 +2279,8 @@ c) as demais quotas vencem no último dia útil de cada mês e são acrescidas d
 
 § 4º Os comprovantes de pagamento devem ser guardados pelo contribuinte, permanecendo à disposição da Secretaria da Receita Federal do Brasil , até que ocorra a prescrição dos créditos tributários relativos às situações e aos fatos a que se refiram.
 
-Seção II Dos Acréscimos Legais
+Seção II
+Dos Acréscimos Legais
 
 Art. 106. A falta ou insuficiência do pagamento ou recolhimento do imposto, no prazo previsto, sujeita o contribuinte ao pagamento do total ou da diferença do imposto, com juros e multa de mora.
 
@@ -1514,7 +2292,8 @@ I - calculados a partir do 1º (primeiro) dia do mês subsequente ao vencimento 
 
 II - devidos inclusive durante o período em que a respectiva cobrança houver sido suspensa por decisão administrativa ou judicial.
 
-Seção III Dos Códigos
+Seção III
+Dos Códigos
 
 Art. 107. Os códigos para pagamento do IRPF, exceto quanto ao retido na fonte, são os seguintes:
 
@@ -1528,15 +2307,20 @@ IV - 5320 - multa por atraso na entrega da declaração;
 
 V - 7130 - multa por atraso na entrega da DAA-espólio.
 
-§ 1º O pagamento do imposto a título de recolhimento mensal (carnê-leão), efetuado depois do vencimento, sem inclusão de juros e multa de mora, implica a obrigatoriedade do pagamento desses encargos, em Darf separado, utilizando-se o código 3244.
+§ 1º O pagamento do imposto a título de recolhimento mensal obrigatório (carnê-leão), efetuado depois do vencimento, sem inclusão de juros e multa de mora, implica a obrigatoriedade do pagamento desses encargos, em Darf separado, utilizando-se o código 3244.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
 
 § 2º O contribuinte obrigado ao recolhimento mensal obrigatório (carnê-leão) que optar também pelo recolhimento complementar, deverá efetuá-los em Darf separados.
 
-CAPÍTULO XIX DAS DISPOSIÇÕES TRANSITÓRIAS
+CAPÍTULO XIX
+DAS DISPOSIÇÕES TRANSITÓRIAS
 
-Seção I Das Isenções Relativas à Realização, no Brasil, da Copa da Confederações Fifa 2013 e da Copa do Mundo Fifa 2014
+Seção I
+Das Isenções Relativas à Realização, no Brasil, da Copa da Confederações Fifa 2013 e da Copa do Mundo Fifa 2014
 
-Subseção I Das Pessoas Físicas que Ingressarem no País com Visto Temporário
+Subseção I
+Das Pessoas Físicas que Ingressarem no País com Visto Temporário
 
 Art. 108. Estão isentos do imposto sobre a renda os rendimentos pagos, creditados, empregados, entregues ou remetidos pela Fifa ou por Subsidiária Fifa no Brasil, para pessoas físicas, não residentes no País, empregadas ou de outra forma contratadas para trabalhar de forma pessoal e direta na organização ou realização dos Eventos, que ingressarem no País com visto temporário.
 
@@ -1552,7 +2336,8 @@ III - Emissora Fonte da Fifa; e
 
 IV - Prestadores de Serviços da Fifa.
 
-Subseção II Do Reembolso de Despesas Recebido por Voluntário
+Subseção II
+Do Reembolso de Despesas Recebido por Voluntário
 
 Art. 109. Estão isentos do imposto sobre a renda os valores dos benefícios indiretos e o reembolso de despesas recebidos por Voluntário da Fifa, da Subsidiária Fifa no Brasil ou do Comitê Organizador Brasileiro Ltda (LOC) que auxiliar na organização e realização dos Eventos, até o valor de 5 (cinco) salários mínimos por mês, sem prejuízo de aplicação da tabela de incidência mensal do imposto sobre a renda sobre o valor excedente.
 
@@ -1562,7 +2347,8 @@ Art. 109. Estão isentos do imposto sobre a renda os valores dos benefícios ind
 
 § 3º Os rendimentos que excederem o limite de isenção de que trata o caput não poderão ser aproveitados para fruição da isenção em meses subsequentes.
 
-Subseção III Das Disposições Gerais
+Subseção III
+Das Disposições Gerais
 
 Art. 110. A Fifa ou Subsidiária Fifa no Brasil apresentará à Secretaria da Receita Federal do Brasil relação dos Eventos e das pessoas físicas passíveis de serem beneficiadas pelas desonerações previstas nos arts. 108 e 109.
 
@@ -1572,13 +2358,37 @@ Art. 110. A Fifa ou Subsidiária Fifa no Brasil apresentará à Secretaria da Re
 
 Art. 111. O disposto nesta Seção aplica-se aos fatos geradores que ocorrerem no período de 1º de janeiro de 2011 a 31 de dezembro de 2015.
 
-Seção II Da Isenção do Imposto sobre a Renda Retido na Fonte (IRRF), Destinados à Cobertura de Gastos Pessoais no Exterior
+Seção II
 
-Art. 112. Estão isentos do IRRF os valores pagos, creditados, entregues, empregados ou remetidos para pessoa física ou jurídica residente ou domiciliada no exterior, destinados à cobertura de gastos pessoais, no exterior, de pessoas físicas residentes no País, em viagens de turismo, negócios, serviço, treinamento ou missões oficiais, observado o disposto na Instrução Normativa RFB nº 1.214, de 12 de dezembro de 2011.
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
 
-Parágrafo único. Aplica-se a isenção de que trata o caput para os fatos geradores que ocorrerem entre 1º de janeiro de 2011 até 31 de dezembro de 2015.
+Art. 112.
 
-CAPÍTULO XX DAS DISPOSIÇÕES FINAIS
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Parágrafo único.
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1756, de 31 de outubro de 2017]
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Seção III
+Da isenção dos prêmios pagos pelo Comitê Olímpico Brasileiro e pelo Comitê Paralímpico Brasileiro
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Art. 112-A. Ficam isentos do imposto sobre a renda os prêmios em dinheiro pagos pelo Comitê Olímpico Brasileiro - COB ou pelo Comitê Paralímpico Brasileiro - CPB ao atleta em razão da conquista de medalha em Jogos Olímpicos ou Paralímpicos.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Parágrafo único. Aplica-se o disposto no caput aos fatos geradores ocorridos entre 24 de julho de 2024 e 5 de dezembro de 2024.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+CAPÍTULO XX
+DAS DISPOSIÇÕES FINAIS
 
 Art. 113. Esta Instrução Normativa entra em vigor na data de sua publicação no Diário Oficial da União.
 
@@ -1586,20 +2396,446 @@ Art. 114. Ficam revogadas a Instrução Normativa SRF nº 15, de 6 de fevereiro 
 
 CARLOS ALBERTO FREITAS BARRETO
 
+ANEXO I
+RENDIMENTOS PREVIDENCIÁRIOS ISENTOS - CONTRIBUINTE MAIOR 65 ANOS
+
 ANEXO I RENDIMENTOS PREVIDENCIÁRIOS ISENTOS - CONTRIBUINTE MAIOR 65 ANOS
 
-ANEXO II TABELAS DE INCIDÊNCIA MENSAL
+Ano-calendário | Valores isentos mensais (em R$)
+2010 | até 1.499,15
+2011, até o mês de março | até 1.499,15
+2011, a partir do mês de abril | até 1.566,61
+2012 | até 1.637,11
+2013 | até 1.710,78
+2014 | até 1.787,77
+2015, até o mês de março | até 1.787,77
+A partir do mês de abril do ano-calendário de 2015 | até 1.903,98
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+ANEXO II
+TABELAS DE INCIDÊNCIA MENSAL
+
+ANEXO II TABELAS DE INCIDENCIA MENSAL
+
+I - para o ano-calendário de 2010 e, para o ano-calendário de 2011, até o mês de março:
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (R$)
+Até 1.499,15 | - | 
+De 1.499,16 até 2.246,75 | 7,5 | 112,43
+De 2.246,76 até 2.995,70 | 15 | 280,94
+De 2.995,71 até 3.743,19 | 22,5 | 505,62
+Acima de 3.743,19 | 27,5 | 692,78
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (R$)
+Até 1.566,61 |  | -
+De 1.566,62 até 2.347,85 | 7,5 | 117,49
+De 2.347,86 até 3.130,51 | 15 | 293,58
+De 3.130,52 até 3.911,63 | 22,5 | 528,37
+Acima de 3.911,63 | 27,5 | 723,95
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (R$)
+Até 1.637,11 | - | -
+De 1.637,12 até 2.453,50 | 7,5 | 122,78
+De 2.453,51 até 3.271,38 | 15 | 306,80
+De 3.271,39 até 4.087,65 | 22,5 | 552,15
+Acima de 4.087,65 | 27,5 | 756,53
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (R$)
+Até 1.710,78 | - | -
+De 1.710,79 até 2.563,91 | 7,5 | 128,31
+De 2.563,92 até 3.418,59 | 15 | 320,60
+De 3.418,60 até 4.271,59 | 22,5 | 577,00
+Acima de 4.271,59 | 27,5 | 790,58
+
+Base de Cálculo (R$) | Alíquota | Parcela a Deduzir do IR (R$)
+Até 1.787,77 | - | -
+De 1.787,78 até 2.679,29 | 7,5 | 134,08
+De 2.679,30 até 3.572,43 | 15 | 335,03
+De 3.572,44 até 4.463,81 | 22,5 | 602,96
+Acima de 4.463,81 | 27,5 | 826,15
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (R$)
+Até 1.787,77 | - | -
+De 1.787,78 até 2.679,29 | 7,5 | 134,08
+De 2.679,30 até 3.572,43 | 15 | 335,03
+De 3.572,44 até 4.463,81 | 22,5 | 602,96
+Acima de 4.463,81 | 27,5 | 826,15
+
+VII - a partir do mês de abril do ano-calendário de 2015 até o mês de abril do ano-calendário de 2023:
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a deduzir do IR (em R$)
+Até 1.903,98 | - | -
+De 1.903,99 até 2.826,65 | 7,5 | 142,80
+De 2.826,66 até 3.751,05 | 15 | 354,80
+De 3.751,06 até 4.664,68 | 22,5 | 636,13
+Acima de 4.664,68 | 27,5 | 869,36
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (em R$)
+Até 2.112,00 | zero | zero
+De 2.112,01 até 2.826,65 | 7,5 | 158,40
+De 2.826,66 até 3.751,05 | 15 | 370,40
+De 3.751,06 até 4.664,68 | 22,5 | 651,73
+Acima de 4.664,68 | 27,5 | 884,96
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (em R$)
+Até 2.259,20 | zero | zero
+De 2.259,21 até 2.826,65 | 7,5 | 169,44
+De 2.826,66 até 3.751,05 | 15 | 381,44
+De 3.751,06 até 4.664,68 | 22,5 | 662,77
+Acima de 4.664,68 | 27,5 | 896,00
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (em R$)
+Até 2.428,80 | zero | zero
+De 2.428,81 até 2.826,65 | 7,5 | 182,16
+De 2.826,66 até 3.751,05 | 15 | 394,16
+De 3.751,06 até 4.664,68 | 22,5 | 675,49
+Acima de 4.664,68 | 27,5 | 908,73
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+ANEXO III
+PARTICIPAÇÃO NOS LUCROS OU RESULTADOS DAS EMPRESAS
 
 ANEXO III PARTICIPAÇÃO NOS LUCROS OU RESULTADOS DAS EMPRESAS
 
+I - para o ano-calendário de 2013:
+
+Valor do PLR anual (em R$) | Alíquota | Parcela a deduzir do imposto (em R$)
+De 0,00 a 6.000,00 | 0,0% | -
+De 6.000,01 a 9.000,00 | 7,5% | 450,00
+De 9.000,01 a 12.000,00 | 15,0% | 1.125,00
+De 12.000,01 a 15.000,00 | 22,5% | 2.025,00
+Acima de 15.000,00 | 27,5% | 2.775,00
+
+Valor do PLR anual (em R$) | Alíquota | Parcela a deduzir do imposto (em R$)
+De 0,00 a 6.270,00 | 0,0% | -
+De 6.270,01 a 9.405,00 | 7,5% | 470,25
+De 9.405,01 a 12.540,00 | 15,0% | 1.175,63
+De 12.540,01 a 15.675,00 | 22,5% | 2.116,13
+Acima de 15.675,00 | 27,5% | 2.899,88
+
+Valor do PLR anual (em R$) | Alíquota | Parcela a deduzir do imposto (em R$)
+De 0,00 a 6.270,00 | 0,0% | -
+De 6.270,01 a 9.405,00 | 7,5% | 470,25
+De 9.405,01 a 12.540,00 | 15% | 1.175,63
+De 12.540,01 a 15.675,00 | 22,5% | 2.116,13
+Acima de 15.675,00 | 27,5% | 2.899,88
+
+Valor do PLR anual (em R$) | Alíquota | Parcela a deduzir do imposto (em R$)
+De 0,00 a 6.677,55 | 0,0% | -
+De 6.677,56 a 9.922,28 | 7,5% | 500,82
+De 9.922,29 a 13.167,00 | 15% | 1.244,99
+De 13.167,01 a 16.380,38 | 22,5% | 2.232,51
+Acima de 16.380,38 | 27,5% | 3.051,53
+
+Valor do PLR anual (em R$) | Alíquota (%) | Parcela a Deduzir do imposto (em R$)
+De 0,00 a 7.407,11 | zero | zero
+De 7.407,12 a 9.922,28 | 7,5 | 555,53
+De 9.922,29 a 13.167,00 | 15 | 1.299,70
+De 13.167,01 a 16.380,38 | 22,5 | 2.287,23
+Acima de 16.380,38 | 27,5 | 3.106,25
+
+Valor do PLR anual (em R$) | Alíquota (%) | Parcela a Deduzir do imposto (em R$)
+De 0,00 a 7.640,80 | zero | zero
+De 7.640,81 a 9.922,28 | 7,5 | 573,06
+De 9.922,29 a 13.167,00 | 15 | 1.317,23
+De 13.167,01 a 16.380,38 | 22,5 | 2.304,76
+Acima de 16.380,38 | 27,5 | 3.123,78
+
+VII - a partir do mês de maio do ano-calendário de 2025:
+
+Valor do PLR anual (em R$) | Alíquota (%) | Parcela a Deduzir do Imposto (em R$)
+De 0,00 a 8.214,40 | zero | zero
+De 8.214,41 a 9.922,28 | 7,5 | 616,08
+De 9.922,29 a 13.167,00 | 15 | 1.360,25
+De 13.167,01 a 16.380,38 | 22,5 | 2.347,78
+Acima de 16.380,38 | 27,5 | 3.166,80
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+ANEXO IV
+COMPOSIÇÃO DA TABELA ACUMULADA
+
 ANEXO IV COMPOSIÇÃO DA TABELA ACUMULADA
 
-ANEXO V DECLARAÇÃO
+Legenda: NM = Número de meses a que se refere o pagamento acumulado. I - para o ano-calendário de 2011: a) nos meses de janeiro a março:
 
-ANEXO VI DEDUÇÃO POR DEPENDENTE
+Base de Cálculo em R$ | Alíquota (%) | Parcela a Deduzir do Imposto (R$)
+Até (1.499,15 x NM) | - | -
+Acima de (1.499,15 x NM) até (2.246,75 x NM) | 7,5 | 112,43625 x NM
+Acima de (2.246,75 x NM) até (2.995,70 x NM) | 15 | 280,94250 x NM
+Acima de (2.995,70 x NM) até (3.743,19 x NM) | 22,5 | 505,62000 x NM
+Acima de (3.743,19 x NM) | 27,5 | 692,77950 x NM
+
+Base de Cálculo em R$ | Alíquota (%) | Parcela a Deduzir do Imposto (R$)
+Até (1.566,61 x NM) | - | -
+Acima de (1.566,61 x NM) até (2.347,85 x NM) | 7,5 | 117,49575 x NM
+Acima de (2.347,85 x NM) até (3.130,51 x NM) | 15 | 293,58450 x NM
+Acima de (3.130,51 x NM) até (3.911,63 x NM) | 22,5 | 528,37275 x NM
+Acima de (3.911,63 x NM) | 27,5 | 723,95425 x NM
+
+Base de Cálculo em R$ | Alíquota (%) | Parcela a Deduzir do Imposto (R$)
+Até (1.637,11 x NM) | - | -
+Acima de (1.637,11 x NM) até (2.453,50 x NM) | 7,5 | 122,78325 x NM
+Acima de (2.453,50 x NM) até (3.271,38 x NM) | 15 | 306,79575 x NM
+Acima de (3.271,38 x NM) até (4.087,65 x NM) | 22,5 | 552,14925 x NM
+Acima de (4.087,65 x NM) | 27,5 | 756,53175 x NM
+
+Base de Cálculo em R$ | Alíquota (%) | Parcela a Deduzir do Imposto (R$)
+Até (1.710,78 x NM) | - | -
+Acima de (1.710,78 x NM) até (2.563,91 x NM) | 7,5 | 128,30850 x NM
+Acima de (2.563,91 x NM) até (3.418,59 x NM) | 15 | 320,60175 x NM
+Acima de (3.418,59 x NM) até (4.271,59 x NM) | 22,5 | 576,99600 x NM
+Acima de (4.271,59 x NM) | 27,5 | 790,57550 x NM
+
+Base de Cálculo em R$ | Alíquota (%) | Parcela a Deduzir do Imposto (R$)
+Até (1.787,77 x NM) | - | -
+Acima de (1.787,77 x NM) até (2.679,29 x NM) | 7,5 | 134,08275 x NM
+Acima de (2.679,29 x NM) até (3.572,43 x NM) | 15 | 335,02950 x NM
+Acima de (3.572,43 x NM) até (4.463,81 x NM) | 22,5 | 602,96175 x NM
+Acima de (4.463,81 x NM) | 27,5 | 826,15225 x NM
+
+V - para o ano-calendário de 2015, até o mês de março:
+
+Base de Cálculo em R$ | Alíquota (%) | Parcela a Deduzir do Imposto (R$)
+Até (1.787,77 x NM) | - | -
+Acima de (1.787,77 x NM) até (2.679,29 x NM) | 7,5 | 134,08275 x NM
+Acima de (2.679,29 x NM) até (3.572,43 x NM) | 15 | 335,02950 x NM
+Acima de (3.572,43 x NM) até (4.463,81 x NM) | 22,5 | 602,96175 x NM
+Acima de (4.463,81 x NM) | 27,5 | 826,15225 x NM
+
+Base de Cálculo em R$ | Alíquota (%) | Parcela a Deduzir do Imposto (R$)
+Até (1.903,98 x NM) | - | -
+Acima de (1.903,98 x NM) até (2.826,65 x NM) | 7,5 | 142,79850 x NM
+Acima de (2.826,65 x NM) até (3.751,05 x NM) | 15 | 354,79725 x NM
+Acima de (3.751,05 x NM) até (4.664,68 x NM) | 22,5 | 636,12600 x NM
+Acima de (4.664,68 x NM) | 27,5 | 869,36000 x NM
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (em R$)
+Até (2.112,00 x NM) | zero | zero
+Acima de (2.112,20 x NM) até (2.826,65 x NM) | 7,5 | 158,40000 x NM
+Acima de (2.826,65 x NM) até (3.751,05 x NM) | 15 | 370,39875 x NM
+Acima de (3.751,05 x NM) até (4.664,68 x NM) | 22,5 | 651,72750 x NM
+Acima de (4.664,68 x NM) | 27,5 | 884,96150 x NM
+
+Base de Cálculo em R$ | Alíquota (%) | Parcela a Deduzir do Imposto (R$)
+Até (2.259,20 x NM) | zero | zero
+Acima de (2.259,20 x NM) até (2.826,65 x NM) | 7,5 | 169,44000 x NM
+Acima de (2.826,65 x NM) até (3.751,05 x NM) | 15 | 381,43875 x NM
+Acima de (3.751,05 x NM) até (4.664,68 x NM) | 22,5 | 662,76750 x NM
+Acima de (4.664,68 x NM) | 27,5 | 896,00150 x NM
+
+Base de Cálculo em R$ | Alíquota (%) | Parcela a Deduzir do Imposto (R$)
+Até (2.428,80 x NM) | zero | zero
+Acima de (2.428,80 x NM) até (2.826,65 x NM) | 7,5 | 182,16000 x NM
+Acima de (2.826,65 x NM) até (3.751,05 x NM) | 15 | 394,15875 x NM
+Acima de (3.751,05 x NM) até (4.664,68 x NM) | 22,5 | 675,48750 x NM
+Acima de (4.664,68 x NM) | 27,5 | 908,72150 x NM
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+ANEXO V
+DECLARAÇÃO
+
+[imagem]
+
+[imagem]
+
+[imagem]
+
+ANEXO VI
+DEDUÇÃO POR DEPENDENTE
+
+ANEXO VI
+
+DEDUÇÃO POR DEPENDENTE
+
+Mensal:
+
+Ano-calendário | Quantia por dependente (em R$)
+2010 | 150,69
+2011 | 157,47
+2012 | 164,56
+2013 | 171,97
+A partir de 2014 | 179,71
+
+Mensal: (Redação dada pela IN RFB nº 1.558, de 2015)
+
+Ano-calendário | Quantia por dependente (em R$)
+2010 | 150,69
+2011 | 157,47
+2012 | 164,56
+2013 | 171,97
+2014 | 179,71
+2015, até o mês de março | 179,71
+A partir do mês de abril do ano-caledário de 2015 | 189,59
+
+Anual:
+
+Ano-calendário | Quantia por dependente (em R$)
+2010 | 1.808,28
+2011 | 1.889,64
+2012 | 1.974,72
+2013 | 2.063,64
+A partir de 2014 | 2.156,52
+
+Anual: (Redação dada pela IN RFB nº 1.558, de 2015)
+
+Ano-calendário | Quantia por dependente (em R$)
+2010 | 1.808,28
+2011 | 1.889,64
+2012 | 1.974,72
+2013 | 2.063,64
+2014 | 2.156,52
+A partir de 2015 | 2.275,08
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+ANEXO VII
+TABELAS PROGRESSIVAS ANUAIS
 
 ANEXO VII TABELAS PROGRESSIVAS ANUAIS
 
-ANEXO VIII LIMITES ANUAIS INDIVIDUAIS DE DESPESAS COM INSTRUÇÃO
+I - para o exercício de 2012, ano-calendário de 2011:
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (R$)
+Até 18.799,32 | - | -
+De 18.799,33 até 28.174,20 | 7,5 | 1.409,95
+De 28.174,21 até 37.566,12 | 15 | 3.523,01
+De 37.566,13 até 46.939,56 | 22,5 | 6.340,47
+Acima de 46.939,56 | 27,5 | 8.687,45
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (R$)
+Até 19.645,32 | - | -
+De 19.645,33 até 29.442,00 | 7,5 | 1.473,40
+De 29.442,01 até 39.256,56 | 15 | 3.681,55
+De 39.256,57 até 49.051,80 | 22,5 | 6.625,79
+Acima de 49.051,80 | 27,5 | 9.078,38
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (R$)
+Até 20.529,36 | - | -
+De 20.529,37 até 30.766,92 | 7,5 | 1.539,70
+De 30.766,93 até 41.023,08 | 15 | 3.847,22
+De 41.023,09 até 51.259,08 | 22,5 | 6.923,95
+Acima de 51.259,08 | 27,5 | 9.486,91
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (R$)
+Até 21.453,24 | - | -
+De 21.453,25 até 32.151,48 | 7,5 | 1.608,99
+De 32.151,49 até 42.869,16 | 15 | 4.020,35
+De 42.869,17 até 53.565,72 | 22,5 | 7.235,54
+Acima de 53.565,72 | 27,5 | 9.913,83
+
+Base de Cálculo (RS) | Alíquota (%) | Parcela a deduzir do IR (R$)
+Até 22.499.13 | - | -
+De 22.499.14 até 33.477.72 | 7,5 | 1.687.43
+De 33.477,73 até 44.476,74 | 15 | 4.198,26
+De 44.476,75 até 55.373,55 | 22,5 | 7.534,02
+Acima de 55.373,55 | 27,5 | 10.302,70
+
+Base de Cálculo (RS) | Alíquota (%) | Parcela a deduzir do IR (R$)
+Até 22.847,76 | - | -
+De 22.847,77 até 33.919,80 | 7,5 | 1.713,58
+De 33.919,81 até 45.012,60 | 15 | 4.257,57
+De 45.012,61 até 55.976,16 | 22,5 | 7.633,51
+Acima de 55.976,16 | 27,5 | 10.432,32
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (R$)
+Até 24.511,92 | zero | zero
+De 24.511,93 até 33.919,80 | 7,5 | 1.838,39
+De 33.919,81 até 45.012,60 | 15 | 4.382,38
+De 45.012,61 até 55.976,16 | 22,5 | 7.758,32
+Acima de 55.976,16 | 27,5 | 10.557,13
+
+VIII - no exercício de 2025, ano-calendário de 2024:
+
+Base de Cálculo (R$) Alíquota (%) Parcela a Deduzir do IR (R$)
+
+Até 26.963,20 zero zero
+
+De 26.963,21 até 33.919,80 7,5 2.022,24
+
+De 33.919,81 até 45.012,60 15 4.566,23
+
+De 45.012,61 até 55.976,16 22,5 7.942,17
+
+Acima de 55.976,16 27,5 10.740,98
+
+IX - no exercício de 2026, ano-calendário de 2025:
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (R$)
+Até 28.467,20 | zero | zero
+De 28.467,21 até 33.919,80 | 7,5 | 2.135,04
+De 33.919,81 até 45.012,60 | 15 | 4.679,03
+De 45.012,61 até 55.976,16 | 22,5 | 8.054,97
+Acima de 55.976,16 | 27,5 | 10.853,78
+
+Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (R$)
+Até 29.145,60 | zero | zero
+De 29.145,61 até 33.919,80 | 7,5 | 2.185,92
+De 33.919,81 até 45.012,60 | 15 | 4.729,91
+De 45.012,61 até 55.976,16 | 22,5 | 8.105,85
+Acima de 55.976,16 | 27,5 | 10.904,66
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+ANEXO VIII
+LIMITES ANUAIS INDIVIDUAIS DE DESPESAS COM INSTRUÇÃO
+
+ANEXO VIII
+
+LIMITES ANUAIS INDIVIDUAIS DE DESPESAS COM INSTRUÇÃO
+
+Ano-calendário | Quantia (em R$)
+2010 | 2.830,84
+2011 | 2.958,23
+2012 | 3.091,35
+2013 | 3.230,46
+2014 | 3.375,83
+A partir de 2015 | 3.561,50
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1558, de 31 de março de 2015]
+
+ANEXO IX
+LIMITES ANUAIS REFERENTES AO DESCONTO SIMPLIFICADO
 
 ANEXO IX LIMITES ANUAIS REFERENTES AO DESCONTO SIMPLIFICADO
+
+Ano-calendário | Quantia (em R$)
+2010 | R$ 13.317,09
+2011 | R$ 13.916,36
+2012 | R$ 14.542,60
+2013 | R$ 15.197,02
+2014 | R$ 15.880,89
+2015 a 2025 | R$ 16.754,34
+A partir do ano-calendário de 2026 | R$ 17.640,00
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+ANEXO X
+TABELA DE REDUÇÃO DO IMPOSTO MENSAL - A PARTIR DE 1º DE JANEIRO DE 2026
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+Rendimentos Tributáveis Sujeitos ao Ajuste Mensal | Redução do Imposto sobre a Renda
+até R$ 5.000,00 | até R$ 312,89(de modo que o imposto devido seja zero)
+de R$ 5.000,01 a R$ 7.350,00 | R$ 978,62 - (0,133145 x rendimentos tributáveis sujeitos à incidência mensal)(de modo que a redução do imposto seja decrescente linearmente até zerar para rendimentos a partir de R$ 7.350,00)
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+ANEXO XI
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]
+
+ANEXO II
+
+(Anexo XI da Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014)
+
+O seguinte texto deverá constar do ComprovaBet:
+
+O contribuinte deverá verificar se os valores informados neste comprovante somados aos valores informados por outros agentes operadores de apostas implicam apuração e posterior pagamento do Imposto sobre a Renda das Pessoas Físicas – IRPF. Para isso, o contribuinte poderá consultar aplicação disponibilizada pela Secretaria Especial da Receita Federal do Brasil.
+
+Caso o contribuinte esteja obrigado à apresentação da Declaração de Ajuste Anual – DAA do IRPF, deverá nela informar o valor dos saldos das contas gráficas do apostador, constantes deste comprovante e de comprovantes fornecidos por outros agentes operadores de apostas, na Ficha de Bens e Direitos.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025]

@@ -32,7 +32,7 @@
   "dataPublicacao": "2010-06-07",
   "dataVigenciaInicio": "2010-06-07",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -92,7 +92,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 1,
       "ordemSegmentoAto": 3,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -112,7 +112,7 @@
       "idTipoSegmento": 3,
       "idAssunto": 1,
       "ordemSegmentoAto": 4,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -120,7 +120,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 1º Para fins do disposto nesta Instrução Normativa, consideram-se países ou dependências que não tributam a renda ou que a tributam à alíquota inferior a 17% (dezessete por cento) ou, ainda, cuja legislação interna não permita acesso a informações relativas à composição societária de pessoas jurídicas, à sua titularidade ou à identificação do beneficiário efetivo de rendimentos atribuídos a não residentes, as seguintes jurisdições:",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 144202,
+          "idSegmento": 2610990,
+          "idAnotacao": 291916,
+          "href": "144202",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 2265, de 9 de maio de 2025]",
+          "dataInicioVigencia": "13/05/2025",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -198,9 +214,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "IV - Antilhas Holandesas;",
+      "textoIntegra": "IV -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 77307,
+          "idSegmento": 1661236,
+          "idAnotacao": 227315,
+          "href": "77307",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 1658, de 13 de setembro de 2016]",
+          "dataInicioVigencia": "01/10/2016",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -458,9 +490,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "XVII - Cingapura;",
+      "textoIntegra": "XVII -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839199,
+          "idAnotacao": 234507,
+          "href": "88881",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -498,9 +546,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "XIX - República da Costa Rica;",
+      "textoIntegra": "XIX -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839199,
+          "idAnotacao": 234499,
+          "href": "88881",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -558,9 +622,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "XXII - Emirados Árabes Unidos;",
+      "textoIntegra": "XXII -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 144202,
+          "idSegmento": 2610994,
+          "idAnotacao": 291917,
+          "href": "144202",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2265, de 9 de maio de 2025]",
+          "dataInicioVigencia": "13/05/2025",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -758,9 +838,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "XXXII - Ilha da Madeira;",
+      "textoIntegra": "XXXII -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839199,
+          "idAnotacao": 234500,
+          "href": "88881",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1058,9 +1154,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "XLVIII - San Marino;",
+      "textoIntegra": "XLVIII -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 101963,
+          "idSegmento": 1999187,
+          "idAnotacao": 244105,
+          "href": "101963",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 1896, de 27 de junho de 2019]",
+          "dataInicioVigencia": "28/06/2019",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1218,9 +1330,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "LVI - St. Kitts e Nevis;",
+      "textoIntegra": "LVI -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 77307,
+          "idSegmento": 1661236,
+          "idAnotacao": 227316,
+          "href": "77307",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 1658, de 13 de setembro de 2016]",
+          "dataInicioVigencia": "01/10/2016",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1258,9 +1386,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "LVIII - Suíça;",
+      "textoIntegra": "LVIII -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 53415,
+          "idSegmento": 1420605,
+          "idAnotacao": 216149,
+          "href": "53415",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 1474, de 18 de junho de 2014]",
+          "dataInicioVigencia": "20/06/2014",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1412,7 +1556,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 69,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1420,7 +1564,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "LXVI - Curaçao;",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 77307,
+          "idSegmento": 1661227,
+          "idAnotacao": 227308,
+          "href": "77307",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1658, de 13 de setembro de 2016]",
+          "dataInicioVigencia": "01/10/2016",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1432,7 +1592,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 70,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1440,7 +1600,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "LXVII - São Martinho;",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 77307,
+          "idSegmento": 1661228,
+          "idAnotacao": 227309,
+          "href": "77307",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1658, de 13 de setembro de 2016]",
+          "dataInicioVigencia": "01/10/2016",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1452,7 +1628,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 71,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1460,7 +1636,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "LXVIII - Irlanda.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 77307,
+          "idSegmento": 1661229,
+          "idAnotacao": 227310,
+          "href": "77307",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1658, de 13 de setembro de 2016]",
+          "dataInicioVigencia": "01/10/2016",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1498,9 +1690,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "I - com referência à legislação de Luxemburgo, o regime aplicável às pessoas jurídicas constituídas sob a forma de holding company;",
+      "textoIntegra": "I -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 3299,
+          "idSegmento": 14544,
+          "idAnotacao": 188591,
+          "href": "3299",
+          "texto": "[Revogado(a) pelo(a) Ato Declaratório Executivo RFB nº 3, de 25 de março de 2011]",
+          "dataInicioVigencia": "28/03/2011",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1532,7 +1740,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 75,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -1552,7 +1760,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 1,
       "ordemSegmentoAto": 76,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1560,7 +1768,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "III - com referência à legislação da Dinamarca, o regime aplicável às pessoas jurídicas constituídas sob a forma de holding company que não exerçam atividade econômica substantiva;",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 16010,
+          "idSegmento": 510633,
+          "idAnotacao": 188589,
+          "href": "16010",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1045, de 23 de junho de 2010]",
+          "dataInicioVigencia": "24/06/2010",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1572,7 +1796,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 77,
-      "omitir": false,
+      "omitir": true,
       "tachado": false,
       "original": true,
       "compilado": false,
@@ -1592,7 +1816,7 @@
       "idTipoSegmento": 999,
       "idAssunto": 1,
       "ordemSegmentoAto": 78,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1600,7 +1824,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "IV - com referência à legislação do Reino dos Países Baixos, o regime aplicável às pessoas jurídicas constituídas sob a forma de holding company que não exerçam atividade econômica substantiva;",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 16010,
+          "idSegmento": 510634,
+          "idAnotacao": 188590,
+          "href": "16010",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1045, de 23 de junho de 2010]",
+          "dataInicioVigencia": "24/06/2010",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1638,9 +1878,25 @@
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "VI - com referência à legislação da Hungria, o regime aplicável às pessoas jurídicas constituídas sob a forma de offshore KFT;",
+      "textoIntegra": "VI -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 53415,
+          "idSegmento": 1420605,
+          "idAnotacao": 216150,
+          "href": "53415",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 1474, de 18 de junho de 2014]",
+          "dataInicioVigencia": "20/06/2014",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1712,7 +1968,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 84,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1720,7 +1976,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "X - com referência à Suíça, os regimes aplicáveis às pessoas jurídicas constituídas sob a forma de holding company, domiciliary company, auxiliary company, mixed company e administrative company cujo tratamento tributário resulte em incidência de Imposto sobre a Renda da Pessoa Jurídica (IRPJ), de forma combinada, inferior a 20% (vinte por cento), segundo a legislação federal, cantonal e municipal, assim como o regime aplicável a outras formas legais de constituição de pessoas jurídicas, mediante rulings emitidos por autoridades tributárias, que resulte em incidência de IRPJ, de forma combinada, inferior a 20% (vinte por cento), segundo a legislação federal, cantonal e municipal.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 53415,
+          "idSegmento": 1420602,
+          "idAnotacao": 216148,
+          "href": "53415",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1474, de 18 de junho de 2014]",
+          "dataInicioVigencia": "20/06/2014",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1752,15 +2024,46 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 86,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": false,
       "agendado": false,
       "desinenciaTipoSegmento": false,
-      "textoIntegra": "XI - com referência à legislação da República da Áustria, o regime aplicável às pessoas jurídicas constituídas sob a forma de holding company que não exerçam atividade econômica substantiva.",
+      "textoIntegra": "XI -",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 79465,
+          "idSegmento": 1687089,
+          "idAnotacao": 298638,
+          "href": "79465",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1683, de 29 de dezembro de 2016]",
+          "dataInicioVigencia": "30/12/2016",
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        },
+        {
+          "idAto": 144202,
+          "idSegmento": 2610995,
+          "idAnotacao": 298639,
+          "href": "144202",
+          "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2265, de 9 de maio de 2025]",
+          "dataInicioVigencia": "13/05/2025",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1772,7 +2075,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 88,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1780,7 +2083,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "XII - com referência à legislação da República da Costa Rica, o Regime de Zonas Francas (RZF);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839173,
+          "idAnotacao": 234474,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1792,7 +2111,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 89,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1800,7 +2119,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "XIII - com referência à legislação de Portugal, o regime do Centro Internacional de Negócios da Madeira (CINM); e",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839174,
+          "idAnotacao": 234475,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1812,7 +2147,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 90,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1820,7 +2155,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "XIV - com referência à legislação de Singapura, os seguintes regimes de alíquota diferenciada para:",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839175,
+          "idAnotacao": 234476,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1832,7 +2183,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 91,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1840,7 +2191,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "a) armador ou fretador ou para empresa de transporte aéreo não residentes (special rate of tax for non-resident shipowner or charterer or air transport undertaking);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839176,
+          "idAnotacao": 234477,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1852,7 +2219,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 92,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1860,7 +2227,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "b) seguradoras e resseguradoras ou o regime de isenção aplicável a tais empresas (exemption and concessionary rate of tax for insurance and reinsurance business);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839177,
+          "idAnotacao": 234478,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1872,7 +2255,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 93,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1880,7 +2263,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "c) Centro de Finanças e Tesouraria (concessionary rate of tax for Finance and Treasury Centre);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839178,
+          "idAnotacao": 234479,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1892,7 +2291,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 94,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1900,7 +2299,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "d) administrador fiduciário (concessionary rate of tax for trustee company);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839179,
+          "idAnotacao": 234480,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1912,7 +2327,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 95,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1920,7 +2335,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "e) renda derivada de títulos de dívida (concessionary rate of tax for income derived from debt securities);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839180,
+          "idAnotacao": 234481,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1932,7 +2363,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 96,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1940,7 +2371,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "f) empresa de comércio global e empresa elegível (concessionary rate of tax for global trading company and qualifying company);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839181,
+          "idAnotacao": 234482,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1952,7 +2399,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 97,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1960,7 +2407,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "g) empresa de incentivo do setor financeiro (concessionary rate of tax for financial sector incentive company);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839182,
+          "idAnotacao": 234483,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1972,7 +2435,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 98,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -1980,7 +2443,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "h) prestação de serviços de processamento para instituições financeiras (concessionary rate of tax for provision of processing services for financial institutions);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839183,
+          "idAnotacao": 234484,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -1992,7 +2471,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 99,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2000,7 +2479,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "i) gestor de investimentos em transporte marítimo (concessionary rate of tax for shipping investment manager);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839184,
+          "idAnotacao": 234485,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2012,7 +2507,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 100,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2020,7 +2515,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "j) beneficiário de renda fiduciária (concessionary rate of tax for trust income to which beneficiary is entitled);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839185,
+          "idAnotacao": 234486,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2032,7 +2543,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 101,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2040,7 +2551,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "k) arrendamento de aeronaves e motores de aeronaves (concessionary rate of tax for leasing of aircraft and aircraft engines);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839186,
+          "idAnotacao": 234487,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2052,7 +2579,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 102,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2060,7 +2587,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "l) gestor de investimentos em aeronaves (concessionary rate of tax for aircraft investment manager);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839187,
+          "idAnotacao": 234488,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2072,7 +2615,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 103,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2080,7 +2623,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "m) empresa de investimento em contêineres (concessionary rate of tax for container investment enterprise);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839188,
+          "idAnotacao": 234489,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2092,7 +2651,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 104,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2100,7 +2659,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "n) gestor de investimentos em contêineres (concessionary rate of tax for container investment manager);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839189,
+          "idAnotacao": 234490,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2112,7 +2687,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 105,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2120,7 +2695,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "o) corretores de seguros autorizados (concessionary rate of tax for approved insurance brokers);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839190,
+          "idAnotacao": 234491,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2132,7 +2723,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 106,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2140,7 +2731,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "p) renda derivada da gestão de negócios registrados de fideicomissos ou de empresas elegíveis (concessionary rate of tax for income derived from managing qualifying registered business trust or company);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839191,
+          "idAnotacao": 234492,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2152,7 +2759,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 107,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2160,7 +2767,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "q) corretores de navios e de operações de proteção de frete marítimo (concessionary rate of tax for ship broking and forward freight agreement trading);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839192,
+          "idAnotacao": 234493,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2172,7 +2795,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 108,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2180,7 +2803,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "r) serviços de suporte relacionados com transporte marítimo (concessionary rate of tax for shipping-related support services);",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839193,
+          "idAnotacao": 234494,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2192,7 +2831,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 109,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2200,7 +2839,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "s) renda derivada da gestão de investimentos autorizados (concessionary rate of tax for income derived from managing approved venture company); e",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839194,
+          "idAnotacao": 234495,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2212,7 +2867,7 @@
       "idTipoSegmento": 14,
       "idAssunto": 1,
       "ordemSegmentoAto": 110,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2220,7 +2875,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "t) empresa em processo de expansão internacional (concessionary rate of tax for international growth company).",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839195,
+          "idAnotacao": 234496,
+          "href": "88881",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2252,7 +2923,7 @@
       "idTipoSegmento": 5,
       "idAssunto": 1,
       "ordemSegmentoAto": 112,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2260,7 +2931,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Parágrafo único. Para fins de identificação de regimes fiscais privilegiados previstos nos incisos III e IV do caput, entende-se que a pessoa jurídica que exerce a atividade de holding desempenha atividade econômica substantiva quando possui, no seu país de domicílio, capacidade operacional apropriada para os seus fins, evidenciada, entre outros fatores, pela existência de empregados próprios qualificados em número suficiente e de instalações físicas adequadas para o exercício da gestão e efetiva tomada de decisões relativas:",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 88881,
+          "idSegmento": 1839196,
+          "idAnotacao": 298640,
+          "href": "88881",
+          "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1773, de 21 de dezembro de 2017]",
+          "dataInicioVigencia": "01/01/2018",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2272,7 +2959,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 114,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2280,7 +2967,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "I - ao desenvolvimento das atividades com o fim de obter rendas derivadas dos ativos de que dispõe; ou",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 77307,
+          "idSegmento": 1661234,
+          "idAnotacao": 227313,
+          "href": "77307",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1658, de 13 de setembro de 2016]",
+          "dataInicioVigencia": "01/10/2016",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2292,7 +2995,7 @@
       "idTipoSegmento": 15,
       "idAssunto": 1,
       "ordemSegmentoAto": 115,
-      "omitir": true,
+      "omitir": false,
       "tachado": false,
       "original": false,
       "compilado": true,
@@ -2300,7 +3003,23 @@
       "desinenciaTipoSegmento": false,
       "textoIntegra": "II - à administração de participações societárias com o fim de obter rendas decorrentes da distribuição de lucro e do ganho de capital.",
       "ancorasOrigem": [],
-      "ancorasDestino": [],
+      "ancorasDestino": [
+        {
+          "idAto": 77307,
+          "idSegmento": 1661235,
+          "idAnotacao": 227314,
+          "href": "77307",
+          "texto": "[Incluído(a) pelo(a) Instrução Normativa RFB nº 1658, de 13 de setembro de 2016]",
+          "dataInicioVigencia": "01/10/2016",
+          "dataRepublicacao": null,
+          "permiteExcluir": true,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "arquivoBinario": null,
       "estiloSegmento": null
     },
@@ -2339,7 +3058,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "Art. 4º Fica revogada a Instrução Normativa SRF Nº 188, de 6 de agosto de 2002.",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 15054,
+          "idSegmento": null,
+          "idAnotacao": 185292,
+          "href": "15054",
+          "texto": "[Instrução Normativa SRF nº 188, de 06/08/2002 - |Relaciona países ou dependências com tributaç...| - Revogação]",
+          "dataInicioVigencia": "07/06/2010",
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -2380,7 +3115,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -2395,7 +3130,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -2410,7 +3145,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -2425,7 +3160,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -2440,7 +3175,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -2455,7 +3190,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -2470,7 +3205,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     },
     {
@@ -2485,7 +3220,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     }
   ],
@@ -2688,6 +3423,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/16002/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/16002/visao/vigente",
+  "_fetched_at": "2026-07-29T19:19:05.341233+00:00"
 }

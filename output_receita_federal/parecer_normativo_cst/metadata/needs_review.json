@@ -10,6 +10,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "1 candidate(s) found, none matched órgão=CST/number=122/date=1974-06-08",
@@ -17,7 +18,12 @@
     "review_reason": "date_mismatch",
     "source_filenames": [
       "Parecer Normativo CST nº 122, de 8 de junho de 1974.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "parecer_normativo_cst",
@@ -30,6 +36,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "1 candidate(s) found, none matched órgão=CST/number=129/date=1973-09-13",
@@ -37,7 +44,12 @@
     "review_reason": "date_mismatch",
     "source_filenames": [
       "Parecer Normativo CST nº 129, de 13 de setembro de 1973.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "parecer_normativo_cst",
@@ -50,6 +62,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "No idAto returned by search",
@@ -57,7 +70,12 @@
     "review_reason": "not_found",
     "source_filenames": [
       "Parecer Normativo CST nº 25, de 1976.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "parecer_normativo_cst",
@@ -70,6 +88,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "No idAto returned by search",
@@ -77,7 +96,12 @@
     "review_reason": "not_found",
     "source_filenames": [
       "Parecer Normativo CST nº 250, de 15 de março de 1971.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "parecer_normativo_cst",
@@ -90,6 +114,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "No idAto returned by search",
@@ -97,7 +122,12 @@
     "review_reason": "not_found",
     "source_filenames": [
       "Parecer Normativo CST nº 32, de 17 de agosto de 1981.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "parecer_normativo_cst",
@@ -110,6 +140,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "1 candidate(s) found, none matched órgão=CST/number=36/date=1977-05-30",
@@ -117,7 +148,12 @@
     "review_reason": "date_mismatch",
     "source_filenames": [
       "Parecer Normativo CST nº 36, de 30 de maio de 1977.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "parecer_normativo_cst",
@@ -130,6 +166,7 @@
     "url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/131125/visao/original",
     "success": true,
     "json_filename": "pn_cst_38_nodate.json",
+    "original_json_filename": "",
     "text_filename": "pn_cst_38_nodate.txt",
     "docx_filename": "pn_cst_38_nodate.docx",
     "error": null,
@@ -137,7 +174,66 @@
     "review_reason": "matched_without_date",
     "source_filenames": [
       "Parecer Normativo CST nº 38, de 1975.txt"
-    ]
+    ],
+    "fetched_at": "2026-07-29T19:26:33.809601+00:00",
+    "exibir_visoes": "1000",
+    "data_vigencia_inicio": "1980-11-05",
+    "act_revoked": false,
+    "render_stats": {
+      "segments_rendered": 84,
+      "segments_omitted": 0,
+      "segments_struck_dropped": 0,
+      "annotations": 0,
+      "attachments": 4,
+      "attachment_tables": 0,
+      "attachments_failed": 0,
+      "attachment_details": [
+        {
+          "id_arquivo": 70030,
+          "kind": "jpg",
+          "name": "PN 38-80 Figura 1.JPG",
+          "size": 50043,
+          "saved_as": "pn_cst_38_nodate__70030_PN_38-80_Figura_1.JPG",
+          "n_tables": 0,
+          "converted": true,
+          "source": "inline",
+          "error": null
+        },
+        {
+          "id_arquivo": 70031,
+          "kind": "jpg",
+          "name": "PN 38-80 Figura 2.JPG",
+          "size": 26499,
+          "saved_as": "pn_cst_38_nodate__70031_PN_38-80_Figura_2.JPG",
+          "n_tables": 0,
+          "converted": true,
+          "source": "inline",
+          "error": null
+        },
+        {
+          "id_arquivo": 70032,
+          "kind": "jpg",
+          "name": "PN 38-80 Figura 3.JPG",
+          "size": 15000,
+          "saved_as": "pn_cst_38_nodate__70032_PN_38-80_Figura_3.JPG",
+          "n_tables": 0,
+          "converted": true,
+          "source": "inline",
+          "error": null
+        },
+        {
+          "id_arquivo": 70033,
+          "kind": "jpg",
+          "name": "PN 38-80 Figura 4.JPG",
+          "size": 14422,
+          "saved_as": "pn_cst_38_nodate__70033_PN_38-80_Figura_4.JPG",
+          "n_tables": 0,
+          "converted": true,
+          "source": "inline",
+          "error": null
+        }
+      ]
+    }
   },
   {
     "type": "parecer_normativo_cst",
@@ -150,6 +246,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "3 candidate(s) found, none matched órgão=CST/number=44/date=1976-06-30",
@@ -157,7 +254,12 @@
     "review_reason": "date_mismatch",
     "source_filenames": [
       "Parecer Normativo CST nº 44, de 30 de junho de 1976.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "parecer_normativo_cst",
@@ -170,6 +272,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "1 candidate(s) found, none matched órgão=CST/number=68/date=1976-09-14",
@@ -177,7 +280,12 @@
     "review_reason": "date_mismatch",
     "source_filenames": [
       "Parecer Normativo CST nº 68, de 14 de setembro de 1976.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "parecer_normativo_cst",
@@ -186,10 +294,11 @@
     "canonical_name": "Parecer Normativo CST nº 72",
     "id_ato": "69612",
     "alternate_id_atos": [],
-    "view": "original",
-    "url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/69612/visao/original",
+    "view": "vigente",
+    "url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/69612/visao/vigente",
     "success": true,
     "json_filename": "pn_cst_72_nodate.json",
+    "original_json_filename": "",
     "text_filename": "pn_cst_72_nodate.txt",
     "docx_filename": "pn_cst_72_nodate.docx",
     "error": null,
@@ -197,7 +306,21 @@
     "review_reason": "matched_without_date",
     "source_filenames": [
       "Parecer Normativo CST nº 72, de 1979.txt"
-    ]
+    ],
+    "fetched_at": "2026-07-29T19:26:46.400911+00:00",
+    "exibir_visoes": "1111",
+    "data_vigencia_inicio": "1975-07-31",
+    "act_revoked": false,
+    "render_stats": {
+      "segments_rendered": 13,
+      "segments_omitted": 0,
+      "segments_struck_dropped": 0,
+      "annotations": 0,
+      "attachments": 0,
+      "attachment_tables": 0,
+      "attachments_failed": 0,
+      "attachment_details": []
+    }
   },
   {
     "type": "parecer_normativo_cst",
@@ -210,6 +333,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "No idAto returned by search",
@@ -217,6 +341,11 @@
     "review_reason": "not_found",
     "source_filenames": [
       "Parecer Normativo CST nº 90, de 16 de outubro de 1978.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   }
 ]

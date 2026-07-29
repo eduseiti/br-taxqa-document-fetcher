@@ -1,0 +1,124 @@
+{
+ "idAto": 61197,
+ "epigrafe": {
+  "tipoAto": {
+   "idTipoAto": 42,
+   "siglaTipoAto": "IN",
+   "nomeTipoAto": "Instrução Normativa",
+   "prioridadeTipoAto": 13,
+   "exibirTipoAto": 1
+  },
+  "numeroAto": "1548",
+  "dataAto": "2015-02-13",
+  "orgaos": [
+   {
+    "idOrgao": 227,
+    "exibirOrgao": 1,
+    "siglaOrgao": "RFB",
+    "nomeOrgao": "Secretaria da Receita Federal do Brasil",
+    "prioridadeOrgao": 61,
+    "emDestaque": true,
+    "posicaoPesquisa": 1,
+    "preferenciaSiglaComum": null
+   }
+  ],
+  "dataAtoPorExtenso": "13 de fevereiro de 2015"
+ },
+ "epigrafeCompleta": "Instrução Normativa RFB nº 1548, de 13 de fevereiro de 2015",
+ "epigrafeSimplificada": "Instrução Normativa RFB nº 1548, de 13/02/2015",
+ "epigrafesAnteriores": [],
+ "epigrafeUrl": "IN RFB nº 1548/2015",
+ "dadosPublicacao": "Publicado(a) no DOU de 19/02/2015, seção 1, página 10",
+ "dataPublicacao": "2015-02-19",
+ "dataVigenciaInicio": "2015-02-19",
+ "exibirVisoes": "1111",
+ "visao": "vigente",
+ "integro": false,
+ "vigente": false,
+ "ehRepublicado": false,
+ "idAtoRepublicador": null,
+ "dataRepublicador": null,
+ "ehVisaoExclusiva": false,
+ "publicado": true,
+ "internet": true,
+ "ementas": [
+  {
+   "mapper": null,
+   "idAto": 61197,
+   "idSegmento": 1498063,
+   "versaoSegmento": 1,
+   "idTipoSegmento": 1,
+   "idAssunto": 1,
+   "ordemSegmentoAto": 1,
+   "omitir": false,
+   "tachado": false,
+   "original": true,
+   "compilado": true,
+   "agendado": false,
+   "desinenciaTipoSegmento": false,
+   "textoIntegra": "Dispõe sobre o Cadastro de Pessoas Físicas (CPF).",
+   "ancorasOrigem": [],
+   "ancorasDestino": [],
+   "arquivoBinario": null
+  }
+ ],
+ "outrosSegmentos": [
+  {
+   "mapper": null,
+   "idAto": 61197,
+   "idSegmento": 1498064,
+   "versaoSegmento": 1,
+   "idTipoSegmento": 999,
+   "idAssunto": 1,
+   "ordemSegmentoAto": 2,
+   "omitir": false,
+   "tachado": true,
+   "original": true,
+   "compilado": true,
+   "agendado": false,
+   "desinenciaTipoSegmento": false,
+   "textoIntegra": "O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF n<strike>º</strike> 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 11 da Lei n<strike>º</strike> 4.862, de 29 de novembro de 1965, nos arts. 1<strike>º</strike> e 3<strike>º</strike> do Decreto-Lei n<strike>º</strike> 401, de 30 de dezembro de 1968, no art. 16 da Lei n<strike>º</strike> 9.779, de 19 de janeiro de 1999, nos arts. 33 a 36 do Decreto n<strike>º</strike> 3.000, de 26 de março de 1999, no art. 1<strike>º</strike> do Decreto n<strike>º</strike> 4.166, de 13 de março de 2002, e nas Portarias Interministeriais MF/MRE n<strike>º</strike> 101 e n<strike>º</strike> 102, de 23 de abril de 2002, resolve:",
+   "ancorasOrigem": [],
+   "ancorasDestino": [],
+   "arquivoBinario": null
+  },
+  {
+   "mapper": null,
+   "idAto": 61197,
+   "idSegmento": 1498066,
+   "versaoSegmento": 1,
+   "idTipoSegmento": 3,
+   "idAssunto": 1,
+   "ordemSegmentoAto": 3,
+   "omitir": false,
+   "tachado": true,
+   "original": true,
+   "compilado": true,
+   "agendado": false,
+   "desinenciaTipoSegmento": false,
+   "textoIntegra": "Art. 1<strike>º</strike> O Cadastro de Pessoas Físicas (CPF) será administrado em conformidade com o disposto nesta Instrução Normativa.",
+   "ancorasOrigem": [],
+   "ancorasDestino": [],
+   "arquivoBinario": null
+  }
+ ],
+ "ancorasRetificacaoEpigrafe": [],
+ "ancorasNoAto": [
+  {
+   "idAto": 135611,
+   "idSegmento": 2492391,
+   "idAnotacao": 283311,
+   "href": "135611",
+   "texto": "[Revogado(a) pelo(a) Instrução Normativa RFB nº 2172, de 9 de janeiro de 2024]",
+   "dataInicioVigencia": "10/01/2024",
+   "dataRepublicacao": null,
+   "permiteExcluir": true,
+   "permiteAlterarData": true,
+   "ehAgendamento": false,
+   "textoAgendamento": null,
+   "exibirDataInicioVigencia": true,
+   "permiteAgendamento": true
+  }
+ ],
+ "_view": "vigente"
+}

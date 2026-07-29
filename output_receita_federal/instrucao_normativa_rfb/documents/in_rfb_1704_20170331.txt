@@ -1,20 +1,22 @@
 Instrução Normativa RFB nº 1704, de 31 de março de 2017
 
-Dispõe sobre a reabertura do prazo de adesão ao Regime Especial de Regularização Cambial e Tributária, de que trata a Lei n º 13.428, de 30 de março de 2017.
+Dispõe sobre a reabertura do prazo de adesão ao Regime Especial de Regularização Cambial e Tributária, de que trata a Lei nº 13.428, de 30 de março de 2017.
 
 O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999 e nos arts. 2º e 5º da Lei nº 13.428, de 30 de março de 2017, resolve:
 
-Art. 1 º Esta Instrução Normativa dispõe sobre a reabertura do prazo de adesão ao Regime Especial de Regularização Cambial e Tributária (RERCT) de que trata a Lei n º 13.428, de 30 de março de 2017, que tem por objetivo a declaração voluntária de recursos, bens ou direitos de origem lícita, não declarados ou declarados incorretamente, remetidos ou mantidos no exterior ou repatriados por residentes ou domiciliados no País.
+Art. 1º Esta Instrução Normativa dispõe sobre a reabertura do prazo de adesão ao Regime Especial de Regularização Cambial e Tributária (RERCT) de que trata a Lei nº 13.428, de 30 de março de 2017, que tem por objetivo a declaração voluntária de recursos, bens ou direitos de origem lícita, não declarados ou declarados incorretamente, remetidos ou mantidos no exterior ou repatriados por residentes ou domiciliados no País.
 
-CAPÍTULO I DAS DISPOSIÇÕES PRELIMINARES
+CAPÍTULO I
+DAS DISPOSIÇÕES PRELIMINARES
 
-Seção I Das Definições
+Seção I
+Das Definições
 
-Art. 2 º Consideram-se, para os fins desta Instrução Normativa:
+Art. 2º Consideram-se, para os fins desta Instrução Normativa:
 
 I - recursos ou patrimônio não declarados ou declarados com omissão ou incorreção em relação a dados essenciais: os valores, os bens materiais ou imateriais, os capitais e os direitos, independentemente da natureza, origem ou moeda que sejam ou tenham sido, anteriormente a 30 de junho de 2016, de propriedade de pessoas físicas ou jurídicas residentes, domiciliadas ou com sede no País;
 
-II - recursos ou patrimônio de origem lícita: os bens e os direitos adquiridos com recursos oriundos de atividades permitidas ou não proibidas pela lei, bem como o objeto, o produto ou o proveito dos crimes previstos no § 1 º do art. 5 º da Lei n º 13.254, de 13 de janeiro de 2016;
+II - recursos ou patrimônio de origem lícita: os bens e os direitos adquiridos com recursos oriundos de atividades permitidas ou não proibidas pela lei, bem como o objeto, o produto ou o proveito dos crimes previstos no § 1º do art. 5º da Lei nº 13.254, de 13 de janeiro de 2016;
 
 III - recursos ou patrimônio repatriados objeto do RERCT: todos os recursos ou patrimônio, em qualquer moeda ou forma, de propriedade de residentes ou de domiciliados no País, ainda que sob a titularidade de não residentes da qual participe, seja sócio, proprietário ou beneficiário, que foram adquiridos, transferidos ou empregados no Brasil, com ou sem registro no Banco Central do Brasil (BCB), e não se encontrem devidamente declarados;
 
@@ -24,9 +26,10 @@ V - titular: efetivo proprietário dos recursos ou patrimônio não declarados, 
 
 VI - declaração voluntária de recursos: a declaração que informe fato novo que não tenha sido objeto de lançamento.
 
-Seção II Do Objeto
+Seção II
+Do Objeto
 
-Art. 3 º Os recursos, bens e direitos de origem lícita de residentes no País objeto de regularização são os seguintes:
+Art. 3º Os recursos, bens e direitos de origem lícita de residentes no País objeto de regularização são os seguintes:
 
 I - depósitos bancários, certificados de depósitos, cotas de fundos de investimento, instrumentos financeiros, apólices de seguro, certificados de investimento ou operações de capitalização, depósitos em cartões de crédito, fundos de aposentadoria ou pensão;
 
@@ -42,27 +45,30 @@ VI - bens imóveis em geral ou ativos que representem direitos sobre bens imóve
 
 VII - veículos, aeronaves, embarcações e demais bens móveis sujeitos a registro em geral, ainda que em alienação fiduciária.
 
-§ 1 º Poderão ser objeto de regularização, nos termos do caput, somente os bens existentes em data anterior a 30 de junho de 2016, remetidos ou mantidos no exterior, bem como os que tenham sido transferidos para o País, mas não declarados ou declarados com omissão ou incorreção em relação a dados essenciais à Secretaria da Receita Federal do Brasil (RFB).
+§ 1º Poderão ser objeto de regularização, nos termos do caput, somente os bens existentes em data anterior a 30 de junho de 2016, remetidos ou mantidos no exterior, bem como os que tenham sido transferidos para o País, mas não declarados ou declarados com omissão ou incorreção em relação a dados essenciais à Secretaria da Receita Federal do Brasil (RFB).
 
-§ 2 º No caso de inexistência de saldo ou título de propriedade em 30 de junho de 2016, serão objeto de regularização os respectivos bens e recursos dos quais o sujeito passivo tenha sido proprietário, titular ou tenha tido posse relativos às condutas descritas praticadas por ele e que se enquadrem nos crimes previstos no §1 º do art. 5 º da Lei n º 13.254, de 2016.
+§ 2º No caso de inexistência de saldo ou título de propriedade em 30 de junho de 2016, serão objeto de regularização os respectivos bens e recursos dos quais o sujeito passivo tenha sido proprietário, titular ou tenha tido posse relativos às condutas descritas praticadas por ele e que se enquadrem nos crimes previstos no §1º do art. 5º da Lei nº 13.254, de 2016.
 
-Seção III Do Sujeito Passivo
+Seção III
+Do Sujeito Passivo
 
-Art. 4 º Poderá optar pelo RERCT a pessoa física ou jurídica residente ou domiciliada no Brasil em 30 de junho de 2016, titular de bens e direitos de origem lícita, anteriormente a essa data, não declarados ou declarados com omissão ou incorreção em relação a dados essenciais à RFB.
+Art. 4º Poderá optar pelo RERCT a pessoa física ou jurídica residente ou domiciliada no Brasil em 30 de junho de 2016, titular de bens e direitos de origem lícita, anteriormente a essa data, não declarados ou declarados com omissão ou incorreção em relação a dados essenciais à RFB.
 
-§ 1 º O RERCT aplica-se também ao não residente no momento da publicação da Lei n º 13.254, de 2016, desde que residente ou domiciliado no País em 30 de junho de 2016, segundo a legislação tributária.
+§ 1º O RERCT aplica-se também ao não residente no momento da publicação da Lei nº 13.254, de 2016, desde que residente ou domiciliado no País em 30 de junho de 2016, segundo a legislação tributária.
 
-§ 2 º O RERCT aplica-se também ao espólio cuja sucessão tenha sido aberta até a data de adesão ao RERCT.
+§ 2º O RERCT aplica-se também ao espólio cuja sucessão tenha sido aberta até a data de adesão ao RERCT.
 
-§ 3 º Não poderá optar pelo RERCT quem tiver sido condenado em ação penal cujo objeto seja um dos crimes listados no § 1 º do art. 5 º da Lei n º 13.254, de 2016, ainda que não transitada em julgado.
+§ 3º Não poderá optar pelo RERCT quem tiver sido condenado em ação penal cujo objeto seja um dos crimes listados no § 1º do art. 5º da Lei nº 13.254, de 2016, ainda que não transitada em julgado.
 
-§ 4 º Não serão aplicados os efeitos da Lei n º 13.254, de 2016, aos detentores de cargos, empregos e funções públicas de direção ou eletivas, nem aos respectivos cônjuges e aos parentes consanguíneos ou afins, até o segundo grau ou por adoção, na data de publicação da Lei n º 13.254, de 2016.
+§ 4º Não serão aplicados os efeitos da Lei nº 13.254, de 2016, aos detentores de cargos, empregos e funções públicas de direção ou eletivas, nem aos respectivos cônjuges e aos parentes consanguíneos ou afins, até o segundo grau ou por adoção, na data de publicação da Lei nº 13.254, de 2016.
 
-CAPÍTULO II DA ADESÃO
+CAPÍTULO II
+DA ADESÃO
 
-Seção I Das Disposições Gerais
+Seção I
+Das Disposições Gerais
 
-Art. 5 º A adesão ao RERCT dar-se-á pelo atendimento das seguintes condições:
+Art. 5º A adesão ao RERCT dar-se-á pelo atendimento das seguintes condições:
 
 I - apresentação de Declaração de Regularização Cambial e Tributária (Dercat), em formato eletrônico;
 
@@ -70,11 +76,11 @@ II - pagamento integral do imposto sobre a renda à alíquota de 15% (quinze por
 
 III - pagamento integral da multa de regularização em percentual de 135% (cento e trinta e cinco por cento) do imposto sobre a renda apurado na forma prevista no inciso II do caput.
 
-§1 º A RFB disponibilizará cópia da Dercat ao BCB, dispensando o declarante do envio de cópia da declaração ao BCB.
+§1º A RFB disponibilizará cópia da Dercat ao BCB, dispensando o declarante do envio de cópia da declaração ao BCB.
 
-§ 2 º A adesão ao RERCT somente se efetivará com a satisfação de todas as condições estabelecidas no caput, não produzindo qualquer efeito a apresentação da Dercat desacompanhada dos pagamentos a que se referem os incisos II e III do caput.
+§ 2º A adesão ao RERCT somente se efetivará com a satisfação de todas as condições estabelecidas no caput, não produzindo qualquer efeito a apresentação da Dercat desacompanhada dos pagamentos a que se referem os incisos II e III do caput.
 
-§ 3 º O pagamento deverá ocorrer por meio de Documento de Arrecadação de Receitas Federais (Darf) que conterá a identificação do Cadastro Nacional das Pessoas Jurídicas (CNPJ) do Ministério da Fazenda, CNPJ n º 00.394.460/0058-87, no lugar da identificação cadastral do declarante e o número do recibo de entrega da Dercat no campo “número de referência”.
+§ 3º O pagamento deverá ocorrer por meio de Documento de Arrecadação de Receitas Federais (Darf) que conterá a identificação do Cadastro Nacional das Pessoas Jurídicas (CNPJ) do Ministério da Fazenda, CNPJ nº 00.394.460/0058-87, no lugar da identificação cadastral do declarante e o número do recibo de entrega da Dercat no campo “número de referência”.
 
 Art. 6º A Dercat deve ser elaborada mediante acesso ao serviço “apresentação da Declaração de Regularização Cambial e Tributária (Dercat)”, disponível no Centro Virtual de Atendimento (e-CAC) no sítio da RFB na Internet, no endereço http://rfb.gov.br, a partir de 3 de abril de 2017.
 
@@ -82,9 +88,9 @@ Parágrafo único. A utilização do serviço de que trata o caput dar-se-á som
 
 I - contribuinte; ou
 
-II - representante do contribuinte com procuração eletrônica ou com a procuração de que trata a Instrução Normativa RFB n º 944, de 29 de maio de 2009.
+II - representante do contribuinte com procuração eletrônica ou com a procuração de que trata a Instrução Normativa RFB nº 944, de 29 de maio de 2009.
 
-Art. 7 º Deverá constar na Dercat:
+Art. 7º Deverá constar na Dercat:
 
 I - a identificação do declarante, contendo:
 
@@ -98,71 +104,72 @@ III - o valor, em moeda estrangeira e em real, dos recursos, bens ou direitos de
 
 IV - declaração de que os bens ou direitos de qualquer natureza declarados têm origem em atividade econômica lícita e de que as demais informações por ele fornecidas são verídicas;
 
-V - declaração de que não foi condenado em ação penal, ainda que não transitada em julgado, cujo objeto seja um dos crimes listados no § 1 º do art. 5 º da Lei n º 13.254, de 2016;
+V - declaração de que não foi condenado em ação penal, ainda que não transitada em julgado, cujo objeto seja um dos crimes listados no § 1º do art. 5º da Lei nº 13.254, de 2016;
 
 VI - declaração de que era residente ou domiciliado no País em 30 de junho de 2016, segundo a legislação tributária;
 
-VII - declaração de que, na data de publicação da Lei n º 13.254, de 2016, não era detentor de cargos, empregos ou funções públicas de direção ou eletiva e de que não possuía cônjuge ou parente consanguíneo ou afins até o 2 º (segundo) grau ou por adoção nessas condições; e
+VII - declaração de que, na data de publicação da Lei nº 13.254, de 2016, não era detentor de cargos, empregos ou funções públicas de direção ou eletiva e de que não possuía cônjuge ou parente consanguíneo ou afins até o 2º (segundo) grau ou por adoção nessas condições; e
 
-VIII - na hipótese de inexistência de saldo dos recursos, ou de titularidade de propriedade de bens ou direitos em 30 de junho de 2016, a descrição das condutas praticadas pelo declarante que se enquadrem nos crimes previstos no § 1 º do art. 5 º da Lei n º 13.254, de 2016, e a descrição dos respectivos recursos, bens ou direitos de qualquer natureza, observando-se o disposto no inciso V do § 3 º .
+VIII - na hipótese de inexistência de saldo dos recursos, ou de titularidade de propriedade de bens ou direitos em 30 de junho de 2016, a descrição das condutas praticadas pelo declarante que se enquadrem nos crimes previstos no § 1º do art. 5º da Lei nº 13.254, de 2016, e a descrição dos respectivos recursos, bens ou direitos de qualquer natureza, observando-se o disposto no inciso V do § 3º.
 
-§ 1 º Os bens e direitos de propriedade de interposta pessoa deverão ser informados na Dercat do beneficiário efetivo e deverão conter a identificação daquela interposta pessoa.
+§ 1º Os bens e direitos de propriedade de interposta pessoa deverão ser informados na Dercat do beneficiário efetivo e deverão conter a identificação daquela interposta pessoa.
 
-§ 2 º No caso de Dercat apresentada por espólio, além das informações previstas no inciso I do caput, deverão constar o número de inscrição no CPF do meeiro e do inventariante e o nome do inventariante.
+§ 2º No caso de Dercat apresentada por espólio, além das informações previstas no inciso I do caput, deverão constar o número de inscrição no CPF do meeiro e do inventariante e o nome do inventariante.
 
-§ 3 º Para fins de atribuição do valor em real dos recursos objeto de regularização deverá ser observado:
+§ 3º Para fins de atribuição do valor em real dos recursos objeto de regularização deverá ser observado:
 
-I - para os ativos referidos nos incisos I e III do caput do art. 3 º , o saldo existente em 30 de junho de 2016, conforme documento disponibilizado pela instituição financeira custodiante;
+I - para os ativos referidos nos incisos I e III do caput do art. 3º, o saldo existente em 30 de junho de 2016, conforme documento disponibilizado pela instituição financeira custodiante;
 
-II - para os ativos referidos no inciso II do caput do art. 3 º , o saldo credor remanescente em 30 de junho de 2016, conforme contrato entre as partes;
+II - para os ativos referidos no inciso II do caput do art. 3º, o saldo credor remanescente em 30 de junho de 2016, conforme contrato entre as partes;
 
-III - para os ativos referidos no inciso IV do caput do art. 3 º , o valor do patrimônio líquido, proporcionalmente à participação societária ou ao direito de participação do declarante no capital da pessoa jurídica, apurado em 30 de junho de 2016, conforme balanço patrimonial levantado nessa data;
+III - para os ativos referidos no inciso IV do caput do art. 3º, o valor do patrimônio líquido, proporcionalmente à participação societária ou ao direito de participação do declarante no capital da pessoa jurídica, apurado em 30 de junho de 2016, conforme balanço patrimonial levantado nessa data;
 
-IV - para os ativos referidos nos incisos V a VII do caput do art. 3 º , o valor de mercado apurado conforme avaliação feita por entidade especializada;
+IV - para os ativos referidos nos incisos V a VII do caput do art. 3º, o valor de mercado apurado conforme avaliação feita por entidade especializada;
 
 V - para os ativos não mais existentes em 30 de junho de 2016, o valor presumido nessa data, apontado por documento idôneo que retrate o ativo quando existente; e
 
 VI - para os ativos que não sejam de propriedade do declarante em 30 de junho de 2016, o valor presumido nessa data, apontado por documento idôneo que retrate a operação referente ao ativo.
 
-§ 4 º Para fins de apuração do valor do ativo em real, o valor expresso em moeda estrangeira deve ser convertido:
+§ 4º Para fins de apuração do valor do ativo em real, o valor expresso em moeda estrangeira deve ser convertido:
 
 I - em dólar dos Estados Unidos da América pela cotação do dólar fixada, para venda, pelo BCB para 30 de junho de 2016 (boletim de fechamento PTAX do dia 30 de junho de 2016 divulgado pelo BCB); e
 
 II - em moeda nacional pela cotação do dólar dos Estados Unidos da América fixada, para venda, pelo BCB para 30 de junho de 2016 (boletim de fechamento PTAX do dia 30 de junho de 2016, divulgado pelo BCB).
 
-§ 5 º Para os recursos já repatriados, a declaração deverá ser feita tendo como base o valor do ativo em real em 30 de junho de 2016.
+§ 5º Para os recursos já repatriados, a declaração deverá ser feita tendo como base o valor do ativo em real em 30 de junho de 2016.
 
-§ 6 º O disposto no inciso VIII do caput aplica-se ainda que o bem original tenha sido posteriormente repassado à titularidade ou responsabilidade, direta ou indireta, de trust de quaisquer espécies, fundações, sociedades despersonalizadas, fideicomissos, ou dispostos mediante a entrega a pessoa física ou jurídica, personalizada ou não, para guarda, depósito, investimento, posse ou propriedade de que sejam beneficiários efetivos o interessado, seu representante ou pessoa por ele designada.
+§ 6º O disposto no inciso VIII do caput aplica-se ainda que o bem original tenha sido posteriormente repassado à titularidade ou responsabilidade, direta ou indireta, de trust de quaisquer espécies, fundações, sociedades despersonalizadas, fideicomissos, ou dispostos mediante a entrega a pessoa física ou jurídica, personalizada ou não, para guarda, depósito, investimento, posse ou propriedade de que sejam beneficiários efetivos o interessado, seu representante ou pessoa por ele designada.
 
-§ 7 º Para os bens repassados nos termos do § 6 º , o valor a ser informado na Dercat será:
+§ 7º Para os bens repassados nos termos do § 6º, o valor a ser informado na Dercat será:
 
-I - o valor dos ativos em 30 de junho de 2016 nos termos dos incisos I a V do § 3 º , na hipótese de o declarante ou representante por ele indicado serem beneficiários efetivos; ou
+I - o valor dos ativos em 30 de junho de 2016 nos termos dos incisos I a V do § 3º, na hipótese de o declarante ou representante por ele indicado serem beneficiários efetivos; ou
 
-II - o valor dos ativos transferidos nos termos do inciso VI do §3 º , na hipótese de o beneficiário efetivo ser terceira pessoa.
+II - o valor dos ativos transferidos nos termos do inciso VI do §3º, na hipótese de o beneficiário efetivo ser terceira pessoa.
 
-Art. 8 º Cada declarante poderá apresentar uma única Dercat na qual deverá constar todos os bens e direitos sujeitos à regularização.
+Art. 8º Cada declarante poderá apresentar uma única Dercat na qual deverá constar todos os bens e direitos sujeitos à regularização.
 
-Art. 9 º É declarante da Dercat o beneficiário de trust ou de fundação de qualquer espécie, sendo de sua responsabilidade a retificação da declaração de ajuste anual ou da escrituração contábil societária correspondente.
+Art. 9º É declarante da Dercat o beneficiário de trust ou de fundação de qualquer espécie, sendo de sua responsabilidade a retificação da declaração de ajuste anual ou da escrituração contábil societária correspondente.
 
-Parágrafo único. O instituidor do trust ou de fundação que não figure, em 30 de junho de 2016, na condição de beneficiário poderá apresentar a Dercat nos termos do inciso VIII do caput do art. 7 º .
+Parágrafo único. O instituidor do trust ou de fundação que não figure, em 30 de junho de 2016, na condição de beneficiário poderá apresentar a Dercat nos termos do inciso VIII do caput do art. 7º.
 
 Art. 10. A Dercat retificadora terá a mesma natureza da declaração originariamente apresentada, substituindo-a integralmente, e servirá para declarar novos bens ou direitos, aumentar ou reduzir os valores informados ou efetivar qualquer alteração a eles vinculados.
 
-§ 1 º A Dercat poderá ser retificada até 31 de julho de 2017.
+§ 1º A Dercat poderá ser retificada até 31 de julho de 2017.
 
-§ 2 º As alterações na Dercat retificadora deverão ser efetivadas com observância do disposto nos arts. 14 e 15.
+§ 2º As alterações na Dercat retificadora deverão ser efetivadas com observância do disposto nos arts. 14 e 15.
 
-§ 3 º Na Dercat retificadora, deverá constar o número de recibo de entrega da última declaração apresentada.
+§ 3º Na Dercat retificadora, deverá constar o número de recibo de entrega da última declaração apresentada.
 
-§ 4 º O declarante deverá manter em sua guarda todas as Dercat cujos Darf gerados forem efetivamente pagos, de forma a possibilitar a vinculação entre o número de recibo de entrega constante do Darf e a respectiva declaração transmitida.
+§ 4º O declarante deverá manter em sua guarda todas as Dercat cujos Darf gerados forem efetivamente pagos, de forma a possibilitar a vinculação entre o número de recibo de entrega constante do Darf e a respectiva declaração transmitida.
 
 Art. 11. Na hipótese de regularização de recursos, bens e direitos possuídos em condomínio, cada condômino deverá apresentar uma Dercat em relação à parcela de que é titular.
 
 Parágrafo único. Na hipótese de conta bancária de mais de uma titularidade, cada titular deve informar conforme a sua participação e, na impossibilidade de identificação do valor atribuído a cada titular, o valor deve ser proporcionalizado igualmente entre os titulares.
 
-Seção II Dos Efeitos da Adesão
+Seção II
+Dos Efeitos da Adesão
 
-Art. 12. Os efeitos da Lei n º 13.428, de 2017, alterada pela Lei n º 13.428, de 2017, serão aplicados aos titulares de direito ou de fato que, voluntariamente, declararem ou retificarem a declaração incorreta referente a recursos, bens ou direitos, conforme previsto no art. 5 º .
+Art. 12. Os efeitos da Lei nº 13.428, de 2017, alterada pela Lei nº 13.428, de 2017, serão aplicados aos titulares de direito ou de fato que, voluntariamente, declararem ou retificarem a declaração incorreta referente a recursos, bens ou direitos, conforme previsto no art. 5º.
 
 Parágrafo único. A Dercat não poderá ser, por qualquer modo utilizada:
 
@@ -172,25 +179,26 @@ II - para fundamentar, direta ou indiretamente, qualquer procedimento administra
 
 Art. 13. A regularização dos bens e direitos e o pagamento integral do imposto e da multa previstos nos arts. 24 e 25:
 
-I - importam confissão irrevogável e irretratável dos débitos em nome do sujeito passivo, configuram confissão extrajudicial nos termos dos arts. 348, 353 e 354 da Lei n º 5.869, de 11 de janeiro de 1973 (Código de Processo Civil) e condicionam o sujeito passivo à aceitação plena e irretratável de todas as condições estabelecidas na Lei n º 13.254, de 2016, e nesta Instrução Normativa; e
+I - importam confissão irrevogável e irretratável dos débitos em nome do sujeito passivo, configuram confissão extrajudicial nos termos dos arts. 348, 353 e 354 da Lei nº 5.869, de 11 de janeiro de 1973 (Código de Processo Civil) e condicionam o sujeito passivo à aceitação plena e irretratável de todas as condições estabelecidas na Lei nº 13.254, de 2016, e nesta Instrução Normativa; e
 
 II - implicam a remissão dos demais créditos tributários decorrentes do descumprimento de obrigações tributárias e a redução de 100% (cem por cento) das demais multas de mora, de ofício ou isoladas e dos encargos legais diretamente relacionados a esses bens e direitos em relação a fatos geradores ocorridos até 30 de junho de 2016.
 
-§ 1 º A remissão e a dispensa de pagamento de acréscimos moratórios não alcançam os tributos retidos por sujeito passivo, na condição de responsável, e não recolhidos aos cofres públicos no prazo legal.
+§ 1º A remissão e a dispensa de pagamento de acréscimos moratórios não alcançam os tributos retidos por sujeito passivo, na condição de responsável, e não recolhidos aos cofres públicos no prazo legal.
 
-§ 2 º O disposto no inciso II do caput não aproveita os créditos tributários já extintos ou os já constituídos e não pagos até a data de adesão.
+§ 2º O disposto no inciso II do caput não aproveita os créditos tributários já extintos ou os já constituídos e não pagos até a data de adesão.
 
-§ 3 º Serão considerados remitidos os créditos tributários decorrentes de lançamentos efetuados após a adesão e que sejam diretamente relacionados aos recursos, bens ou direitos objeto de regularização, salvo nas hipóteses previstas nos art. 26.
+§ 3º Serão considerados remitidos os créditos tributários decorrentes de lançamentos efetuados após a adesão e que sejam diretamente relacionados aos recursos, bens ou direitos objeto de regularização, salvo nas hipóteses previstas nos art. 26.
 
-§ 4 º O disposto no § 3 º não se aplica aos fatos posteriores à data de adesão.
+§ 4º O disposto no § 3º não se aplica aos fatos posteriores à data de adesão.
 
-§ 5 º Os efeitos da Lei n º 13.254, de 2016, alcançam somente o valor declarado que foi base de cálculo do imposto previsto no art. 24.
+§ 5º Os efeitos da Lei nº 13.254, de 2016, alcançam somente o valor declarado que foi base de cálculo do imposto previsto no art. 24.
 
-§ 6 º A relação direta de que trata o inciso II do caput está sujeita à comprovação com documentação hábil e idônea.
+§ 6º A relação direta de que trata o inciso II do caput está sujeita à comprovação com documentação hábil e idônea.
 
-Seção III Das Obrigações
+Seção III
+Das Obrigações
 
-Art. 14. A pessoa física ou jurídica que aderir ao RERCT é obrigada a manter em boa guarda e ordem, em sua posse, à disposição da RFB, pelo prazo de 5 (cinco) anos, contado do prazo final para a entrega da Dercat, os documentos previstos no § 3 º do art. 7 º , e os documentos que ampararam a declaração de adesão ao RERCT, entre os quais se incluirão:
+Art. 14. A pessoa física ou jurídica que aderir ao RERCT é obrigada a manter em boa guarda e ordem, em sua posse, à disposição da RFB, pelo prazo de 5 (cinco) anos, contado do prazo final para a entrega da Dercat, os documentos previstos no § 3º do art. 7º, e os documentos que ampararam a declaração de adesão ao RERCT, entre os quais se incluirão:
 
 I - no caso de trusts:
 
@@ -216,9 +224,9 @@ e) a documentação de demonstrações financeiras, de determinação de todos o
 
 III - no caso de fundações privadas, a identificação do instituidor, de seus conselheiros, do controlador (protector) e dos beneficiários.
 
-Art. 15. Os rendimentos, frutos e acessórios decorrentes do aproveitamento, no exterior ou no País, dos recursos, bens ou direitos de qualquer natureza regularizados por meio da Dercat, auferidos a partir de 1 º de julho de 2016, deverão ser incluídos nas declarações e escrituração previstas nos incisos I, II e III do caput do art. 16 no ano calendário de adesão e posteriores, aplicando-se o disposto no art. 138 da Lei n º 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), inclusive com dispensa do pagamento de multas moratórias, se as inclusões forem feitas até o último dia do prazo para adesão ao RERCT, ou até o último dia do prazo regular de apresentação da respectiva declaração anual, o que for posterior.
+Art. 15. Os rendimentos, frutos e acessórios decorrentes do aproveitamento, no exterior ou no País, dos recursos, bens ou direitos de qualquer natureza regularizados por meio da Dercat, auferidos a partir de 1º de julho de 2016, deverão ser incluídos nas declarações e escrituração previstas nos incisos I, II e III do caput do art. 16 no ano calendário de adesão e posteriores, aplicando-se o disposto no art. 138 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), inclusive com dispensa do pagamento de multas moratórias, se as inclusões forem feitas até o último dia do prazo para adesão ao RERCT, ou até o último dia do prazo regular de apresentação da respectiva declaração anual, o que for posterior.
 
-Parágrafo único. Somente operará os efeitos do art. 138 da Lei n º 5.172, de 1966, a inclusão acompanhada, se for o caso, do pagamento do tributo devido e dos juros de mora.
+Parágrafo único. Somente operará os efeitos do art. 138 da Lei nº 5.172, de 1966, a inclusão acompanhada, se for o caso, do pagamento do tributo devido e dos juros de mora.
 
 Art. 16. Os recursos, bens e direitos de qualquer natureza constantes na Dercat deverão ser informados também:
 
@@ -228,19 +236,19 @@ II - no caso de pessoa jurídica, na escrituração contábil societária relati
 
 III - em ambos os casos, pessoa física e jurídica, na declaração retificadora de declaração de bens e capitais no exterior relativa ao ano-calendário de 2016 e posteriores, conforme definido pelo BCB, se estiverem obrigadas.
 
-§ 1 º A obrigação de retificação das declarações não se aplica caso a Dercat tenha sido preenchida com base no inciso VIII do caput do art. 7 º .
+§ 1º A obrigação de retificação das declarações não se aplica caso a Dercat tenha sido preenchida com base no inciso VIII do caput do art. 7º.
 
-§ 2 º A dispensa de retificação de que trata o §1 º não alcança os bens e direitos de qualquer natureza em nome de interpostas pessoas.
+§ 2º A dispensa de retificação de que trata o §1º não alcança os bens e direitos de qualquer natureza em nome de interpostas pessoas.
 
 Art. 17. No caso de regularização de ativos financeiros não repatriados de valor global superior a US$ 100.000,00 (cem mil dólares dos Estados Unidos da América), deverá ser observado o seguinte:
 
 I - o declarante deverá solicitar e autorizar a instituição financeira no exterior a enviar informação sobre o saldo de cada ativo em 30 de junho de 2016 para instituição financeira autorizada a funcionar no País, via Society for Worldwide Interbank Financial Telecommunication (SWIFT);
 
-II - a instituição financeira autorizada a funcionar no País prestará informação à RFB em módulo específico da e-Financeira, instituída pela Instrução Normativa RFB n º 1.571, de 2 de julho de 2015.
+II - a instituição financeira autorizada a funcionar no País prestará informação à RFB em módulo específico da e-Financeira, instituída pela Instrução Normativa RFB nº 1.571, de 2 de julho de 2015.
 
-§ 1 º A responsabilidade da instituição financeira autorizada a funcionar no País limita-se a repassar as informações prestadas pela instituição financeira no exterior à RFB.
+§ 1º A responsabilidade da instituição financeira autorizada a funcionar no País limita-se a repassar as informações prestadas pela instituição financeira no exterior à RFB.
 
-§ 2 º Deverá constar na informação proveniente da instituição financeira no exterior de que trata o inciso I do caput:
+§ 2º Deverá constar na informação proveniente da instituição financeira no exterior de que trata o inciso I do caput:
 
 I - nome do banco de origem;
 
@@ -258,103 +266,131 @@ VII - valores mantidos pelo titular em 30 de junho de 2016; e
 
 VIII - moeda.
 
-§ 3 º A solicitação e autorização de que trata o inciso I do caput devem ser efetuadas até o dia 31 de julho de 2017, e o envio da informação pela instituição financeira estrangeira deve ser efetuado até o dia 31 de outubro de 2017.
+§ 3º A solicitação e autorização de que trata o inciso I do caput devem ser efetuadas até o dia 31 de julho de 2017, e o envio da informação pela instituição financeira estrangeira deve ser efetuado até o dia 31 de outubro de 2017.
 
-§ 4 º As informações de que trata este artigo deverão ser transmitidas em módulo específico da e-Financeira entre 1 de novembro de 2017 e 29 de dezembro de 2017.
+§ 4º As informações de que trata este artigo deverão ser transmitidas em módulo específico da e-Financeira entre 1 de novembro de 2017 e 29 de dezembro de 2017.
 
-§ 5 º Para fins de prestação das informações previstas no § 4 º , deverá ser observado leiaute constante no manual de orientações em relação à e-Financeira, editado pela Coordenação-Geral de Fiscalização (Cofis).
+§ 5º Para fins de prestação das informações previstas no § 4º, deverá ser observado leiaute constante no manual de orientações em relação à e-Financeira, editado pela Coordenação-Geral de Fiscalização (Cofis).
 
 Art. 18. A repatriação de ativos de ativos financeiros no exterior deverá ocorrer por meio de transferência bancária, realizada em instituição financeira autorizada a funcionar no País e a operar no mercado de câmbio
 
-Parágrafo único. O declarante poderá antecipar a repatriação total ou parcial dos recursos financeiros constantes da Dercat, desde que realize o pagamento do imposto e da multa de que tratam os incisos II e III do art. 5 º no momento em que os recursos se tornarem disponíveis no País.
+Parágrafo único. O declarante poderá antecipar a repatriação total ou parcial dos recursos financeiros constantes da Dercat, desde que realize o pagamento do imposto e da multa de que tratam os incisos II e III do art. 5º no momento em que os recursos se tornarem disponíveis no País.
 
-Seção IV Das Disposições Aplicáveis às Pessoas Físicas
+Seção IV
+Das Disposições Aplicáveis às Pessoas Físicas
 
 Art. 19. A pessoa física optante pelo RERCT deverá apresentar à RFB Declaração de Ajuste Anual (DAA) do exercício de 2017, ano-calendário 2016, relacionando na ficha Bens e Direitos as informações sobre os recursos, bens e direitos declarados na Dercat.
 
-§ 1 º Na coluna “discriminação” da ficha Bens e Direitos da DAA, o declarante deverá relacionar, de forma discriminada, as informações sobre os recursos, bens e direitos declarados na Dercat.
+§ 1º Na coluna “discriminação” da ficha Bens e Direitos da DAA, o declarante deverá relacionar, de forma discriminada, as informações sobre os recursos, bens e direitos declarados na Dercat.
 
-§ 2 º Os valores dos recursos, bens e direitos que foram objeto da Dercat deverão ser informados na ficha Bens e Direitos da DAA conforme as regras fixadas para o preenchimento da própria Dercat.
+§ 2º Os valores dos recursos, bens e direitos que foram objeto da Dercat deverão ser informados na ficha Bens e Direitos da DAA conforme as regras fixadas para o preenchimento da própria Dercat.
 
-§ 3 º No caso de necessidade de apresentação de DAA retificadora o prazo para entrega será 30 de dezembro de 2017.
+§ 3º No caso de necessidade de apresentação de DAA retificadora o prazo para entrega será 30 de dezembro de 2017.
 
 Art. 20. A partir do exercício de 2018, ano-calendário de 2017, a DAA deve ser apresentada conforme as regras gerais fixadas em ato normativo da RFB.
 
 Art. 21. Na hipótese de bens e direitos de integrantes de uma mesma entidade familiar, cada integrante deverá apresentar a Dercat em CPF próprio na proporção de sua participação.
 
-Seção V Das Disposições Aplicáveis às Pessoas Jurídicas
+Seção V
+Das Disposições Aplicáveis às Pessoas Jurídicas
 
 Art. 22. A exigência prevista no inciso II do caput do art. 16 deverá ser escriturada até a data a que se refere o art. 34.
 
-Parágrafo único. A inexistência de saldo ou de titularidade do bem declarado conforme disposto no inciso VIII do caput do art. 7 º dispensa a escrituração desse bem.
+Parágrafo único. A inexistência de saldo ou de titularidade do bem declarado conforme disposto no inciso VIII do caput do art. 7º dispensa a escrituração desse bem.
 
 Art. 23. Os tributos incidentes sobre os rendimentos, frutos e acessórios de pessoa jurídica referidos no art. 15 deverão ser declarados em Declaração de Débitos e Créditos Tributários Federais (DCTF).
 
-CAPÍTULO III DO IMPOSTO DEVIDO
+CAPÍTULO III
+DO IMPOSTO DEVIDO
 
-Art. 24. O montante dos ativos objeto de regularização, declarados conforme esta Instrução Normativa é considerado acréscimo patrimonial adquirido em 30 de junho de 2016, ainda que nessa data não exista saldo ou título de propriedade, na forma prevista no inciso II do caput e do § 1 º do art. 43 da Lei n º 5.172, de 1966 (Código Tributário Nacional), e sobre ele sujeitará a pessoa, física ou jurídica, ao pagamento do imposto sobre a renda a título de ganho de capital à alíquota vigente em 30 de junho de 2016, de 15% (quinze por cento).
+Art. 24. O montante dos ativos objeto de regularização, declarados conforme esta Instrução Normativa é considerado acréscimo patrimonial adquirido em 30 de junho de 2016, ainda que nessa data não exista saldo ou título de propriedade, na forma prevista no inciso II do caput e do § 1º do art. 43 da Lei nº 5.172, de 1966 (Código Tributário Nacional), e sobre ele sujeitará a pessoa, física ou jurídica, ao pagamento do imposto sobre a renda a título de ganho de capital à alíquota vigente em 30 de junho de 2016, de 15% (quinze por cento).
 
-§ 1 º Na apuração da base de cálculo dos tributos de que trata este artigo, correspondente ao valor do ativo em real, não serão admitidas deduções de qualquer espécie ou descontos de custo de aquisição.
+§ 1º Na apuração da base de cálculo dos tributos de que trata este artigo, correspondente ao valor do ativo em real, não serão admitidas deduções de qualquer espécie ou descontos de custo de aquisição.
 
-§ 2 º A opção e observação das condições do RERCT dispensa o pagamento de acréscimos moratórios incidentes sobre o imposto de que trata o caput.
+§ 2º A opção e observação das condições do RERCT dispensa o pagamento de acréscimos moratórios incidentes sobre o imposto de que trata o caput.
 
-§ 3 º O imposto pago na forma prevista neste artigo será considerado como tributação definitiva, e não será permitida a restituição de valores anteriormente pagos.
+§ 3º O imposto pago na forma prevista neste artigo será considerado como tributação definitiva, e não será permitida a restituição de valores anteriormente pagos.
 
-CAPÍTULO IV DA MULTA DE REGULARIZAÇÃO
+CAPÍTULO IV
+DA MULTA DE REGULARIZAÇÃO
 
 Art. 25. Sobre o valor do imposto apurado na forma prevista no art. 24 incidirá multa de 135% (cento e trinta e cinco por cento).
 
-§ 1 º Está isento da multa de que trata o caput o somatório dos valores disponíveis em contas de depósito no exterior no limite de até R$ 10.000,00 (dez mil reais) por pessoa, convertidos em dólar dos Estados Unidos da América, pela cotação do dólar fixada, para venda, pelo BCB para 30 de junho de 2016 (boletim de fechamento PTAX do dia 30 de junho de 2016 divulgado pelo BCB).
+§ 1º Está isento da multa de que trata o caput o somatório dos valores disponíveis em contas de depósito no exterior no limite de até R$ 10.000,00 (dez mil reais) por pessoa, convertidos em dólar dos Estados Unidos da América, pela cotação do dólar fixada, para venda, pelo BCB para 30 de junho de 2016 (boletim de fechamento PTAX do dia 30 de junho de 2016 divulgado pelo BCB).
 
-§ 2 º Do produto da arrecadação da multa prevista no caput a União entregará 46% (quarenta e seis por cento) aos Estados, ao Distrito Federal e aos Municípios em conformidade com o disposto nas alíneas “a”, “b”, “d” e “e” do inciso I do art. 159 da Constituição Federal.
+§ 2º Do produto da arrecadação da multa prevista no caput a União entregará 46% (quarenta e seis por cento) aos Estados, ao Distrito Federal e aos Municípios em conformidade com o disposto nas alíneas “a”, “b”, “d” e “e” do inciso I do art. 159 da Constituição Federal.
 
-CAPÍTULO V DA EXCLUSÃO DO RERCT
+CAPÍTULO V
+DA EXCLUSÃO DO RERCT
 
 Art. 26. Será excluído do RERCT o contribuinte que apresentar declarações ou documentos falsos:
 
-I - relativos à titularidade e à condição jurídica dos recursos, bens ou direitos objeto de regularização; ou
+[Redação dada pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]
 
-II - relativos ao § 3 º do art. 7 º .
+I - relativos à titularidade e à condição jurídica dos recursos, bens ou direitos objeto de regularização;
 
-§ 1 º Em caso de exclusão do RERCT, serão cobrados os valores equivalentes aos tributos, multas e juros incidentes, deduzindo-se o que houver sido anteriormente pago, sem prejuízo de aplicação das penalidades cíveis, penais e administrativas cabíveis.
+[Redação dada pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]
 
-§ 2 º Na hipótese de exclusão do contribuinte do RERCT, a instauração ou a continuidade de procedimentos investigatórios quanto à origem dos ativos objeto de regularização poderá ocorrer somente se houver evidências documentais não relacionadas à declaração do contribuinte.
+II - relativos ao § 3º do art. 7º; ou
 
-CAPÍTULO VI DOS PROCEDIMENTOS APLICÁVEIS AO RERCT
+[Redação dada pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]
 
-Seção I Da Nulidade da Adesão ao RERCT
+III - relativos aos incisos V, VI e VII do caput do art. 7º.
 
-Art. 27. O não atendimento de quaisquer condições estabelecidas no art. 5 º , ou a declaração inverídica prevista nos incisos V, VI e VII do caput do art. 7 º implicará nulidade da adesão ao RERCT e a consequente inaplicabilidade das disposições da Lei n º 13.254, de 2016, aos recursos, bens ou direitos declarados.
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]
 
-Parágrafo único. O despacho decisório de nulidade será lavrado pelo Auditor-Fiscal da Receita Federal do Brasil competente para o feito.
+§ 1º Em caso de exclusão do RERCT, serão cobrados os valores equivalentes aos tributos, multas e juros incidentes, deduzindo-se o que houver sido anteriormente pago, sem prejuízo de aplicação das penalidades cíveis, penais e administrativas cabíveis.
 
-Art. 28. É facultado ao sujeito passivo, no prazo de 10 (dez) dias, contado da ciência da notificação, apresentar recurso, nos termos do art. 56 da Lei n º 9.784, de 29 de janeiro de 1999.
+§ 2º Na hipótese de exclusão do contribuinte do RERCT, a instauração ou a continuidade de procedimentos investigatórios quanto à origem dos ativos objeto de regularização poderá ocorrer somente se houver evidências documentais não relacionadas à declaração do contribuinte.
 
-Parágrafo único. O recurso de que trata o caput será decidido em última instância pelo Superintendente da Receita Federal do Brasil com jurisdição sobre o domicílio tributário do sujeito passivo.
+CAPÍTULO VI
+DOS PROCEDIMENTOS APLICÁVEIS AO RERCT
 
-Seção II Do Procedimento de Exclusão
+Seção I
+Da Nulidade da Adesão ao RERCT
+
+Art. 27. O não atendimento de quaisquer condições estabelecidas no art. 5º implicará nulidade da adesão ao RERCT e a consequente inaplicabilidade das disposições da Lei nº 13.254, de 2016, aos recursos, bens ou direitos declarados.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]
+
+Parágrafo único.
+
+[Suprimido(a) - vide Instrução Normativa RFB nº 1832, de 20 de setembro de 2018]
+
+Art. 28. É facultado ao sujeito passivo, no prazo de 10 (dez) dias, contado da ciência da notificação, apresentar recurso, nos termos do art. 56 da Lei nº 9.784, de 29 de janeiro de 1999.
+
+Parágrafo único.
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1875, de 14 de março de 2019]
+
+Seção II
+Do Procedimento de Exclusão
 
 Art. 29. Constatada qualquer condição que implique exclusão de sujeito passivo do RERCT, o Auditor-Fiscal da Receita Federal do Brasil competente para o feito expedirá despacho decisório excluindo o sujeito passivo do Regime.
 
 Parágrafo único. O despacho decisório de que trata o caput será precedido de intimação ao contribuinte para prestação de esclarecimentos.
 
-Art. 30. É facultado ao sujeito passivo, no prazo de 10 (dez) dias, contados da ciência da notificação, apresentar recurso, nos termos do art. 56 da Lei n º 9.784, de 1999, contra a decisão da sua exclusão do RERCT.
+Art. 30. É facultado ao sujeito passivo, no prazo de 10 (dez) dias, contados da ciência da notificação, apresentar recurso, nos termos do art. 56 da Lei nº 9.784, de 1999, contra a decisão da sua exclusão do RERCT.
 
-Parágrafo único. O recurso de que trata o caput será decidido em última instância pelo Superintendente da Receita Federal do Brasil com jurisdição sobre o domicílio tributário do sujeito passivo.
+Parágrafo único.
 
-Seção III Do Procedimento de Revisão dos Valores Declarados
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1875, de 14 de março de 2019]
+
+Seção III
+Do Procedimento de Revisão dos Valores Declarados
 
 Art. 31. Constatada incorreção em relação ao valor dos ativos, o Auditor-Fiscal da Receita Federal do Brasil competente pelo feito lançará eventuais diferenças em auto de infração, para exigir o pagamento dos tributos e acréscimos legais incidentes sobre os valores declarados incorretamente, nos termos da legislação do imposto sobre a renda.
 
-§ 1 º Somente o pagamento integral dos tributos e acréscimos de que trata o caput no prazo de 30 (trinta) dias da ciência do auto de infração extinguirá a punibilidade dos crimes praticados pelo declarante previstos no § 1 º do art. 5 º da Lei n º 13.254, de 2016, relacionados aos ativos cujo valor foi declarado incorretamente.
+§ 1º Somente o pagamento integral dos tributos e acréscimos de que trata o caput no prazo de 30 (trinta) dias da ciência do auto de infração extinguirá a punibilidade dos crimes praticados pelo declarante previstos no § 1º do art. 5º da Lei nº 13.254, de 2016, relacionados aos ativos cujo valor foi declarado incorretamente.
 
-§ 2 º É facultado ao sujeito passivo, no prazo de 30 (trinta) dias contados da data da ciência da intimação da exigência, impugnar o lançamento, nos termos do art. 14 do Decreto n º 70.235, de 6 de março de 1972.
+§ 2º É facultado ao sujeito passivo, no prazo de 30 (trinta) dias contados da data da ciência da intimação da exigência, impugnar o lançamento, nos termos do art. 14 do Decreto nº 70.235, de 6 de março de 1972.
 
-§3 º A impugnação prevista no §2 º não suspende, nem interrompe o prazo previsto no §1 º .
+§3º A impugnação prevista no §2º não suspende, nem interrompe o prazo previsto no §1º.
 
-CAPÍTULO VI DAS DISPOSIÇÕES GERAIS
+CAPÍTULO VI
+DAS DISPOSIÇÕES GERAIS
 
-Art. 32. A divulgação ou a publicidade das informações presentes no RERCT implicará efeito equivalente à quebra do sigilo fiscal, sujeitando o responsável às penas previstas na Lei Complementar n º 105, de 10 de janeiro de 2001, e no art. 325 do Decreto-Lei n º 2.848, de 7 de dezembro de 1940 (Código Penal).
+Art. 32. A divulgação ou a publicidade das informações presentes no RERCT implicará efeito equivalente à quebra do sigilo fiscal, sujeitando o responsável às penas previstas na Lei Complementar nº 105, de 10 de janeiro de 2001, e no art. 325 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).
 
 Parágrafo único. Na hipótese de a quebra do sigilo nos termos do caput ser praticada por funcionário público, o responsável ficará sujeito à pena de demissão além das penalidades ali previstas.
 
@@ -364,7 +400,7 @@ Art. 34. A data limite para adesão ao RERCT é 31 de julho de 2017.
 
 Art. 35. O pagamento integral do imposto e da multa previstos nos arts. 24 e 25 poderá ser efetuado até o último dia do prazo para a entrega da Dercat.
 
-Art. 36. É facultado ao contribuinte que aderiu ao RERCT até 31 de outubro de 2016 complementar a declaração de que trata o art. 5 º da Lei n º 13.254, de 2016, obrigando-se, caso exerça esse direito, a pagar o imposto e a multa devidos sobre o valor adicional e a observar a nova data fixada para a conversão do valor expresso em moeda estrangeira, nos termos desta Instrução Normativa.
+Art. 36. É facultado ao contribuinte que aderiu ao RERCT até 31 de outubro de 2016 complementar a declaração de que trata o art. 5º da Lei nº 13.254, de 2016, obrigando-se, caso exerça esse direito, a pagar o imposto e a multa devidos sobre o valor adicional e a observar a nova data fixada para a conversão do valor expresso em moeda estrangeira, nos termos desta Instrução Normativa.
 
 Art. 37. Esta Instrução Normativa entra em vigor na data de sua publicação no Diário Oficial da União.
 

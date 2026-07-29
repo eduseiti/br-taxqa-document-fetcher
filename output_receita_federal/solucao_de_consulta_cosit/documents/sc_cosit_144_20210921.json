@@ -32,7 +32,7 @@
   "dataPublicacao": "2021-09-28",
   "dataVigenciaInicio": "2021-09-28",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -217,6 +217,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/120711/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/120711/visao/vigente",
+  "_fetched_at": "2026-07-29T19:20:51.344155+00:00"
 }

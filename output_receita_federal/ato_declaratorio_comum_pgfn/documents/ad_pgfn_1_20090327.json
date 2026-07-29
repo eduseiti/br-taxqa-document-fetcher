@@ -32,7 +32,7 @@
   "dataPublicacao": "2009-05-14",
   "dataVigenciaInicio": "2009-05-14",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": false,
   "vigente": false,
   "ehRepublicado": false,
@@ -73,7 +73,7 @@
       "idAssunto": 999,
       "ordemSegmentoAto": 2,
       "omitir": false,
-      "tachado": false,
+      "tachado": true,
       "original": true,
       "compilado": true,
       "agendado": false,
@@ -93,7 +93,7 @@
       "idAssunto": 999,
       "ordemSegmentoAto": 3,
       "omitir": false,
-      "tachado": false,
+      "tachado": true,
       "original": true,
       "compilado": true,
       "agendado": false,
@@ -113,7 +113,7 @@
       "idAssunto": 999,
       "ordemSegmentoAto": 4,
       "omitir": false,
-      "tachado": false,
+      "tachado": true,
       "original": true,
       "compilado": true,
       "agendado": false,
@@ -133,7 +133,7 @@
       "idAssunto": 999,
       "ordemSegmentoAto": 5,
       "omitir": false,
-      "tachado": false,
+      "tachado": true,
       "original": true,
       "compilado": true,
       "agendado": false,
@@ -159,7 +159,7 @@
       "permiteAlterarData": true,
       "ehAgendamento": false,
       "textoAgendamento": null,
-      "exibirDataInicioVigencia": false,
+      "exibirDataInicioVigencia": true,
       "permiteAgendamento": true
     }
   ],
@@ -283,6 +283,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/295/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/295/visao/vigente",
+  "_fetched_at": "2026-07-29T19:24:58.011897+00:00"
 }

@@ -32,7 +32,7 @@
   "dataPublicacao": "1999-04-05",
   "dataVigenciaInicio": "1999-04-05",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -139,7 +139,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "III - fica revogado o Ato Declaratório Normativo Cosit No 06, de 12 de março de 1999, publicado no Diário Oficial da União de 15 de março de 1999.",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 5812,
+          "idSegmento": null,
+          "idAnotacao": 215347,
+          "href": "5812",
+          "texto": "[Ato Declaratório Normativo Cosit nº 6, de 12/03/1999 - |Dispõe sobre a dedutibilidade das contribuiçõ...| - Revogação]",
+          "dataInicioVigencia": null,
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -287,6 +303,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5844/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5844/visao/vigente",
+  "_fetched_at": "2026-07-29T19:26:08.852617+00:00"
 }

@@ -32,7 +32,7 @@
   "dataPublicacao": "1999-09-22",
   "dataVigenciaInicio": "1999-09-22",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -2487,6 +2487,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/6001/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/6001/visao/vigente",
+  "_fetched_at": "2026-07-29T19:26:03.662736+00:00"
 }

@@ -10,6 +10,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "No idAto returned by search",
@@ -17,7 +18,12 @@
     "review_reason": "not_found",
     "source_filenames": [
       "Parecer SEI Nº 110 2018 CRJPGACETPGFN-MF, aprovado pelo Despacho nº 3482020PGFN-ME, de 26 de agosto de 2020.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "parecer_sei",
@@ -30,6 +36,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "No idAto returned by search",
@@ -37,7 +44,12 @@
     "review_reason": "not_found",
     "source_filenames": [
       "Parecer SEI nº 10167 2021 ME.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "parecer_sei",
@@ -50,6 +62,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "No idAto returned by search",
@@ -57,7 +70,12 @@
     "review_reason": "not_found",
     "source_filenames": [
       "Parecer SEI nº 110 2018 CRJPGACETPGFN-MF.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   },
   {
     "type": "parecer_sei",
@@ -70,6 +88,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "No idAto returned by search",
@@ -77,6 +96,11 @@
     "review_reason": "not_found",
     "source_filenames": [
       "Parecer SEI nº 15069 2022 ME.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   }
 ]

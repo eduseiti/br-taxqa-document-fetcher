@@ -10,6 +10,7 @@
     "url": null,
     "success": false,
     "json_filename": "",
+    "original_json_filename": "",
     "text_filename": "",
     "docx_filename": "",
     "error": "14 candidate(s) found, none matched órgão=Cosit/number=5/date=2006-03-28",
@@ -17,6 +18,11 @@
     "review_reason": "date_mismatch",
     "source_filenames": [
       "Solução de Consulta Interna Cosit nº 5, de 28 de março de 2006.txt"
-    ]
+    ],
+    "fetched_at": null,
+    "exibir_visoes": null,
+    "data_vigencia_inicio": null,
+    "act_revoked": false,
+    "render_stats": {}
   }
 ]

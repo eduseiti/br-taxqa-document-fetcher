@@ -32,7 +32,7 @@
   "dataPublicacao": "2001-08-13",
   "dataVigenciaInicio": "2001-08-13",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -343,6 +343,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/50981/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/50981/visao/vigente",
+  "_fetched_at": "2026-07-29T19:25:30.351067+00:00"
 }

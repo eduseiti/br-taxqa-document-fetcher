@@ -32,7 +32,7 @@
   "dataPublicacao": "2021-12-15",
   "dataVigenciaInicio": "2022-01-01",
   "exibirVisoes": "1111",
-  "visao": "conjunta",
+  "visao": "vigente",
   "integro": true,
   "vigente": true,
   "ehRepublicado": false,
@@ -539,7 +539,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "I - a Instrução Normativa RFB nº 1.215, de 15 de dezembro de 2011;",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 36996,
+          "idSegmento": null,
+          "idAnotacao": 269256,
+          "href": "36996",
+          "texto": "[Instrução Normativa RFB nº 1215, de 15/12/2011 - |Aprova modelo de Comprovante de Rendimentos P...| - Revogação]",
+          "dataInicioVigencia": "01/01/2022",
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -559,7 +575,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "II - a Instrução Normativa RFB nº 1.405, de 23 de outubro de 2013, que altera a norma prevista no inciso I;",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 47190,
+          "idSegmento": null,
+          "idAnotacao": 269258,
+          "href": "47190",
+          "texto": "[Instrução Normativa RFB nº 1405, de 23/10/2013 - |Substitui o Anexo II da Instrução Normativa R...| - Revogação]",
+          "dataInicioVigencia": "01/01/2022",
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -579,7 +611,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "III - a Instrução Normativa RFB nº 1.522, de 5 de dezembro de 2014, que altera a norma prevista no inciso I; e",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 59075,
+          "idSegmento": null,
+          "idAnotacao": 269260,
+          "href": "59075",
+          "texto": "[Instrução Normativa RFB nº 1522, de 05/12/2014 - |Altera a Instrução Normativa RFB nº 1.215, de...| - Revogação]",
+          "dataInicioVigencia": "01/01/2022",
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -599,7 +647,23 @@
       "agendado": false,
       "desinenciaTipoSegmento": false,
       "textoIntegra": "IV - a Instrução Normativa RFB nº 1.682, de 28 de dezembro de 2016, que altera a norma prevista no inciso I.",
-      "ancorasOrigem": [],
+      "ancorasOrigem": [
+        {
+          "idAto": 79445,
+          "idSegmento": null,
+          "idAnotacao": 269262,
+          "href": "79445",
+          "texto": "[Instrução Normativa RFB nº 1682, de 28/12/2016 - |Altera a Instrução Normativa RFB nº 1.215, de...| - Revogação]",
+          "dataInicioVigencia": "01/01/2022",
+          "dataRepublicacao": null,
+          "permiteExcluir": false,
+          "permiteAlterarData": true,
+          "ehAgendamento": false,
+          "textoAgendamento": null,
+          "exibirDataInicioVigencia": true,
+          "permiteAgendamento": true
+        }
+      ],
       "ancorasDestino": [],
       "arquivoBinario": null,
       "estiloSegmento": null
@@ -2889,6 +2953,7 @@
       "desinenciaTipoSegmento": false
     }
   ],
-  "_view": "original",
-  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/122177/visao/original"
+  "_view": "vigente",
+  "_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/122177/visao/vigente",
+  "_fetched_at": "2026-07-29T19:19:58.318663+00:00"
 }

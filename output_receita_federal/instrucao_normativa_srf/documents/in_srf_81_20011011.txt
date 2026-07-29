@@ -2,19 +2,19 @@ Instrução Normativa SRF nº 81, de 11 de outubro de 2001
 
 Dispõe sobre as declarações de espólio.
 
-O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF N º 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 16 da Lei n º 9.779, de 19 de janeiro de 1999, e nos arts. 11 a 14, 23 a 25, 105, 141, 683, 798, § 5 º , 855 e 897 do Decreto n º 3.000, de 26 de março de 1999 - Regulamento do Imposto de Renda, resolve:
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF Nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e nos arts. 11 a 14, 23 a 25, 105, 141, 683, 798, § 5º, 855 e 897 do Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto de Renda, resolve:
 
-Art. 1 º As declarações de espólio devem ser efetuadas de conformidade com as normas estabelecidas para as declarações de pessoas físicas e com o disposto nesta Instrução Normativa.
+Art. 1º As declarações de espólio devem ser efetuadas de conformidade com as normas estabelecidas para as declarações de pessoas físicas e com o disposto nesta Instrução Normativa.
 
-Art. 2 º Considera-se espólio o conjunto de bens, direitos e obrigações da pessoa falecida.
+Art. 2º Considera-se espólio o conjunto de bens, direitos e obrigações da pessoa falecida.
 
 Disposições Gerais
 
-Art. 3° Consideram-se declarações de espólio aquelas relativas aos anos-calendário a partir do falecimento do contribuinte.
+Art. 3º Consideram-se declarações de espólio aquelas relativas aos anos-calendário a partir do falecimento do contribuinte.
 
-§ 1 º Ocorrendo o falecimento a partir de 1o de janeiro, mas antes da entrega da declaração correspondente ao ano-calendário anterior, esta não se caracteriza como declaração de espólio, devendo ser apresentada como se o contribuinte estivesse vivo e assinada pelo inventariante, cônjuge ou convivente, sucessor a qualquer título ou por representante do de cujus.
+§ 1º Ocorrendo o falecimento a partir de 1º de janeiro, mas antes da entrega da declaração correspondente ao ano-calendário anterior, esta não se caracteriza como declaração de espólio, devendo ser apresentada como se o contribuinte estivesse vivo e assinada pelo inventariante, cônjuge ou convivente, sucessor a qualquer título ou por representante do de cujus.
 
-§ 2 º As declarações de espólio são classificadas como:
+§ 2º As declarações de espólio são classificadas como:
 
 I - inicial, a que corresponder ao ano-calendário do falecimento;
 
@@ -22,39 +22,103 @@ II - intermediárias, as referentes aos anos-calendário seguintes ao do falecim
 
 III - final, a que corresponder ao ano-calendário em que for proferida a decisão judicial transitada em julgado da partilha, sobrepartilha ou adjudicação dos bens.
 
-§ 3 º Aplicam-se, quanto à obrigatoriedade de apresentação das declarações de espólio inicial e intermediárias, as mesmas normas previstas para os contribuintes pessoas físicas.
+§ 3º Aplicam-se, quanto à obrigatoriedade de apresentação das declarações de espólio inicial e intermediárias, as mesmas normas previstas para os contribuintes pessoas físicas.
 
-§ 4° Havendo bens a inventariar, é obrigatória a apresentação da declaração final, na qual devem ser incluídos os rendimentos, se auferidos, correspondentes ao período de janeiro do ano-calendário até o mês da decisão judicial transitada em julgado da partilha, sobrepartilha ou adjudicação dos bens.
+§ 4º Havendo bens a inventariar, é obrigatória a apresentação da declaração final, na qual devem ser incluídos os rendimentos, se auferidos, correspondentes ao período de janeiro do ano-calendário até o mês da decisão judicial transitada em julgado da partilha, sobrepartilha ou adjudicação dos bens.
 
-§ 5 º Nas declarações de que trata este artigo devem ser computados os rendimentos recebidos nos respectivos períodos, que sejam próprios do de cujus, ainda que transferidos de imediato ao cônjuge meeiro, aos herdeiros ou legatários.
+§ 5º Nas declarações de que trata este artigo devem ser computados os rendimentos recebidos nos respectivos períodos, que sejam próprios do de cujus, ainda que transferidos de imediato ao cônjuge meeiro, aos herdeiros ou legatários.
 
-§ 6 º O ganho de capital na alienação de bens e direitos realizada no curso do inventário deve ser tributado em nome do espólio, salvo se tratar de cessão de direitos hereditários, caso em que cabe ao cedente apurar, em seu nome, o ganho de capital.
+§ 6º O ganho de capital na alienação de bens e direitos realizada no curso do inventário deve ser tributado em nome do espólio, salvo se tratar de cessão de direitos hereditários, caso em que cabe ao cedente apurar, em seu nome, o ganho de capital.
 
-Art. 4 º As declarações de espólio devem ser:
+Art. 4º As declarações de espólio devem ser:
 
 I - apresentadas com o nome do espólio, endereço e número de inscrição no Cadastro das Pessoas Físicas (CPF) do de cujus;
 
 II - assinadas pelo inventariante, que indicará seu nome, CPF e endereço.
 
-§ 1 º Enquanto não iniciado o processo de inventário ou arrolamento, as declarações de espólio devem ser apresentadas e assinadas pelo cônjuge meeiro, sucessor a qualquer título ou por representante destes.
+§ 1º Enquanto não iniciado o processo de inventário ou arrolamento, as declarações de espólio devem ser apresentadas e assinadas pelo cônjuge meeiro, sucessor a qualquer título ou por representante destes.
 
-§ 2 º Se o de cujus ou o inventariante não estiver inscrito no CPF, ser-lhe-á conferido número de inscrição quando da entrega da declaração.
+§ 2º Se o de cujus ou o inventariante não estiver inscrito no CPF, ser-lhe-á conferido número de inscrição quando da entrega da declaração.
 
 Meios e Prazos de Entrega das Declarações de Espólio
 
-Art. 5 º As declarações inicial e intermediárias devem obedecer ao mesmo tratamento previsto para a Declaração de Ajuste Anual do ano-calendário correspondente.
+Art. 5º As declarações inicial e intermediárias devem obedecer ao mesmo tratamento previsto para a Declaração de Ajuste Anual do ano-calendário correspondente.
 
-Art. 6 º A Declaração Final de Espólio deve ser apresentada no prazo de sessenta dias contados da data do trânsito em julgado da decisão judicial da partilha, sobrepartilha ou adjudicação dos bens inventariados.
+Art. 6º A Declaração Final de Espólio deve ser apresentada até o último dia útil do mês de abril do ano-calendário subseqüente ao:
 
-§ 1 º A declaração final será recebida em formulário ou disquete, pelas unidades da Secretaria da Receita Federal ou por meio da Internet.
+[Redação dada pelo(a) Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]
 
-§ 2 º O programa gerador da Declaração Final de Espólio está disponível nas unidades da Secretaria da Receita Federal ou em seu endereço na Internet:(http://www.receita.fazenda.gov.br).
+I - da decisão judicial da partilha, sobrepartilha ou adjudicação dos bens inventariados, que tenha transitado em julgado até o último dia do mês de fevereiro do ano-calendário subseqüente ao da decisão judicial;
 
-§ 3 º Se o prazo para a entrega da declaração final encerrar-se antes da data prevista para a entrega da declaração correspondente ao ano-calendário anterior, essas duas declarações devem ser entregues no prazo previsto para a entrega da declaração final.
+[Redação dada pelo(a) Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]
+
+a) decisão
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 805, de 28 de dezembro de 2007]
+
+[Suprimido(a) - vide Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]
+
+b) lavratura
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 805, de 28 de dezembro de 2007]
+
+[Suprimido(a) - vide Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]
+
+II - da lavratura da escritura pública de inventário e partilha;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]
+
+III - do trânsito em julgado, quando este ocorrer a partir de 1º de março do ano-calendário subsequente ao da decisão judicial da partilha, sobrepartilha ou adjudicação dos bens inventariados, observado o disposto no § 8º.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2178, de 5 de março de 2024]
+
+§ 1º A Declaração Final de Espólio deve ser transmitida pela Internet ou apresentada, em mídia removível, nas unidades da Secretaria da Receita Federal do Brasil.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1150, de 29 de abril de 2011]
+
+§ 2º O contribuinte deverá utilizar o Programa Gerador da Declaração Final de Espólio do ano-calendário correspondente ao que for proferida a decisão judicial ou a lavratura da escritura pública, que estará disponível no sítio da Secretaria da Receita Federal do Brasil (RFB) na Internet no endereço .
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]
+
+§ 3º
+
+[Suprimido(a) - vide Instrução Normativa SRF nº 711, de 31 de janeiro de 2007]
+
+§ 4º O prazo para a entrega da Declaração de que trata o caput, originalmente fixado em 30 de abril de 2020, fica excepcionalmente prorrogado para 30 de junho de 2020.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1934, de 7 de abril de 2020]
+
+§ 5º O prazo para a entrega da Declaração de que trata o caput, originalmente fixado para até 30 de abril de 2021, fica excepcionalmente prorrogado para até 31 de maio de 2021.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2020, de 9 de abril de 2021]
+
+§ 6º O prazo para a apresentação da declaração de que trata o caput, originalmente fixado para até 29 de abril de 2022, fica excepcionalmente prorrogado para até 31 de maio de 2022.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2077, de 4 de abril de 2022]
+
+§ 7º O prazo para a apresentação da declaração de que trata o caput, originalmente fixado para até 28 de abril de 2023, fica excepcionalmente prorrogado para até 31 de maio de 2023.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2134, de 27 de fevereiro de 2023]
+
+§ 8º Na hipótese de o trânsito em julgado ocorrer nos meses de janeiro e fevereiro de anos-calendário subsequentes ao ano-calendário imediatamente seguinte ao da decisão judicial da partilha, sobrepartilha ou adjudicação dos bens inventariados, a Declaração Final de Espólio deve ser apresentada até o último dia útil do mês de abril do mesmo ano-calendário do trânsito em julgado.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2178, de 5 de março de 2024]
+
+§ 9º O prazo para a apresentação da declaração de que tratam o caput e o § 8º, originalmente fixado para até 30 de abril de 2024, fica prorrogado para até 31 de maio de 2024.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2178, de 5 de março de 2024]
+
+§ 10. O prazo para a apresentação da declaração de que tratam o caput e o § 8º, originalmente fixado para até 30 de abril de 2025, fica prorrogado para até 30 de maio de 2025.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2263, de 25 de abril de 2025]
+
+§ 11. O prazo para a apresentação da declaração de que tratam o caput e o § 8º, originalmente fixado para até 30 de abril de 2026, fica prorrogado para até 29 de maio de 2026.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 2312, de 13 de março de 2026]
 
 Declarações Inicial e Intermediárias
 
-Art. 7 º Nas declarações inicial e intermediárias, se obrigatórias, devem ser incluídos:
+Art. 7º Nas declarações inicial e intermediárias, se obrigatórias, devem ser incluídos:
 
 I - os rendimentos recebidos durante todo o ano-calendário, observado o seguinte:
 
@@ -80,11 +144,11 @@ II - todos os bens e direitos que integram o regime de comunhão universal ou pa
 
 Declaração Final
 
-Art. 8º A declaração final deve abranger os rendimentos recebidos no período compreendido entre 1° de janeiro e a data da decisão judicial transitada em julgado da partilha, sobrepartilha ou adjudicação dos bens inventariados, aplicando-se-lhe as normas estabelecidas para o ano-calendário em que ocorrer o termo final, observado o disposto no inciso I do art. 7º.
+Art. 8º A declaração final deve abranger os rendimentos recebidos no período compreendido entre 1º de janeiro e a data da decisão judicial transitada em julgado da partilha, sobrepartilha ou adjudicação dos bens inventariados, aplicando-se-lhe as normas estabelecidas para o ano-calendário em que ocorrer o termo final, observado o disposto no inciso I do art. 7º.
 
-§ 1 º O imposto de renda deve ser apurado mediante a utilização dos valores da tabela progressiva mensal, vigente no ano-calendário a que corresponder a declaração final, multiplicados pelo número de meses a partir de janeiro até o da decisão judicial transitada em julgado, ainda que os rendimentos correspondam a apenas um ou alguns meses desse período.
+§ 1º O imposto de renda deve ser apurado mediante a utilização dos valores da tabela progressiva mensal, vigente no ano-calendário a que corresponder a declaração final, multiplicados pelo número de meses a partir de janeiro até o da decisão judicial transitada em julgado, ainda que os rendimentos correspondam a apenas um ou alguns meses desse período.
 
-§ 2 º Na declaração final devem ser prestadas as seguintes informações, relativamente ao formal de partilha, sobrepartilha ou adjudicação, do seu termo de encerramento e do trânsito em julgado da decisão judicial:
+§ 2º Na declaração final devem ser prestadas as seguintes informações, relativamente ao formal de partilha, sobrepartilha ou adjudicação, do seu termo de encerramento e do trânsito em julgado da decisão judicial:
 
 I - número do processo judicial e da vara e seção judiciária onde tramitou;
 
@@ -104,63 +168,95 @@ Transferência dos bens e direitos
 
 Art. 10. A transferência dos bens e direitos aos herdeiros ou legatários pode ser efetuada pelo valor constante na última declaração de bens e direitos apresentada pelo de cujus ou pelo valor de mercado.
 
-§ 1 º No caso em que o de cujus não houver apresentado Declaração de Ajuste Anual por não se enquadrar nas condições de obrigatoriedade estabelecidas pela legislação tributária, a transferência pode ser efetuada pelo custo de aquisição do bem ou direito, atualizado monetariamente até 31/12/1995, conforme Tabela de Atualização do Custo de Bens e Direitos (Anexo I).
+§ 1º No caso em que o de cujus não houver apresentado Declaração de Ajuste Anual por não se enquadrar nas condições de obrigatoriedade estabelecidas pela legislação tributária, a transferência pode ser efetuada pelo custo de aquisição do bem ou direito, atualizado monetariamente até 31/12/1995, conforme Tabela de Atualização do Custo de Bens e Direitos (Anexo I).
 
-§ 2 º Se a transferência for efetuada por valor superior ao constante na última declaração do de cujus ou do custo de aquisição, referido no § 1 º , a diferença constitui ganho de capital tributável, sujeito à incidência do imposto de renda à alíquota de quinze por cento.
+§ 2º Se a transferência for efetuada por valor superior ao constante na última declaração do de cujus ou do custo de aquisição, referido no § 1º, a diferença constitui ganho de capital tributável, sujeito à incidência do imposto de renda à alíquota de quinze por cento.
 
-§ 3° A opção por qualquer dos critérios de avaliação a que se refere este artigo deve ser informada na Declaração Final de Espólio, sendo vedada a sua retificação.
+§ 3º A opção por qualquer dos critérios de avaliação a que se refere este artigo deve ser informada na Declaração Final de Espólio, sendo vedada a sua retificação.
 
-§ 4° Na hipótese do § 2°, o inventariante deve preencher o Demonstrativo de Apuração do Ganho de Capital e anexá-lo à Declaração Final de Espólio.
+§ 4º Na hipótese do § 2º, o inventariante deve apurar o ganho de capital por meio do Programa Demonstrativo de Ganhos de Capital do ano-calendário correspondente ao que for proferida a decisão judicial ou lavratura da escritura pública e importar os respectivos dados para a Declaração Final de Espólio.
 
-§ 5° O imposto devido sobre ganho de capital de que trata este artigo deve ser pago pelo inventariante até a data prevista para a entrega da Declaração Final de Espólio.
+[Redação dada pelo(a) Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]
 
-§ 6 º Na Declaração de Ajuste Anual relativa ao exercício correspondente ao ano-calendário da decisão judicial transitada em julgado, os herdeiros e os legatários deverão incluir os bens e direitos recebidos pelo valor informado na coluna "Valor de Transferência" da declaração de bens e direitos correspondente à Declaração Final de Espólio.
+§ 5º O imposto devido sobre ganho de capital de que trata este artigo deve ser pago pelo inventariante até a data prevista para a entrega da Declaração Final de Espólio.
 
-§ 7 º Na apuração do ganho de capital em virtude de posterior alienação dos bens e direitos de que trata este artigo, deve ser considerado como custo de aquisição o valor a que se refere o § 6 º .
+[Redação dada pelo(a) Instrução Normativa RFB nº 1620, de 19 de fevereiro de 2016]
+
+§ 6º Na Declaração de Ajuste Anual relativa ao exercício correspondente ao ano-calendário da decisão judicial transitada em julgado, os herdeiros e os legatários deverão incluir os bens e direitos recebidos pelo valor informado na coluna "Valor de Transferência" da declaração de bens e direitos correspondente à Declaração Final de Espólio.
+
+§ 7º Na apuração do ganho de capital em virtude de posterior alienação dos bens e direitos de que trata este artigo, deve ser considerado como custo de aquisição o valor a que se refere o § 6º.
+
+§ 8º Caso o custo de aquisição utilizado pelo herdeiro no cálculo do ganho de capital, na alienação de bens e direitos recebidos em herança, legado ou meação antes da entrega da Declaração Final de Espólio, seja maior do que o valor atribuído ao respectivo bem nessa declaração, caberá ao herdeiro o recolhimento da diferença do imposto sobre o ganho de capital apurado com base no valor de transferência, com os devidos acréscimos legais.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 897, de 29 de dezembro de 2008]
 
 Acréscimo de Bens ao Inventário
 
-Art. 11. São passíveis de sobrepartilha os bens (Código de Processo Civil, art. 1.040):
+Art. 11. São sujeitos a sobrepartilha os bens (Código de Processo Civil - CPC, art. 669):
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]
 
 I - sonegados;
 
-II - da herança, que se descobrirem depois da partilha;
+II - da herança descobertos após a partilha;
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]
 
 III - litigiosos, assim como os de liquidação difícil ou morosa;
 
 IV - situados em lugar remoto da sede do juízo onde se processa o inventário.
 
-Parágrafo único. Nas situações de que tratam os incisos III e IV, a partilha dos demais bens integrantes do espólio, embora implique sua baixa na declaração de bens do espólio, não obriga a entrega da declaração final, que somente é exigida quando do trânsito em julgado da partilha desses bens.
+Parágrafo único. Os demais bens integrantes do espólio devem ser baixados na declaração final de espólio da partilha.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]
 
 Bens Acrescidos Antes da Partilha
 
 Art. 12. Na hipótese de haver bens trazidos aos autos do inventário em data anterior à do trânsito em julgado da decisão judicial da partilha ou adjudicação, as declarações do espólio devem ser apresentadas normalmente, nelas incluindo-se, a partir do ano-calendário em que os mesmos forem trazidos aos autos, os bens e os rendimentos por eles produzidos.
 
-Parágrafo único. Se os bens e direitos trazidos aos autos houverem produzido rendimentos em anos anteriores, não abrangidos pela decadência, devem ser retificadas as declarações apresentadas nos exercícios correspondentes, desde a abertura da sucessão, para que nelas sejam incluídos esses bens e os rendimentos por eles produzidos, observado o disposto nos incisos I e II do art. 7 º .
+Parágrafo único. Se os bens e direitos trazidos aos autos houverem produzido rendimentos em anos anteriores, não abrangidos pela decadência, devem ser retificadas as declarações apresentadas nos exercícios correspondentes, desde a abertura da sucessão, para que nelas sejam incluídos esses bens e os rendimentos por eles produzidos, observado o disposto nos incisos I e II do art. 7º.
 
 Bens Acrescidos Após a Partilha
 
-Art. 13. Relativamente ao bens trazidos aos autos após o trânsito em julgado da decisão judicial da partilha ou adjudicação, deve ser observado o disposto nos incisos I e II do art. 7 º e:
+Art. 13. Relativamente aos bens da sobrepartilha, deve ser observado o disposto nos arts. 5º a 7º e, se a sobrepartilha se referir:
 
-I - se já tiver sido apresentada a declaração final relativa a essa fase, deve ser requerida sua retificação, para nela serem incluídos os bens objeto de sobrepartilha e os rendimentos por eles produzidos:
+[Redação dada pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]
 
-a) até a data da decisão judicial da sobrepartilha, se esta ainda ocorrer dentro desse mesmo ano-calendário;
+I - ao mesmo ano-calendário da partilha, devem também ser informados, na declaração final de espólio relativa à partilha, os bens da sobrepartilha e os rendimentos por eles produzidos; ou
 
-b) em todo o ano-calendário, se a decisão judicial da sobrepartilha ocorrer em ano-calendário posterior, passando essa declaração a ser considerada intermediária;
+[Redação dada pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]
 
-II - se a declaração final não tiver sido entregue:
+a)
 
-a) caso a decisão judicial da sobrepartilha ocorra no mesmo ano-calendário, na declaração final são informados os bens objeto da partilha e da sobrepartilha e os rendimentos produzidos por todos esses bens até a data da partilha e pelos sobrepartilhados até a data da decisão judicial transitada em julgado da sobrepartilha;
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]
 
-b) se a decisão judicial da sobrepartilha ocorrer em ano-calendário posterior, na declaração intermediária correspondente ao ano-calendário da decisão judicial da partilha, se obrigatória, devem ser informados os bens objeto da partilha e sobrepartilha e os respectivos rendimentos produzidos até 31 de dezembro.
+b)
 
-§ 1 º Se os bens sobrepartilhados houverem produzido rendimentos:
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]
+
+II - a ano-calendário posterior ao da partilha, devem ser informados, nas declarações de sobrepartilha intermediárias, se obrigatórias, e final, apenas os bens da sobrepartilha e os rendimentos por eles produzidos.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]
+
+a)
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]
+
+b)
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]
+
+§ 1º Se os bens sobrepartilhados houverem produzido rendimentos:
 
 I - em anos anteriores, não alcançados pela decadência, são aplicadas as normas do parágrafo único do art. 12;
 
-II - posteriormente ao ano em que foi proferida a decisão judicial transitada em julgado da partilha ou adjudicação, devem ser apresentadas as declarações dos exercícios correspondentes, onde são incluídos apenas os bens sobrepartilhados e os rendimentos por eles produzidos.
+II -
 
-§ 2 º Transitado em julgado a decisão judicial referente à sobrepartilha, deve ser apresentada a declaração final.
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]
+
+§ 2º Transitado em julgado a decisão judicial referente à sobrepartilha, deve ser apresentada a declaração final da sobrepartilha.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 2010, de 24 de fevereiro de 2021]
 
 Deduções Permitidas
 
@@ -176,15 +272,15 @@ Pagamento do Imposto
 
 Art. 15. O trânsito em julgado da decisão judicial da partilha, sobrepartilha ou adjudicação, pondo termo ao processo de inventário, implica vencimento das obrigações tributárias do espólio.
 
-§ 1 º O pagamento do imposto correspondente à declaração final deve ser efetuado até a data prevista para sua entrega.
+§ 1º O pagamento do imposto correspondente à declaração final deve ser efetuado até a data prevista para sua entrega.
 
-§ 2 º O prazo de pagamento previsto no § 1o aplica-se igualmente ao imposto apurado na declaração correspondente ao ano-calendário anterior àquele em que transitou em julgado a decisão judicial da partilha, sobrepartilha ou adjudicação, bem assim de quaisquer outros créditos tributários ainda não quitados, se prazo menor não estiver estipulado na legislação tributária, não se admitindo o pagamento do imposto em quotas.
+§ 2º O prazo de pagamento previsto no § 1º aplica-se igualmente ao imposto apurado na declaração correspondente ao ano-calendário anterior àquele em que transitou em julgado a decisão judicial da partilha, sobrepartilha ou adjudicação, bem assim de quaisquer outros créditos tributários ainda não quitados, se prazo menor não estiver estipulado na legislação tributária, não se admitindo o pagamento do imposto em quotas.
 
 Restituição do Imposto
 
 Art. 16. Caso na declaração final seja apurado imposto a restituir, são observadas, quanto a essa restituição, as mesmas normas aplicáveis às demais restituições, às pessoas físicas, vigentes no exercício a ela correspondente.
 
-Art. 17. Existindo bens ou direitos sujeitos a inventário ou arrolamento, a restituição ao cônjuge, convivente ou herdeiros somente pode ser efetuada mediante alvará expedido para esse fim por autoridade judiciária, ainda que o pedido seja efetuado após o encerramento do procedimento judicial, o qual substitui os documentos referidos no § 3 º do art. 19, observados os demais procedimentos legais e normativos estabelecidos para devolução dos tributos administrados pela Secretaria da Receita Federal.
+Art. 17. Existindo bens ou direitos sujeitos a inventário ou arrolamento, a restituição ao cônjuge, convivente ou herdeiros somente pode ser efetuada mediante alvará expedido para esse fim por autoridade judiciária, ainda que o pedido seja efetuado após o encerramento do procedimento judicial, o qual substitui os documentos referidos no § 3º do art. 19, observados os demais procedimentos legais e normativos estabelecidos para devolução dos tributos administrados pela Secretaria da Receita Federal.
 
 Parágrafo único. A devolução do imposto pago a maior ou indevidamente pelo espólio deve ser requerida pelo inventariante, observadas as condições previstas no caput.
 
@@ -196,9 +292,9 @@ Parágrafo único. As declarações correspondentes ao ano do falecimento e do a
 
 Art. 19. Na hipótese do art. 18, a restituição relativa ao imposto de renda, não recebida em vida pelo contribuinte, pode ser paga ou creditada ao cônjuge, convivente ou aos herdeiros, mediante requerimento dirigido ao titular da Delegacia da Receita Federal ou Inspetoria da Receita Federal de Classe A situada na jurisdição do último endereço de cujus.
 
-§ 1 º O requerimento deve ser formulado pelo cônjuge viúvo, convivente ou por herdeiro capaz, ou pelo tutor ou curador, conforme o caso, devendo nele constar os nomes completos e os demais dados civis de todos os beneficiários habilitados à restituição, inclusive CPF de quem estiver inscrito.
+§ 1º O requerimento deve ser formulado pelo cônjuge viúvo, convivente ou por herdeiro capaz, ou pelo tutor ou curador, conforme o caso, devendo nele constar os nomes completos e os demais dados civis de todos os beneficiários habilitados à restituição, inclusive CPF de quem estiver inscrito.
 
-§ 2 º O pedido deve ser entregue acompanhado de:
+§ 2º O pedido deve ser entregue acompanhado de:
 
 I - cópia da certidão de óbito;
 
@@ -206,17 +302,17 @@ II - cópia da certidão de nascimento ou de casamento, ou de outro documento h�
 
 III - declaração de inexistência de outros bens a inventariar ou arrolar, bem assim autenticidade dos documentos e dados apresentados, devendo ser usado como modelo os termos da declaração do Anexo II.
 
-§ 3 º Os documentos, declaração e dados apresentados na forma deste artigo valem como expressão da verdade para todos os efeitos legais, sob exclusiva responsabilidade do requerente.
+§ 3º Os documentos, declaração e dados apresentados na forma deste artigo valem como expressão da verdade para todos os efeitos legais, sob exclusiva responsabilidade do requerente.
 
-§ 4 º Protocolizado o requerimento e informada no processo a situação fiscal do de cujus, o pedido é apreciado, em rito sumário, pelo Delegado ou Inspetor da unidade jurisdicionante que, se o deferir, determinará a emissão de ordem bancária em nome de cada beneficiário.
+§ 4º Protocolizado o requerimento e informada no processo a situação fiscal do de cujus, o pedido é apreciado, em rito sumário, pelo Delegado ou Inspetor da unidade jurisdicionante que, se o deferir, determinará a emissão de ordem bancária em nome de cada beneficiário.
 
-§ 5 º Havendo herdeiros menores, os valores a eles correspondentes devem ser incluídos na ordem bancária que é emitida no nome do requerente, relacionando-se no verso do documento os nomes e valores que cabem a cada um dos interessados.
+§ 5º Havendo herdeiros menores, os valores a eles correspondentes devem ser incluídos na ordem bancária que é emitida no nome do requerente, relacionando-se no verso do documento os nomes e valores que cabem a cada um dos interessados.
 
-§ 6 º A restituição é no percentual de 50% (cinqüenta por cento) para o cônjuge viúvo ou convivente e o restante em quotas iguais para os demais herdeiros.
+§ 6º A restituição é no percentual de 50% (cinqüenta por cento) para o cônjuge viúvo ou convivente e o restante em quotas iguais para os demais herdeiros.
 
-§ 7 º Existindo débito fiscal em nome do de cujus, o valor da restituição é compensado, na forma prevista na legislação pertinente, devolvendo-se aos beneficiários apenas o valor do saldo positivo, quando houver, obedecida a proporção prevista no § 6 º .
+§ 7º Existindo débito fiscal em nome do de cujus, o valor da restituição é compensado, na forma prevista na legislação pertinente, devolvendo-se aos beneficiários apenas o valor do saldo positivo, quando houver, obedecida a proporção prevista no § 6º.
 
-§ 8 º Indeferido o pedido, cabe manifestação de inconformidade à Delegacia da Receita Federal de Julgamento, dentro do prazo de 30 (trinta) dias, contado da data da ciência do despacho decisório que denegou a restituição.
+§ 8º Indeferido o pedido, cabe manifestação de inconformidade à Delegacia da Receita Federal de Julgamento, dentro do prazo de 30 (trinta) dias, contado da data da ciência do despacho decisório que denegou a restituição.
 
 Art. 20. Inexistindo beneficiário habilitado na forma do art. 19, podem pleitear a restituição os sucessores do titular do direito ao crédito, consoante dispõe a Lei Civil, desde que munidos de alvará judicial expedido com essa finalidade, mesmo na hipótese de inexistir outros bens sujeitos a inventário ou arrolamento.
 
@@ -246,11 +342,11 @@ II - o sucessor a qualquer título e o cônjuge meeiro, pelos tributos devidos p
 
 III - o inventariante, pelo cumprimento das obrigações tributárias do espólio resultantes dos atos praticados com excesso de poderes ou infração de lei.
 
-§ 1 º Na impossibilidade de se exigir, do espólio, o pagamento do imposto, o inventariante responde solidariamente com ele quanto aos atos em que intervier ou pelas omissões de que for responsável, não se sujeitando à multa de ofício.
+§ 1º Na impossibilidade de se exigir, do espólio, o pagamento do imposto, o inventariante responde solidariamente com ele quanto aos atos em que intervier ou pelas omissões de que for responsável, não se sujeitando à multa de ofício.
 
-§ 2 º A falta de apresentação das declarações de espólio, se obrigatórias, bem como sua apresentação fora dos prazos fixados, sujeita o espólio à multa prevista no art. 88 da Lei n° 8.981, de 20 de janeiro de 1995, com as alterações posteriores, observado o máximo de vinte por cento do imposto devido pelo espólio e o mínimo de R$ 165,74 (cento e sessenta e cinco reais e setenta e quatro centavos).
+§ 2º A falta de apresentação das declarações de espólio, se obrigatórias, bem como sua apresentação fora dos prazos fixados, sujeita o espólio à multa prevista no art. 88 da Lei nº 8.981, de 20 de janeiro de 1995, com as alterações posteriores, observado o máximo de vinte por cento do imposto devido pelo espólio e o mínimo de R$ 165,74 (cento e sessenta e cinco reais e setenta e quatro centavos).
 
-§ 3 º Quando se apurar, pela abertura da sucessão, que o de cujus não apresentou as declarações de rendimentos de anos-calendário anteriores, a cuja entrega estivesse obrigado, ou o fez com omissão de rendimentos até a abertura da sucessão, deve ser cobrado do espólio o imposto respectivo, acrescido de juros moratórios e a multa prevista no art. 49 do Decreto-lei n° 5.844, de 23 de setembro de 1943, de dez por cento calculada sobre o imposto devido.
+§ 3º Quando se apurar, pela abertura da sucessão, que o de cujus não apresentou as declarações de rendimentos de anos-calendário anteriores, a cuja entrega estivesse obrigado, ou o fez com omissão de rendimentos até a abertura da sucessão, deve ser cobrado do espólio o imposto respectivo, acrescido de juros moratórios e a multa prevista no art. 49 do Decreto-lei nº 5.844, de 23 de setembro de 1943, de dez por cento calculada sobre o imposto devido.
 
 Cancelamento do CPF
 
@@ -270,12 +366,278 @@ II - Declaração de Inexistência de Bens a Inventariar ou Arrolar e Autenticid
 
 Art. 27. Esta Instrução Normativa entra em vigor na data de sua publicação.
 
-Art. 28. Ficam formalmente revogadas, sem interrupção de sua força normativa, as Instruções Normativas SRF N º 56/89, de 31 de maio de 1989, N º 23/96, de 18 de abril de 1996, No 53/98, de 9 de junho de 1998, e N º 159/99, de 23 de dezembro de 1999.
+Art. 28. Ficam formalmente revogadas, sem interrupção de sua força normativa, as Instruções Normativas SRF Nº 56/89, de 31 de maio de 1989, Nº 23/96, de 18 de abril de 1996, nº 53/98, de 9 de junho de 1998, e Nº 159/99, de 23 de dezembro de 1999.
 
 EVERARDO MACIEL
 
 ANEXO I
 
-Novo segmento
+Anexo I
+
+Tabela de Atualização do Custo de Bens e Direitos
+
+Índices para valores expressos em Reais
+
+ | 1995 | 1994 |  | 1995 | 1994
+JAN | 0,8166 | - | JUL | 0,9128 | 0,6779
+FEV | 0,8166 | - | AGO | 0,9128 | 0,7133
+MAR | 0,8166 | - | SET | 0,9128 | 0,7490
+ABR | 0,8521 | - | OUT | 0,9596 | 0,7612
+MAI | 0,8521 | - | NOV | 0,9596 | 0,7757
+JUN | 0,8521 | - | DEZ | 0,9596 | 0,7986
+
+Índices para valores expressos em Cruzeiros Reais
+
+ | 1994 | 1993 |  | 1994 | 1993
+JAN | 226,5838 | - | JUL | - | -
+FEV | 315,3373 | - | AGO | - | 51,6351
+MAR | 440,5213 | - | SET | - | 68,1549
+ABR | 632,7260 | - | OUT | - | 91,5892
+MAI | 893,7251 | - | NOV | - | 123,7963
+JUN | 1288,8379 | - | DEZ | - | 165,7657
+
+Índices para valores expressos em Cruzeiros
+
+ | 1993 | 1992 | 1991 | 1990
+JAN | 8944,793 | 720,4779 | 151,5152 | -
+FEV | 11580,825 | 904,9234 | 182,1368 | -
+MAR | 14675,226 | 1141,1126 | 203,6121 | 33,2962
+ABR | 18484,916 | 1392,4943 | 213,8125 | 48,2139
+MAI | 23538,699 | 1668,6256 | 228,0957 | 52,0084
+JUN | 30320,200 | 2059,9131 | 252,7992 | 56,9759
+JUL | 39519,343 | 2539,2543 | 283,4891 | 64,3374
+AGO | - | 3072,7525 | 327,7542 | 72,0781
+SET | - | 3783,7818 | 378,9461 | 81,2750
+OUT | - | 4666,5380 | 458,8306 | 92,8152
+NOV | - | 5855,5690 | 580,3260 | 107,2754
+DEZ | - | 7243,3329 | 720,4779 | 126,9078
+
+Índices para valores expressos em Cruzados Novos
+
+ | 1990 | 1989 |  | 1990 | 1989
+JAN | 10,4555 | 0,5515 | JUL | - | 1,5198
+FEV | 18,0650 | 0,7235 | AGO | - | 1,9569
+MAR | 33,2962 | 0,9447 | SET | - | 2,5313
+ABR | - | 1,0319 | OUT | - | 3,4411
+MAI | - | 1,1073 | NOV | - | 4,7359
+JUN | - | 1,2175 | DEZ | - | 6,6974
+
+Índices para valores expressos em Cruzados
+
+ | 1989 | 1988 | 1987 | 1986
+JAN | 551,4563 | 53,3508 | 11,6159 | -
+FEV | - | 62,1608 | 13,5700 | -
+MAR | - | 73,3269 | 16,2312 | 9,5095
+ABR | - | 85,0644 | 18,5873 | 9,4946
+MAI | - | 101,4610 | 22,4835 | 9,5735
+JUN | - | 119,5108 | 27,7523 | 9,7067
+JUL | - | 142,8467 | 32,7552 | 9,8306
+AGO | - | 177,1870 | 33,7538 | 9,9471
+SET | - | 213,7898 | 35,9000 | 10,1142
+OUT | - | 265,1106 | 37,9401 | 10,2889
+NOV | - | 337,3606 | 41,4237 | 10,4843
+DEZ | - | 428,1914 | 46,7426 | 10,8289
+
+Índices para valores expressos em Cruzeiros
+
+ | 1986 | 1985 | 1984 | 1983 | 1982 | 1981 | 1980
+JAN | 7154,2187 | 2183,6293 | 674,4178 | 260,1557 | 129,9540 | 66,0034 | 43,6003
+FEV | 8315,5785 | 2458,7760 | 740,5248 | 275,7534 | 136,4509 | 69,3049 | 45,4306
+MAR | - | 2709,5023 | 831,6084 | 294,2330 | 143,2689 | 73,8098 | 47,1142
+ABR | - | 3053,5621 | 914,7541 | 320,7264 | 150,4332 | 78,4588 | 48,8560
+MAI | - | 3414,8122 | 996,2060 | 349,5961 | 158,7074 | 83,1659 | 50,6635
+JUN | - | 3756,5968 | 1084,8627 | 377,5557 | 167,4391 | 88,1562 | 52,3851
+JUL | - | 4102,4262 | 1184,6931 | 407,0068 | 176,6409 | 93,4447 | 54,0611
+AGO | - | 4414,8861 | 1306,7699 | 443,6374 | 187,2433 | 99,0493 | 55,7928
+SET | - | 4775,8834 | 1445,1775 | 481,3550 | 200,3535 | 104,7954 | 57,5801
+
+OUT | - | 5210,4453 | 1596,9328 | 527,0864 | 214,3738 | 110,7690 | 59,3067
+NOV | - | 5679,6407 | 1798,1611 | 578,2024 | 229,3774 | 117,0890 | 61,2027
+DEZ | - | 6311,1332 | 1976,1064 | 626,7905 | 244,2900 | 123,5304 | 63,1619
+
+Índices para valores expressos em Cruzeiros
+
+ | 1979 | 1978 | 1977 | 1976 | 1975 | 1974 | 1973
+JAN | 29,2084 | 21,3001 | 16,4143 | 11,9172 | 9,5414 | 7,2055 | 6,3339
+FEV | 29,8682 | 21,7498 | 16,6979 | 12,1465 | 9,6870 | 7,2814 | 6,3966
+MAR | 30,5634 | 22,2542 | 17,0275 | 12,4178 | 9,8475 | 7,3903 | 6,4636
+ABR | 31,3269 | 22,8280 | 17,4136 | 12,7125 | 10,0326 | 7,4834 | 6,5414
+MAI | 32,4999 | 23,4947 | 17,9159 | 13,0338 | 10,2326 | 7,6057 | 6,6165
+JUN | 33,7411 | 24,2103 | 18,4925 | 13,4216 | 10,4684 | 7,7675 | 6,7004
+JUL | 34,8635 | 24,9399 | 19,1083 | 13,8178 | 10,6598 | 8,0259 | 6,7748
+AGO | 35,8141 | 25,7021 | 19,6192 | 14,1709 | 10,8421 | 8,3790 | 6,8354
+SET | 36,8430 | 26,4150 | 20,0212 | 14,5653 | 11,0112 | 8,7785 | 6,8926
+OUT | 38,3244 | 27,1051 | 20,3021 | 15,0451 | 11,2347 | 9,1073 | 6,9596
+NOV | 40,0813 | 27,7498 | 20,5837 | 15,5871 | 11,4786 | 9,3040 | 7,0071
+DEZ | 41,8914 | 28,4601 | 20,8908 | 16,0593 | 11,7210 | 9,4213 | 7,0670
+
+Índices para valores expressos em Cruzeiros
+
+ | 1972 | 1971 | 1970 |  | 1972 | 1971 | 1970
+JAN | 5,4984 | 4,5142 | - | JUL | 5,9817 | 4,9228 | 4,1292
+FEV | 5,5644 | 4,5974 | - | AGO | 6,0677 | 5,0211 | 4,1656
+MAR | 5,6387 | 4,6581 | - | SET | 6,1185 | 5,1265 | 4,2051
+ABR | 5,7032 | 4,7046 | - | OUT | 6,1625 | 5,2383 | 4,2551
+MAI | 5,7790 | 4,7592 | 4,0291 | NOV | 6,2214 | 5,3437 | 4,3345
+JUN | 5,8763 | 4,8272 | 4,0665 | DEZ | 6,2626 | 5,4314 | 4,4275
+
+Índices para valores expressos em Cruzeiros Novos
+
+ | 1970 | 1969 | 1968 | 1967
+JAN | 3,7849 | 3,1835 | 2,5454 | -
+FEV | 3,8699 | 3,2416 | 2,5899 | 2,1254
+MAR | 3,9477 | 3,2988 | 2,6276 | 2,1700
+ABR | 3,9922 | 3,3453 | 2,6660 | 2,2021
+MAI | 4,0291 | 3,3971 | 2,7161 | 2,2353
+
+JUN | - | 3,4391 | 2,7884 | 2,2754
+JUL | - | 3,4856 | 2,8680 | 2,3397
+AGO | - | 3,5096 | 2,9322 | 2,3988
+SET | - | 3,5357 | 2,9858 | 2,4355
+OUT | - | 3,5678 | 3,0280 | 2,4471
+NOV | - | 3,6259 | 3,0735 | 2,4640
+DEZ | - | 3,7017 | 3,1236 | 2,4989
+
+Índices para valores expressos em Cruzeiros
+
+ | 1967 | 1966 | 1965 | 1964 | 1963 | 1962 | 1961
+JAN | 2076,2149 | 1483,6788 | 1009,9330 | 558,5094 | 256,9452 | 155,9645 | 111,5376
+FEV | 2125,4097 | 1523,8739 | 1009,9330 | 594,2552 | 279,4696 | 159,1750 | 110,2887
+MAR | - | 1546,2213 | 1009,9330 | 633,6666 | 301,2861 | 161,2328 | 111,8940
+ABR | - | 1572,9675 | 1197,6364 | 662,4604 | 307,2775 | 163,2881 | 117,0789
+MAI | - | 1633,8163 | 1197,6364 | 686,7544 | 325,9594 | 170,3513 | 117,8019
+JUN | - | 1706,2180 | 1197,6364 | 724,3962 | 352,1241 | 176,2466 | 119,4906
+JUL | - | 1775,9147 | 1358,4926 | 775,6892 | 366,1544 | 184,7356 | 119,6701
+AGO | - | 1825,9437 | 1358,4926 | 806,2526 | 387,7940 | 190,7269 | 125,5780
+SET | - | 1877,7928 | 1403,1875 | 847,1808 | 417,4727 | 196,8042 | 130,8438
+OUT | - | 1931,4115 | 1421,0351 | 893,7465 | 449,3759 | 202,9725 | 143,5394
+NOV | - | 1982,4011 | 1434,4588 | 893,7465 | 473,0632 | 220,7569 | 148,6308
+DEZ | - | 2027,9303 | 1456,8062 | 893,7465 | 514,5476 | 233,4550 | 151,0425
+
+Índices para valores expressos em Cruzeiros
+
+ | 1960 | 1959 | 1958 | 1957 | 1956 | 1955 | 1954
+JAN | 84,6372 | 62,4743 | 51,6570 | 48,8888 | 39,3255 | 35,2149 | 26,9914
+FEV | 87,9463 | 66,7643 | 51,3916 | 49,1568 | 39,8614 | 34,8560 | 27,4186
+MAR | 89,1067 | 67,1207 | 51,3916 | 49,0658 | 40,4858 | 35,1239 | 27,7953
+ABR | 90,0016 | 68,8195 | 51,9275 | 48,4414 | 41,2012 | 35,9278 | 28,5107
+MAI | 90,0016 | 69,9799 | 52,6404 | 48,5299 | 42,0961 | 35,5714 | 29,0466
+JUN | 90,3580 | 70,8748 | 52,6404 | 48,4414 | 43,2565 | 35,9278 | 30,0300
+JUL | 92,0568 | 71,5902 | 52,9109 | 49,0658 | 43,8834 | 36,5548 | 30,9224
+AGO | 96,2609 | 75,0763 | 54,2507 | 49,9607 | 44,7758 | 37,3587 | 31,3699
+SET | 99,8279 | 77,2201 | 55,5906 | 49,8722 | 45,5797 | 38,2536 | 32,0853
+OUT | 104,6538 | 78,9189 | 57,8253 | 49,7812 | 46,5631 | 38,6985 | 32,4417
+NOV | 107,2476 | 81,5101 | 60,6870 | 50,4966 | 46,7426 | 39,0575 | 33,3366
+
+DEZ | 109,2194 | 82,8524 | 60,4165 | 51,3006 | 46,6541 | 39,5024 | 34,2315
+
+Indices para valores expressos em Cruzeiros
+
+ | 1953 | 1952 | 1951 | 1950 | 1949 | 1948 | 1947
+JAN | 23,5060 | 22,3444 | 18,1431 | 15,3730 | 14,6573 | 13,7644 | 12,7813
+FEV | 23,6845 | 21,8975 | 18,4116 | 15,1042 | 14,7475 | 14,3006 | 12,8703
+MAR | 23,6845 | 21,7190 | 18,7693 | 14,8368 | 14,7475 | 14,2104 | 12,9595
+ABR | 23,3276 | 22,1649 | 19,3055 | 14,6573 | 14,8368 | 14,0319 | 12,8703
+MAI | 23,2383 | 21,9867 | 19,6625 | 14,7475 | 14,5681 | 13,9429 | 12,9595
+JUN | 23,5953 | 21,9867 | 19,5732 | 14,9260 | 14,5681 | 14,1211 | 12,9595
+JUL | 26,0080 | 22,5229 | 19,3055 | 15,4622 | 14,7475 | 14,0319 | 12,8703
+AGO | 25,8285 | 22,7011 | 19,6625 | 15,9984 | 14,9260 | 14,3006 | 12,7813
+SET | 25,9170 | 22,3444 | 19,8417 | 16,2669 | 15,1935 | 14,3006 | 12,8703
+OUT | 26,0965 | 22,7011 | 20,5564 | 16,9815 | 15,2837 | 14,3006 | 13,0487
+NOV | 26,7234 | 23,3276 | 20,9143 | 17,3392 | 15,5515 | 14,3006 | 13,4064
+DEZ | 26,9914 | 23,3276 | 21,3613 | 17,6962 | 15,5515 | 14,2104 | 13,4957
+
+Índices para valores expressos em Cruzeiros
+
+ | 1946 | 1945 | 1944 | 1943 | 1942
+JAN | 11,1717 | 9,7424 | 8,4013 | 7,0607 | -
+FEV | 11,1717 | 9,9209 | 8,4013 | 7,1499 | -
+MAR | 11,3509 | 9,9209 | 8,4013 | 7,2394 | -
+ABR | 11,5294 | 9,9209 | 8,6695 | 7,3289 | -
+MAI | 11,6187 | 10,1886 | 8,6695 | 7,4181 | -
+JUN | 11,9764 | 10,3678 | 8,7587 | 7,5076 | -
+JUL | 12,1548 | 10,7255 | 8,9375 | 7,5969 | -
+AGO | 12,3341 | 10,5463 | 9,1162 | 7,6864 | -
+SET | 12,3341 | 10,6355 | 9,2952 | 7,7756 | -
+OUT | 12,5126 | 10,8148 | 9,2952 | 7,8651 | -
+NOV | 12,4233 | 10,8148 | 9,2952 | 7,9543 | 6,7925
+DEZ | 12,5126 | 10,9040 | 9,2952 | 8,1333 | 7,0607
+
+Índices para valores expressos em Mil-Réis
+
+ | 1942 | 1941 | 1940 | 1939 | 1938
+JAN | 5,7201 | 5,1836 | 4,9157 | 4,6475 | 4,6475
+
+FEV | 5,8093 | 5,1836 | 4,9157 | 4,6475 | 4,6475
+MAR | 5,8988 | 5,2731 | 4,9157 | 4,6475 | 4,6475
+ABR | 5,9881 | 5,2731 | 4,9157 | 4,6475 | 4,6475
+MAI | 6,0775 | 5,3624 | 5,0049 | 4,7370 | 4,6475
+JUN | 6,2563 | 5,3624 | 5,0049 | 4,7370 | 4,6475
+JUL | 6,3455 | 5,4519 | 5,0049 | 4,7370 | 4,6475
+AGO | 6,4350 | 5,4519 | 5,0944 | 4,7370 | 4,6475
+SET | 6,5245 | 5,5414 | 5,0944 | 4,8262 | 4,6475
+OUT | 6,7032 | 5,5414 | 5,0944 | 4,8262 | 4,6475
+NOV | - | 5,6306 | 5,0944 | 4,8262 | 4,6475
+DEZ | - | 5,7201 | 5,1836 | 4,9157 | 4,6475
+
+(*) Divida o valor original pelo índice correspondente ao mês/ano da aquisição ou pagamento para encontrar o valor atualizado até 31 de dezembro de 1995.
 
 ANEXO II
+
+Instrução Normativa SRF no 81 , de 11 de outubro de 2001.
+
+ANEXO II
+
+DECLARAÇÃO DE INEXISTÊNCIA DE BENS A INVENTARIAR OU ARROLAR
+
+E AUTENTICIDADE DOS DOCUMENTOS APRESENTADOS
+
+Nos termos do art. 19 da Instrução Normativa do Secretário da Receita Federal nº
+
+81, de 11 de outubro de 2001, ............................................................................................. ...................................................................................................................................................
+
+(nome completo, nacionalidade, estado civil, grau de parentesco ou afinidade, ou vínculo legal, com a pessoa
+
+................................................................................................................................................... falecida)
+
+residente ...................................................................................................................................
+
+(endereço completo, cidade, estado, CEP, do requerente)
+
+............................................................................................................................... portador da ..................................................................................................................................................,
+
+(documento oficial de identificação, número, série, data de expedição, órgão expedidor, estado)
+
+DECLARA que .......................................................................................................................,
+
+(nome completo e CPF da pessoa falecida) já falecido, não deixou outros bens a serem inventariados ou arrolados, além do ..............................................................................................................................., no valor de (identificar a natureza do crédito junto a Fazenda Nacional)
+
+..................................................................................................................................................,
+
+(informar o valor total do crédito em reais e por extenso)
+
+como faz prova o documento em anexo.
+
+DECLARA, outrossim, a autenticidade dos documentos e dados apresentados para fins da restituição ora pretendida.
+
+O declarante está ciente de que a presente declaração é feita sob as penas da Lei, e de que, em caso de falsidade desta ou dos documentos e dados apresentados, ficará sujeito às sanções previstas no Código Penal, e às demais cominações legais aplicáveis.
+
+Banco nº ................ Agência nº ...................... Conta nº ..........................................................
+
+_________________________________________________________________
+
+(local e data)
+
+_________________________________________________________________
+
+(assinatura e CPF do declarante)
+
+Certifico que a presente declaração foi assinada em minha presença.
+
+_________________________________________________________________
+
+(local e data)
+
+_________________________________________________________________
+
+(assinatura, matrícula e cargo do funcionário do órgão recebedor)

@@ -1,0 +1,143 @@
+{
+ "idAto": 15079,
+ "epigrafe": {
+  "tipoAto": {
+   "idTipoAto": 42,
+   "siglaTipoAto": "IN",
+   "nomeTipoAto": "Instrução Normativa",
+   "prioridadeTipoAto": 13,
+   "exibirTipoAto": 1
+  },
+  "numeroAto": "208",
+  "dataAto": "2002-09-27",
+  "orgaos": [
+   {
+    "idOrgao": 274,
+    "exibirOrgao": 1,
+    "siglaOrgao": "SRF",
+    "nomeOrgao": "Secretaria da Receita Federal",
+    "prioridadeOrgao": 62,
+    "emDestaque": true,
+    "posicaoPesquisa": 2,
+    "preferenciaSiglaComum": null
+   }
+  ],
+  "dataAtoPorExtenso": "27 de setembro de 2002"
+ },
+ "epigrafeCompleta": "Instrução Normativa SRF nº 208, de 27 de setembro de 2002",
+ "epigrafeSimplificada": "Instrução Normativa SRF nº 208, de 27/09/2002",
+ "epigrafesAnteriores": [],
+ "epigrafeUrl": "IN SRF nº 208/2002",
+ "dadosPublicacao": "Publicado(a) no DOU de 01/10/2002, seção 1, página 15",
+ "dataPublicacao": "2002-10-01",
+ "dataVigenciaInicio": "2002-10-01",
+ "exibirVisoes": "1111",
+ "visao": "vigente",
+ "integro": false,
+ "vigente": true,
+ "ehRepublicado": false,
+ "idAtoRepublicador": null,
+ "dataRepublicador": null,
+ "ehVisaoExclusiva": false,
+ "publicado": true,
+ "internet": true,
+ "ementas": [
+  {
+   "mapper": null,
+   "idAto": 15079,
+   "idSegmento": 115938,
+   "versaoSegmento": 1,
+   "idTipoSegmento": 1,
+   "idAssunto": 999,
+   "ordemSegmentoAto": 1,
+   "omitir": false,
+   "tachado": false,
+   "original": true,
+   "compilado": true,
+   "agendado": false,
+   "desinenciaTipoSegmento": false,
+   "textoIntegra": "Dispõe sobre a tributação, pelo imposto de renda, dos rendimentos recebidos de fontes situadas no exterior e dos ganhos de capital apurados na alienação de bens e direitos situados no exterior por pessoa física residente no Brasil e dos rendimentos recebidos e dos ganhos de capital apurados no País por pessoa física não-residente no Brasil.",
+   "ancorasOrigem": [],
+   "ancorasDestino": [],
+   "arquivoBinario": null
+  }
+ ],
+ "outrosSegmentos": [
+  {
+   "mapper": null,
+   "idAto": 15079,
+   "idSegmento": 115939,
+   "versaoSegmento": 1,
+   "idTipoSegmento": 2,
+   "idAssunto": 999,
+   "ordemSegmentoAto": 2,
+   "omitir": false,
+   "tachado": false,
+   "original": true,
+   "compilado": true,
+   "agendado": false,
+   "desinenciaTipoSegmento": false,
+   "textoIntegra": "O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista as disposições das Leis nº 4.506, de 30 de novembro de 1964, nº 7.713, de 22 de dezembro de 1988, nº 8.134, de 27 de dezembro de 1990, nº 8.218, de 29 de agosto de 1991, nº 8.383, de 30 de dezembro de 1991, nº 8.981, de 20 de janeiro de 1995, nº 9.249 e nº 9.250, de 26 de dezembro de 1995, nº 9.430, de 27 de dezembro de 1996, nº 9.481, de 13 de agosto de 1997, nº 9.532, de 10 de dezembro de 1997, nº 9.718, de 27 de novembro de 1998, nº 9.779, de 19 de janeiro de 1999, nº 9.959, de 27 de janeiro de 2000, e nº 10.451, de 10 de maio de 2002, e das Medidas Provisórias nº 2.158-35, de 24 de agosto de 2001, nº 2.159-70, de 24 de agosto de 2001, e nº 2.189-49, de 23 de agosto de 2001, resolve:",
+   "ancorasOrigem": [],
+   "ancorasDestino": [],
+   "arquivoBinario": null
+  },
+  {
+   "mapper": null,
+   "idAto": 15079,
+   "idSegmento": 815178,
+   "versaoSegmento": 1,
+   "idTipoSegmento": 999,
+   "idAssunto": 999,
+   "ordemSegmentoAto": 15,
+   "omitir": true,
+   "tachado": false,
+   "original": true,
+   "compilado": false,
+   "agendado": false,
+   "desinenciaTipoSegmento": false,
+   "textoIntegra": "1. para trabalhar com vínculo empregatício, na data da chegada;",
+   "ancorasOrigem": [],
+   "ancorasDestino": [],
+   "arquivoBinario": null
+  },
+  {
+   "mapper": null,
+   "idAto": 15079,
+   "idSegmento": 815178,
+   "versaoSegmento": 2,
+   "idTipoSegmento": 999,
+   "idAssunto": 999,
+   "ordemSegmentoAto": 16,
+   "omitir": false,
+   "tachado": false,
+   "original": false,
+   "compilado": true,
+   "agendado": false,
+   "desinenciaTipoSegmento": false,
+   "textoIntegra": "1. para trabalhar com vínculo empregatício ou atuar como médico bolsista no âmbito do Programa Mais Médicos de que trata a Medida Provisória nº 621, de 8 de julho de 2013, na data da chegada;",
+   "ancorasOrigem": [],
+   "ancorasDestino": [
+    {
+     "idAto": 44634,
+     "idSegmento": 1327741,
+     "idAnotacao": 208610,
+     "href": "44634",
+     "texto": "[Redação dada pelo(a) Instrução Normativa RFB nº 1383, de 7 de agosto de 2013]",
+     "dataInicioVigencia": null,
+     "dataRepublicacao": null,
+     "permiteExcluir": true,
+     "permiteAlterarData": true,
+     "ehAgendamento": false,
+     "textoAgendamento": null,
+     "exibirDataInicioVigencia": true,
+     "permiteAgendamento": true
+    }
+   ],
+   "arquivoBinario": null
+  }
+ ],
+ "ancorasRetificacaoEpigrafe": [],
+ "ancorasNoAto": [],
+ "_view": "vigente"
+}

@@ -6,7 +6,8 @@ O Secretário da Receita Federal, no uso da competência que lhe foi delegada pe
 
 Para fins de apuração de resultados, assim como para determinação dos valores de baixa e de aquisição de bens, nas operações de permuta de unidades imobiliárias, realizadas entre pessoas jurídicas ou entre pessoas jurídicas e pessoas físicas, deverão ser observados os procedimentos fiscais e normas estabelecidas nesta instrução normativa.
 
-Seção I Introdução
+Seção I
+Introdução
 
 1. Disposições gerais
 
@@ -36,7 +37,8 @@ c) o valor de mercado de cada unidade, apurado na forma do subitem 1.2.
 
 1.10 A pessoa física permutante deverá observar as regras de equiparação estabelecidos nos artigos 115. a 117. do Regulamento do Imposto de Renda aprovado pelo Decreto nº 85.450, de 4 de dezembro de 1980, e, resultando equiparada, as normas aqui previstas aplicáveis às pessoas jurídicas.
 
-Seção II Operações de Permuta
+Seção II
+Operações de Permuta
 
 2. Permuta entre pessoas jurídicas
 
@@ -74,7 +76,8 @@ Seção II Operações de Permuta
 
 3.2.3 Na hipótese de permuta nas condições referidas no subitem 1.3, a pessoa jurídica observará o disposto na divisão de subitem 2.2.3. A pessoa física, caso aliene unidade pronta, deverá observar o que a ela se referir na divisão de subitem 3.1.3. Caso prometa entregar unidade a construir, considerará o custo de produção desta como integrante do custo da unidade adquirida e observará, quanto à torna, o disposto no subitem 1.5.
 
-Seção III Compra e Venda com Dação da Unidade Imobiliária em Pagamento
+Seção III
+Compra e Venda com Dação da Unidade Imobiliária em Pagamento
 
 4. Normas aplicáveis
 
@@ -86,7 +89,8 @@ b) o terreno objeto da operação de compra e venda seja, até o final do perío
 
 4.1.1. A não observância das condições cumulativas aqui estipuladas sujeitará o promitente da dação à apuração dos resultados da operação tomando-se por base, para determinação do preço de alienação dos bens permutados, o valor de mercado tal como previsto no subitem 1.2, ou, na ausência de laudo de avaliação, o valor que vier a ser arbitrado pela autoridade fiscal. Nesta hipótese, a apuração do resultado da operação reporta-se ao ano-base ou período-base em que esta tiver ocorrido, sujeitando-se o promitente da dação ao recolhimento do imposto de renda sobre o lucro da compra e venda como tributo postergado.
 
-Seção IV Disposições Finais
+Seção IV
+Disposições Finais
 
 5. Normas suplementares
 

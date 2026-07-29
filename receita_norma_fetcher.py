@@ -40,11 +40,16 @@ import re
 import sys
 import time
 from dataclasses import dataclass, field
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List, Optional
 
 import requests
 from bs4 import BeautifulSoup
+
+import receita_attachments
+from receita_attachments import AttachmentClient
+from receita_text_normalize import normalize_fragment, xml_safe
 
 # Reuse the docx builder from the sibling br_legal_parser project, for parity
 # with the other pipelines (also emits raw JSON + plain text).
@@ -66,10 +71,28 @@ USER_AGENT = (
     "(KHTML, like Gecko) Chrome/120.0 Safari/537.36"
 )
 
-# View slugs to try, in order. ``original`` is the as-published text and was the
-# available view for the test act; ``vigente``/``multivigente`` are the documented
-# 406 fallbacks (the 406 message explicitly redirects to another view).
-DEFAULT_VIEW_CHAIN = ("original", "vigente", "multivigente")
+# View slugs to try, in order (406 = "this view is unavailable, use another").
+#
+# ``vigente`` — the law **as currently in force** — is the target, not
+# ``original``. The API returns the same segment list in every view and varies
+# only the per-segment flags, and the difference is not cosmetic:
+#
+#   * ``original`` carries **no ``ancorasDestino`` at all**, so every amendment
+#     and revocation annotation is missing from it.
+#   * its ``omitir`` mask is *inverted* relative to ``vigente``: for the 25 acts
+#     in this corpus that have masked segments, rendering ``original`` publishes
+#     the **superseded** wording and drops the current one (verified on IN SRF
+#     nº 208/2002 segment 815178, whose v1/v2 masks swap between the views).
+#   * ``vigente`` blanks individually-revoked provisions server-side, truncating
+#     them to their label stub ("II -") and attaching the revocation annotation,
+#     so no revoked wording can leak into the output.
+#   * ``tachado`` (strikethrough) is set **only** in ``multivigente``, whose job
+#     is to show every version at once. It is never rendered here.
+#
+# Caveat recorded in every artifact: ``vigente`` is a moving target — it is the
+# law as of the fetch instant, which is why ``_fetched_at`` is stamped into the
+# saved JSON and the fetch report.
+DEFAULT_VIEW_CHAIN = ("vigente", "multivigente", "original")
 
 # ``link.action?idAto=NNNN`` and the ``?antigo=1&idAto=NNNN`` variant.
 _IDATO_RE = re.compile(r"link\.action\?(?:antigo=1&(?:amp;)?)?idAto=(\d+)")
@@ -168,6 +191,16 @@ class ReceitaFetchResult:
     # Other idAtos that are republications (DOU retificações) of the chosen act,
     # kept for provenance when a republication group is collapsed to one file.
     alternate_id_atos: List[str] = field(default_factory=list)
+    # Provenance + rendering telemetry. ``vigente`` reflects the law as of
+    # ``fetched_at``, so the corpus is only reproducible with that stamp;
+    # ``exibir_visoes`` records which views the act offered, making any act that
+    # fell back off ``vigente`` visible in the report.
+    fetched_at: Optional[str] = None
+    exibir_visoes: Optional[str] = None
+    data_vigencia_inicio: Optional[str] = None
+    act_revoked: bool = False
+    render_stats: dict = field(default_factory=dict)
+    original_json_filename: str = ""   # only with --also-save-original
 
 
 def _norm_number(raw: str) -> str:
@@ -221,13 +254,18 @@ class ReceitaNormaFetcher:
     """Search + verify + fetch Receita Federal acts from sijut2consulta."""
 
     def __init__(self, act: ActType, output_dir: str = "./output_instrucoes_normativas",
-                 delay_between_requests: float = 1.5, save_docx: bool = True):
+                 delay_between_requests: float = 1.5, save_docx: bool = True,
+                 view_chain=DEFAULT_VIEW_CHAIN, fetch_attachments: bool = True,
+                 attachment_cache_dir: str = "./.attachment_cache",
+                 also_save_original: bool = False):
         self.act = act
         self.output_dir = Path(output_dir)
         self.documents_dir = self.output_dir / "documents"
         self.documents_dir.mkdir(parents=True, exist_ok=True)
         self.delay = delay_between_requests
         self.save_docx = save_docx
+        self.view_chain = tuple(view_chain)
+        self.also_save_original = also_save_original
         self.session = requests.Session()
         self.session.headers.update({
             "User-Agent": USER_AGENT,
@@ -237,6 +275,14 @@ class ReceitaNormaFetcher:
         self.doc_builder = WordDocumentBuilder() if save_docx else None
         # idAto -> parsed JSON, to avoid refetching across retries/records.
         self._json_cache: Dict[str, dict] = {}
+        # Raw attachment bytes are kept next to the documents so nothing is lost
+        # when a converter fails or is unavailable (e.g. legacy .doc annexes).
+        self.attachments_dir = self.documents_dir / "attachments"
+        self.attachment_client = (
+            AttachmentClient(self.session, cache_dir=attachment_cache_dir,
+                             delay=min(delay_between_requests, 1.0))
+            if fetch_attachments else None
+        )
 
     # -- stage 1: search -----------------------------------------------------
     def _warm_up(self) -> None:
@@ -262,15 +308,17 @@ class ReceitaNormaFetcher:
         return extract_id_atos(resp.text)
 
     # -- stage 2: content ----------------------------------------------------
-    def fetch_ato_json(self, id_ato: str,
-                       view_chain=DEFAULT_VIEW_CHAIN) -> Optional[dict]:
+    def fetch_ato_json(self, id_ato: str, view_chain=None) -> Optional[dict]:
         """Fetch the act JSON, trying each view in ``view_chain`` on 406.
 
         Returns the first available view's JSON (with the resolved ``_view`` slug
         recorded on it), or None if no view was available / access failed.
+        ``verify()`` reads only the épigrafe, which is view-invariant, so the
+        chosen view never affects matching or republication selection.
         """
         if id_ato in self._json_cache:
             return self._json_cache[id_ato]
+        view_chain = self.view_chain if view_chain is None else tuple(view_chain)
         for view in view_chain:
             url = f"{API_ATO}/{id_ato}/visao/{view}"
             try:
@@ -296,6 +344,29 @@ class ReceitaNormaFetcher:
             return None
         logger.warning(f"idAto {id_ato}: no view available in {view_chain}")
         return None
+
+    def _fetch_single_view(self, id_ato: str, view: str) -> Optional[dict]:
+        """Fetch exactly one view, bypassing the chain and the cache.
+
+        Used by ``--also-save-original``: the cache holds the rendered view, and
+        a 406 here means "this act has no such view", not "try another".
+        """
+        url = f"{API_ATO}/{id_ato}/visao/{view}"
+        try:
+            resp = self.session.get(
+                url, timeout=40,
+                headers={"Referer": SITE_REFERER, "Origin": API_HOST},
+            )
+        except requests.RequestException as e:
+            logger.warning(f"idAto {id_ato} view {view}: request error {e}")
+            return None
+        if resp.status_code != 200:
+            logger.info(f"idAto {id_ato} view {view}: HTTP {resp.status_code}")
+            return None
+        data = resp.json()
+        data["_view"] = view
+        data["_url"] = url
+        return data
 
     # -- verification --------------------------------------------------------
     def verify(self, data: dict, number: str, expected_iso: Optional[str]) -> bool:
@@ -359,20 +430,74 @@ class ReceitaNormaFetcher:
         )
         return ordered[0], ordered[1:], False
 
-    # -- text reconstruction -------------------------------------------------
-    @staticmethod
-    def _segments_html(data: dict) -> str:
-        """Concatenate épigrafe + ementa + body segments into an HTML fragment.
+    # -- rendering -----------------------------------------------------------
+    @classmethod
+    def _segments_html(cls, data: dict, client: Optional[AttachmentClient] = None,
+                       attachments_dir: Optional[Path] = None, stem: str = "",
+                       stats: Optional[dict] = None) -> str:
+        """Build a **block-structured** HTML fragment for one act.
 
-        Segments flagged ``omitir`` are skipped; the rest are emitted in
-        ``ordemSegmentoAto`` order (falling back to list order). Each segment's
-        ``textoIntegra`` may itself contain markup (e.g. <br>), preserved here so
-        the docx builder renders structure; plain text is derived from this.
+        This mirrors the portal's own Angular renderer rather than inventing a
+        presentation, so the artifact matches what a human sees at
+        ``sijut2consulta/link.action?idAto=…``::
+
+            this.segmentos = visaoAto.outrosSegmentos.filter(seg => seg.omitir === false)
+            ngIf(text)       = (idTipoSegmento !== 16 || !arquivoBinario) && !omitir
+            ngIf(attachment) = arquivoBinario && !isAnotacao() && !omitir
+            if (segmento.tachado) classes += ' tachado'      // .tachado { line-through }
+
+        Consequences, all deliberate:
+
+        * ``omitir`` is the view's own "do not render" mask and is honored as-is.
+          Against the ``vigente`` view it masks **superseded** wording; against
+          ``original`` it masks the *current* wording — which is why the view
+          matters far more than the filter (see ``DEFAULT_VIEW_CHAIN``).
+        * ``ancorasDestino[].texto`` carries the amendment/revocation annotation
+          ("Redação dada pelo(a) …", "Revogado(a) pelo(a) …"). It is emitted as
+          an italic annotation paragraph right after its segment.
+        * **No strikethrough is ever emitted.** ``tachado`` is set only in
+          ``multivigente``; when that view is reached as a fallback its struck
+          segments are dropped instead, so no document ever mixes superseded and
+          current wording.
+        * An *anexo* segment carrying a binary renders the **attachment** and its
+          flattened ``textoIntegra`` is dropped, exactly as the portal does. If
+          conversion fails, the flattened text is kept as a fallback so content
+          never regresses.
+
+        Unlike before, output is a list of **block-level siblings** (``<p>`` and
+        ``<table>``), never ``<p>``-wrapped tables — ``add_html_content`` only
+        dispatches ``table`` at the top level, so the old flat-``<p>`` emission
+        made a real Word table structurally unreachable.
         """
         parts: List[str] = []
+        st = stats if stats is not None else {}
+        st.setdefault("segments_rendered", 0)
+        st.setdefault("segments_omitted", 0)
+        st.setdefault("segments_struck_dropped", 0)
+        st.setdefault("annotations", 0)
+        st.setdefault("attachments", 0)
+        st.setdefault("attachment_tables", 0)
+        st.setdefault("attachments_failed", 0)
+        st.setdefault("attachment_details", [])
+
+        # ``multivigente`` is the only view that sets ``tachado``; if the chain
+        # fell back to it, drop struck segments so this act does not become the
+        # one document carrying superseded wording.
+        drop_struck = data.get("_view") == "multivigente"
+
         completa = data.get("epigrafeCompleta")
         if completa:
-            parts.append(f"<p><b>{completa}</b></p>")
+            parts.append(f"<p><b>{normalize_fragment(completa)}</b></p>")
+
+        # Whole-act revocation is not a segment flag: it lives in the document
+        # header (``vigente: false`` + ``ancorasNoAto``). Without this banner a
+        # fully revoked act reads as if it were still in force.
+        if data.get("vigente") is False or data.get("ancorasNoAto"):
+            for anchor in data.get("ancorasNoAto") or []:
+                texto = (anchor.get("texto") or "").strip()
+                if texto:
+                    parts.append(f'<p class="anotacao"><i>{normalize_fragment(texto)}</i></p>')
+                    st["annotations"] += 1
 
         def emit(seglist):
             ordered = sorted(
@@ -381,21 +506,118 @@ class ReceitaNormaFetcher:
             )
             for s in ordered:
                 if s.get("omitir"):
+                    st["segments_omitted"] += 1
                     continue
-                txt = (s.get("textoIntegra") or "").strip()
-                if txt:
-                    parts.append(f"<p>{txt}</p>")
+                if drop_struck and s.get("tachado"):
+                    st["segments_struck_dropped"] += 1
+                    continue
+
+                binario = s.get("arquivoBinario")
+                rendered_attachment = False
+                if binario:
+                    st["attachments"] += 1
+                    att = receita_attachments.retrieve(
+                        binario, data.get("idAto"), client, attachments_dir, stem)
+                    st["attachment_details"].append({
+                        "id_arquivo": att.id_arquivo, "kind": att.kind,
+                        "name": att.name, "size": att.size, "saved_as": att.saved_as,
+                        "n_tables": att.n_tables, "converted": att.converted,
+                        "source": att.source, "error": att.error,
+                    })
+                    if att.html:
+                        # Annex text needs the same ordinal normalization as the
+                        # segment text: these are the *same* acts, typed in the
+                        # same era, and a scanned PDF annex is if anything richer
+                        # in legacy encodings ("Art. 3°, §§ 1° e 4°"). Normalizing
+                        # only textoIntegra left 173 of them in the corpus.
+                        parts.append(normalize_fragment(att.html))
+                        st["attachment_tables"] += att.n_tables
+                        rendered_attachment = True
+                    else:
+                        st["attachments_failed"] += 1
+
+                # The portal suppresses textoIntegra for an anexo segment whose
+                # attachment rendered; keep it only as a conversion fallback.
+                rendered_text = False
+                if not rendered_attachment:
+                    txt = (s.get("textoIntegra") or "").strip()
+                    if txt:
+                        parts.append(f"<p>{normalize_fragment(txt)}</p>")
+                        rendered_text = True
+
+                # A segment counts as rendered when it actually produced output.
+                # Segments that produce nothing at all are the future-dated ones
+                # (empty text, annotation only), which are counted as annotations.
+                if rendered_attachment or rendered_text:
+                    st["segments_rendered"] += 1
+
+                for anchor in s.get("ancorasDestino") or []:
+                    texto = (anchor.get("texto") or "").strip()
+                    if texto:
+                        parts.append(
+                            f'<p class="anotacao"><i>{normalize_fragment(texto)}</i></p>')
+                        st["annotations"] += 1
 
         emit(data.get("ementas"))
         emit(data.get("outrosSegmentos"))
-        return "\n".join(parts)
+        # One sanitizing pass over the assembled fragment. This is the single
+        # choke point every source flows through — segment text, inline HTML
+        # annexes and PDF/ODS conversions alike — and it must happen: a single
+        # XML-illegal character (PyMuPDF renders an unmapped PDF bullet glyph as
+        # U+0001) makes python-docx refuse the whole document, which previously
+        # cost the entire act rather than one stray glyph.
+        return xml_safe("\n".join(parts))
+
+    @staticmethod
+    def fragment_to_text(html: str) -> str:
+        """Flatten a rendered fragment to plain text, in document order.
+
+        The previous implementation was ``soup.find_all('p')``, which silently
+        dropped every ``<table>`` — the ``.txt`` is the artifact most likely to
+        feed a RAG index, so a walk in document order matters more here than in
+        the ``.docx``. Tables become pipe-delimited rows (one line per row) so
+        the row/column association survives flattening.
+        """
+        soup = BeautifulSoup(html or "", "html.parser")
+        blocks: List[str] = []
+
+        for element in soup.children:
+            if element.name == "table":
+                lines = []
+                for row in element.find_all("tr"):
+                    cells = [" ".join(c.get_text(" ", strip=True).split())
+                             for c in row.find_all(["td", "th"])]
+                    if any(cells):
+                        lines.append(" | ".join(cells))
+                if lines:
+                    blocks.append("\n".join(lines))
+            elif element.name is None:
+                text = " ".join(str(element).split())
+                if text:
+                    blocks.append(text)
+            else:
+                if element.find("img") and not element.get_text(strip=True):
+                    blocks.append("[imagem]")
+                    continue
+                # <br> must survive as a newline, not be squashed into a space.
+                for br in element.find_all("br"):
+                    br.replace_with("\n")
+                text = element.get_text(" ")
+                text = "\n".join(" ".join(line.split()) for line in text.split("\n"))
+                text = "\n".join(line for line in text.split("\n") if line)
+                if text:
+                    blocks.append(text)
+
+        return "\n\n".join(blocks)
 
     @classmethod
     def reconstruct_text(cls, data: dict) -> str:
-        """Plain-text reconstruction of the act (HTML stripped, blocks separated)."""
-        soup = BeautifulSoup(cls._segments_html(data), "html.parser")
-        blocks = [p.get_text(" ", strip=True) for p in soup.find_all("p")]
-        return "\n\n".join(b for b in blocks if b)
+        """Plain-text reconstruction of an act from its saved JSON.
+
+        Pure (no network): by-reference attachments are skipped, inline ones are
+        still converted. ``_persist`` uses the attachment-aware path instead.
+        """
+        return cls.fragment_to_text(cls._segments_html(data))
 
     # -- persistence ---------------------------------------------------------
     def _stem(self, number: str, iso_date: Optional[str]) -> str:
@@ -408,14 +630,43 @@ class ReceitaNormaFetcher:
         stem = self._stem(number, iso_date)
 
         # Raw JSON (lossless) — strip our private _view/_url helper keys' echo is
-        # fine to keep; they document provenance.
+        # fine to keep; they document provenance. ``vigente`` is a moving target
+        # (it reflects the law as of *now*), so the corpus is only reproducible
+        # if the fetch instant is recorded alongside it.
+        data["_fetched_at"] = datetime.now(timezone.utc).isoformat()
         json_path = self.documents_dir / f"{stem}.json"
         with open(json_path, "w", encoding="utf-8") as f:
             _json.dump(data, f, ensure_ascii=False, indent=2)
         result.json_filename = json_path.name
 
+        # Optional second GET keeping the as-published text alongside the
+        # in-force one. Off by default: the switch to ``vigente`` changes the
+        # legal meaning of the corpus, and some consumers still want the
+        # original wording for provenance.
+        if self.also_save_original and data.get("_view") != "original":
+            original = self._fetch_single_view(str(data.get("idAto")), "original")
+            if original is not None:
+                original["_fetched_at"] = data["_fetched_at"]
+                with open(self.documents_dir / f"{stem}.original.json", "w",
+                          encoding="utf-8") as f:
+                    _json.dump(original, f, ensure_ascii=False, indent=2)
+                result.original_json_filename = f"{stem}.original.json"
+
+        # Render once, with attachments, and derive both artifacts from it — the
+        # .txt and .docx must never disagree about what the document contains.
+        stats: dict = {}
+        fragment = self._segments_html(
+            data, client=self.attachment_client,
+            attachments_dir=self.attachments_dir, stem=stem, stats=stats,
+        )
+        result.render_stats = stats
+        result.fetched_at = data["_fetched_at"]
+        result.exibir_visoes = data.get("exibirVisoes")
+        result.data_vigencia_inicio = data.get("dataVigenciaInicio")
+        result.act_revoked = data.get("vigente") is False
+
         # Plain text.
-        text = self.reconstruct_text(data)
+        text = self.fragment_to_text(fragment)
         text_path = self.documents_dir / f"{stem}.txt"
         with open(text_path, "w", encoding="utf-8") as f:
             f.write(text)
@@ -423,7 +674,7 @@ class ReceitaNormaFetcher:
 
         # Optional docx for parity with the other pipelines.
         if self.save_docx and self.doc_builder is not None:
-            soup = BeautifulSoup(self._segments_html(data), "html.parser")
+            soup = BeautifulSoup(fragment, "html.parser")
             # The fragment already opens with the epígrafe as a bold line, so pass
             # the "Legal Document" sentinel to skip adding a duplicate heading.
             doc = self.doc_builder.create_document(soup, "Legal Document")

@@ -1,10 +1,13 @@
 Instrução Normativa RFB nº 1888, de 3 de maio de 2019
 
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 2291, de 14 de novembro de 2025]
+
 Institui e disciplina a obrigatoriedade de prestação de informações relativas às operações realizadas com criptoativos à Secretaria Especial da Receita Federal do Brasil (RFB).
 
 O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 113 da Lei nº 5.172, de 25 de outubro de 1966, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e no art. 57 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, resolve:
 
-CAPÍTULO I DISPOSIÇÕES GERAIS
+CAPÍTULO I
+DISPOSIÇÕES GERAIS
 
 Art. 1º Esta Instrução Normativa institui e disciplina a obrigatoriedade de prestação de informações relativas às operações realizadas com criptoativos à Secretaria Especial da Receita Federal do Brasil (RFB).
 
@@ -12,7 +15,9 @@ Art. 2º As informações a que se refere o art. 1º deverão ser prestadas com 
 
 Parágrafo único. A Copes deverá também editar e divulgar o manual de orientação do sistema Coleta Nacional no prazo a que se refere o caput.
 
-Art. 3º O conjunto de informações enviado de forma eletrônica deverá ser assinado digitalmente pela pessoa física, pelo representante legal da pessoa jurídica ou pelo procurador, constituído nos termos da Instrução Normativa RFB nº 1.751, de 16 de outubro de 2017, mediante o uso de certificado digital válido, emitido por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil).
+Art. 3º O conjunto de informações enviado de forma eletrônica deverá ser assinado digitalmente mediante o uso de certificado digital válido, emitido por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), sempre que for exigido no portal e-CAC da RFB.
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1899, de 10 de julho de 2019]
 
 Art. 4º Para os efeitos desta Instrução Normativa e para fins de conversão de valores em Reais, o valor expresso em moeda estrangeira deve ser convertido:
 
@@ -22,7 +27,8 @@ II - em moeda nacional.
 
 Parágrafo único. A conversão de que trata o caput será feita pela cotação do dólar dos Estados Unidos da América fixada, para venda, pelo Banco Central do Brasil (BCB) para a data da operação ou saldo, extraída do boletim de fechamento PTAX divulgado pelo BCB.
 
-CAPÍTULO II DAS DEFINIÇÕES
+CAPÍTULO II
+DAS DEFINIÇÕES
 
 Art. 5º Para fins do disposto nesta Instrução Normativa, considera-se:
 
@@ -32,7 +38,8 @@ II - exchange de criptoativo: a pessoa jurídica, ainda que não financeira, que
 
 Parágrafo único. Incluem-se no conceito de intermediação de operações realizadas com criptoativos, a disponibilização de ambientes para a realização das operações de compra e venda de criptoativo realizadas entre os próprios usuários de seus serviços.
 
-CAPÍTULO III DA OBRIGATORIEDADE DE PRESTAÇÃO de INFORMAÇÕES
+CAPÍTULO III
+DA OBRIGATORIEDADE DE PRESTAÇÃO de INFORMAÇÕES
 
 Art. 6º Fica obrigada à prestação das informações a que se refere o art. 1º:
 
@@ -66,7 +73,8 @@ VIII - emissão; e
 
 IX - outras operações que impliquem em transferência de criptoativos.
 
-CAPÍTULO IV DAs informações sobre operações com criptoativos
+CAPÍTULO IV
+DAs informações sobre operações com criptoativos
 
 Art. 7º Deverão ser informados para cada operação:
 
@@ -86,7 +94,9 @@ f) o valor da operação, em reais, excluídas as taxas de serviço cobradas par
 
 g) o valor das taxas de serviços cobradas para a execução da operação, em reais, quando houver; e
 
-h) o endereço da wallet de remessa e de recebimento, se houver; e
+h)
+
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1899, de 10 de julho de 2019]
 
 II - no caso previsto na alínea “a” do inciso II do art. 6º:
 
@@ -104,11 +114,48 @@ f) o valor da operação, em reais, excluídas as taxas de serviço cobradas par
 
 g) o valor das taxas de serviços cobradas para a execução da operação, em reais, quando houver; e
 
-h) o endereço da wallet de remessa e de recebimento, se houver.
+h)
 
-Parágrafo único. Das informações a que se refere este artigo devem constar a identificação dos titulares das operações e incluir nome, nacionalidade, domicílio fiscal, endereço, número de inscrição no Cadastro de Pessoas Físicas (CPF) ou no Cadastro Nacional da Pessoa Jurídica (CNPJ) ou Número de Identificação Fiscal (NIF) no exterior, quando houver, nome empresarial e demais informações cadastrais.
+[Revogado(a) pelo(a) Instrução Normativa RFB nº 1899, de 10 de julho de 2019]
 
-CAPÍTULO V DO PRAZO para prestação DAS INFORMAÇÕES
+§ 1º Em relação aos titulares da operação, devem constar das informações a que se refere este artigo:
+
+[Redação dada pelo(a) Instrução Normativa RFB nº 1899, de 10 de julho de 2019]
+
+I - o nome da pessoa física ou jurídica;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1899, de 10 de julho de 2019]
+
+II - o endereço;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1899, de 10 de julho de 2019]
+
+III - o domicílio fiscal;
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1899, de 10 de julho de 2019]
+
+IV - o número de inscrição no Cadastro de Pessoas Físicas (CPF) ou no Cadastro Nacional da Pessoa Jurídica (CNPJ), conforme o caso, ou o Número de Identificação Fiscal (NIF) no exterior, quando houver, no caso de residentes ou domiciliados no exterior; e
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1899, de 10 de julho de 2019]
+
+V - as demais informações cadastrais.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1899, de 10 de julho de 2019]
+
+§ 2º Caso os titulares das operações sejam residentes ou domiciliados no Brasil, a prestação da informação relativa ao número de inscrição no CPF ou no CNPJ, conforme o caso, é obrigatória a partir da data da entrega do primeiro conjunto de informações, prevista no § 1º do art. 8º.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1899, de 10 de julho de 2019]
+
+§ 3º Caso os titulares das operações sejam residentes ou domiciliados no exterior, a prestação das informações relativas ao país do domicílio fiscal, endereço e NIF no exterior é obrigatória a partir da entrega de informações a ser efetuada em janeiro de 2020, referentes às operações realizadas em dezembro de 2019.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1899, de 10 de julho de 2019]
+
+§ 4º A entrega das informações relativas ao endereço da wallet de remessa e de recebimento, se houver, é obrigatória apenas na hipótese de recebimento de intimação efetuada no curso de procedimento fiscal.
+
+[Incluído(a) pelo(a) Instrução Normativa RFB nº 1899, de 10 de julho de 2019]
+
+CAPÍTULO V
+DO PRAZO para prestação DAS INFORMAÇÕES
 
 Art. 8º As informações deverão ser transmitidas à RFB mensalmente até as 23h59min59s (vinte e três horas, cinquenta e nove minutos e cinquenta e nove segundos), horário de Brasília, do último dia útil do:
 
@@ -130,7 +177,8 @@ III - o custo, em reais, de obtenção de cada espécie de criptoativo, declarad
 
 Parágrafo único. As informações de que trata este artigo deverão ser incluídas no conjunto de informações prestadas nos termos do art. 7º.
 
-CAPÍTULO VI DAS PENALIDADES
+CAPÍTULO VI
+DAS PENALIDADES
 
 Art. 10. A pessoa física ou jurídica que deixar de prestar as informações a que estiver obrigada, nos termos do art. 6º, ou que prestá-las fora dos prazos fixados no art. 8º, ou que omitir informações ou prestar informações inexatas, incompletas ou incorretas, ficará sujeita às seguintes multas, conforme o caso:
 
@@ -158,13 +206,15 @@ III - pelo não cumprimento à intimação da RFB para cumprir obrigação acess
 
 Art. 11. Sem prejuízo da aplicação da multa prevista no inciso II do caput do art. 10, poderá ser formalizada comunicação ao Ministério Público Federal, quando houver indícios da ocorrência dos crimes previstos no art. 1º da Lei nº 9.613, de 3 de março de 1998.
 
-CAPÍTULO VII DA RETIFICAÇÃO DAS INFORMAÇÕES
+CAPÍTULO VII
+DA RETIFICAÇÃO DAS INFORMAÇÕES
 
 Art. 12. Caso a pessoa física ou jurídica constate que as informações prestadas contêm erros, inexatidões ou omissões, poderá corrigi-los ou supri-las, conforme o caso, mediante apresentação de retificação, observado o disposto nos arts. 2º e 3º.
 
 Parágrafo único. Não incidirá multa relativamente aos erros, inexatidões e omissões a que se refere o caput, desde que sejam corrigidos ou supridas antes de iniciado qualquer procedimento de ofício.
 
-CAPÍTULO VIII DISPOSIÇÕES FINAIS
+CAPÍTULO VIII
+DISPOSIÇÕES FINAIS
 
 Art. 13. Esta Instrução Normativa entra em vigor na data de sua publicação no Diário Oficial da União e produz efeitos a partir de 1º de agosto de 2019.
 
