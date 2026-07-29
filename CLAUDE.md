@@ -114,9 +114,10 @@ all mirroring the portal's own Angular renderer rather than inventing a layout:
   be pulled from the `/anexo/` endpoint — 268 PDFs across 143 acts, 156 of whose
   segments carry an *empty* `textoIntegra`, i.e. they were missing outright
   before. Converters: bs4 (html), PyMuPDF `find_tables()` (pdf), stdlib zipfile
-  (ods), data-URI (jpg); legacy `.doc` needs LibreOffice and otherwise falls back
-  to the flattened text. Raw bytes are **always** persisted first, so a converter
-  failure degrades to "unformatted", never to "lost".
+  (ods), data-URI (jpg), and `receita_doc_parser.py` for legacy Word 97 `.doc`
+  (LibreOffice is preferred when installed, but is not required). Raw bytes are
+  **always** persisted first, so a converter failure degrades to "unformatted",
+  never to "lost".
 - **Ordinals are normalized** (`receita_text_normalize.py`): `art. 1o` → `1º`,
   `Lei No 9.250` → `Lei nº 9.250` (a digit look-ahead separates it from the
   preposition `No caso de …`), `art. 3°` → `3º`, and `<strike>º</strike>` →
@@ -132,9 +133,14 @@ mirror of the API. Because `vigente` is a **moving target**, every act records
 
 Key modules: `receita_text_normalize.py` (`--audit-ordinals` prints every rewrite
 with context), `receita_attachments.py` (endpoint client + converters),
-`compare_receita_corpus.py` (`--baseline DIR` before/after diff, flags any act
-that loses text without an `omitir`/annex explanation). Offline tests:
-`tests/test_receita_rendering.py`.
+`receita_doc_parser.py` (Word 97 reader; run it directly on a `.doc` to dump the
+tables it finds), `compare_receita_corpus.py` (`--baseline DIR` before/after diff,
+flags any act that loses text without an `omitir`/annex explanation). Offline
+tests: `tests/test_receita_rendering.py`, `tests/test_receita_doc_annex.py`.
+
+Failed fetches are logged with the act's **full canonical denomination** (e.g.
+`Ato Declaratório Normativo CST nº 16, de 27 de julho de 1979`) plus the slug and
+ISO date, so a `needs_review` entry can be looked up on the portal by hand.
 
 ## Key Commands
 

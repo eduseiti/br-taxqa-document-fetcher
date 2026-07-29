@@ -6,3 +6,7 @@ webdriver-manager>=3.8.0
 tqdm>=4.60.0
 pandas>=1.3.0
 pytest>=7.0.0
+# Receita Federal annex conversion: PDF tables, and legacy Word 97 (.doc) annexes
+# read via the OLE compound-file container (see receita_doc_parser.py).
+pymupdf>=1.24.0
+olefile>=0.46

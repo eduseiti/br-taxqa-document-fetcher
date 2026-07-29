@@ -40,7 +40,8 @@ code kind     strategy
 6    pdf      PyMuPDF ``find_tables()``; text outside table bboxes as ``<p>``;
               a page yielding neither is rasterized to PNG so nothing vanishes
 17   ods      stdlib ``zipfile`` + ``content.xml`` (honors ``number-columns-repeated``)
-7    doc      legacy OLE — LibreOffice if present, else flagged for review
+7    doc      legacy Word 97 OLE — LibreOffice if present, else the built-in
+              ``receita_doc_parser`` (piece table + cell/row marks)
 2    jpg      inlined as a ``data:`` URI
 ==== ======== ==================================================================
 
@@ -396,33 +397,43 @@ def ods_to_fragment(raw: bytes) -> Tuple[str, int, Optional[str]]:
 
 
 def doc_to_fragment(raw: bytes, name: str = "") -> Tuple[str, int, Optional[str]]:
-    """Convert a legacy ``.doc`` (OLE) annex — only possible with LibreOffice.
+    """Convert a legacy ``.doc`` (Word 97 OLE) annex to tables + prose.
 
-    No in-process converter exists for OLE Word in this environment (no
-    ``antiword``/``mammoth``/``pandoc``), so when ``soffice`` is absent the
-    caller falls back to the portal's flattened text and the act is flagged
-    ``attachment_not_converted``. 3 acts in the corpus.
+    Two paths, in order of fidelity:
+
+    1. **LibreOffice**, when installed — the reference implementation, and it
+       handles merged cells and nested tables that the fallback approximates.
+    2. **``receita_doc_parser``** — a self-contained Word-97 reader (needs only
+       ``olefile``). This is what actually runs here, and it matters: these
+       annexes are *pure table content* (``IN SRF nº 84/2001``'s "Anexo Único.doc"
+       is 14 cost-restatement index tables), so treating them as unconvertible
+       meant falling back to the portal's flattened text — every number in one
+       unbroken run — which is precisely the defect this work exists to remove.
     """
     soffice = shutil.which("soffice") or shutil.which("libreoffice")
-    if not soffice:
-        return "", 0, "no .doc converter available (LibreOffice not installed)"
+    if soffice:
+        with tempfile.TemporaryDirectory() as tmp:
+            src = Path(tmp) / (_safe_name(name) or "anexo.doc")
+            if src.suffix.lower() != ".doc":
+                src = src.with_suffix(".doc")
+            src.write_bytes(raw)
+            try:
+                subprocess.run(
+                    [soffice, "--headless", "--convert-to", "html",
+                     "--outdir", tmp, str(src)],
+                    check=True, capture_output=True, timeout=180,
+                )
+                produced = list(Path(tmp).glob("*.html"))
+                if produced:
+                    return html_to_fragment(produced[0].read_bytes())
+                logger.warning("LibreOffice produced no output for %r; "
+                               "falling back to the built-in parser", name)
+            except Exception as e:
+                logger.warning("LibreOffice failed on %r (%s); "
+                               "falling back to the built-in parser", name, e)
 
-    with tempfile.TemporaryDirectory() as tmp:
-        src = Path(tmp) / (_safe_name(name) or "anexo.doc")
-        if src.suffix.lower() != ".doc":
-            src = src.with_suffix(".doc")
-        src.write_bytes(raw)
-        try:
-            subprocess.run(
-                [soffice, "--headless", "--convert-to", "html", "--outdir", tmp, str(src)],
-                check=True, capture_output=True, timeout=180,
-            )
-        except Exception as e:
-            return "", 0, f"LibreOffice conversion failed: {e}"
-        produced = list(Path(tmp).glob("*.html"))
-        if not produced:
-            return "", 0, "LibreOffice produced no output"
-        return html_to_fragment(produced[0].read_bytes())
+    import receita_doc_parser
+    return receita_doc_parser.doc_to_html(raw)
 
 
 def image_to_fragment(raw: bytes, mime: str) -> str:

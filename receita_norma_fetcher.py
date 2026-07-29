@@ -786,11 +786,17 @@ class ReceitaNormaFetcher:
         for i, d in enumerate(iterator):
             year = int(d.year) if getattr(d, "year", None) else None
             res = self.fetch_one(d.number, d.date, year, d.canonical_name)
+            # Log the act's full canonical denomination, not just its number: a
+            # bare "ato_declaratorio_normativo_cst 16" is not searchable on the
+            # portal, whereas "Ato Declaratório Normativo CST nº 16, de 27 de
+            # julho de 1979" can be looked up by hand directly.
+            denomination = d.canonical_name or f"{self.act.type_slug} nº {d.number}"
             if res.success:
-                logger.info(f"✓ {self.act.type_slug} {d.number} (idAto={res.id_ato}) "
+                logger.info(f"✓ {denomination} (idAto={res.id_ato}) "
                             f"-> {res.text_filename}")
             else:
-                logger.error(f"✗ {self.act.type_slug} {d.number} - "
+                logger.error(f"✗ {denomination} [{self.act.type_slug} nº {d.number}"
+                             f", date={d.date}] - "
                              f"{res.review_reason}: {res.error_message}")
             results.append(res)
             if i < len(docs) - 1:
