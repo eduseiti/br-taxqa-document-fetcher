@@ -161,12 +161,6 @@ cython_debug/
 # VS Code
 .vscode/
 
-# Output directories
-output/
-fetched_documents/
-br_taxqa_documents/
-legal_documents/
-
 # Example output files
 example_*.json
 example_*.txt
