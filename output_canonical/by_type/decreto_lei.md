@@ -1,6 +1,6 @@
 # Decreto-Lei
 
-13 document(s).
+14 document(s).
 
 - **Decreto-Lei nº 1.301, de 31 de dezembro de 1973**
 - **Decreto-Lei nº 1.381, de 23 de dezembro de 1974**
@@ -15,4 +15,5 @@
 - **Decreto-Lei nº 5.452, de 1º de maio de 1943**
 - **Decreto-Lei nº 5.844, de 23 de setembro de 1943**
 - **Decreto-Lei nº 58, de 10 de dezembro de 1937**
+- **Decreto-Lei nº 8.794, de 23 de janeiro de 1946**
 - **Decreto-Lei nº 8.795, de 23 de janeiro de 1946**

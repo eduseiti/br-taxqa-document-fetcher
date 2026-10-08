@@ -21,8 +21,7 @@
 - **Instrução Normativa RFB nº 1.704, de 31 de março de 2017**
 - **Instrução Normativa RFB nº 1.717, de 17 de julho de 2017**
 - **Instrução Normativa RFB nº 1.888, de 3 de maio de 2019**
-- **Instrução Normativa RFB nº 1.911, de 11 de outubro de 2019**
-  - source filename: `Instrução Normativa RFB nº 1.997, de 21 de novembro de 2019.txt`
+- **Instrução Normativa RFB nº 1.997, de 21 de novembro de 2019**
 - **Instrução Normativa RFB nº 2.055, de 6 de dezembro de 2021**
 - **Instrução Normativa RFB nº 2.060, de 13 de dezembro de 2021**
 - **Instrução Normativa RFB nº 2.066, de 24 de fevereiro de 2022**

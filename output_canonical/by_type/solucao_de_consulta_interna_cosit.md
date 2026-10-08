@@ -1,6 +1,6 @@
 # Solução de Consulta Interna Cosit
 
-13 document(s).
+14 document(s).
 
 - **Solução de Consulta Interna Cosit nº 10, de 5 de junho de 2014**
 - **Solução de Consulta Interna Cosit nº 11, de 28 de junho de 2012**
@@ -8,6 +8,7 @@
 - **Solução de Consulta Interna Cosit nº 2, de 14 de janeiro de 2014**
 - **Solução de Consulta Interna Cosit nº 20, de 13 de agosto de 2013**
 - **Solução de Consulta Interna Cosit nº 23, de 30 de agosto de 2013**
+- **Solução de Consulta Interna Cosit nº 27, de 7 de julho de 2008**
 - **Solução de Consulta Interna Cosit nº 29, de 4 de novembro de 2013**
 - **Solução de Consulta Interna Cosit nº 3, de 8 de fevereiro de 2012**
 - **Solução de Consulta Interna Cosit nº 4, de 17 de abril de 2012**

@@ -19,7 +19,7 @@
 - **Parecer Normativo CST nº 28, de 29 de dezembro de 1983**
 - **Parecer Normativo CST nº 32, de 17 de agosto de 1981**
 - **Parecer Normativo CST nº 36, de 30 de maio de 1977**
-- **Parecer Normativo CST nº 38**
+- **Parecer Normativo CST nº 38, de 24 de março de 1975**
   - source filename: `Parecer Normativo CST nº 38, de 1975.txt`
 - **Parecer Normativo CST nº 44, de 30 de junho de 1976**
 - **Parecer Normativo CST nº 6, de 18 de fevereiro de 1986**
@@ -29,7 +29,7 @@
 - **Parecer Normativo CST nº 66, de 25 de agosto de 1986**
   - source filename: `Parecer Normativo CST nº 66, de 5 de setembro de 1986.txt`
 - **Parecer Normativo CST nº 68, de 14 de setembro de 1976**
-- **Parecer Normativo CST nº 72**
+- **Parecer Normativo CST nº 72, de 18 de dezembro de 1979**
   - source filename: `Parecer Normativo CST nº 72, de 1979.txt`
 - **Parecer Normativo CST nº 9, de 1º de julho de 1983**
 - **Parecer Normativo CST nº 90, de 16 de outubro de 1978**

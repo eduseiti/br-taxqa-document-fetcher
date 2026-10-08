@@ -12,10 +12,10 @@
   - source filename: `Ato Declaratório PGFN Nº 1, de 27 de março de 2009.txt`
 - **Ato Declaratório PGFN nº 13, de 20 de dezembro de 2011**
 - **Ato Declaratório PGFN nº 14, de 1º de dezembro de 2008**
-- **Ato Declaratório PGFN nº 2, de 3 de abril de 2018**
+- **Ato Declaratório PGFN nº 2, de 10 de março de 2016**
 - **Ato Declaratório PGFN nº 3, de 18 de setembro de 2008**
   - source filename: `Ato Declaratório (AD) PGFN nº 3, de 18 de setembro de 2008.txt`
-- **Ato Declaratório PGFN nº 3, de 18 de setembro de 2008**
+- **Ato Declaratório PGFN nº 3, de 30 de março de 2016**
 - **Ato Declaratório PGFN nº 4, de 12 de agosto de 2002**
 - **Ato Declaratório PGFN nº 4, de 16 de novembro de 2006**
 - **Ato Declaratório PGFN nº 5, de 16 de novembro de 2006**

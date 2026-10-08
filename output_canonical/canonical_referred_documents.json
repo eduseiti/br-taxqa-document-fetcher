@@ -497,32 +497,42 @@
   {
     "index": 33,
     "filename": "Ato Declaratório PGFN nº 2.txt",
-    "canonical_name": "Ato Declaratório PGFN nº 2, de 3 de abril de 2018",
+    "canonical_name": "Ato Declaratório PGFN nº 2, de 10 de março de 2016",
     "type_bucket": "Ato Declaratório Comum PGFN",
     "type_slug": "ato_declaratorio_comum_pgfn",
     "number": "2",
-    "date": "3 de abril de 2018",
-    "source": "normas.leg.br",
+    "date": "10 de março de 2016",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Ato Declaratório PGFN nº 2, de 03 de abril de 2018",
     "filename_type": "ato declaratório",
     "filedata_type": "ato declaratório",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Ato Declaratório PGFN nº 2, de 3 de abril de 2018",
+      "reason": "the questions cite AD PGFN nº 2, de 10/03/2016; the record named AD PGFN nº 2/2018"
+    }
   },
   {
     "index": 34,
     "filename": "Ato Declaratório PGFN nº 3.txt",
-    "canonical_name": "Ato Declaratório PGFN nº 3, de 18 de setembro de 2008",
+    "canonical_name": "Ato Declaratório PGFN nº 3, de 30 de março de 2016",
     "type_bucket": "Ato Declaratório Comum PGFN",
     "type_slug": "ato_declaratorio_comum_pgfn",
     "number": "3",
-    "date": "18 de setembro de 2008",
-    "source": "normas.leg.br",
+    "date": "30 de março de 2016",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Ato Declaratório PGFN nº 3, de 18 de setembro de 2008",
     "filename_type": "ato declaratório",
     "filedata_type": "ato declaratório",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Ato Declaratório PGFN nº 3, de 18 de setembro de 2008",
+      "reason": "Q280 cites AD PGFN nº 3, de 30/03/2016; the record named AD PGFN nº 3/2008 (which Q179 cites under its own file name)"
+    }
   },
   {
     "index": 35,
@@ -647,17 +657,22 @@
   {
     "index": 43,
     "filename": "Ato Declaratório RFB nº 3.txt",
-    "canonical_name": "Ato Declaratório Executivo RFB nº 3, de 2 de abril de 2024",
-    "type_bucket": "Ato Declaratório Executivo RFB",
-    "type_slug": "ato_declaratorio_executivo_rfb",
+    "canonical_name": "Ato Declaratório Interpretativo RFB nº 3, de 27 de abril de 2016",
+    "type_bucket": "Ato Declaratório Interpretativo RFB",
+    "type_slug": "ato_declaratorio_interpretativo_rfb",
     "number": "3",
-    "date": "2 de abril de 2024",
-    "source": "normas.leg.br",
+    "date": "27 de abril de 2016",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Ato Declaratório Executivo RFB nº 3, de 02 de abril de 2024",
     "filename_type": "ato declaratório",
     "filedata_type": "ato declaratório executivo",
-    "filename_vs_filedata_match": false
+    "filename_vs_filedata_match": false,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Ato Declaratório Executivo RFB nº 3, de 2 de abril de 2024",
+      "reason": "the questions cite ADI RFB nº 3, de 27/04/2016; the record named ADE RFB nº 3/2024 (TIPI)"
+    }
   },
   {
     "index": 44,
@@ -977,17 +992,22 @@
   {
     "index": 65,
     "filename": "Convenção sobre Privilégios e Imunidades das Nações Unidas.txt",
-    "canonical_name": "Decreto nº 52.288, de 24 de julho de 1963",
+    "canonical_name": "Decreto nº 27.784, de 16 de fevereiro de 1950",
     "type_bucket": "Decreto",
     "type_slug": "decreto",
-    "number": "52.288",
-    "date": "24 de julho de 1963",
-    "source": "planalto.gov.br",
+    "number": "27.784",
+    "date": "16 de fevereiro de 1950",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "DECRETO Nº 52.288, DE 24 DE JULHO DE 1963",
     "filename_type": "convenção",
     "filedata_type": "decreto",
-    "filename_vs_filedata_match": false
+    "filename_vs_filedata_match": false,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Decreto nº 52.288, de 24 de julho de 1963",
+      "reason": "the record named Decreto nº 52.288/1963 (the Specialized Agencies convention); the UN convention is promulgated by Decreto nº 27.784/1950, which Q150's own answer cites"
+    }
   },
   {
     "index": 66,
@@ -1877,17 +1897,22 @@
   {
     "index": 125,
     "filename": "Instrução Normativa RFB nº 1.997, de 21 de novembro de 2019.txt",
-    "canonical_name": "Instrução Normativa RFB nº 1.911, de 11 de outubro de 2019",
+    "canonical_name": "Instrução Normativa RFB nº 1.997, de 21 de novembro de 2019",
     "type_bucket": "Instrução Normativa RFB",
     "type_slug": "instrucao_normativa_rfb",
-    "number": "1.911",
-    "date": "11 de outubro de 2019",
-    "source": "normas.leg.br",
+    "number": "1.997",
+    "date": "21 de novembro de 2019",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Instrução Normativa RFB nº 1911, de 11 de outubro de 2019",
     "filename_type": "instrução normativa",
     "filedata_type": "instrução normativa",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Instrução Normativa RFB nº 1.911, de 11 de outubro de 2019",
+      "reason": "the record named IN RFB nº 1.911/2019; the file name cites IN RFB nº 1.997/2019 (its only citation, in Q025, is a hallucinated reference dropped from the dataset)"
+    }
   },
   {
     "index": 126,
@@ -3752,17 +3777,22 @@
   {
     "index": 250,
     "filename": "Lei nº 8.794.txt",
-    "canonical_name": "Lei nº 8.794, de 21 de dezembro de 1993",
-    "type_bucket": "Lei",
-    "type_slug": "lei",
+    "canonical_name": "Decreto-Lei nº 8.794, de 23 de janeiro de 1946",
+    "type_bucket": "Decreto-Lei",
+    "type_slug": "decreto_lei",
     "number": "8.794",
-    "date": "21 de dezembro de 1993",
-    "source": "planalto.gov.br",
+    "date": "23 de janeiro de 1946",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "LEI Nº 8.794, DE 21 DE DEZEMBRO DE 1993",
     "filename_type": "lei",
     "filedata_type": "lei",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Lei nº 8.794, de 21 de dezembro de 1993",
+      "reason": "the question cites Decreto-Lei nº 8.794/1946; the record named Lei nº 8.794/1993 (a budget credit)"
+    }
   },
   {
     "index": 251,
@@ -4397,17 +4427,23 @@
   {
     "index": 293,
     "filename": "Parecer Cosit nº 30, de 28 de setembro de 2001.txt",
-    "canonical_name": "Ato Declaratório Executivo Cosit nº 30, de 23 de julho de 2001",
+    "canonical_name": null,
     "type_bucket": "Ato Declaratório Executivo Cosit",
     "type_slug": "ato_declaratorio_executivo_cosit",
     "number": "30",
     "date": "23 de julho de 2001",
-    "source": "normas.leg.br",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Ato Declaratório Executivo Cosit nº 30, de 23 de julho de 2001",
     "filename_type": "parecer",
     "filedata_type": "ato declaratório executivo",
-    "filename_vs_filedata_match": false
+    "filename_vs_filedata_match": false,
+    "status": "nonexistent_act",
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Ato Declaratório Executivo Cosit nº 30, de 23 de julho de 2001",
+      "reason": "user fix (2026-10-07): no Parecer Cosit nº 30, de 28/09/2001 exists; the record named the unrelated ADE Cosit nº 30, de 23/07/2001 (US dollar rate)"
+    }
   },
   {
     "index": 294,
@@ -4622,17 +4658,22 @@
   {
     "index": 308,
     "filename": "Parecer Normativo CST nº 38, de 1975.txt",
-    "canonical_name": "Parecer Normativo CST nº 38",
+    "canonical_name": "Parecer Normativo CST nº 38, de 24 de março de 1975",
     "type_bucket": "Parecer Normativo CST",
     "type_slug": "parecer_normativo_cst",
     "number": "38",
-    "date": null,
-    "source": "filename",
+    "date": "24 de março de 1975",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Parecer Normativo CST nº 38, de 1975",
     "filename_type": "parecer normativo",
     "filedata_type": "parecer normativo",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Parecer Normativo CST nº 38",
+      "reason": "date added: the cited 1975 opinion (professional services by individuals) is of 24/03/1975; the fetch had picked PN CST 38/1980"
+    }
   },
   {
     "index": 309,
@@ -4727,17 +4768,22 @@
   {
     "index": 315,
     "filename": "Parecer Normativo CST nº 72, de 1979.txt",
-    "canonical_name": "Parecer Normativo CST nº 72",
+    "canonical_name": "Parecer Normativo CST nº 72, de 18 de dezembro de 1979",
     "type_bucket": "Parecer Normativo CST",
     "type_slug": "parecer_normativo_cst",
     "number": "72",
-    "date": null,
-    "source": "filename",
+    "date": "18 de dezembro de 1979",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Parecer Normativo CST nº 72, de 1979",
     "filename_type": "parecer normativo",
     "filedata_type": "parecer normativo",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Parecer Normativo CST nº 72",
+      "reason": "date added: the cited 1979 opinion (inherited property cost) is of 18/12/1979; the fetch had picked PN CST 72/1975"
+    }
   },
   {
     "index": 316,
@@ -4982,17 +5028,22 @@
   {
     "index": 332,
     "filename": "Parecer PGFNCAT nº 815 2010.txt",
-    "canonical_name": "Parecer PGFNCAT nº 815",
-    "type_bucket": "Parecer PGFNCAT",
-    "type_slug": "parecer_pgfncat",
-    "number": "815",
-    "date": null,
-    "source": "filename",
+    "canonical_name": "Nota PGFN/CRJ nº 981, de 4 de novembro de 2015",
+    "type_bucket": "Nota PGFN",
+    "type_slug": "nota_pgfn",
+    "number": "981",
+    "date": "4 de novembro de 2015",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Parecer PGFNCAT nº 815 2010",
     "filename_type": "parecer",
     "filedata_type": "parecer",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Parecer PGFNCAT nº 815",
+      "reason": "user fix (2026-10-07): the citation is replaced by Nota PGFN/CRJ nº 981/2015, the document v1 held under this name"
+    }
   },
   {
     "index": 333,
@@ -5162,17 +5213,22 @@
   {
     "index": 344,
     "filename": "Resolução TSE nº 22.250, de 2006.txt",
-    "canonical_name": "Resolução TSE nº 22.250",
+    "canonical_name": "Resolução TSE nº 22.250, de 29 de junho de 2006",
     "type_bucket": "Resolução TSE",
     "type_slug": "resolucao_tse",
     "number": "22.250",
-    "date": null,
-    "source": "filename",
+    "date": "29 de junho de 2006",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Resolução TSE nº 22.250, de 2006",
     "filename_type": "resolução",
     "filedata_type": "resolução",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Resolução TSE nº 22.250",
+      "reason": "date added (from the act, fetched by the user on 2026-10-07); v1/v2 held another act"
+    }
   },
   {
     "index": 345,
@@ -5327,17 +5383,22 @@
   {
     "index": 355,
     "filename": "Solução de Consulta Cosit nº 123.txt",
-    "canonical_name": "Solução de Consulta Cosit nº 123, de 23 de junho de 2023",
+    "canonical_name": "Solução de Consulta Cosit nº 123, de 13 de setembro de 2021",
     "type_bucket": "Solução de Consulta Cosit",
     "type_slug": "solucao_de_consulta_cosit",
     "number": "123",
-    "date": "23 de junho de 2023",
-    "source": "normas.leg.br",
+    "date": "13 de setembro de 2021",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Consulta Cosit nº 123, de 23 de junho de 2023",
     "filename_type": "solução de consulta",
     "filedata_type": "solução de consulta",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Consulta Cosit nº 123, de 23 de junho de 2023",
+      "reason": "v1.1 file name had no date; the fetcher matched a same-numbered SC Cosit of another year on an unrelated subject (br-taxqa-r_v2.0 dataset note §5.2a). The cited act is the one the question's citation dates"
+    }
   },
   {
     "index": 356,
@@ -5417,17 +5478,22 @@
   {
     "index": 361,
     "filename": "Solução de Consulta Cosit nº 140.txt",
-    "canonical_name": "Solução de Consulta Cosit nº 140, de 14 de julho de 2023",
+    "canonical_name": "Solução de Consulta Cosit nº 140, de 21 de setembro de 2021",
     "type_bucket": "Solução de Consulta Cosit",
     "type_slug": "solucao_de_consulta_cosit",
     "number": "140",
-    "date": "14 de julho de 2023",
-    "source": "normas.leg.br",
+    "date": "21 de setembro de 2021",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Consulta Cosit nº 140, de 14 de julho de 2023",
     "filename_type": "solução de consulta",
     "filedata_type": "solução de consulta",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Consulta Cosit nº 140, de 14 de julho de 2023",
+      "reason": "v1.1 file name had no date; the fetcher matched a same-numbered SC Cosit of another year on an unrelated subject (br-taxqa-r_v2.0 dataset note §5.2a). The cited act is the one the question's citation dates"
+    }
   },
   {
     "index": 362,
@@ -5612,17 +5678,22 @@
   {
     "index": 374,
     "filename": "Solução de Consulta Cosit nº 166.txt",
-    "canonical_name": "Solução de Consulta Cosit nº 166, de 7 de agosto de 2023",
+    "canonical_name": "Solução de Consulta Cosit nº 166, de 28 de maio de 2019",
     "type_bucket": "Solução de Consulta Cosit",
     "type_slug": "solucao_de_consulta_cosit",
     "number": "166",
-    "date": "7 de agosto de 2023",
-    "source": "normas.leg.br",
+    "date": "28 de maio de 2019",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Consulta Cosit nº 166, de 07 de agosto de 2023",
     "filename_type": "solução de consulta",
     "filedata_type": "solução de consulta",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Consulta Cosit nº 166, de 7 de agosto de 2023",
+      "reason": "v1.1 file name had no date; the fetcher matched a same-numbered SC Cosit of another year on an unrelated subject (br-taxqa-r_v2.0 dataset note §5.2a). The cited act is the one the question's citation dates"
+    }
   },
   {
     "index": 375,
@@ -5672,32 +5743,42 @@
   {
     "index": 378,
     "filename": "Solução de Consulta Cosit nº 173.txt",
-    "canonical_name": "Solução de Consulta Cosit nº 173, de 11 de agosto de 2023",
+    "canonical_name": "Solução de Consulta Cosit nº 173, de 3 de julho de 2015",
     "type_bucket": "Solução de Consulta Cosit",
     "type_slug": "solucao_de_consulta_cosit",
     "number": "173",
-    "date": "11 de agosto de 2023",
-    "source": "normas.leg.br",
+    "date": "3 de julho de 2015",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Consulta Cosit nº 173, de 11 de agosto de 2023",
     "filename_type": "solução de consulta",
     "filedata_type": "solução de consulta",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Consulta Cosit nº 173, de 11 de agosto de 2023",
+      "reason": "v1.1 file name had no date; the fetcher matched a same-numbered SC Cosit of another year on an unrelated subject (br-taxqa-r_v2.0 dataset note §5.2a). The cited act is the one the question's citation dates"
+    }
   },
   {
     "index": 379,
     "filename": "Solução de Consulta Cosit nº 179.txt",
-    "canonical_name": "Solução de Consulta Cosit nº 179, de 24 de junho de 2024",
+    "canonical_name": "Solução de Consulta Cosit nº 179, de 16 de agosto de 2023",
     "type_bucket": "Solução de Consulta Cosit",
     "type_slug": "solucao_de_consulta_cosit",
     "number": "179",
-    "date": "24 de junho de 2024",
-    "source": "normas.leg.br",
+    "date": "16 de agosto de 2023",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Consulta Cosit nº 179, de 24 de junho de 2024",
     "filename_type": "solução de consulta",
     "filedata_type": "solução de consulta",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Consulta Cosit nº 179, de 24 de junho de 2024",
+      "reason": "v1.1 file name had no date; the fetcher matched a same-numbered SC Cosit of another year on an unrelated subject (br-taxqa-r_v2.0 dataset note §5.2a). The cited act is the one the question's citation dates"
+    }
   },
   {
     "index": 380,
@@ -5732,17 +5813,22 @@
   {
     "index": 382,
     "filename": "Solução de Consulta Cosit nº 183.txt",
-    "canonical_name": "Solução de Consulta Cosit nº 134, de 2 de junho de 2014",
+    "canonical_name": "Solução de Consulta Cosit nº 183, de 25 de junho de 2014",
     "type_bucket": "Solução de Consulta Cosit",
     "type_slug": "solucao_de_consulta_cosit",
-    "number": "134",
-    "date": "2 de junho de 2014",
-    "source": "normas.leg.br",
+    "number": "183",
+    "date": "25 de junho de 2014",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Consulta Cosit nº 134, de 02 de junho de 2014",
     "filename_type": "solução de consulta",
     "filedata_type": "solução de consulta",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Consulta Cosit nº 134, de 2 de junho de 2014",
+      "reason": "the record named SC Cosit nº 134, de 2 de junho de 2014 (v1 held the text of SC 134); the cited act is SC Cosit nº 183, de 25/06/2014"
+    }
   },
   {
     "index": 383,
@@ -5777,17 +5863,22 @@
   {
     "index": 385,
     "filename": "Solução de Consulta Cosit nº 194.txt",
-    "canonical_name": "Solução de Consulta Cosit nº 194, de 29 de agosto de 2023",
+    "canonical_name": "Solução de Consulta Cosit nº 194, de 5 de agosto de 2015",
     "type_bucket": "Solução de Consulta Cosit",
     "type_slug": "solucao_de_consulta_cosit",
     "number": "194",
-    "date": "29 de agosto de 2023",
-    "source": "normas.leg.br",
+    "date": "5 de agosto de 2015",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Consulta Cosit nº 194, de 29 de agosto de 2023",
     "filename_type": "solução de consulta",
     "filedata_type": "solução de consulta",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Consulta Cosit nº 194, de 29 de agosto de 2023",
+      "reason": "v1.1 file name had no date; the fetcher matched a same-numbered SC Cosit of another year on an unrelated subject (br-taxqa-r_v2.0 dataset note §5.2a). The cited act is the one the question's citation dates"
+    }
   },
   {
     "index": 386,
@@ -5927,32 +6018,42 @@
   {
     "index": 395,
     "filename": "Solução de Consulta Cosit nº 211.txt",
-    "canonical_name": "Solução de Consulta Cosit nº 211, de 16 de julho de 2024",
+    "canonical_name": "Solução de Consulta Cosit nº 211, de 24 de junho de 2019",
     "type_bucket": "Solução de Consulta Cosit",
     "type_slug": "solucao_de_consulta_cosit",
     "number": "211",
-    "date": "16 de julho de 2024",
-    "source": "normas.leg.br",
+    "date": "24 de junho de 2019",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Consulta Cosit nº 211, de 16 de julho de 2024",
     "filename_type": "solução de consulta",
     "filedata_type": "solução de consulta",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Consulta Cosit nº 211, de 16 de julho de 2024",
+      "reason": "v1.1 file name had no date; the fetcher matched a same-numbered SC Cosit of another year on an unrelated subject (br-taxqa-r_v2.0 dataset note §5.2a). The cited act is the one the question's citation dates"
+    }
   },
   {
     "index": 396,
     "filename": "Solução de Consulta Cosit nº 214.txt",
-    "canonical_name": "Solução de Consulta Cosit nº 214, de 19 de julho de 2024",
+    "canonical_name": "Solução de Consulta Cosit nº 214, de 20 de dezembro de 2021",
     "type_bucket": "Solução de Consulta Cosit",
     "type_slug": "solucao_de_consulta_cosit",
     "number": "214",
-    "date": "19 de julho de 2024",
-    "source": "normas.leg.br",
+    "date": "20 de dezembro de 2021",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Consulta Cosit nº 214, de 19 de julho de 2024",
     "filename_type": "solução de consulta",
     "filedata_type": "solução de consulta",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Consulta Cosit nº 214, de 19 de julho de 2024",
+      "reason": "v1.1 file name had no date; the fetcher matched a same-numbered SC Cosit of another year on an unrelated subject (br-taxqa-r_v2.0 dataset note §5.2a). The cited act is the one the question's citation dates"
+    }
   },
   {
     "index": 397,
@@ -6302,17 +6403,22 @@
   {
     "index": 420,
     "filename": "Solução de Consulta Cosit nº 354.txt",
-    "canonical_name": "Solução de Consulta Cosit nº 354, de 6 de julho de 2017",
+    "canonical_name": "Solução de Consulta Cosit nº 354, de 17 de dezembro de 2014",
     "type_bucket": "Solução de Consulta Cosit",
     "type_slug": "solucao_de_consulta_cosit",
     "number": "354",
-    "date": "6 de julho de 2017",
-    "source": "normas.leg.br",
+    "date": "17 de dezembro de 2014",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Consulta Cosit nº 354, de 06 de julho de 2017",
     "filename_type": "solução de consulta",
     "filedata_type": "solução de consulta",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Consulta Cosit nº 354, de 6 de julho de 2017",
+      "reason": "v1.1 file name had no date; the fetcher matched a same-numbered SC Cosit of another year on an unrelated subject (br-taxqa-r_v2.0 dataset note §5.2a). The cited act is the one the question's citation dates"
+    }
   },
   {
     "index": 421,
@@ -6407,17 +6513,22 @@
   {
     "index": 427,
     "filename": "Solução de Consulta Cosit nº 50.txt",
-    "canonical_name": "Solução de Consulta Cosit nº 50, de 22 de março de 2024",
+    "canonical_name": "Solução de Consulta Cosit nº 50, de 22 de junho de 2020",
     "type_bucket": "Solução de Consulta Cosit",
     "type_slug": "solucao_de_consulta_cosit",
     "number": "50",
-    "date": "22 de março de 2024",
-    "source": "normas.leg.br",
+    "date": "22 de junho de 2020",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Consulta Cosit nº 50, de 22 de março de 2024",
     "filename_type": "solução de consulta",
     "filedata_type": "solução de consulta",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Consulta Cosit nº 50, de 22 de março de 2024",
+      "reason": "v1.1 file name had no date; the fetcher matched a same-numbered SC Cosit of another year on an unrelated subject (br-taxqa-r_v2.0 dataset note §5.2a). The cited act is the one the question's citation dates"
+    }
   },
   {
     "index": 428,
@@ -6527,17 +6638,22 @@
   {
     "index": 435,
     "filename": "Solução de Consulta Cosit nº 64.txt",
-    "canonical_name": "Solução de Consulta Cosit nº 64, de 26 de março de 2024",
+    "canonical_name": "Solução de Consulta Cosit nº 64, de 7 de março de 2014",
     "type_bucket": "Solução de Consulta Cosit",
     "type_slug": "solucao_de_consulta_cosit",
     "number": "64",
-    "date": "26 de março de 2024",
-    "source": "normas.leg.br",
+    "date": "7 de março de 2014",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Consulta Cosit nº 64, de 26 de março de 2024",
     "filename_type": "solução de consulta",
     "filedata_type": "solução de consulta",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Consulta Cosit nº 64, de 26 de março de 2024",
+      "reason": "v1.1 file name had no date; the fetcher matched a same-numbered SC Cosit of another year on an unrelated subject (br-taxqa-r_v2.0 dataset note §5.2a). The cited act is the one the question's citation dates"
+    }
   },
   {
     "index": 436,
@@ -6602,32 +6718,42 @@
   {
     "index": 440,
     "filename": "Solução de Consulta Cosit nº 69.txt",
-    "canonical_name": "Solução de Consulta Cosit nº 69, de 24 de junho de 2020",
+    "canonical_name": "Solução de Consulta Cosit nº 69, de 30 de dezembro de 2013",
     "type_bucket": "Solução de Consulta Cosit",
     "type_slug": "solucao_de_consulta_cosit",
     "number": "69",
-    "date": "24 de junho de 2020",
-    "source": "normas.leg.br",
+    "date": "30 de dezembro de 2013",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Consulta Cosit nº 69, de 24 de junho de 2020",
     "filename_type": "solução de consulta",
     "filedata_type": "solução de consulta",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Consulta Cosit nº 69, de 24 de junho de 2020",
+      "reason": "v1.1 file name had no date; the fetcher matched a same-numbered SC Cosit of another year on an unrelated subject (br-taxqa-r_v2.0 dataset note §5.2a). The cited act is the one the question's citation dates"
+    }
   },
   {
     "index": 441,
     "filename": "Solução de Consulta Cosit nº 7.txt",
-    "canonical_name": "Solução de Consulta Cosit nº 7, de 4 de março de 2021",
+    "canonical_name": "Solução de Consulta Cosit nº 7, de 13 de janeiro de 2017",
     "type_bucket": "Solução de Consulta Cosit",
     "type_slug": "solucao_de_consulta_cosit",
     "number": "7",
-    "date": "4 de março de 2021",
-    "source": "normas.leg.br",
+    "date": "13 de janeiro de 2017",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Consulta Cosit nº 7, de 04 de março de 2021",
     "filename_type": "solução de consulta",
     "filedata_type": "solução de consulta",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Consulta Cosit nº 7, de 4 de março de 2021",
+      "reason": "v1.1 file name had no date; the fetcher matched a same-numbered SC Cosit of another year on an unrelated subject (br-taxqa-r_v2.0 dataset note §5.2a). The cited act is the one the question's citation dates"
+    }
   },
   {
     "index": 442,
@@ -6692,17 +6818,22 @@
   {
     "index": 446,
     "filename": "Solução de Consulta Cosit nº 75.txt",
-    "canonical_name": "Solução de Consulta Cosit nº 75, de 31 de março de 2023",
+    "canonical_name": "Solução de Consulta Cosit nº 75, de 25 de junho de 2020",
     "type_bucket": "Solução de Consulta Cosit",
     "type_slug": "solucao_de_consulta_cosit",
     "number": "75",
-    "date": "31 de março de 2023",
-    "source": "normas.leg.br",
+    "date": "25 de junho de 2020",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Consulta Cosit nº 75, de 31 de março de 2023",
     "filename_type": "solução de consulta",
     "filedata_type": "solução de consulta",
-    "filename_vs_filedata_match": true
+    "filename_vs_filedata_match": true,
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Consulta Cosit nº 75, de 31 de março de 2023",
+      "reason": "v1.1 file name had no date; the fetcher matched a same-numbered SC Cosit of another year on an unrelated subject (br-taxqa-r_v2.0 dataset note §5.2a). The cited act is the one the question's citation dates"
+    }
   },
   {
     "index": 447,
@@ -6917,17 +7048,23 @@
   {
     "index": 461,
     "filename": "Solução de Consulta Interna Cosit nº 27, de 7 de julho de 2008.txt",
-    "canonical_name": "Solução de Divergência Cosit nº 27, de 30 de maio de 2008",
-    "type_bucket": "Solução de Divergência Cosit",
-    "type_slug": "solucao_de_divergencia_cosit",
+    "canonical_name": "Solução de Consulta Interna Cosit nº 27, de 7 de julho de 2008",
+    "type_bucket": "Solução de Consulta Interna Cosit",
+    "type_slug": "solucao_de_consulta_interna_cosit",
     "number": "27",
-    "date": "30 de maio de 2008",
-    "source": "normas.leg.br",
+    "date": "7 de julho de 2008",
+    "source": "manual",
     "colloquial_alias": null,
     "raw_title": "Solução de Divergência Cosit nº 27, de 30 de maio de 2008",
     "filename_type": "solução de consulta interna",
     "filedata_type": "solução de divergência",
-    "filename_vs_filedata_match": false
+    "filename_vs_filedata_match": false,
+    "status": "not_found",
+    "correction": {
+      "date": "2026-10-08",
+      "was": "Solução de Divergência Cosit nº 27, de 30 de maio de 2008",
+      "reason": "user fix (2026-10-07): SCI Cosit nº 27, de 07/07/2008 cannot be found; the record named Solução de Divergência Cosit nº 27/2008, a different act"
+    }
   },
   {
     "index": 462,

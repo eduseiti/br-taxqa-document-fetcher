@@ -4,6 +4,8 @@
 
 - **Decreto nº 21.177, de 27 de maio de 1946**
 - **Decreto nº 27.784, de 16 de fevereiro de 1950**
+  - source filename: `Convenção sobre Privilégios e Imunidades das Nações Unidas.txt`
+- **Decreto nº 27.784, de 16 de fevereiro de 1950**
 - **Decreto nº 3.000, de 26 de março de 1999**
 - **Decreto nº 361, de 10 de dezembro de 1991**
 - **Decreto nº 4.897, de 25 de novembro de 2003**
@@ -11,8 +13,6 @@
 - **Decreto nº 50.656**
 - **Decreto nº 52.288, de 24 de julho de 1963**
   - source filename: `Convenção sobre Privilégios e Imunidades das Agências Especializadas.txt`
-- **Decreto nº 52.288, de 24 de julho de 1963**
-  - source filename: `Convenção sobre Privilégios e Imunidades das Nações Unidas.txt`
 - **Decreto nº 52.288, de 24 de julho de 1963**
 - **Decreto nº 56.435, de 8 de junho de 1965**
   - source filename: `Convenção de Viena, Decreto nº 56.435, de 8 de junho de 1965.txt`

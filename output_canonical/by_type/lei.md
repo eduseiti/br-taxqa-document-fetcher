@@ -1,6 +1,6 @@
 # Lei
 
-113 document(s).
+112 document(s).
 
 - **Lei nº 10.101, de 19 de dezembro de 2000**
 - **Lei nº 10.200, de 14 de fevereiro de 2001**
@@ -96,7 +96,6 @@
 - **Lei nº 8.541, de 23 de dezembro de 1992**
 - **Lei nº 8.668, de 25 de junho de 1993**
 - **Lei nº 8.685, de 20 de julho de 1993**
-- **Lei nº 8.794, de 21 de dezembro de 1993**
 - **Lei nº 8.852, de 4 de fevereiro de 1994**
 - **Lei nº 8.929, de 22 de agosto de 1994**
 - **Lei nº 8.971, de 29 de dezembro de 1994**
